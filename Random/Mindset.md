@@ -1,0 +1,2 @@
+- Don't dwell on the past. Focus on capturing the present. That's the only way to live.
+- 

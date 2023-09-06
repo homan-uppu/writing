@@ -1,0 +1,1 @@
+- Age of abundance. Incredible, high quality content. But, incredibly confusing to create some sort of a "learning plan" to thrive in this world.

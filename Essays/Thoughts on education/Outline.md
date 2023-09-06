@@ -42,7 +42,6 @@ Big shifts that change how we learn:
 - Unbundling education. Learning "packs".
 - Learning ecosystems form around tools to create.
 - Design. Code. Filmography / video editing (Replit, Figma, TikTok).
-- An economy around 
 ### Notes
 - Understanding creator economics: power law distributions (reference Andrew Chen, Li, the OnlyFans case study).
 ### Further reading

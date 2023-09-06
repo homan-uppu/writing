@@ -1,3 +1,11 @@
+---
+
+---
+Ancient wisdom passed down for thousands of years has been through words. Hatha Yoga Pradipika, the Buddha's words, and many, many powerful systems that humans have designed, have been passed down to us through words.
+
+Language is a technology to preserve and propagate culture between disconnected individuals. So fucking powerful.
+
+---
 
 https://collabfund.com/blog/intelligent-vs-smart/ -> "It’s similar in investing. Hedge fund manager Kyle Bass summed this up well, saying: “It’s easy to maintain conviction. It’s harder to maintain investors.” The most successful investors tend to be expert communicators, because you have to compel your investors to stick with you during inevitable times of underperformance. Buffett. Sequoia. Even Vanguard; they are so skilled – intentionally so – at delivering an effective message beyond the numbers.
 

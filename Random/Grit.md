@@ -1,0 +1,1 @@
+This phase is going to require you to grind really damn hard. Amen brother. Amen.

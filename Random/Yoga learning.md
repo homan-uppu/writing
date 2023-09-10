@@ -6,6 +6,13 @@ Hatha Yoga Pradipika -> need to feed ancient wisdom to an LLM and have it spit o
 
 ### Pranayama
 Krishnamacharya was quite particular about pranayama being the most powerful exercise you can do for health. I ought to practice this after Ashtanga practice.
+
+Adding to the practice:
+1. Left in left out, then right in right out -> 3 x 5 (each)
+2. Left in right out (x 5), and vice versa.
+3. Left in right out, right in left out (x 25).
+
+Work up to doing this for 20 mins. And then we start the next set.
 ### Bandhas
 - https://www.youtube.com/watch?v=oakh34gY70U (Not sure if high quality, but give a watch).
 

@@ -1,0 +1,1 @@
+The only way is to diet. Else, not possible. One (healthy) meal a day + Ashtanga practice will do it for sure. Just do it brother. Just do it.

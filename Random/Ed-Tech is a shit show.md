@@ -1,0 +1,1 @@
+Seriously. I don't think the products, companies that will most impact education will call themselves "ed-tech" companies. The winners will look like creators / like regular Tech products that happened to be used for education.

@@ -1,6 +1,10 @@
 ---
 
 ---
+https://en.wikipedia.org/wiki/Pothana - a spiritual poet. On that note, there 
+
+---
+
 Ancient wisdom passed down for thousands of years has been through words. Hatha Yoga Pradipika, the Buddha's words, and many, many powerful systems that humans have designed, have been passed down to us through words.
 
 Language is a technology to preserve and propagate culture between disconnected individuals. So fucking powerful.

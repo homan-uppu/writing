@@ -11,3 +11,6 @@ Take some key examples of individuals that have charted their own paths (Levelsi
 - Exploration, then exploitation.
 - What does an "in demand skill" even mean? Need to gauge how robust it is.
 - Judgement
+
+-> This is the essay that you'd need some solid feedback on. Have a set of people that you can reach out to a couple of weeks in advance, to hopefully get their feedback before you publish.
+

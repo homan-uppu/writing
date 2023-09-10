@@ -1,0 +1,1 @@
+My content / art will contribute to top-of-the-funnel. The product that captures value will likely be technology driven, and a healthy business.

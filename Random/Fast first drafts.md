@@ -1,0 +1,1 @@
+Make it quick and dirty. Just throw all the thoughts you have down, and it doesn't matter if you use the least elegant language possible to make your point. It doesn't matter. Don't think about editing at all. Just vomit!

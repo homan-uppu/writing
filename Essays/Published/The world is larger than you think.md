@@ -6,7 +6,7 @@ When I come across random videos like this outside of my core interests, and whe
 
 It's a relief.
 
-When I'm reminded of the world beyond my bubble, I find that I'm less affected by FOMO and hype because I see how insignificant my bubble is in the context of the larger world. Perhaps in the same way that when you zoom out and see that the world is just a pale blue dot in the vast universe, it's easier to see how absurd / silly many of our daily frustrations are.
+When I'm reminded of the world beyond my bubble, I find that I'm less affected by FOMO and hype because I see how insignificant my bubble is in the context of the larger world. Perhaps in the same way that when you zoom out and see that the world is just a pale blue dot in the vast universe, it's easier to see how silly many of our daily frustrations are.
 
 
 

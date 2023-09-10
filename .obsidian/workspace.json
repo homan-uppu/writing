@@ -4,22 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "e18ce109f5c235a1",
+        "id": "567ceddd80faa333",
         "type": "tabs",
         "children": [
           {
-            "id": "c663428ce8ab4a1c",
+            "id": "6475b7398468413f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Essays/College skill gap is out of hand.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "718581bd01c6fbe6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Random/Koopuluri.com ideas.md",
+                "file": "Random/Murakami on writing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa79af35e9037db6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Essays/Exams don't work for creative skills.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Random/Koopuluri.com ideas.md",
+                "file": "Random/Murakami on writing.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Random/Koopuluri.com ideas.md",
+                "file": "Random/Murakami on writing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Random/Koopuluri.com ideas.md"
+                "file": "Random/Murakami on writing.md"
               }
             }
           }
@@ -146,34 +173,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c663428ce8ab4a1c",
+  "active": "718581bd01c6fbe6",
   "lastOpenFiles": [
-    "Essays/Ideas.md",
+    "Random/Reading list.md",
+    "Random/Murakami on writing.md",
+    "Random/Grind to get the draft. Tonight..md",
+    "Random/Skill gap outline.md",
+    "Essays/Exams don't work for creative skills.md",
+    "Essays/College skill gap is out of hand.md",
+    "Random/Fast first drafts.md",
+    "Random/Integrity.md",
+    "Random/Oppenheimer.md",
+    "Random/Building a stellar team.md",
+    "Agenda/9-9-23.md",
+    "Random/karthikuppuluri.com.md",
+    "Random/Don't combine writing and editing.md",
+    "Agenda/9-8-23.md",
+    "Random/Big picture.md",
+    "Essays/Why it's tough to disrupt higher ed..md",
+    "Random/Writing is the path.md",
+    "Essays/The rising creativity bar.md",
+    "Random/Untitled",
+    "Random/Matcha.md",
     "Random/Koopuluri.com ideas.md",
-    "Essays/Being able to invest in individuals will transform education.md",
-    "Essays/An effective college replacement program at a fraction of the cost..md",
-    "Essays/We're bad at assessing risk.md",
-    "Essays/Why higher education is tough to disrupt..md",
-    "Essays/Why being political at work is a mediocre strategy.md",
-    "Essays/Rewarding curation.md",
-    "Essays/The tool becomes the teacher.md",
-    "Essays/have proof of competence.md",
-    "Random/Writing inspiration.md",
-    "Random/This is the phase.md",
-    "Random/Essay writing process.md",
-    "Random/You need a lot less food than you think.md",
-    "Random/The impact I want to have.md",
-    "Random/Writing culture.md",
-    "Random/Daily learning.md",
-    "Random/Learning.md",
-    "Random/It's decided.md",
+    "Random/Boredom.md",
+    "Random/The average life in this age of social media is suffering.md",
     "Random/Yoga learning.md",
-    "Essays/Thoughts on education/Outline.md",
-    "Agenda/9-5-23.md",
-    "Essays/Published/Be attached to outcomes, not the means.md",
-    "Essays/Published/The world is larger than you think.md",
-    "Essays/I want a simple life.md",
-    "Essays/The patience to think long-term.md",
+    "Random/Pelvic floor health.md",
+    "Random/Ekagrata..md",
+    "Random/Bloom two sigma.md",
+    "Screenshot 2023-09-06 at 10.02.35 AM.png",
     "Essays/Published",
     "Essays/Dailies",
     "Essays/Thoughts on education",

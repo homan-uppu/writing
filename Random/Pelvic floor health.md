@@ -1,0 +1,1 @@
+- Incorporate pudendal flossing and kegels for a week and see how it goes.

@@ -1,0 +1,1 @@
+Absolutely. Getting the image right is super important to me. I'm attracted to the "grid" of image & title bars on the landing page. Get it right. Amen.

@@ -6,9 +6,8 @@ Technology is advancing exponentially. This means that the ways to create will b
 
 You could get away with being attached to the process in previous generations, because it could take decades for new technologies to completely redefine what it means to do your work. Today, we no longer have this luxury of delayed technological adoption. New technologies are adopted almost instantly [1], on a massive scale.
 
-The only way to thrive is to be hyper flexible on the means to create the outcomes you want.
+The only way to thrive is to focus on outcomes while being hyper flexible on the means.
 
 ---
 
 [1] It took ChatGPT just 2 months to reach 100 million users making it the fastest adopted product ever. Product adoption times will only decrease as technology makes distribution even cheaper and faster.
-

@@ -3,7 +3,7 @@ Higher education is rotting. It needs transformation, but it's been surprisingly
 
 There's a growing skill gap: a growing gap between the skills a new grad has, and what they actually need in order to create value in this world. [1]
 
-Outside of a handful of the top colleges, new grads, across tehe world, are finding it tough to land a job, even in some of the most in-demand fields like Tech. And it's not necessarily because there haven't been opportunities. The demand for talent across domains is high, but the supply isn't competent enough to take advantage of it.
+Outside of a handful of the top colleges, new grads, across the world, are finding it tough to land a job, even in some of the most in-demand fields like Tech. And it's not necessarily because there haven't been opportunities. The demand for talent across domains is high, but the supply isn't competent enough to take advantage of it.
 
 Personally, I've interviewed a couple dozen engineers in India and found that most don't have a basic understanding of programming. I've also been closely involved with helping some students from a US state college job hunt, and found that most students in their CS program don't know how to build software when they graduated. They had to pick up relevant skills on their own in order to have a shot at landing a job.
 

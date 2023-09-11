@@ -1,0 +1,1 @@
+It all comes down to the discipline. That is what will take you forward. Amen.

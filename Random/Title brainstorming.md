@@ -1,0 +1,4 @@
+- Why college is outdated.
+- Why college doesn't work.
+- College isn't the best option.
+- 

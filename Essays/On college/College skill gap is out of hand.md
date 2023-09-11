@@ -114,6 +114,8 @@ It turns out they can't deliver on their promise to make it worthwhile. And they
 
 Eventually the value proposition of the bootcamp went from being a better alternative to college, to helping people switch careers, a completely different audience.
 
+It turns out that teaching a skill like software engineering is actually a lot tougher than we thought.
+
 **Alternate credentialing**
 
 Triplebyte. This is a counter-intuitive category to include, so I'll have to explain the connection between credentialing and higher education (bec. the main outcome of a higher education is the credential).

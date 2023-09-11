@@ -4,49 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "567ceddd80faa333",
+        "id": "21ec5783392654aa",
         "type": "tabs",
         "children": [
           {
-            "id": "6475b7398468413f",
+            "id": "db18911120a66364",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Essays/College skill gap is out of hand.md",
+                "file": "Essays/On college/Why college is outdated.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true
             }
-          },
-          {
-            "id": "718581bd01c6fbe6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Random/Murakami on writing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa79af35e9037db6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Essays/Exams don't work for creative skills.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 245.5,
+    "collapsed": true
   },
   "right": {
     "id": "ec038bdad1d66462",
@@ -112,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Random/Murakami on writing.md",
+                "file": "Essays/On college/Why college is outdated.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Random/Murakami on writing.md",
+                "file": "Essays/On college/Why college is outdated.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Random/Murakami on writing.md"
+                "file": "Essays/On college/Why college is outdated.md"
               }
             }
           }
@@ -161,7 +137,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,39 +150,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "718581bd01c6fbe6",
+  "active": "db18911120a66364",
   "lastOpenFiles": [
-    "Random/Reading list.md",
+    "Random/Essay angle.md",
+    "Random/Check out Airchat.md",
+    "Essays/On college/Why college is outdated.md",
+    "Random/Title brainstorming.md",
+    "Essays/On college/College skill gap is out of hand.md",
+    "Random/No music. No internet. No distractions..md",
+    "Essays/On college/Exams don't work for creative skills.md",
+    "Essays/Untitled",
+    "Essays/Job hunting",
+    "Agenda/9-10-23.md",
+    "Agenda/9-9-23.md",
+    "Random/Writing discipline.md",
+    "Random/OK, it's time for the draft, and sending it to G bhai.md",
     "Random/Murakami on writing.md",
+    "Random/Reading list.md",
     "Random/Grind to get the draft. Tonight..md",
     "Random/Skill gap outline.md",
-    "Essays/Exams don't work for creative skills.md",
-    "Essays/College skill gap is out of hand.md",
     "Random/Fast first drafts.md",
     "Random/Integrity.md",
     "Random/Oppenheimer.md",
     "Random/Building a stellar team.md",
-    "Agenda/9-9-23.md",
     "Random/karthikuppuluri.com.md",
     "Random/Don't combine writing and editing.md",
     "Agenda/9-8-23.md",
     "Random/Big picture.md",
-    "Essays/Why it's tough to disrupt higher ed..md",
+    "Essays/On college/Why it's tough to disrupt higher ed..md",
     "Random/Writing is the path.md",
-    "Essays/The rising creativity bar.md",
+    "Essays/On college/The rising creativity bar.md",
     "Random/Untitled",
-    "Random/Matcha.md",
-    "Random/Koopuluri.com ideas.md",
-    "Random/Boredom.md",
-    "Random/The average life in this age of social media is suffering.md",
-    "Random/Yoga learning.md",
-    "Random/Pelvic floor health.md",
-    "Random/Ekagrata..md",
-    "Random/Bloom two sigma.md",
     "Screenshot 2023-09-06 at 10.02.35 AM.png",
     "Essays/Published",
     "Essays/Dailies",
-    "Essays/Thoughts on education",
+    "Essays/On college",
     "Agenda",
     "Essays",
     "Random",

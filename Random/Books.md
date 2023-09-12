@@ -1,0 +1,1 @@
+https://www.amazon.com/Thoughts-Design-Paul-Rand/dp/081187544X

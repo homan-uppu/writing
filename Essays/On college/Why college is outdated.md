@@ -1,51 +1,8 @@
-## Outline
-### It's not working
-- Thesis.
-- Raw stats on number of people not working what they studied. Student loan debts. Etc.
-- Employment numbers mask the truth.
-### The average is worse than you think
-- 3 case studies
-- Why people think that the average is better than it is (because they've experienced something way better than the average, and hence out of touch). In fact, there's like two bubbles here that interact less than you'd think. And also people are fucking busy, don't have time to think deeply about the average education in the world.
-### Why
-- There was a time when college made sense - in era with lower technological leverage (=> large middle class, and more "trainable work" - i.e. not necessarily that creative, and the nature of the work wouldn't change much during the course of your lifetime).
-- Exponentially increasing technological leverage.
-- The rising bar for creativity across domains.
-- **The more creative a skill, the more it follows the power law**.
-	- (Reference Andrew Chen, and Li here).
-	- The entire economy will resemble the creator economy.
-- **Understanding theory doesn't guarantee ability to create value**. Which is why MOOCs didn't take over education - because the access to the courses wasn't what was lacking, but an assurance that learning something would actually lead to a job.
-	- Most people don't learn for the sake of learning. The entire higher education system is predicated on the desire to learn how to actually create value (and thereby earn money) - except for the highly privileged.
-	- Naval's: "if you can teach it, it'll be automated".
-- **Standardized education / standardized credentialing don't work for creative skills**.
-	- Analyze software engineering hiring practices in this context.
-	- Which is why bootcamps failed for software engineering in the same way it would fail for, say, filmmaking, or screenwriting. The variance of the output makes it too risky to invest in the education. You'll mainly get those that have already built a savings via another job, and can afford to take the hit in case this doesn't pan out.
-	- Which is why credentialing (Triplebyte) failed.
-### Misaligned incentives
-- Scarcity is a signal.
-- Transactional education business model doesn't work for creative skills. It's too expensive for the best to give personalized feedback unless they invest in the individual.
-	- If you're just paying for theory, you're not going to pay much.
-	- If you're paying for personalized feedback, you can't afford it.
-- What would aligned incentives look like?
-	- VC model for investing in creators.
-	- Platform that benefits from creators.
-### Yet, college is difficult to displace
-e
-- No more "guarantees" visible in other paths means that they're risky. When every path is risky, we choose the most familiar of them all and hope for the best - a flaw of the human mind in a sense.
-### Promising directions
-
-### Concluding thoughts
-
-The scale of the problem: Raw stats on the number of 18 year olds in the world. -> drive home just how fucking important it is for us to figure this out. It's time.
-### Notes
-- I respect entrepreneurs -> the Taleb line.
-- Creativity sounds fun and dandy, but it's actually a lot of suffering, especially if you can't make something people want (https://www.youtube.com/watch?v=kTJFAWFKijQ). Wake up call.
-
-## Essay
 ### It's not working
 
 Most college education around the world is useless. Most colleges don't train students to thrive in today's world, and a college education is increasingly a bad financial investment.
 
-Colleges market “employment rates” - percentage of their graduates that landed jobs after graduating. But these rates mask the truth: that more than 40% of new grads (in just the US) are underemployed - working jobs that don't require a degree.
+I believe college "employment rates" (percentage of their graduates that landed jobs after graduating) mask the truth. More than 40% of new grads (in just the US) are underemployed - working jobs that don't require a degree.
 
 I suspect this is even worse in emerging economies ([https://economictimes.indiatimes.com/jobs/fresher/worthless-degrees-are-creating-an-unemployable-generation-in-india/articleshow/99570996.cms?from=mdr](https://economictimes.indiatimes.com/jobs/fresher/worthless-degrees-are-creating-an-unemployable-generation-in-india/articleshow/99570996.cms?from=mdr)).
 
@@ -58,7 +15,6 @@ Most graduates need to get a job in order to survive. No matter how much, or lit
 In addition to this, companies often take the burden of training and education while paying the employee. They do this because they simply can't find enough competent people to hire. And so they're forced to hire untrained new grads and train them.
 
 And so it's difficult to gain any insights on how effective a college education is from the college employment pitch.
-
 ### Case studies
 
 My cousin graduated with a computer science degree from a second tier US college in 2019. He was far from being able to pass a technical interview at most companies, and his lack of a brand name education made it nearly impossible to hear back from companies, let alone get an interview. He spent almost a year simultaneously practicing interview problems, building projects and his pitch, and ruthlessly executing a cold emailing strategy + getting introductions through friends that finally landed him a handful of interviews, out of which he received 2 offers.
@@ -91,16 +47,51 @@ Coming back to education: standardized education doesn't work for creative skill
 
 Therefore, in creative domains, the transactional educational business model in which we pay an upfront “tuition” in exchange for an education that guarantees that we'll be able to build a career using that education doesn't work.
 
-### Knowing syntax vs. having true skill
+### A look at software engineering education and hiring
 
+I think software engineering is a great field to look at to understand how this shift towards creativity impacts education and hiring in a domain. It's gone through this shift relatively recently: as recently as 5 - 10 years ago, software engineering used to be the kind of skill that you could do in a non-creative way and still be useful. Rapidly evolving technological leverage in software engineering turned it into a skill with a high bar for creativity. This shift happened quite quickly, and systems built with an incorrect assumption for the level of creativity in software engineering are struggling.
 
+Historically, software engineering was treated as a relatively low creativity task that translated business requirements into software products. And I actually think this is a reasonable claim for the majority of software engineering work in the past. You could definitely have superstar engineers since programming is fundamentally as creative as writing, but the majority of work that moved businesses forward were cut and dry code that someone with a reasonable understanding of programming syntax and some common sense could do.
 
+This is what led to the massive scale of software engineering outsourcing to countries that had a greater quantity of engineers - like Asia, and specifically to India. For example, many people I know benefitted from this boom in Hyderabad, my hometown. It didn't matter what you majored in college, you'd do a coding bootcamp and land a job at software services consulting companies that were booming in India at the time.
 
-### A look at software engineering education
+Due to lower technological leverage, there was room for the software engineer that wasn't that creative. Who translated business requirements into code.
 
-I think software engineering is a great field to look at to understand how this shift towards creativity impacts education and hiring in a domain. it has gone through this shift relatively recently: as recently as 5 - 10 years ago, it used to be the kind of skill that you could do in a non-creative way and still create value in this world. Rapidly evolving technological leverage in software engineering turned it into a skill with a high bar for creativity. This shift happened quite quickly, and systems built with an incorrect assumption for the level of skill required for software engineering are struggling.
+*(It isn't a coincidence that the place that respected software engineering for its creativity, was the place to dominate Tech: Silicon valley. - this doesn't quite go here, need to think where to make this point).*
 
-The mid 2010's was the era of the "bootcamp". These startups claimed to be able to generate competent software engineers in 
+The mid 2010's was the era of the "bootcamp". These startups claimed to be able to generate competent, hirable software engineers with a course that didn't last more than half a year. They had the ambition to redefine the standard software engineering education, claiming that colleges weren't efficient at teaching software engineering, and were far too expensive.
+
+They were right that colleges don't teach software engineering well, and is overpriced. But they were wrong that you could create a competent software engineer in a short period of time with standardized training.
+
+They treated software engineering as a non-creative skill that you just had to learn the syntax to be competent.
+
+Syntax in software engineering is the specific rules of the programming language / frameworks that engineers use to build products. Saying a person can be competent at software engineering by learning the syntax and building a toy project is like saying someone can be a competent musician by learning musical notation and hacking together a sample.
+
+Bootcamps have since dropped the goal to disrupt software engineering education and have been relegated to catering to the working professional who wants to make a switch to Tech for higher pay. And even this value proposition has been tough to sustain, let alone scale.
+
+As the bar for creativity increases in the world, I predict bootcamps will have a tough time being relevant because a standardized education process with guaranteed results isn't easy for creative skills.
+
+A few years ago, a software engineering credentialing company, Triplebyte, was created with the ambition to be the default credentialing for software engineers. You could take their software engineering test regardless of your background, whether you went to college or not, etc.
+
+If you passed their exam, you'd be fast-tracked to final round interviews at a set of companies that Triplebyte worked with.
+
+I was excited about this approach to fix hiring. If you could design a standardized test that could reliably, and affordably, assess software engineer competence, then inefficient colleges would lose power. An effective standardized test would create a market of alternatives: coaching centers, bootcamps, etc. that would train you to ace that exam.
+
+And if it were affordable enough, then it would democratize access to the job market by focusing on your true competence, rather than where you went to college / where you worked.
+
+I'd already witnessed a similar sort of market in India around IIT-JEE prep. IIT is India's premier technical university. By succeeding on this exam, you'd get entry into a top college at an affordable rate. As you can imagine, the competition is fierce.
+
+But, a standardized test only works for non-creative skills. Imagine proposing a standardized filmmaking exam to accept students into a film school. That sounds absurd because it is.
+
+Similarly, the open secret in Tech is that the software engineer interview doesn't identify top talent. The best it does is eliminates candidates who are outright lying saying that they know how to code. But it simply can't identify the top talent.
+
+But because software engineering is a creative skill, there definitely does exist 10x / 100x / 1000x / (10^n)x engineers.
+
+And therefore, companies that want to get the best talent, approach hiring software engineers in the same way that a music label tries to find musicians to bring on board, or a VC firm searches for talented founders to invest in.
+
+"It just didn't work: senior engineers simply didn't find the things we could offer them compelling enough"
+
+"The most successful was our Screen tool, but the problem with that was that companies mostly wanted to screen candidates they saw as low-value - juniors and international candidates, mostly - and were terrified of screening high-value senior candidates. The product worked well, but didn't get the candidates that would let us stand out, basically".
 
 ### The squeeze
 
@@ -112,16 +103,17 @@ If college is useless, then why is unemployment so low?
 
 Reality is bleaker than the numbers suggest. You can relatively quickly uncover the reality. Talk to 100 new grads from non elite institutions around the world and talk to them about how their job hunt is coming along.
 
-It's brutal. These new grads were taught syntax, and thrown into a world that requires creativity, ingenuity in addition to the syntax.
-
-
-### Mis-aligned incentives
-
-There's also no forcing function that makes colleges more effective at training students to thrive. Whether they do an excellent job or not, there will be another batch of students waiting at the entrance gate to pay ridiculous fees only to realize that it's on them to figure everything out.
+It's brutal. These new grads were taught syntax, and thrown into a world that requires creativity, ingenuity in addition to knowing the syntax.
 ### Yet, college is difficult to displace
-- I don't think cultural, social reasons are the main causes for this. It's that there isn't a 
+- The easy, wrong answer is to blame it on cultural, social reasons as the main causes for this. It's partially true, but when we find better alternatives that clearly deliver results, humans have a history of switching reasonably quickly.
+- I believe the more true answer is that there are no longer low risk education paths that guarantee employment. And therefore, due to the lack of alternatives, people stick stick with the easiest, most common path: go to college and pray that you'll land a great job afterwards.
+- People aren't well informed. News channels say that it's due to a recession (which is true, but doesn't explain the overall trend), etc.
+- We're designed to minimize risk. Alternatives don't exist because as the bar for creativity increases, all paths are becoming risky. Therefore, when every path is risky, you're going to choose the path that "seems" the least risky: college - since it worked for a previous version of the world.
 
+### Misaligned Incentives
+- Can colleges make the shift to training minds that can thrive in a world with a high bar for creativity?
+- Talk about the shift in the business model. Def need an entire section dedicated to this notion of investing in individuals: the VC model dominates any creative domain.
+- 
 ### Promising directions
 - Learning ecosystems driven by AI with a drastically different set of incentives that benefits learners.
-- 
 - Economic unlocking of capital to spend on alternate education routes. One sized fits all doesn't work for creative skills.

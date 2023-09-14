@@ -1,3 +1,20 @@
+You have to start at the clearly defining the consequences of the rising bar for creativity. The consequences should neatly feed into the argument for why colleges / any transaction based model won't be great at educating masses.
+
+What are the consequences of rising bar for creativity?
+1. Power law distribution.
+2. Training doesn't guarantee mastery in a certain time period.
+3. Theory 
+
+The flow:
+1. Rising bar for creativity + consequences.
+2. Using software engineering as a case study that shows what happens to a skill when it goes from non-creative to creative, and how the consequences above actually manifest in real life.
+3. Why colleges won't train creative minds. (economics and incentives don't allow them to) - and by extension, any tuition based program, though alternate "bootcamps", etc. have a better shot than colleges since they have far less baggage.
+4. Yet, college is tough to displace.
+
+You also have to talk about the nature of competence in creative skill, the syntax / the tools are the easiest, smallest part of the puzzle. Go back to software engineering and show what a 10^n engineer / designer / product manager looks like. 
+
+----
+
 These features of creative training makes the tuition-based education model not possible 
 
 The primary point is that because the expected value of the education falls due to lower probability of mastery & no guaranteed timelines, people can't justify risking an investment that may not pan out in a certain period of time.

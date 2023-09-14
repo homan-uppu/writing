@@ -1,0 +1,1 @@
+(This is the critical section of the essay that really supports the main argument). It grounds the theory in reality.

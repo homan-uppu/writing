@@ -1,3 +1,4 @@
+(And some thoughts on what's next)
 ### It's not working
 
 Most college education around the world is useless. Most colleges don't train students to thrive in today's world, and a college education is increasingly a bad financial investment.
@@ -38,31 +39,58 @@ This is the average outcome.
 
 As technology has become more powerful, it's reduced the effort to turn ideas into reality. This technological “leverage” raises the bar for creativity that's required to be useful in this world - especially in knowledge work (since technology has evolved far more rapidly in the digital realm than in the real world due to faster iteration cycles, faster adoption, lower cost to build, and far less regulation).
 
-The nature of a creative skill is that there isn't a linear relationship between inputs and outputs. You can't predict that spending 1000 hours making a movie will outperform one that only took 100 hours. Or that a product with months of engineering will get more users or revenue than one that took a weekend to build.
+For creative skills, there isn't a linear relationship between inputs and outputs. You can't predict that spending 1000 hours making a movie will outperform one that only took 100 hours. Or that a product with months of engineering will get more users or revenue than one that took a weekend to build.
 
 On the other hand, for low creativity skills, the relationship is linear. On a factory assembly line, the best assembler is at best fractionally better than the average, not orders of magnitude.
 
-Standardized education works when there's demand for low creativity work. You could go to a college, learn the tools of a trade, and could be employed your entire life without having to radically change the way you work.
-
-In a low creativity, standardized world, the middle class grew. With relatively less risk and an average intelligence / creativity, you could pursue an education that would give you the skills to almost guarantee employment [1].
-
 Creative skills follow a power law distribution: few drastically outperform the rest.
 
-This power law plays out in all creative domains:
+This power law plays out in all creative domains (that aren't heavily regulated):
 ![[Screenshot 2023-09-11 at 11.41.50 AM.png]]
 [https://andrewchen.com/creator-economy-20/](https://andrewchen.com/creator-economy-20/).
 
-Most creators on platforms don't make any money. Most revenue goes to the top creators.
+Most creators don't make any money. Most revenue goes to the top creators.
 
 A "creator middle class” ([https://hbr.org/2020/12/the-creator-economy-needs-a-middle-class](https://hbr.org/2020/12/the-creator-economy-needs-a-middle-class)) is difficult to difficult to find in the world. And it's not clear when it will arrive, if ever.
 
 As we innovate on technology and the bar for creativity rises, more domains, and eventually the entire economy, will resemble the power law distribution of the creator economy: greater inequality, without a "middle class" (at least for a while) that we had in previous generations.
 
+The power law distribution is a byproduct of the nature of creative skills: that there's no guarantee that you'll become competent at a creative skill within a certain time frame. (Even if you work with the most talented person in the world for that skill - TODO: need to think this point through).
+
+Learning theory alone won't get you far. It's like trying to make great music by learning musical notation. Theory is important to give you a foundation to express yourself in that domain, but it isn't enough to make you good at it.
+
+Personalized feedback from masters becomes even more critical to learn creative skills. A teacher that isn't great themselves is less able to train a student to be great. On the other hand, for non-creative skills, you can get quite far with just a great learning guide, without personalized feedback. In the extreme example: if your job is to wipe tables for a living, you could relatively quickly learn the right technique for it to be effective.
+
+**These realities of learning creative skills invalidates the traditional education model of exchanging tuition for an education.**
+
+Paying an up front tuition only works when you have a high probability of employment afterwards. The higher the probability, the easier it is for you to take a loan and finance your tuition. This worked great when the bar for creativity was lower - you could reliably get a good job with a college degree.
+
+Now that outcomes are no longer guaranteed, especially on an arbitrary timeline (e.g. "4 years of college), financing an education with a loan is extremely risky.
+
+The education financing institutions have been late to realize that the bar for creativity has gone up and the college education no longer has the returns it needs to justify giving out massive loans to every 18 year old that asks for it, and therefore we have millions of graduates crippled with student loan debt: they took out a big loan for college under the incorrect impression that a college education will guarantee a good job, only to realize that the world operates quite differently due to a significantly higher bar for creativity.
+
+Creative domains resist standardization: in learning and in identifying talent. Standardized education: a rigid curriculum, standardized exams, a standard timeline ("4 years") don't work for creative domains.
+
+Nobody will tell you that by going to film school you'll be a great filmmaker because we intuitively know that learning the technique alone won't make you a great artist. This will be how any skill is viewed.
+
+Similarly, identifying talent in creative domains resists a standardized interviewing process. You can't hire the best creatives by having them pass an interview with a standard set of questions and answers that you can simply study and crack.
+
+Imagine trying to hire a cinematographer by quizzing them on the types of lenses, and when they'd use which lens. Sure, they may need to understand the technicalities of their skill, but that alone doesn't mean they're good. A great cinematographer brings a unique style, perspective to the project. They're able to capture the director's vision and feelings in a way that adds value to the project. It's very difficult to capture that intuition through a standardized interview process with a pre-determined set of questions and appropriate answers.
+
+This makes learning and job hunting especially challenging because the strategy to simply study to "crack an interview" doesn't work since you'll find it hard to get an interview in the first place until and unless you've already demonstrated your ability to create value with your skill.
+
+This leads to a world in which you can simultaneously have an unmet high demand for a skill, and yet have millions of new grads unemployable for that skill because they don't meet the bar for creativity.
+
+The rate at which this bar of creativity rises depends on the nature of the skill and domain. 
+
+Generally, minimally regulated domains in the realm of pixels (digital) will become more creative far more rapidly than regulated domains, and domains in the realm of atoms (physical world).
+
+It takes longer for technology to be built and adopted in the physical world, leading to slower change. And regulated domains lead to interesting inefficiencies that cause all sorts of weird outcomes that would take a much longer essay to walk through. For example, I don't think the value of medical and legal education will deteriorate in the way that software engineering education will.
+
+On the other hand, for most knowledge work, the bar for creativity in order to be valuable is rising incredibly rapidly.
 ### Learnings from software engineering education & hiring
 
-I think software engineering is a great field to look at to understand how this shift towards creativity impacts education and hiring in a domain. It's gone through this shift relatively recently: as recently as 5 - 10 years ago, software engineering used to be the kind of skill that you could do in a non-creative way and still be useful. Rapidly evolving technological leverage in software engineering turned it into a skill with a high bar for creativity. This shift happened quite quickly, and systems built with an incorrect assumption for the level of creativity in software engineering are struggling.
-
-(TODO: better justify how software engineering education and hiring generalizes to all domains that make the shift from non-creative to creative).
+I think software engineering is a great field to study to understand how this shift towards creativity impacts education and hiring in a domain. As recently as 5 - 10 years ago, software engineering used to be the kind of skill that you could do in a non-creative way and still be useful in the world. Rapidly evolving technological leverage in software engineering turned it into a skill with a high bar for creativity.
 
 Historically, software engineering was treated as a relatively low creativity task that translated business requirements into software products. And I actually think this is a reasonable claim for the majority of software engineering work in the past. You could definitely have superstar engineers since programming is fundamentally as creative as writing, but the majority of work that moved businesses forward were cut and dry code that someone with a reasonable understanding of programming syntax and some common sense could do.
 
@@ -217,3 +245,7 @@ Learning ecosystems around tools -> Notion, Replit, Figma, Midjourney.
 ### Todo
 - Coming back to education: standardized education doesn't work for creative skills because you can't say with confidence whether someone with an education in that creative skill can actually make a living doing it after graduating.
 - Therefore, in creative domains, the transactional educational business model in which we pay an upfront “tuition” (and often take out a loan to do so) in exchange for an education that we hope will enable us to build a career no longer works.
+
+ISAs might seem different than the traditional exchange tuition for education, but it's basically the same thing: it shifts the risk from the student to the institute, but if the underlying economics doesn't work out, the institute will find it very difficult to sustain itself, let alone thrive.
+
+As a result, the Tech industry has found itself in an interesting situation: It says it operates a certain way (according to the state of the world with a much lower bar for creativity), while operating according to a much higher bar for creativity.

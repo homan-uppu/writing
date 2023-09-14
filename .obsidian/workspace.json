@@ -22,31 +22,18 @@
             }
           },
           {
-            "id": "b7fdbc490a4a7429",
+            "id": "7b5b89e97500d94e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Random/Why colleges will fail to train creative minds.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a58cdfa5e96ab259",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Agenda/9-13-23.md",
+                "file": "Random/Learnings from software engineering education & hiring.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5,
-    "collapsed": true
+    "width": 245.5
   },
   "right": {
     "id": "ec038bdad1d66462",
@@ -113,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Random/Why colleges will fail to train creative minds.md",
+                "file": "Essays/On college/Why college is outdated.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Random/Why colleges will fail to train creative minds.md",
+                "file": "Essays/On college/Why college is outdated.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Random/Why colleges will fail to train creative minds.md"
+                "file": "Essays/On college/Why college is outdated.md"
               }
             }
           }
@@ -174,11 +160,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b7fdbc490a4a7429",
+  "active": "db18911120a66364",
   "lastOpenFiles": [
+    "Random/Learnings from software engineering education & hiring.md",
+    "Random/Syntax vs. skill.md",
+    "Random/Essay flow.md",
+    "Random/Writing next steps.md",
     "Essays/On college/Why college is outdated.md",
     "Random/Why colleges will fail to train creative minds.md",
+    "Agenda/9-14-23.md",
+    "Random/Clarity is king.md",
     "Agenda/9-13-23.md",
+    "Random/Especially when writing is tough, turn off all distractions..md",
     "Essays/How to train creativity (the kind that matters).md",
     "Random/Ignore the hype. Stick to the real..md",
     "Random/Scratch.md",
@@ -195,13 +188,6 @@
     "Random/On conviction.md",
     "Random/Big picture.md",
     "Essays/Why creativity is eating the world.md",
-    "Essays/Being able to invest in individuals will transform education.md",
-    "Essays/Reasons to avoid political workplaces.md",
-    "Essays/It's tough for AI to write.md",
-    "Essays/Ideas.md",
-    "Essays/The tool becomes the teacher.md",
-    "Essays/have proof of competence.md",
-    "Essays/Rewarding curation.md",
     "Screenshot 2023-09-11 at 11.41.50 AM.png",
     "Essays/Untitled",
     "Essays/Job hunting",

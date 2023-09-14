@@ -20,8 +20,33 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "b7fdbc490a4a7429",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Random/Why colleges will fail to train creative minds.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a58cdfa5e96ab259",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agenda/9-13-23.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -71,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 245.5,
+    "collapsed": true
   },
   "right": {
     "id": "ec038bdad1d66462",
@@ -87,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Essays/On college/Why college is outdated.md",
+                "file": "Random/Why colleges will fail to train creative minds.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Essays/On college/Why college is outdated.md",
+                "file": "Random/Why colleges will fail to train creative minds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Essays/On college/Why college is outdated.md"
+                "file": "Random/Why colleges will fail to train creative minds.md"
               }
             }
           }
@@ -148,10 +174,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db18911120a66364",
+  "active": "b7fdbc490a4a7429",
   "lastOpenFiles": [
-    "Random/The angle is clear.md",
     "Essays/On college/Why college is outdated.md",
+    "Random/Why colleges will fail to train creative minds.md",
+    "Agenda/9-13-23.md",
+    "Essays/How to train creativity (the kind that matters).md",
+    "Random/Ignore the hype. Stick to the real..md",
+    "Random/Scratch.md",
+    "Random/The angle is clear.md",
     "Random/This is the path.md",
     "Random/Personal contract.md",
     "Random/Need to push harder.md",
@@ -171,12 +202,7 @@
     "Essays/The tool becomes the teacher.md",
     "Essays/have proof of competence.md",
     "Essays/Rewarding curation.md",
-    "Essays/We're terrible at assessing risk.md",
-    "Essays/Be attached to outcomes, not the means.md",
     "Screenshot 2023-09-11 at 11.41.50 AM.png",
-    "Essays/On college/College skill gap is out of hand.md",
-    "Random/Sanskrit in minimal Japanese style.md",
-    "Agenda/9-11-23.md",
     "Essays/Untitled",
     "Essays/Job hunting",
     "Random/Untitled",

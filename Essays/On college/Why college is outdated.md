@@ -55,7 +55,7 @@ A "creator middle class” ([https://hbr.org/2020/12/the-creator-economy-needs-a
 
 As we innovate on technology and the bar for creativity rises, more domains, and eventually the entire economy (outside of heavily regulated industries), will resemble the power law distribution of the creator economy: greater inequality, without the "middle class" (at least for a while) that we had in previous generations.
 
-**2. Education and hiring in creative domains resist standardization**.
+**2. Creative skills resist standardization**.
 
 As a domain goes from non-creative to creative, learning the "syntax" of the skill is no longer enough to be competent in it. Syntax is the formal rules of the skill. For writing, this would be a knowledge of spelling, grammar and sentence structure. In software engineering this would be knowing a programming language and framework that lets you build software. In filmmaking this would be learning story structure principles, etc.
 
@@ -69,7 +69,7 @@ Syntax can be taught in a standardized, one size fits all way: learners can pick
 
 Our entire education system was designed to train syntax, not creative skill, because historically knowing syntax was good enough to enable you to build a meaningful life, and because standardized education is the only kind that has been able to scale. Even a horrible teacher can't mess up too much if they're following a standardized teaching curriculum.
 
-Learning a creative skill resists standardization because, just because. 
+Learning a creative skill resists standardization because... 
 
 Personalized feedback from masters becomes even more critical to learn creative skills. A teacher that isn't great themselves is less able to train a student to be great. On the other hand, for non-creative skills, you can get quite far with just a great learning guide, without personalized feedback. In the extreme example: if your job is to wipe tables for a living, you could relatively quickly learn the right technique for it to be effective.
 
@@ -83,7 +83,7 @@ This makes learning and job hunting especially challenging because the strategy 
 
 This leads to a world in which you can simultaneously have an unmet high demand for a skill, and yet have millions of new grads unemployable for that skill because they don't meet the bar for creativity.
 
-**3. Transactional education model (pay to learn) no longer works.**
+**3. Transactional education model (pay to learn) doesn't work for creative skills.**
 
 Paying an up front tuition only works when you have a high probability of employment afterwards. The higher the probability, the easier it is for you to take a loan and finance your tuition. This worked great when the bar for creativity was lower - you could reliably get a good job with a college degree.
 
@@ -91,7 +91,7 @@ Now that outcomes are no longer guaranteed, especially on an arbitrary timeline 
 
 The education financing institutions have been late to realize that the bar for creativity has gone up and the college education no longer has the returns it needs to justify giving out massive loans to every 18 year old that asks for it, and therefore we have millions of graduates crippled with student loan debt: they took out a big loan for college under the incorrect impression that a college education will guarantee a good job, only to realize that the world operates quite differently due to a significantly higher bar for creativity.
 
-**Therefore, the path to training your mind to thrive in this world is difficult and uncertain**.
+Therefore, the path to training your mind to thrive in this world is difficult and uncertain.
 
 The rate at which this bar of creativity rises depends on the nature of the skill and domain. 
 
@@ -102,7 +102,11 @@ It takes longer for technology to be built and adopted in the physical world, le
 For knowledge work, the bar for creativity in order to be valuable is rising incredibly rapidly.
 ### Learnings from software engineering education & hiring
 
-I think software engineering is a great field to study to understand how this shift towards creativity impacts education and hiring in a domain. As recently as 5 - 10 years ago, software engineering used to be the kind of skill that you could do in a non-creative way and still be useful in the world. Rapidly evolving technological leverage in software engineering turned it into a skill with a high bar for creativity.
+I think software engineering is a great field to study to understand how this shift towards creativity impacts education and hiring in a domain. As recently as 5 - 10 years ago, software engineering used to be the kind of skill that you could do in a non-creative way and still be useful in the world. Rapidly evolving technological leverage in software engineering turned it into a skill that today has a high bar for creativity.
+
+And I believe the rising creativity bar explains why we've seen various startup failures in both software engineering education and hiring. They've built their company for a world in which non-creative software engineering still had demand, and have failed as the bar for creativity in software engineering shot up.
+
+**Their failures are proof of the rising bar for creativity**.
 
 Historically, software engineering was treated as a relatively low creativity task that translated business requirements into software products. And I actually think this is a reasonable claim for the majority of software engineering work in the past. You could definitely have superstar engineers since programming is fundamentally as creative as writing, but the majority of work that moved businesses forward were cut and dry code that someone with a reasonable understanding of programming syntax and some common sense could do.
 
@@ -116,7 +120,7 @@ But as technological leverage increased, which it did quickly in software engine
 
 *(It isn't a coincidence that the place that respected software engineering for its creativity, was the place to dominate Tech: Silicon valley. - this doesn't quite go here, need to think where to make this point).*
 
-**Bootcamps**.
+**Bootcamps failed to be the de-facto software engineering learning system**
 
 The mid 2010's was the era of the "bootcamp". These startups claimed to be able to generate competent, hirable software engineers with a course that didn't last more than half a year. They had the ambition to redefine the standard software engineering education, claiming that colleges weren't efficient at teaching software engineering, and were far too expensive.
 
@@ -130,7 +134,7 @@ Bootcamps have since dropped the goal to disrupt software engineering education 
 
 As the bar for creativity increases in the world, I predict bootcamps will have a tough time being relevant because a standardized education process with guaranteed results doesn't exist for creative skills.
 
-**Credentialing**.
+**Standardized credentialing failed to take over.**
 
 A few years ago, a software engineering credentialing company, Triplebyte, was started with the ambition to be the default credentialing for software engineers (and eventually other roles as well). You could take their software engineering interview regardless of your background, whether you went to college or not, etc.
 
@@ -169,38 +173,6 @@ The power law means that there definitely exist engineers that are 10x / 100x / 
 As more skills make the shift from non-creative to creative, we'll see a similar power law distribution of talent, and therefore similar hiring dynamics.
 ### Why colleges can't adapt
 
-To understand this, we need to first clarify what the ideal system would be to train a mind that can thrive in a world with a high bar for creativity.
-
-Fortunately, we have thousands of years of history of training people in creative skills, that we can learn from.
-
-College as we know it was designed for the industrial age: to offer a standardized education so that people can perform a standardized, non-creative job. That's what most of the economy was built on for most of human history.
-
-1. It takes time.
-2. Learn by doing.
-3. High quality, personalized feedback.
-4. Community
-
-**(This section should generalize college to any kind of tuition-based education system).**
-
-The economics simply don't support it because the incentives don't exit. These systems, even when high quality education, don't scale to the world because of the numbers.
-
-(TODO: reference Austen Allred's point about how they can't increase the course duration because it would be too expensive).
-
-**Elite programs will continue to exist, but tough to scale due to cost**. 99.99% of higher education will fail to train the creative minds.
-
-- But their power will diminish. **Will be training for researchers, and regulated domains**.
-- Artificial scarcity and a stupidly high bar for entrance is still valuable. But cost of education is prohibitively high. Elite institutions don't have the market pressure to perform.
-- Not because of the content -> MOOCs proved this.
-- Not because of "research".
-- Because of the curated student body via an artificially difficult admissions process, personalized feedback (this is actually quite important).
-
-I think the elites will continue to be valuable, but they're < 1% of the education system, so in a sense, they don't even matter in the grand scheme of things.
-
-But they can't scale because the content isn't what's valuable. It's the scarcity, the student body, and the personalized feedback - which are incredibly difficult to scale.
-
-The average college education sucks, and the best won't scale because they can't.
-
-**Misaligned incentives**.
 ### Yet, college is tough to displace
 
 If it can't adapt, then why is college **still** the primary path for most young people?

@@ -1,0 +1,1 @@
+Seriously brother. I can't think of anything more necessary than OMAD. Most critical action you must take ASAP. Amen.

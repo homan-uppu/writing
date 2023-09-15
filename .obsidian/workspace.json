@@ -27,31 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Random/Outline - why college is outdated.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "024d5d4315a654b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Random/Next steps.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e2a667f085c9a0af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Random/Standardization.md",
+                "file": "Random/What is standardization?.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5,
-    "collapsed": true
+    "width": 245.5
   },
   "right": {
     "id": "ec038bdad1d66462",
@@ -125,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Random/Outline - why college is outdated.md",
+                "file": "Random/What is standardization?.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Random/Outline - why college is outdated.md",
+                "file": "Random/What is standardization?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Random/Outline - why college is outdated.md"
+                "file": "Random/What is standardization?.md"
               }
             }
           }
@@ -189,11 +164,13 @@
   "active": "3f54b10d47bca7dc",
   "lastOpenFiles": [
     "Essays/On college/Why college is outdated.md",
+    "Random/What is standardization?.md",
     "Random/Outline - why college is outdated.md",
+    "Random/Can't write on a schedule.md",
+    "Random/Next steps.md",
     "Random/Standardization.md",
     "Agenda/9-15-23.md",
     "Random/Education for creative skills resists standardization.md",
-    "Random/Next steps.md",
     "Essays/Actionable clarity.md",
     "Random/OMAD is necessary..md",
     "Random/Work from home tomorrow.md",
@@ -212,8 +189,6 @@
     "Random/Scratch.md",
     "Random/The angle is clear.md",
     "Random/This is the path.md",
-    "Random/Personal contract.md",
-    "Random/Need to push harder.md",
     "Screenshot 2023-09-11 at 11.41.50 AM.png",
     "Essays/Untitled",
     "Essays/Job hunting",

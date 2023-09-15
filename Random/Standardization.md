@@ -1,11 +1,12 @@
-- Define standardization
-- Standardization is efficient. It's easy to scale, and it's easy to optimize for. With the right training, there can be many people that become proficient at the standard.
+- What is standardization?
+	- Common curriculum.
+	- Standardized evaluation that's insulated from the market.
+	- Standard learning timeline: e.g. a "4 year" program that will help you build "competence".
+- Standardization is efficient. It's easy to scale, it's easy to optimize for, it's low risk. With the right training, there can be many people that become proficient at the standard.
 - Non-creative and standardization essentially represent the same thing. Anything you can standardize is inherently non-creative.
 - Markets form around standards. Most of the value created by education startups is by optimizing for standards. (training to crack exams).
 - Therefore, if a standard is possible, it will be created.
 - But, if a standard is no longer aligned with reality (the market), it will fall unless propped up by non-market forces like regulation.
-
-
 
 ----
 

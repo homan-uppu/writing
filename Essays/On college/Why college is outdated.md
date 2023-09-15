@@ -69,7 +69,7 @@ Syntax can be taught in a standardized, one size fits all way: learners can pick
 
 Our entire education system was designed to train syntax, not creative skill, because historically knowing syntax was good enough to enable you to build a meaningful life, and because standardized education is the only kind that has been able to scale. Even a horrible teacher can't mess up too much if they're following a standardized teaching curriculum.
 
-Learning a creative skill resists standardization because... 
+Learning a creative skill resists standardization because fundamentally, the skills you test for in a standardized way won't correlate with creative competence (WHY???).
 
 Personalized feedback from masters becomes even more critical to learn creative skills. A teacher that isn't great themselves is less able to train a student to be great. On the other hand, for non-creative skills, you can get quite far with just a great learning guide, without personalized feedback. In the extreme example: if your job is to wipe tables for a living, you could relatively quickly learn the right technique for it to be effective.
 
@@ -233,6 +233,8 @@ Learning ecosystems around tools -> Notion, Replit, Figma, Midjourney.
 - Coming back to education: standardized education doesn't work for creative skills because you can't say with confidence whether someone with an education in that creative skill can actually make a living doing it after graduating.
 - Therefore, in creative domains, the transactional educational business model in which we pay an upfront “tuition” (and often take out a loan to do so) in exchange for an education that we hope will enable us to build a career no longer works.
 
-ISAs might seem different than the traditional exchange tuition for education, but it's basically the same thing: it shifts the risk from the student to the institute, but if the underlying economics doesn't work out, the institute will find it very difficult to sustain itself, let alone thrive.
+- ISAs might seem different than the traditional exchange tuition for education, but it's basically the same thing: it shifts the risk from the student to the institute, but if the underlying economics doesn't work out, the institute will find it very difficult to sustain itself, let alone thrive.
 
-As a result, the Tech industry has found itself in an interesting situation: It says it operates a certain way (according to the state of the world with a much lower bar for creativity), while operating according to a much higher bar for creativity.
+- As a result, the Tech industry has found itself in an interesting situation: It says it operates a certain way (according to the state of the world with a much lower bar for creativity), while operating according to a much higher bar for creativity.
+
+- It's sad and funny that every few months a post by a software engineer will go viral claiming that the software engineering interview is broken. They're right, it is! But I haven't heard of any good, economically feasible alternative because creative skills resist standardized evaluation. If it was a problem that could be fixed with a better standardized assessment, it would have been by now.

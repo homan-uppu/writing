@@ -22,7 +22,19 @@
             }
           },
           {
-            "id": "3f54b10d47bca7dc",
+            "id": "e3018c179fc78b66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Random/Outline - why college is outdated.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "50ab0c993602cf9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -84,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 245.5,
+    "collapsed": true
   },
   "right": {
     "id": "ec038bdad1d66462",
@@ -100,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Random/What is standardization?.md",
+                "file": "Random/Outline - why college is outdated.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Random/What is standardization?.md",
+                "file": "Random/Outline - why college is outdated.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Random/What is standardization?.md"
+                "file": "Random/Outline - why college is outdated.md"
               }
             }
           }
@@ -161,11 +174,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3f54b10d47bca7dc",
+  "active": "e3018c179fc78b66",
   "lastOpenFiles": [
-    "Essays/On college/Why college is outdated.md",
     "Random/What is standardization?.md",
     "Random/Outline - why college is outdated.md",
+    "Essays/On college/Why college is outdated.md",
+    "Essays/On college/Outline.md",
     "Random/Can't write on a schedule.md",
     "Random/Next steps.md",
     "Random/Standardization.md",
@@ -188,7 +202,6 @@
     "Random/Ignore the hype. Stick to the real..md",
     "Random/Scratch.md",
     "Random/The angle is clear.md",
-    "Random/This is the path.md",
     "Screenshot 2023-09-11 at 11.41.50 AM.png",
     "Essays/Untitled",
     "Essays/Job hunting",

@@ -106,7 +106,7 @@ I think software engineering is a great field to study to understand how this sh
 
 And I believe the rising creativity bar explains why we've seen various startup failures in both software engineering education and hiring. They've built their company for a world in which non-creative software engineering still had demand, and have failed as the bar for creativity in software engineering shot up.
 
-**Their failures are proof of the rising bar for creativity**.
+Their failures are proof of the rising bar for creativity.
 
 Historically, software engineering was treated as a relatively low creativity task that translated business requirements into software products. And I actually think this is a reasonable claim for the majority of software engineering work in the past. You could definitely have superstar engineers since programming is fundamentally as creative as writing, but the majority of work that moved businesses forward were cut and dry code that someone with a reasonable understanding of programming syntax and some common sense could do.
 
@@ -122,7 +122,7 @@ But as technological leverage increased, which it did quickly in software engine
 
 **Bootcamps failed to be the de-facto software engineering learning system**
 
-The mid 2010's was the era of the "bootcamp". These startups claimed to be able to generate competent, hirable software engineers with a course that didn't last more than half a year. They had the ambition to redefine the standard software engineering education, claiming that colleges weren't efficient at teaching software engineering, and were far too expensive.
+The mid 2010's was the era of the "coding bootcamp". These startups claimed to be able to generate competent, hirable software engineers with a course that didn't last more than half a year. They had the ambition to redefine the standard software engineering education, claiming that colleges weren't efficient at teaching software engineering, and were far too expensive.
 
 They were right that colleges don't teach software engineering well, and is overpriced. But they were wrong that you could create a competent software engineer in a short period of time with standardized training.
 
@@ -160,18 +160,18 @@ Eventually Triplebyte failed [x]. On Hackernews (a technology / startup communit
 
 "Fundamentally, if you're a hiring market paid by companies, you're selling access to talent. And finding cost-efficient ways to get that talent is a core problem of your business. We tried a few approaches to that, but none really took off. (The most successful was our Screen tool, but **the problem with that was that companies mostly wanted to screen candidates they saw as low-value - juniors and international candidates, mostly - and were terrified of screening high-value senior candidates**. The product worked well, but didn't get the candidates that would let us stand out, basically.)". (emphasis mine).
 
-Companies that want to get the best talent, approach hiring software engineers in the same way that a music label tries to find musicians to bring on board, or a VC firm searches for talented founders to invest in.
+Companies that want to get the best talent, approach hiring software engineers in the same way that a music label tries to find musicians to bring on board, or a VC firm searches for promising founders to invest in.
 
-This is why most hiring is driven by referrals: when people at the company refer other competent people they know. Unfortunately, everyone knows this except for new grads who keep applying online to hundreds of companies without ever hearing back.
+This is why most hiring is driven by referrals: when people at the company refer other competent people they know. Unfortunately, everyone knows this except for new grads who keep applying online to hundreds of companies without ever hearing back. And the more creative a skill becomes, the less likely you are to hear back through the traditional job application process.
 
-Open application works for non-creative skills that you can assess objectively. Hiring in any creative domain is predominantly back-channel, subjective, through referrals and high touch sales.
+Open application works for non-creative skills that you can assess objectively. Hiring in any creative domain is predominantly back-channel, subjective, through referrals. It resembles high touch sales.
 
 It's only when you start to view software engineering as a creative skill, the absurdity of the system makes sense: bootcamps won't work, standardized credentialing won't work, applying to companies without a referral won't work.
 
 The power law means that there definitely exist engineers that are 10x / 100x / 1000x / (10^n)x more productive than the average. This difference between the average and the best will only grow as technological leverage increases.
 
 As more skills make the shift from non-creative to creative, we'll see a similar power law distribution of talent, and therefore similar hiring dynamics.
-### Why colleges can't adapt
+### Why colleges won't adapt
 
 ### Yet, college is tough to displace
 

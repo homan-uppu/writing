@@ -1,3 +1,7 @@
+**It isn't working**
+- Quantitative stats on why.
+- Qualitative stats.
+
 **Creative vs. non-creative skills**.
 - Inputs don't translate to outputs.
 - How technology creates leverage, that raises the bar for creativity for any skill in knowledge work.
@@ -18,6 +22,10 @@
 	- The entire transactional education market today exists because of standardized admissions / interviewing. As companies start to ignore the standard (because it no longer works), this impact will back-propagate through the entire chain of education.
 	- Most of the value created by the ed-tech companies trains people for some kind of standardized exam: either to pass grade school exams, high school exams, college entrance exams, and cracking job interview exams. If there's no standardized exam to educate for (since they no longer work), then people won't shell out money to pay for these education programs.
 	- Put in other words: standardization creates a market for transactional education. So the world actually has a strong economic incentive to create a standard, it would lead to a massive education market, and will enable us to build an education program at scale for the world. But if you artificially prop up a standard that isn't aligned with the reality (i.e. that the standard doesn't actually correspond with talent in the market), then the entire system will eventually collapse.
+- **Unproven talent: new grads, juniors, are less valuable**.
+	- When bar for creativity was lower, as a company, you could hire unproven junior talent and take the responsibility to train them for the job. 
+	- From a company's perspective, as a skill becomes more creative, they can't justify this type of hiring because there's no guarantee in the outcomes.
+	- Case study: if you could train 1000 employees out of which 500 end up being competent in 2 years, that's alright. But in creative skills, the variance in outcomes can be extremely high, making this entire proposition incredibly risky. On top of this, companies are generally bad at firing. By letting in a large number of incompetent employees, you've killed the culture of the company.
 
 And therefore, it's **increasingly difficult and uncertain to train the skills necessary to thrive in this world**.
 - Counter: "But you have great content online from masters! It's the best time to learn anything :)" - it's actually much tougher today than in the past due to mental security. The security that the path you're walking will lead to results one day, that you will have an ROI on your investment and won't be crippled with debt for rest of life.
@@ -56,6 +64,10 @@ And therefore, it's **increasingly difficult and uncertain to train the skills n
 - UBI - we'll need it. But incredibly tough path to enabling this.
 
 **Concluding thoughts**
+- Reinforce why I think this is one of the most important problems out there. Discuss the scale of the problem and why it's a bigger problem than it appears (because those that have skill are surrounded by skill and therefore their perception of the average is much greater than what it actually is. And those that are reading this essay likely fall into the skilled category).
+	- Unfortunately governments are going to spend a great deal subsidizing education that will no longer work... this is super sad.
+	- A billion youth will through the education system - doing everything they're told to do by their families, teachers, and society, only to end up struggling to build the lives they want. And naturally they're going to despise older generations, and the institutions that lied to them. (To be fair, they didn't intentionally lie, they gave advice based on their outdated understanding of the world, but the suffering causes is the same).
+	- We desperately need a high quality learning system available at scale, with the right underlying incentives, that trains the right creative skills. We need policy changes that reflect the higher bar for creativity and all the changes this brings. We need 
 - I'd love to hear from you, especially if you disagree with anything I talked about! If you're interested in this space, and / or actively building in it, I'd love to hear from you.
 
 ----

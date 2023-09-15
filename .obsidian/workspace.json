@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "3f54b10d47bca7dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Random/Outline - why college is outdated.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "024d5d4315a654b8",
             "type": "leaf",
             "state": {
@@ -45,7 +57,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +108,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 245.5,
+    "collapsed": true
   },
   "right": {
     "id": "ec038bdad1d66462",
@@ -111,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Essays/On college/Why college is outdated.md",
+                "file": "Random/Outline - why college is outdated.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Essays/On college/Why college is outdated.md",
+                "file": "Random/Outline - why college is outdated.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Essays/On college/Why college is outdated.md"
+                "file": "Random/Outline - why college is outdated.md"
               }
             }
           }
@@ -172,16 +186,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db18911120a66364",
+  "active": "3f54b10d47bca7dc",
   "lastOpenFiles": [
+    "Essays/On college/Why college is outdated.md",
+    "Random/Outline - why college is outdated.md",
     "Random/Standardization.md",
     "Agenda/9-15-23.md",
     "Random/Education for creative skills resists standardization.md",
     "Random/Next steps.md",
     "Essays/Actionable clarity.md",
-    "Essays/On college/Why college is outdated.md",
     "Random/OMAD is necessary..md",
-    "Random/Outline - why college is outdated.md",
     "Random/Work from home tomorrow.md",
     "Random/Learnings from software engineering education & hiring.md",
     "Untitled 1.md",

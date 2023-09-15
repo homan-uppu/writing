@@ -1,3 +1,14 @@
+3 acts:
+1. **The education problem**. What's happening to the world that is invalidating previous approaches to education and hiring.
+2. **Promising directions** - expanding on the **kinds of approaches** that may explain the future of education.
+3. **Playbook** - just directly outline the path to take to thrive. This should start as a single essay. And then start to expand it through research and conversations. Eventually, you should be able to build an entire learning system around this playbook.
+	1. You ought to do a series of essays before you jump into writing a full-fledged playbook for this. Hmm...
+4. **The learning system**. Use your thinking above to design an AI powered learning system that will scale valuable knowledge to the world. Amen.
+
+This process is so damn clear. Wow.
+
+----
+
 - **Creativity is eating the world**: take the section from this essay and expand on it. More examples, and a clear definition of the consequences of this shift with convincing evidence.
 - **AI copilots** - expand on the "promising directions" section of the essay by doubling down on copilots: what are these, and how they can be powerful aids in learning that scales.
 - **Build irrefutable proof of competence**. Make this generic: a designer, engineer, PM / anyone should be able to read this and gain clarity on what proof is, and how to go about building it.

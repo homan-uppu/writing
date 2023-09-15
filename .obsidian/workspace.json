@@ -27,7 +27,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Random/Learnings from software engineering education & hiring.md",
+                "file": "Random/Outline - why college is outdated.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "024d5d4315a654b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Random/Next steps.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "87e03f9d16fefc7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Random/Education resisting standardization.md",
                 "mode": "source",
                 "source": false
               }
@@ -83,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 245.5,
+    "collapsed": true
   },
   "right": {
     "id": "ec038bdad1d66462",
@@ -162,11 +187,15 @@
   },
   "active": "db18911120a66364",
   "lastOpenFiles": [
+    "Random/Outline - why college is outdated.md",
+    "Essays/On college/Why college is outdated.md",
+    "Random/Education resisting standardization.md",
+    "Random/Next steps.md",
     "Random/Learnings from software engineering education & hiring.md",
+    "Untitled 1.md",
+    "Untitled.md",
     "Random/Syntax vs. skill.md",
     "Random/Essay flow.md",
-    "Random/Writing next steps.md",
-    "Essays/On college/Why college is outdated.md",
     "Random/Why colleges will fail to train creative minds.md",
     "Agenda/9-14-23.md",
     "Random/Clarity is king.md",
@@ -184,10 +213,6 @@
     "Random/One thing I'm proud of.md",
     "Random/Way too much caffeine.md",
     "People.md",
-    "Random/Need to knock out this draft asap..md",
-    "Random/On conviction.md",
-    "Random/Big picture.md",
-    "Essays/Why creativity is eating the world.md",
     "Screenshot 2023-09-11 at 11.41.50 AM.png",
     "Essays/Untitled",
     "Essays/Job hunting",

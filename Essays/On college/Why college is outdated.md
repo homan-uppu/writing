@@ -34,42 +34,44 @@ My cousin graduated with a computer science degree from a second tier US college
 My family friend who's currently in his 2nd year of college in Hyderabad, in quite a reputed college (not an IIT, but a popular private university in Hyderabad) is learning some arcane Java. They memorize definitions of programming concepts and regurgitate it during exams. He hasn't learned anything worthwhile in college from what I can tell, except for the natural social maturation that comes at that age from engaging with many peers.
 
 This is the average outcome.
-
 ### The bar for creativity is rising
 
-As technology has become more powerful, it's reduced the effort to turn ideas into reality. This technological “leverage” raises the bar for creativity that's required to be useful in this world - especially in knowledge work (since technology has evolved far more rapidly in the digital realm than in the real world due to faster iteration cycles, faster adoption, lower cost to build, and far less regulation).
+As technology has become more powerful, it's reduced the effort to turn ideas into reality. This technological “leverage” raises the bar for creativity that's required to be useful in this world - especially in knowledge work.
 
 For creative skills, there isn't a linear relationship between inputs and outputs. You can't predict that spending 1000 hours making a movie will outperform one that only took 100 hours. Or that a product with months of engineering will get more users or revenue than one that took a weekend to build.
 
 On the other hand, for low creativity skills, the relationship is linear. On a factory assembly line, the best assembler is at best fractionally better than the average, not orders of magnitude.
 
-Creative skills follow a power law distribution: few drastically outperform the rest.
+### Features of creative domains
 
-This power law plays out in all creative domains (that aren't heavily regulated):
+**1. Creative skills follow a power law distribution**: few drastically outperform the rest.
+
 ![[Screenshot 2023-09-11 at 11.41.50 AM.png]]
 [https://andrewchen.com/creator-economy-20/](https://andrewchen.com/creator-economy-20/).
 
-Most creators don't make any money. Most revenue goes to the top creators.
+Most creators don't make any money, and most of the revenue generated goes to the top creators.
 
-A "creator middle class” ([https://hbr.org/2020/12/the-creator-economy-needs-a-middle-class](https://hbr.org/2020/12/the-creator-economy-needs-a-middle-class)) is difficult to difficult to find in the world. And it's not clear when it will arrive, if ever.
+A "creator middle class” ([https://hbr.org/2020/12/the-creator-economy-needs-a-middle-class](https://hbr.org/2020/12/the-creator-economy-needs-a-middle-class)) is difficult to difficult to find in the world. And it's not clear when it will arrive, if it ever does.
 
-As we innovate on technology and the bar for creativity rises, more domains, and eventually the entire economy, will resemble the power law distribution of the creator economy: greater inequality, without a "middle class" (at least for a while) that we had in previous generations.
+As we innovate on technology and the bar for creativity rises, more domains, and eventually the entire economy (outside of heavily regulated industries), will resemble the power law distribution of the creator economy: greater inequality, without the "middle class" (at least for a while) that we had in previous generations.
 
-The power law distribution is a byproduct of the nature of creative skills: that there's no guarantee that you'll become competent at a creative skill within a certain time frame. (Even if you work with the most talented person in the world for that skill - TODO: need to think this point through).
+**2. Education and hiring in creative domains resist standardization**.
 
-Learning theory alone won't get you far. It's like trying to make great music by learning musical notation. Theory is important to give you a foundation to express yourself in that domain, but it isn't enough to make you good at it.
+As a domain goes from non-creative to creative, learning the "syntax" of the skill is no longer enough to be competent in it. Syntax is the formal rules of the skill. For writing, this would be a knowledge of spelling, grammar and sentence structure. In software engineering this would be knowing a programming language and framework that lets you build software. In filmmaking this would be learning story structure principles, etc.
+
+But, by nature of a creative domain, knowing how to create isn't enough to create something people want, i.e. that the market appreciates, and what determines your competence in that creative skill.
+
+When the bar for creativity is low, you could get away with just knowing the syntax of a skill because there was a market for doing low creativity work since computers / robots / AI wasn't available yet to do that on our behalf.
+
+This is why for creative skills, learning theory alone won't get you far. It's like trying to make great music by learning musical notation. Theory is important to give you a foundation to express yourself in that skill, but it isn't enough to make you good at it.
+
+Syntax can be taught in a standardized, one size fits all way: learners can pick up principles via lectures and standardized tests can accurately gauge how well the students remembered the syntax.
+
+Our entire education system was designed to train syntax, not creative skill, because historically knowing syntax was good enough to enable you to build a meaningful life, and because standardized education is the only kind that has been able to scale. Even a horrible teacher can't mess up too much if they're following a standardized teaching curriculum.
+
+Learning a creative skill resists standardization because, just because. 
 
 Personalized feedback from masters becomes even more critical to learn creative skills. A teacher that isn't great themselves is less able to train a student to be great. On the other hand, for non-creative skills, you can get quite far with just a great learning guide, without personalized feedback. In the extreme example: if your job is to wipe tables for a living, you could relatively quickly learn the right technique for it to be effective.
-
-**These realities of learning creative skills invalidates the traditional education model of exchanging tuition for an education.**
-
-Paying an up front tuition only works when you have a high probability of employment afterwards. The higher the probability, the easier it is for you to take a loan and finance your tuition. This worked great when the bar for creativity was lower - you could reliably get a good job with a college degree.
-
-Now that outcomes are no longer guaranteed, especially on an arbitrary timeline (e.g. "4 years of college), financing an education with a loan is extremely risky.
-
-The education financing institutions have been late to realize that the bar for creativity has gone up and the college education no longer has the returns it needs to justify giving out massive loans to every 18 year old that asks for it, and therefore we have millions of graduates crippled with student loan debt: they took out a big loan for college under the incorrect impression that a college education will guarantee a good job, only to realize that the world operates quite differently due to a significantly higher bar for creativity.
-
-Creative domains resist standardization: in learning and in identifying talent. Standardized education: a rigid curriculum, standardized exams, a standard timeline ("4 years") don't work for creative domains.
 
 Nobody will tell you that by going to film school you'll be a great filmmaker because we intuitively know that learning the technique alone won't make you a great artist. This will be how any skill is viewed.
 
@@ -81,13 +83,23 @@ This makes learning and job hunting especially challenging because the strategy 
 
 This leads to a world in which you can simultaneously have an unmet high demand for a skill, and yet have millions of new grads unemployable for that skill because they don't meet the bar for creativity.
 
+**3. Transactional education model (pay to learn) no longer works.**
+
+Paying an up front tuition only works when you have a high probability of employment afterwards. The higher the probability, the easier it is for you to take a loan and finance your tuition. This worked great when the bar for creativity was lower - you could reliably get a good job with a college degree.
+
+Now that outcomes are no longer guaranteed, especially on an arbitrary timeline (e.g. "4 years of college), financing an education with a loan is extremely risky.
+
+The education financing institutions have been late to realize that the bar for creativity has gone up and the college education no longer has the returns it needs to justify giving out massive loans to every 18 year old that asks for it, and therefore we have millions of graduates crippled with student loan debt: they took out a big loan for college under the incorrect impression that a college education will guarantee a good job, only to realize that the world operates quite differently due to a significantly higher bar for creativity.
+
+**Therefore, the path to training your mind to thrive in this world is difficult and uncertain**.
+
 The rate at which this bar of creativity rises depends on the nature of the skill and domain. 
 
 Generally, minimally regulated domains in the realm of pixels (digital) will become more creative far more rapidly than regulated domains, and domains in the realm of atoms (physical world).
 
-It takes longer for technology to be built and adopted in the physical world, leading to slower change. And regulated domains lead to interesting inefficiencies that cause all sorts of weird outcomes that would take a much longer essay to walk through. For example, I don't think the value of medical and legal education will deteriorate in the way that software engineering education will.
+It takes longer for technology to be built and adopted in the physical world, leading to slower change. And regulated domains lead to interesting inefficiencies that cause all sorts of weird outcomes that would take a much longer essay to walk through. For example, I don't think the value of medical and legal education will deteriorate in the way that knowledge work (software engineering, marketing, design, etc.) education has.
 
-On the other hand, for most knowledge work, the bar for creativity in order to be valuable is rising incredibly rapidly.
+For knowledge work, the bar for creativity in order to be valuable is rising incredibly rapidly.
 ### Learnings from software engineering education & hiring
 
 I think software engineering is a great field to study to understand how this shift towards creativity impacts education and hiring in a domain. As recently as 5 - 10 years ago, software engineering used to be the kind of skill that you could do in a non-creative way and still be useful in the world. Rapidly evolving technological leverage in software engineering turned it into a skill with a high bar for creativity.
@@ -155,7 +167,7 @@ It's only when you start to view software engineering as a creative skill, the a
 The power law means that there definitely exist engineers that are 10x / 100x / 1000x / (10^n)x more productive than the average. This difference between the average and the best will only grow as technological leverage increases.
 
 As more skills make the shift from non-creative to creative, we'll see a similar power law distribution of talent, and therefore similar hiring dynamics.
-### Why colleges will fail to train creative minds
+### Why colleges can't adapt
 
 To understand this, we need to first clarify what the ideal system would be to train a mind that can thrive in a world with a high bar for creativity.
 
@@ -191,11 +203,11 @@ The average college education sucks, and the best won't scale because they can't
 **Misaligned incentives**.
 ### Yet, college is tough to displace
 
-Why is college **still** the primary path for most young people?
+If it can't adapt, then why is college **still** the primary path for most young people?
 
-I used to believe this is because of how deeply rooted the notion of college is in our culture. That because a college education has been aspirational for centuries, people still want to get a degree because of the prestige associated with it.
+I used to believe this is predominantly because of how deeply rooted the notion of college is in our culture. That because a college education has been aspirational for centuries, people still want to get a degree because of the prestige associated with it.
 
-But this is a partial, weak explanation. Historically, when systems don't work and we have significantly better alternatives, we've been relatively quick to adopt them. 
+But, historically, when systems don't work and we have significantly better alternatives, we've been relatively quick to adopt them. 
 
 So if there really was a great college alternative that had a track record of excellent results, that was affordable, it would be massively successful.
 
@@ -210,15 +222,18 @@ As a result, outside a few domains (those that are regulated), there aren't any 
 In the absence of any perceived low risk alternative to learning, people will fall back on existing systems, believing that since they worked in the past, there's a chance it'll work now.
 
 Unfortunately, they don't realize that the past is long gone and college no longer works today. And because the results aren't immediate, it'll take someone a few years to realize the truth, that they have to train their mind in a radically different way than they did in college, in order to thrive in this world.
-### Promising directions
+### What's next?
 
 How do we build a better learning system that scales to the hundreds of millions across the world that desperately need it? That trains people to have the necessary competence, creativity, ingenuity to thrive in this highly technologically leveraged world?
 
 ** Need to refute the counter that "what if there won't be enough jobs for this kind of training" - this counter fails because the world is a positive sum game. Reference the Naval thought experiment (which I think explains this incredibly well).
 
 **Short / medium-term:**
-- Policy changes to unlock capital to spend on alternate education routes. One sized fits all doesn't work for creative skills. People need to be able to choose how they spend money to learn. Instead of subsidizing state / local schools, just give people the money for them to spend on choosing their own learning path. Right now, people are actually penalized for wanting to learn in their own way - outside of the traditional college system.
-- Investing in individuals -> web3 is interesting in this regard. But tough to do.
+- **Policy changes** to unlock capital to spend on alternate education routes. One sized fits all doesn't work for creative skills. People need to be able to choose how they spend money to learn. Instead of subsidizing state / local schools, just give people the money for them to spend on choosing their own learning path. Right now, people are actually penalized for wanting to learn in their own way - outside of the traditional college system.
+	- Need to talk about how the government trying to run educational institutes doesn't work. The better approach would be to subsidize internet and perhaps a device to access the internet, and just give them money to spend on online courses, etc. to learn themselves. That's far better use of capital than to waste money on things that will no longer translate to great educational outcomes.
+	- I'd also work on propaganda to increase nationalism - in order to attract the best minds of my country to come back and teach. Get the talent, give them resources, and have THEM train the next generation.
+	- (Not sure if digging into this is that necessary here. I just want to emphasize the importance of this issue more than anything).
+- Investing in individuals -> web3 is interesting in this regard. But tough. Due to regulations. The technology isn't the difficult part, it's the legal / regulatory challenges in letting people "invest" in individuals in the same way they invest in companies. But, this is the only model that makes sense. Hmm...
 - Learning copilots. -> This is a compelling direction.
 
 Learning ecosystems around tools -> Notion, Replit, Figma, Midjourney.

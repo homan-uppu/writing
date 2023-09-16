@@ -6,12 +6,12 @@
 - Inputs don't translate to outputs.
 - How technology creates leverage, that raises the bar for creativity for any skill in knowledge work.
 - **Every unregulated domain will make a transition to resembling creative domains**.
+- Therefore, understanding the nature of creative skills will help us understand what the entire economy will look like, which we need in order to arrive at the right explanation for why our education system is failing.
 
 **Features of creative domains, in a highly technologically leveraged world:**
 
-- **Power law distribution of outcomes**:
-	- Explain this by speaking on behalf of companies - their incentives and how that leads to ignoring the average / beginners.
-
+- **Power law distribution of outcomes**.
+	- The numbers, and the nature of the curve.
 - **Creative skills resist standardization**.
 	- Standardization is a one size fits all approach: fixed curriculum, fixed pace, fixed duration, skill assessed through tests with clear "right" and "wrong" answers to make it easy to grade, and thereby enabling the education to scale.
 	- Standardized test are insulated from the market. For example: getting an A on a test doesn't correlate with actual skill to create value in the market.
@@ -27,13 +27,13 @@
 	- They need to be masters.
 
 - **Transactional education model (pay to learn) no longer works**.
+	- There's no possibility to 
 	- Due to power law outcomes, the expected value of any education is extremely low. Tuition is therefore prohibitively expensive.
 	- Too expensive, and due to unreliable outcomes, taking out a loan is also not possible.
 		- And masters are prohibitively expensive for creative skills that have a market. Due to power law, the best are making bank and can't be compensated for personalized feedback.
 	- This impacts colleges, bootcamps, and anything that takes an up front fee to train you in a particular skill. Which is why most bootcamps, and "ed-tech" has been relegated to offering courses to people who are already employed / have savings to spend, NOT the hundreds of millions of teenagers that desperately need training to help them thrive in this world.
 	- This is why MOOCs have been similarly relegated to offering courses to company employees, not training the next generation of the world as they initially set out to do. People don't learn for the sake of learning, they learn to be able to create value in this world, so that they can build a better life for themselves and their loved ones.
 	- The entire transactional education market today exists because of standardized admissions / interviewing. As companies start to ignore the standard (because it no longer works), this impact will back-propagate through the entire chain of education.
-	- Most of the value created by the ed-tech companies trains people for some kind of standardized exam: either to pass grade school exams, high school exams, college entrance exams, and cracking job interview exams. If there's no standardized exam to educate for (since they no longer work), then people won't shell out money to pay for these education programs.
 	- Put in other words: standardization creates a market for transactional education. So the world actually has a strong economic incentive to create a standard, it would lead to a massive education market, and will enable us to build an education program at scale for the world. But if you artificially prop up a standard that isn't aligned with the reality (i.e. that the standard doesn't actually correspond with talent in the market), then the entire education system built around the standard will eventually collapse.
 	- Talk about the history of creative skills: the apprenticeship model, etc.
 
@@ -43,6 +43,7 @@
 	- Case study: if you could train 1000 employees out of which 500 end up being competent in 2 years, that's alright. But in creative skills, the variance in outcomes can be extremely high, making this entire proposition incredibly risky. On top of this, companies are generally bad at firing. By letting in a large number of incompetent employees, you've killed the culture of the company.
 
 And therefore, it's **increasingly difficult and uncertain to train the skills necessary to thrive in this world**.
+- Not necessarily because people can't be creative, but because of the inherent risk and uncertainty in the path that requires an incredible mental fortitude to excel in.
 - Counter: "But you have great content online from masters! It's the best time to learn anything :)" - it's actually much tougher today than in the past due to mental security. The security that the path you're walking will lead to results one day, that you will have an ROI on your investment and won't be crippled with debt for rest of life.
 - Any security a non-master gives you is a false one. Perhaps that's great for mental health in the short-run, but you can't escape reality for too long.
 - The required mental fortitude to survive the self-learning path is too massive - when you don't have the outcome guarantees. I don't think I'd have been able to when I was 18.
@@ -69,6 +70,8 @@ And therefore, it's **increasingly difficult and uncertain to train the skills n
 2. Delayed outcomes means that it takes time for the market to adjust.
 3. Cultural significance.
 4. Government subsidies, becomes a taxpayer burden. But, this isn't going to be the case in emerging economies. Going back to the India example: people need results. Much more powerful market forces in India, and by extension Asia (due to cultural reasons).
+
+But: you can only be around for so long if you're fundamentally mis-aligned with what the world needs. Therefore, sooner or later, non-elite colleges will struggle.
 
 **What's next?**
 - Investing in individuals.

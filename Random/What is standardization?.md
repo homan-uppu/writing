@@ -1,4 +1,12 @@
-(Just write down everything you think defines standardization, and then sculpt the good explanation).
+Standardization is a one size fits all approach: the same teaching curriculum, the same pace, roughly the same course duration, and a similar sort of standardized test to assess competence with clear right and wrong answers to make it easy to grade and scale this type of education.
+
+This kind of education and competence evaluation works well for non-creative skills, but fails to train competence in a creative skill.
+
+To show why, 
+
+
+
+----
 
 - Standardized teaching: One size fits all: fixed curriculum, fixed pace, fixed duration, skill assessed through tests with clear "right" and "wrong" answers to make it easy to grade and scale the education to everyone.
 - Standardized test are insulated from the market. For example: getting an A on a test doesn't correlate with actual skill to create value in the market.

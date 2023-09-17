@@ -1,3 +1,7 @@
+https://essl.framer.website/about -> very nice design.
+
+----
+
 This should be your primary domain.
 
 Your name is the brand. You don't need some made up name to represent you. Just own your own name. Put your face out there. Take the heat from the world without hiding behind any sort of mask.

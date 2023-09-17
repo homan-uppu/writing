@@ -1,0 +1,1 @@
+The closer you are to the end of the draft, the harder you have to push. There's no other way.

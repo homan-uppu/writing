@@ -3,17 +3,7 @@
 
 Most college education around the world is useless. Colleges don't train students to thrive in today's world, and a college education is increasingly a poor financial investment.
 
-I believe college "employment rates" (percentage of their graduates that landed jobs after graduating) mask the truth. 
-
 More than 40% of new grads (in just the US) are underemployed - working jobs that don't require a degree. This is even worse in emerging economies ([https://economictimes.indiatimes.com/jobs/fresher/worthless-degrees-are-creating-an-unemployable-generation-in-india/articleshow/99570996.cms?from=mdr](https://economictimes.indiatimes.com/jobs/fresher/worthless-degrees-are-creating-an-unemployable-generation-in-india/articleshow/99570996.cms?from=mdr)).
-
-Even for the colleges that seem to produce great talent, it isn't clear how much they actually contributed to the talent, and how much the talent is a consequence of grouping together highly ambitious students through an artificially scarce admissions process.
-
-Just because a person landed a job after college, doesn't mean the college program is what enabled them to do so. They could be getting jobs despite their college education, yet the college takes the entire credit for it.
-
-Most graduates need to get a job in order to survive. No matter how much, or little, support their college provides, if there's a way to get a job, they will find a way to get it through various efforts. The student's back is against the wall, a do or die situation, and they'll fight to land jobs. And when they get the job, largely through their own efforts, their college takes the credit.
-
-In addition to this, companies often take the burden of training and education while paying the employee. They do this because they simply can't find enough competent people to hire. And so they're forced to hire untrained new grads and train them.
 
 And so it's difficult to gain any insights on how effective a college education is from the college employment pitch.
 
@@ -105,7 +95,9 @@ This is why massive open online course platforms (MOOCs) failed to transform edu
 
 The average student can't justify investing in an online course if it doesn't clearly translate to greater employability. Even a "small" fee such as $20 for a course is unjustifiable when you have no idea how it'll help you land a job.
 
-And especially as the bar for creativity rises, the connection between a course and the ability to be employable / create value by learning the skill is opaque, further increasing the perceived risk of shelling out any money for a course.
+On the other hand, people will find ways to finance a massive fee for a course if they have the confidence that it will translate to employability.
+
+As the bar for creativity rises, the connection between a course and the ability to be employable / create value by learning the skill is opaque, further increasing the perceived risk of shelling out any money for a course.
 
 On top of this, there are no timeline guarantees in creative domains. You could spend 5 years grinding without much results, or find that you can create value in just a few months. With such unpredictability in outcomes, the average student can't fathom how to justify paying for a learning program.
 
@@ -124,13 +116,21 @@ So what you end up with in pay-to-learn teaching institutions is those that teac
 A key learning here is that if a "master" is charging money for their knowledge and personalized feedback, you should be cautious. Either the skill they're teaching is difficult to translate into real world value, or they're not that good.
 
 You'll find the occasional master who's teaching because of a sense of responsibility to give back to the world. In that case you'll often find that they're not focused on the money. But they're extremely particular about who they teach because they need to make sure the student is someone who has the potential to become a master.
+
+**5. Harder to justify hiring new grads, infinite demand for the competent**
+
+When bar for creativity was lower, as a company, you could hire unproven junior talent and take the responsibility to train them for the job. 
+
+From a company's perspective, as a skill becomes more creative, they can't justify this type of hiring because there's no guarantee in the outcomes.
+
+Case study: if you could train 1000 employees out of which 500 end up being competent in 2 years, that's alright. But in creative skills, the variance in outcomes can be extremely high, making this entire proposition incredibly risky. On top of this, companies are generally bad at firing. By letting in a large number of incompetent employees, you've killed the culture of the company.
 ### Learnings from software engineering education & hiring
 
 To ground the ideas above in reality, let's look at the software engineering field to study how this shift towards creativity impacts education and hiring for a skill. As recently as 5 - 10 years ago, software engineering used to be the kind of skill that you could do in a non-creative way and still be useful in the world. Rapidly evolving technological leverage in software engineering turned it into a skill that today has a high bar for creativity.
 
 And I believe the rising creativity bar explains why we've seen many startup failures in both software engineering education and hiring. They've built their company for a world in which non-creative software engineering still had demand, and have failed as the bar for creativity in software engineering shot up.
 
-Their failures are proof of the rising bar for creativity.
+The rising bar for creativity explains their failures.
 
 Historically, software engineering was treated as a relatively low creativity task that translated business requirements into software products. And I actually think this is a reasonable claim for the majority of software engineering work in the past. You could definitely have superstar engineers since programming is fundamentally as creative as writing, but the majority of work that moved businesses forward were cut and dry code that someone with a reasonable understanding of programming syntax and some common sense could do.
 
@@ -146,11 +146,15 @@ But as technological leverage increased, which it did quickly in software engine
 
 The mid 2010's was the era of the "coding bootcamp". These startups claimed to be able to generate competent, hirable software engineers with a course that didn't last more than half a year. They had the ambition to redefine the standard software engineering education, claiming that colleges weren't efficient at teaching software engineering, and were far too expensive.
 
-They were right that colleges don't teach software engineering well, and is overpriced. But they were wrong that you could create a competent software engineer in a short period of time with standardized training.
+They were right that colleges don't teach software engineering well, and is overpriced. But they were wrong that you could train a competent software engineer in a short period of time with standardized training.
 
 They treated software engineering as a non-creative skill that you just had to learn the syntax to be competent.
 
 Syntax in software engineering is the specific rules of the programming language / frameworks that engineers use to build products. Saying a person can be competent at software engineering by learning the syntax and building a toy project is like saying someone can be a competent musician by learning musical notation and hacking together a beat.
+
+Bootcamps also introduces the "Income share agreement" (ISA) model which meant that, if accepted into their program, rather than paying tuition for the education you could instead pay a percentage of your salary for some years (usually 2) after getting employed.
+
+But all this does is shifts the risk from the candidate to the bootcamp without fixing any of the underlying issues in the inability to train a creative skill through a standardized education. You can't sustain this business model if only a small percentage of graduates are able to become competent through the program.
 
 Bootcamps have since dropped the goal to disrupt software engineering education and have been relegated to catering to the working professional who wants to make a switch to Tech for higher pay. And even this value proposition has been tough to sustain, let alone scale.
 
@@ -194,55 +198,96 @@ It's only when you view software engineering as a creative skill, you see the ab
 
 Because the bar for creativity has risen so quickly in software engineering, you'll find many absurd qualities in the system due to people operating with an outdated mental model of how creative software engineering is (examples: hierarchical organizations with clearly defined promotion tiers, valuing years of experience, believing there aren't 1000x engineers, etc.). 
 
-And as more skills make the shift from non-creative to creative, we'll see a similar power law distribution of talent, and similar absurdities arise during the shift.
+And since software engineering has become more creative, new grads are finding it tough to land jobs. As I mentioned earlier, companies can no longer take the risk in training new grads.
+
+I find some people interpreting this as a lower demand for software engineers / some kind of saturation in the market. This is incorrect. There is an infinite demand for competent, creative software engineers and a falling demand for non-creative software engineers.
+
+The economy is a positive-sum game. There isn't some finite amount of work available for us beyond which no opportunities exist. A competent, creative engineer will be able to build products that people want and will always be in demand.
 
 The people and companies that continue to operate with an outdated model of the nature of software engineering will become outcompeted and outdated themselves.
 ### Why colleges can't adapt
 
+Economics don't work out for the exact reason they don't work for software engineering bootcamps: you can't reliably train competence for a creative skill in a fixed time, without having masters educating students.
 
+Even if the underlying economics somehow changed, it'll be tough to change the culture and standardized system of education that colleges are built on. The modern college education has roots in the industrial era in which standardized vocational training enabled people to be trained in college and employed in the workforce mostly doing low / moderate creative work.
 
-### Yet, college is tough to displace
+The entire system was designed for that low creativity world: standardized curriculums, assessments, etc. It's incredibly tough to fundamentally change the DNA of an organization, especially so when it's been around for decades.
 
-If it can't adapt, then why is college **still** the primary path for most young people?
+Despite its inefficacy, going to college is still the primary, aspirational path for the billion young people around the world. What gives?
 
-I used to believe this is predominantly because of how deeply rooted the notion of college is in our culture. That because a college education has been aspirational for centuries, people still want to get a degree because of the prestige associated with it.
+The rising bar for creativity means that there can't be a low-risk, clear path to competence that will enable you to create value in this world.
 
-But, historically, when systems don't work and we have significantly better alternatives, we've been relatively quick to adopt them. 
+In the absence of viable alternatives, people will continue doing what they've always done with the hope that because college worked in the past to land a job, it'll continue to work today.
 
-So if there really was a great college alternative that had a track record of excellent results, that was affordable, it would be massively successful.
+But a system can't be so disconnected from reality and hope to live for long. Reckoning will come sooner or later. The higher education bubble will burst.
 
-Most students go to college because they believe that by doing well in the college education process, they'll be employable (or that they can start their own thing) and be able to build a fulfilling, meaningful career. Those that are learning for the sake of learning are a nearly invisible minority.
+I do still see a role for elite colleges, and I think they'll be around for a while. But they educate less than 1% of the world's youth, so even if they continue to be around, they're not going to meaningfully address the increasing education gap for a billion youth.
 
-The challenge with a rising bar in creativity is that it inherently makes all learning paths more risky because the higher the creativity bar, the less guarantee you have that you can create value - no matter what learning path you take.
+Elite colleges are where much of humanity's long-term scientific research is carried out. We'll continue to invest a bit of our resources into long-term research. But even from a long-term research perspective, I suspect there are better models for it. The nature of publish-or-perish research environment incentivizes incremental research over working towards massive breakthroughs.
 
-(TODO: examples of film school, or art schools showcase this risk).
+Similarly, colleges for skills that are heavily regulated (medicine, law, certain types of engineering) will continue to have demand because regulation insulates these skills from market and technological forces, and dampens the rate at which the bar for creativity rises in those domains.
 
-As a result, outside a few domains (those that are regulated), there aren't any low-risk learning paths available.
-
-In the absence of any perceived low risk alternative to learning, people will fall back on existing systems, believing that since they worked in the past, there's a chance it'll work now.
-
-Unfortunately, they don't realize that the past is long gone and college no longer works today. And because the results aren't immediate, it'll take someone a few years to realize the truth, that they have to train their mind in a radically different way than they did in college, in order to thrive in this world.
+Perhaps due to the higher bar for creativity and the uncertainty that comes with that, more people will choose regulated skills that have greater certainty. It isn't easy, but at least you can predict that if you invest $X into an education and work your ass off, the results will arrive within a certain time period.
 ### What's next?
 
-How do we build a better learning system that scales to the hundreds of millions across the world that desperately need it? That trains people to have the necessary competence, creativity, ingenuity to thrive in this highly technologically leveraged world?
+How do we build a better learning system that cultivates the mind that can thrive in a world with a high bar for creativity? How can we scale it?
 
-** Need to refute the counter that "what if there won't be enough jobs for this kind of training" - this counter fails because the world is a positive sum game. Reference the Naval thought experiment (which I think explains this incredibly well).
+I see three promising directions to explore. I'm going to only briefly touch on each idea in this essay, and publish a longer essay treatment for each later.
 
-**Short / medium-term:**
-- **Policy changes** to unlock capital to spend on alternate education routes. One sized fits all doesn't work for creative skills. People need to be able to choose how they spend money to learn. Instead of subsidizing state / local schools, just give people the money for them to spend on choosing their own learning path. Right now, people are actually penalized for wanting to learn in their own way - outside of the traditional college system.
-	- Need to talk about how the government trying to run educational institutes doesn't work. The better approach would be to subsidize internet and perhaps a device to access the internet, and just give them money to spend on online courses, etc. to learn themselves. That's far better use of capital than to waste money on things that will no longer translate to great educational outcomes.
-	- I'd also work on propaganda to increase nationalism - in order to attract the best minds of my country to come back and teach. Get the talent, give them resources, and have THEM train the next generation.
-	- (Not sure if digging into this is that necessary here. I just want to emphasize the importance of this issue more than anything).
-- Investing in individuals -> web3 is interesting in this regard. But tough. Due to regulations. The technology isn't the difficult part, it's the legal / regulatory challenges in letting people "invest" in individuals in the same way they invest in companies. But, this is the only model that makes sense. Hmm...
-- Learning copilots. -> This is a compelling direction.
+**1. Enable investing in individuals**
 
-Learning ecosystems around tools -> Notion, Replit, Figma, Midjourney.
+The first is to change the business model of teaching towards investing in individuals, rather than charging a tuition in exchange for knowledge.
 
-**Long-term:**
-- **Global UBI**. We absolutely need some way to raise the baseline. The path to being creative isn't easy - despite all the positives we've associated with it.
+We saw earlier why a pay-to-learn model can't effectively train competence for a creative skill. On the other hand, if it's possible to invest in an individual: to be able to give them money, training, personalized feedback in exchange for equity in their future outcomes, then masters have the incentive to train.
+
+We already see this investing model dominate creative fields such as startups / filmmaking / music, etc, and it's the only model that makes sense for creative skills due to the power law nature of outcomes.
+
+Being able to invest in an individual creates a market for their potential. It incentivizes identifying promising talent early and helping them nurture their talent.
+
+There are people that do this today: e.g coaches that train superstar athletes when they're young, etc.
+
+But for most creative skills today, those that identify and nurture talent aren't rewarded for their efforts. They often do it out of a passion for the skill, a sense of responsibility and desire to give back to the next generation.
+
+I have great respect for such people, but unfortunately, benevolence doesn't scale. By rewarding training people with equity, there will be a lot more activity trying to identify promising talent and train them.
+
+And importantly, equity is the only way to adequately compensate a master. As we saw above, a pay-to-learn model can never compensate a master of a craft enough to justify them offering personalized feedback to train a student - because their time is too valuable.
+
+But, if they had equity in their students' outcomes, those students that win will win big (due to power law), and will more than compensate for master's time spent on all students.
+
+The equity model also incentives a master to publish their knowledge for free, to the entire world because by sharing their knowledge with the world, they'll attract the talent that they can then filter to identify the best ones to invest in.
+
+With this investing model, as skills become more creative, I predict we'll see many "accelerators" that operate in the way a startup accelerator does, but for all kinds of skills (e.g. engineers, designers, builders, filmmakers, etc.)
+
+But the devil is in the details. What does it mean to "invest" in an individual? Investing in a business is clear: you invest and as the company is valued more (based on perceived ability to generate long-term revenue), the value of your equity increases.
+
+What does that mean for an individual? Does it mean that you have the right to invest in any business they start in the future at a discounted price? How do you ground what a person is "valued" in reality: the value they create in the world? What will be the role of regulation in this? How do we deter fraudulent activity (a person saying they've created something when they didn't, in order to create hype and be invested in).
+
+**2. AI to scale personalized feedback**
+
+AI could scale high quality personalized feedback.
+
+The current state of AI means that it's not possible to get it anywhere close to a master's personalized feedback, but I believe with the right training examples, likely compiled and curated by masters of the craft, it's possible to get the quality of feedback to be quite useful such that it can enable a quality of learning that most people simply don't have access to.
+
+In the coming years, as the underlying AI becomes more powerful, these feedback systems will become more powerful.
+
+AI can also be used by platforms to train copilots based on the data users generate on the platform such that it represents the principles that lead to quality output.
+
+**3. Policy changes that affords more people the opportunity to learn.**
+
+I believe we'll eventually need some form of universal basic income. When the power law dominates creative skills, there will likely be many people who despite putting in a lot of effort to learn, will simply not meet the bar for creativity to be able to create value in this world. We need some sort of safety net for those that can't reach high creative competence.
+
+I believe with enough time and the right training most people can become creatively competent. But the challenge with learning creative skills is that the timeline is unpredictable. It's not clear how long someone will take to become competent enough to be able to create value with the skill, and therefore some financial assistance is required for an individual to afford to take the time to train themselves.
+
+As skills become more creative, it's increasingly counterproductive to prop up failing educational institutes with taxpayer money. It would be better to put money in peoples' hands and let them choose the learning paths they want. They'd be able to buy tools that they'd need to create (computers, software, etc.), take valuable trips to meetups in other cities when needed, attend conferences and events to meet others on similar learning paths - all of which will be incredibly valuable as the world becomes more creative and the standardized education at government subsidized colleges becomes more useless.
+
+The greatest challenge with these kinds of financial / policy changes is that it requires the government to have enough money in its coffers to afford it. We'll likely see these shifts in developed countries and the path isn't clear for when it will arrive to impoverished countries who will have a increasingly tougher time competing with countries that become creative more quickly.
+
+We'll need global cooperation to ensure that poorer countries don't fall through the cracks - which isn't beneficial to any of us. The world is so connected today that one nation failing disastrously can impact all of us.
+
+At the same time it's rational and human nature to protect ourselves and our loved ones first before we can think about aiding people around the world, and hence this sort of global cooperation will be quite challenging and I'm not sure when we'll get to it.
 ### Concluding thoughts
 
-### Notes
+### Footnotes
 
 **Clarifications**:
 - When I say "non-creative", I'm not at all making the claim that it's easier, or that it doesn't require skill. The only difference is the correlation b/w/ inputs and outputs, teachability, and the power law dynamic that arises as a byproduct.
@@ -272,3 +317,9 @@ Learning ecosystems around tools -> Notion, Replit, Figma, Midjourney.
 - My family friend who's currently in his 2nd year of college in Hyderabad, in quite a reputed college (not an IIT, but a popular private university in Hyderabad) is learning some arcane Java. They memorize definitions of programming concepts and regurgitate it during exams. He hasn't learned anything worthwhile in college from what I can tell, except for the natural social maturation that comes at that age from engaging with many peers.
 
 More consequences of rising bar for creativity: hierarchical organization structure makes no sense, especially when you associate value with seniority. That's completely outdated.
+
+**Thoughts on why elite institutions produce talent**:
+- Even for the colleges that seem to produce great talent, it isn't clear how much they actually contributed to the talent, and how much the talent is a consequence of grouping together highly ambitious students through an artificially scarce admissions process.
+- Just because a person landed a job after college, doesn't mean the college program is what enabled them to do so. They could be getting jobs despite their college education, yet the college takes the entire credit for it.
+- Most graduates need to get a job in order to survive. No matter how much, or little, support their college provides, if there's a way to get a job, they will find a way to get it through various efforts. The student's back is against the wall, a do or die situation, and they'll fight to land jobs. And when they get the job, largely through their own efforts, their college takes the credit.
+- In addition to this, companies often take the burden of training and education while paying the employee. They do this because they simply can't find enough competent people to hire. And so they're forced to hire untrained new grads and train them.

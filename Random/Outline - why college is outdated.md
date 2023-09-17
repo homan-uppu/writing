@@ -75,7 +75,7 @@ But: you can only be around for so long if you're fundamentally mis-aligned with
 
 **What's next?**
 - Investing in individuals.
-	- Talk about the PG approach to education. I mean, YC is basically an educational institute. This model makes sense for the way education is heading:
+	- Talk about the YC approach to education - it's basically an educational institute. This model makes sense for the way education is heading:
 		- Masters only give feedback to the most promising students, and set themselves up to **benefit in the long-run via one off hits.** , enabling them to 
 - **AI has the potential to fundamentally change the economics** (amplify the reach of masters - via personalized feedback at scale).
 	- In creative domains, even the quality of teachers follows the power law. And therefore, it's incredibly important to enable the best to reach the masses, not just through content, but through personalized feedback (which is where most of the value is for creative skills).

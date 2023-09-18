@@ -7,9 +7,13 @@ Graduate employment rates mask the truth. The reality is that many graduates are
 
 More than 40% of new grads (in just the US) are underemployed. It's even worse in emerging economies ([https://economictimes.indiatimes.com/jobs/fresher/worthless-degrees-are-creating-an-unemployable-generation-in-india/articleshow/99570996.cms?from=mdr](https://economictimes.indiatimes.com/jobs/fresher/worthless-degrees-are-creating-an-unemployable-generation-in-india/articleshow/99570996.cms?from=mdr)).
 
-Another way poor education manifests in the economy is the squeeze: lower salaries, less job security, less benefits, and therefore greater anxiety about the future. And hence many graduates are crippled with student loan debt that's becoming tougher to pay off because they're unable to get employed and command high salaries.
+Another way poor education manifests in the economy is the squeeze: lower salaries, less job security, less benefits, and therefore greater anxiety about the future. 
 
-Some try to explain this phenomena by blaming a poor economy, that somehow there isn't room for everyone to thrive in this world. But our economy is a positive sum game. It's entirely possible that with the right training, education and opportunity, most people can thrive in this world by creating their own opportunities and growing the size of the economy.
+And hence many graduates are crippled with student loan debt that's becoming tougher to pay off because they're unable to get employed and command high salaries. And likely a factor in why people marry later, and have kids later. It's no longer feasible to start a family working jobs with minimal pay as everything's gotten more expensive.
+
+College education was designed and scaled as a response to the industrial revolution that created many jobs that turned ideas to reality. With a standardized college education, with a high probability, you could get a job with security, benefits and reasonable pay.
+
+In this essay I explore the changes in the world that eroded the job security that existed in previous generations, and explore why colleges will fail to provide the kind of education that can train a mind to thrive in the world today.
 
 ### The bar for creativity is rising
 

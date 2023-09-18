@@ -1,21 +1,15 @@
-(And some thoughts on what's next)
+And some thoughts on what's next.
 ### It's not working
 
 Most college education around the world is useless. Colleges don't train students to thrive in today's world, and a college education is increasingly a poor financial investment.
 
-More than 40% of new grads (in just the US) are underemployed - working jobs that don't require a degree. This is even worse in emerging economies ([https://economictimes.indiatimes.com/jobs/fresher/worthless-degrees-are-creating-an-unemployable-generation-in-india/articleshow/99570996.cms?from=mdr](https://economictimes.indiatimes.com/jobs/fresher/worthless-degrees-are-creating-an-unemployable-generation-in-india/articleshow/99570996.cms?from=mdr)).
+Graduate employment rates mask the truth. The reality is that many graduates are underemployed by working jobs that don't require a degree.
 
-And so it's difficult to gain any insights on how effective a college education is from the college employment pitch.
+More than 40% of new grads (in just the US) are underemployed. It's even worse in emerging economies ([https://economictimes.indiatimes.com/jobs/fresher/worthless-degrees-are-creating-an-unemployable-generation-in-india/articleshow/99570996.cms?from=mdr](https://economictimes.indiatimes.com/jobs/fresher/worthless-degrees-are-creating-an-unemployable-generation-in-india/articleshow/99570996.cms?from=mdr)).
 
-Unemployment rates hide the reality.
+Another way poor education manifests in the economy is the squeeze: lower salaries, less job security, less benefits, and therefore greater anxiety about the future. And hence many graduates are crippled with student loan debt that's becoming tougher to pay off because they're unable to get employed and command high salaries.
 
-- Hidden unemployment.
-- **The economize squeeze**. (This is important to think through because you need to have a strong counter to someone who just responds with an unemployment rate graph for a country / the world).
-- **The world is a positive sum game**, so it doesn't have to be like this. In the extreme, everyone can be creative, and competent to create demand where there is none. The squeeze is the consequence of not having the right training to enable people to thrive in our world.
-
-Reality is bleaker than the numbers suggest. You can relatively quickly uncover the reality. Talk to 100 new grads from non elite institutions around the world and talk to them about how their job hunt is coming along.
-
-It's brutal.
+Some try to explain this phenomena by blaming a poor economy, that somehow there isn't room for everyone to thrive in this world. But our economy is a positive sum game. It's entirely possible that with the right training, education and opportunity, most people can thrive in this world by creating their own opportunities and growing the size of the economy.
 
 ### The bar for creativity is rising
 
@@ -36,6 +30,8 @@ For knowledge work, the bar for creativity in order to be valuable is rising inc
 The way to train for creative skills is drastically different from non-creative ones. The underlying economics and incentives means that the college model of education no longer works in today's world with a much higher bar for creativity.
 
 To see why, we have to study how creative domains operate and understand what happens when a skill shifts from non-creative to creative.
+
+(Need to talk about exponential change here. Hmm...).
 ### Features of creative domains
 
 **1. Creative skills follow a power law distribution**: few drastically outperform the rest.
@@ -297,38 +293,7 @@ Technology is evolving exponentially fast, and so is the rate at which the bar f
 
 I welcome your feedback, and I'd love to connect especially if you're actively working in this space.
 ### Footnotes
-
-**Clarifications**:
 - When I say "non-creative", I'm not at all making the claim that it's easier, or that it doesn't require skill. The only difference is the correlation b/w/ inputs and outputs, teachability, and the power law dynamic that arises as a byproduct.
 - Clarify what I mean by Triplebyte failing - it's a "failure" only in the sense of being a venture backed business that set out to disrupt hiring and education for the world. It could have sustained itself as a moderate, small business, and there's nothing wrong with that, but that's not going to solve the massive education problem we have on our plates.
 
-**This is great:**
-(Basically, something along the lines of "creativity isn't necessarily fun."). It's a brutal process, especially if your livelihood depends on it.
-- There is no fairness in how selection happens in creative domains.
-- Scarce signals are required to stand out in creative fields. This is why I think elite college opaque admissions processes actually make sense. Stanford will be a better experience because of its opaque admissions. In an alternate world in which those that do the best in a standardized test get to the top colleges, elite institutions would likely lose their ability to produce better (on average) talent.
-- Similarly, YC has an extremely opaque admissions process. You simply can't have standardized / formula based approaches to admissions / hiring in creative domains.
-
-"- We're designed to minimize risk. Alternatives don't exist because as the bar for creativity increases, all paths are becoming risky. Therefore, when every path is risky, you're going to choose the path that "seems" the least risky: college - since it worked for a previous version of the world." - nice dialogue, not sure where to insert. Think about the most elegant way to make this point.
-
 ---
-### Todo
-- Coming back to education: standardized education doesn't work for creative skills because you can't say with confidence whether someone with an education in that creative skill can actually make a living doing it after graduating.
-- Therefore, in creative domains, the transactional educational business model in which we pay an upfront “tuition” (and often take out a loan to do so) in exchange for an education that we hope will enable us to build a career no longer works.
-
-- ISAs might seem different than the traditional exchange tuition for education, but it's basically the same thing: it shifts the risk from the student to the institute, but if the underlying economics doesn't work out, the institute will find it very difficult to sustain itself, let alone thrive.
-
-- As a result, the Tech industry has found itself in an interesting situation: It says it operates a certain way (according to the state of the world with a much lower bar for creativity), while operating according to a much higher bar for creativity.
-
-- It's sad and funny that every few months a post by a software engineer will go viral claiming that the software engineering interview is broken. They're right, it is! But I haven't heard of any good, economically feasible alternative because creative skills resist standardized evaluation. If it was a problem that could be fixed with a better standardized assessment, it would have been by now.
-
-**Case studies of lack of competence in new grads**:
-- My cousin graduated with a computer science degree from a second tier US college in 2019. He was far from being able to pass a technical interview at most companies, and his lack of a brand name education made it nearly impossible to hear back from companies, let alone get an interview. He spent almost a year simultaneously practicing interview problems, building projects and his pitch, and ruthlessly executing a cold emailing strategy + getting introductions through friends that finally landed him a handful of interviews, out of which he received 2 offers.
-- My family friend who's currently in his 2nd year of college in Hyderabad, in quite a reputed college (not an IIT, but a popular private university in Hyderabad) is learning some arcane Java. They memorize definitions of programming concepts and regurgitate it during exams. He hasn't learned anything worthwhile in college from what I can tell, except for the natural social maturation that comes at that age from engaging with many peers.
-
-More consequences of rising bar for creativity: hierarchical organization structure makes no sense, especially when you associate value with seniority. That's completely outdated.
-
-**Thoughts on why elite institutions produce talent**:
-- Even for the colleges that seem to produce great talent, it isn't clear how much they actually contributed to the talent, and how much the talent is a consequence of grouping together highly ambitious students through an artificially scarce admissions process.
-- Just because a person landed a job after college, doesn't mean the college program is what enabled them to do so. They could be getting jobs despite their college education, yet the college takes the entire credit for it.
-- Most graduates need to get a job in order to survive. No matter how much, or little, support their college provides, if there's a way to get a job, they will find a way to get it through various efforts. The student's back is against the wall, a do or die situation, and they'll fight to land jobs. And when they get the job, largely through their own efforts, their college takes the credit.
-- In addition to this, companies often take the burden of training and education while paying the employee. They do this because they simply can't find enough competent people to hire. And so they're forced to hire untrained new grads and train them.

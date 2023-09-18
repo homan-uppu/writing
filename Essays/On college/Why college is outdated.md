@@ -287,6 +287,15 @@ We'll need global cooperation to ensure that poorer countries don't fall through
 At the same time it's rational and human nature to protect ourselves and our loved ones first before we can think about aiding people around the world, and hence this sort of global cooperation will be quite challenging and I'm not sure when we'll get to it.
 ### Concluding thoughts
 
+Some might see this essay as a bit alarmist and may feel that we have some time before we make the necessary changes to adapt to a more creative world.
+
+The problem with that view is that it doesn't take into account exponential change. We unfortunately can't intuitively comprehend exponential change and therefore it creeps up on us more quickly than we anticipate. Our intuition is wrong when it comes to preparing for exponentially evolving phenomena.
+
+This is why we failed to adequately prepare for COVID in time despite the math clearly showing that it was on track to becoming a pandemic.
+
+Technology is evolving exponentially fast, and so is the rate at which the bar for creativity is rising. It's time to act to update our systems that are mis-aligned with the realities of a creative world.
+
+I welcome your feedback, and I'd love to connect especially if you're actively working in this space.
 ### Footnotes
 
 **Clarifications**:

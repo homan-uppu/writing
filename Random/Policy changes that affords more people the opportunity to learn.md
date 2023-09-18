@@ -1,5 +1,2 @@
-
-
-
 - Some form of UBI will be necessary at some point.
 - At the very least, don't artificially prop up educational institutes using tax payer money when they don't have a strong research value. Would much rather have that money go to young people to put to be able to choose their learning paths. Better use of that money. Whether that's paying for software they need to create, or attend a meetup in another city, or buy the tools they need to create. Those outcomes create a tangible difference in ways that 

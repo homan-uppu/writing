@@ -1,0 +1,3 @@
+- Magnitude of the problem: scale.
+- Exponential change.
+- Would appreciate your feedback.

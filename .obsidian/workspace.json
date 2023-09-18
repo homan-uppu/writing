@@ -32,9 +32,32 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "33fbd9ccbc05b52f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Random/Concluding thoughts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0b574c0c37600ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agenda/9-17-23.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 245.5,
+    "collapsed": true
   },
   "right": {
     "id": "ec038bdad1d66462",
@@ -100,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Random/Policy changes that affords more people the opportunity to learn.md",
+                "file": "Essays/On college/Why college is outdated.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Random/Policy changes that affords more people the opportunity to learn.md",
+                "file": "Essays/On college/Why college is outdated.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Random/Policy changes that affords more people the opportunity to learn.md"
+                "file": "Essays/On college/Why college is outdated.md"
               }
             }
           }
@@ -161,14 +185,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a9c50c06385baa66",
+  "active": "db18911120a66364",
   "lastOpenFiles": [
-    "Random/karthikuppuluri.com.md",
-    "Random/Untitled 1.md",
+    "Random/Concluding thoughts.md",
     "Essays/On college/Why college is outdated.md",
     "Random/Policy changes that affords more people the opportunity to learn.md",
-    "Random/AI to scale personalized feedback.md",
     "Agenda/9-17-23.md",
+    "Random/karthikuppuluri.com.md",
+    "Random/AI to scale personalized feedback.md",
     "Random/The playbook for optimal health and wellbeing.md",
     "Random/AI  learning study.md",
     "Random/What's next.md",

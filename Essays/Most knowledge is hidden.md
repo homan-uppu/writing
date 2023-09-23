@@ -1,0 +1,1 @@
+(This is what the "Rewarding curation" essay should be about. Do another dictation with this narrow focus).

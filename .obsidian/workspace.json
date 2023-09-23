@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Essays/The skills that matter.md",
+                "file": "Random/Essays.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f7ac3edd13ef40b1",
+            "id": "7d2e3755727660ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Random/Big picture.md",
+                "file": "Essays/Some thoughts on freeing the mind.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Essays/The skills that matter.md",
+                "file": "Random/Essays.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Essays/The skills that matter.md",
+                "file": "Random/Essays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Essays/The skills that matter.md"
+                "file": "Random/Essays.md"
               }
             }
           }
@@ -146,8 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,13 +160,23 @@
   },
   "active": "8c87624c0a60f38c",
   "lastOpenFiles": [
-    "Random/Dictation is the way to go.md",
-    "Random/Craft the angle that pulls you.md",
+    "Random/How to go about building the next project.md",
+    "Random/Essays.md",
     "Essays/Some thoughts on freeing the mind.md",
+    "Random/Two compelling directions.md",
+    "Random/On the importance of communicating well.md",
+    "Random/Why do I write differently than I talk?.md",
     "Essays/The skills that matter.md",
-    "Random/Big picture.md",
-    "Agenda/9-22-23.md",
+    "Agenda/9-23-23.md",
+    "Random/Some thoughts on writing.md",
+    "Essays/Most knowledge is hidden.md",
     "Random/Choosing the essays to draft..md",
+    "Random/Craft the angle that pulls you.md",
+    "Random/Dictation is the way to go.md",
+    "Random/I feel shame.md",
+    "Random/Big picture.md",
+    "Essays/Rewarding curation.md",
+    "Agenda/9-22-23.md",
     "Random/Dictation process.md",
     "Random/The most powerful financial asset.md",
     "Random/The discipline of running, writing, building.md",
@@ -177,16 +186,6 @@
     "Random/Writing perspiration.md",
     "Random/Why do I feel so damn stuck?.md",
     "Random/Attacking the knowledge gap.md",
-    "Essays/Timeless work.md",
-    "Essays/Rewarding curation.md",
-    "Essays/How to train creativity (the kind that matters).md",
-    "Essays/Being able to invest in individuals will transform education.md",
-    "Essays/Reasons to avoid political workplaces.md",
-    "Essays/It's tough for AI to write.md",
-    "Essays/We're terrible at assessing risk.md",
-    "Essays/Be attached to outcomes, not the means.md",
-    "Essays/The world is larger than you think.md",
-    "Essays/Why creativity is eating the world.md",
     "Random/Untitled",
     "creative-fields.png",
     "Screenshot 2023-09-06 at 10.02.35 AM.png",

@@ -42,6 +42,8 @@ And so I also feel like, as the world becomes more creative, or as the bar for c
 
 For an entire week, every creator on the world created a video or song or movie that resembled the style of that trend, then very soon, we're going to have a need for something fresh. And I think it's that fundamental desire for something new and fresh that, well, it keeps humanity fresh in a way, because it's what enables and gives life an opportunity for new products, new art, new things. Because we always want things that are better, we always want things that are fresh, different.
 
+The craving for new and better things pushes our species to create. It's what rewards those that 
+
 And so in a way, that's such a, it's a positive force that leads to more creation. But at the same time, that means that anyone in a creative domain will have to understand this inner balance or trade off between catering to the algorithm versus taking a riskier path. Catering to their artistry. It's a tough skill.
 
 ### Building Mental Fortitude for Artistic Pursuits

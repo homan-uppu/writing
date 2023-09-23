@@ -1,20 +1,12 @@
 And some thoughts on what's next.
-### It's not working
 
-Most college education around the world is useless. Colleges don't train students to thrive in today's world, and a college education is increasingly a poor financial investment.
+Most college education around the world is useless. Colleges no longer train students to thrive in the world, and a college education is increasingly a poor financial investment.
 
 Graduate employment rates mask the truth. The reality is that many graduates are underemployed by working jobs that don't require a degree.
 
-More than 40% of new grads (in just the US) are underemployed. It's even worse in emerging economies ([https://economictimes.indiatimes.com/jobs/fresher/worthless-degrees-are-creating-an-unemployable-generation-in-india/articleshow/99570996.cms?from=mdr](https://economictimes.indiatimes.com/jobs/fresher/worthless-degrees-are-creating-an-unemployable-generation-in-india/articleshow/99570996.cms?from=mdr)).
+More than 40% of new grads (in just the US) are underemployed. It's [even worse in emerging economies](https://economictimes.indiatimes.com/jobs/fresher/worthless-degrees-are-creating-an-unemployable-generation-in-india/articleshow/99570996.cms?from=mdr)
 
-Another way poor education manifests in the economy is the squeeze: lower salaries, less job security, less benefits, and therefore greater anxiety about the future. 
-
-And hence many graduates are crippled with student loan debt that's becoming tougher to pay off because they're unable to get employed and command high salaries. And likely a factor in why people marry later, and have kids later. It's no longer feasible to start a family working jobs with minimal pay as everything's gotten more expensive.
-
-College education was designed and scaled as a response to the industrial revolution that created many jobs that turned ideas to reality. With a standardized college education, with a high probability, you could get a job with security, benefits and reasonable pay.
-
-In this essay I explore the changes in the world that eroded the job security that existed in previous generations, and explore why colleges will fail to provide the kind of education that can train a mind to thrive in the world today.
-
+An inadequate education manifests as the squeeze: lower salaries, less job security, less benefits, crippling student loan debt and greater anxiety about the future.
 ### The bar for creativity is rising
 
 As technology has become more powerful, it's reduced the effort to turn ideas into reality. This technological “leverage” raises the bar for creativity that's required to be useful in this world - especially in knowledge work.
@@ -40,7 +32,7 @@ To see why, we have to study how creative domains operate and understand what ha
 
 **1. Creative skills follow a power law distribution**: few drastically outperform the rest.
 
-![[Screenshot 2023-09-11 at 11.41.50 AM.png]]
+![[creative-fields.png]]
 [https://andrewchen.com/creator-economy-20/](https://andrewchen.com/creator-economy-20/).
 
 Most creators don't make any money, and most of the revenue generated goes to the top creators.

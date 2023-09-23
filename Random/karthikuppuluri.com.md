@@ -1,3 +1,9 @@
+
+
+Cool. Once this is all done, publish the draft of the first essay and share with friends. Done.
+
+----
+
 https://essl.framer.website/about -> very nice design.
 
 ----

@@ -4,30 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "21ec5783392654aa",
+        "id": "82e62961ba3e1339",
         "type": "tabs",
         "children": [
           {
-            "id": "db18911120a66364",
+            "id": "8c87624c0a60f38c",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Essays/On college/Why college is outdated.md",
+                "file": "Essays/The skills that matter.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           },
           {
-            "id": "5ee961fdc2d93034",
+            "id": "f7ac3edd13ef40b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Random/Intro.md",
+                "file": "Random/Big picture.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Essays/On college/Why college is outdated.md",
+                "file": "Essays/The skills that matter.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Essays/On college/Why college is outdated.md",
+                "file": "Essays/The skills that matter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Essays/On college/Why college is outdated.md"
+                "file": "Essays/The skills that matter.md"
               }
             }
           }
@@ -148,7 +146,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,39 +159,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db18911120a66364",
+  "active": "8c87624c0a60f38c",
   "lastOpenFiles": [
-    "Random/Intro.md",
-    "Essays/On college/Why college is outdated.md",
-    "Random/Need to lose weight..md",
-    "Random/Jiddu Krishnamurthi.md",
-    "Random/Policy changes that affords more people the opportunity to learn.md",
-    "Random/Essay TODO (why college is outdated).md",
-    "Random/More creativity, less \"fairness\".md",
-    "Random/AI  learning study.md",
-    "Random/Concluding thoughts.md",
-    "Agenda/9-17-23.md",
-    "Random/karthikuppuluri.com.md",
-    "Random/AI to scale personalized feedback.md",
-    "Random/The playbook for optimal health and wellbeing.md",
-    "Random/What's next.md",
-    "Random/Be unwaveringly long-term oriented.md",
-    "Random/Seinshiro Endo.md",
-    "Random/Shuhari.md",
-    "Untitled 2.md",
-    "Random/Diet.md",
-    "Random/Outline - why college is outdated.md",
-    "Random/Pay-to-learn doesn't work.md",
-    "Random/Grind harder..md",
-    "Random/Why colleges can't adapt.md",
-    "Ideas/Knowledge curation.md",
-    "Agenda/9-16-23.md",
-    "Random/Today is incredibly important.md",
-    "Screenshot 2023-09-11 at 11.41.50 AM.png",
+    "Random/Dictation is the way to go.md",
+    "Random/Craft the angle that pulls you.md",
+    "Essays/Some thoughts on freeing the mind.md",
+    "Essays/The skills that matter.md",
+    "Random/Big picture.md",
+    "Agenda/9-22-23.md",
+    "Random/Choosing the essays to draft..md",
+    "Random/Dictation process.md",
+    "Random/The most powerful financial asset.md",
+    "Random/The discipline of running, writing, building.md",
+    "Random/It's just the discipline. You're going to see this writing phase through. 100%..md",
+    "Random/Children are inspiring.md",
+    "Random/Keep the motivation intrinsic.md",
+    "Random/Writing perspiration.md",
+    "Random/Why do I feel so damn stuck?.md",
+    "Random/Attacking the knowledge gap.md",
+    "Essays/Timeless work.md",
+    "Essays/Rewarding curation.md",
+    "Essays/How to train creativity (the kind that matters).md",
+    "Essays/Being able to invest in individuals will transform education.md",
+    "Essays/Reasons to avoid political workplaces.md",
+    "Essays/It's tough for AI to write.md",
+    "Essays/We're terrible at assessing risk.md",
+    "Essays/Be attached to outcomes, not the means.md",
+    "Essays/The world is larger than you think.md",
+    "Essays/Why creativity is eating the world.md",
+    "Random/Untitled",
+    "creative-fields.png",
+    "Screenshot 2023-09-06 at 10.02.35 AM.png",
     "Essays/Untitled",
     "Essays/Job hunting",
-    "Random/Untitled",
-    "Screenshot 2023-09-06 at 10.02.35 AM.png",
     "Essays/Published",
     "Essays/Dailies",
     "Essays/On college",

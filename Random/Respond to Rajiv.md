@@ -1,0 +1,1 @@
+https://blog.rajivayyangar.com/what-happened-to-tandem-virtual-office/ - this was a powerful read and learning.

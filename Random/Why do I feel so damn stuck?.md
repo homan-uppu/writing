@@ -1,0 +1,1 @@
+This is crazy. In a way, I feel super fucking stuck.

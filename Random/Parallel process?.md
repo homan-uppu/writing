@@ -1,0 +1,1 @@
+Or write shorter essays. I think the shorter is better. Amen.

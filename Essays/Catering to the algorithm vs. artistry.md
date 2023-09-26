@@ -79,3 +79,9 @@ And this craving for external validation, I think, is one of the deepest, deepes
 ### Striking a Balance between Algorithm and Artistry
 
 So if I were to take this from the top, how would I summarize the flow of what I just thought through? As the world becomes more creative, and as more of us create, we will have to come face to face with one of the most fundamental challenges for any creator, which is finding the balance between the algorithm and artistry. Which is resisting the craving for short-term external validation, so that we can do great work that we're proud of. So that we can hopefully also master this craving of inner external validation, and maybe build a little bit more peace in our minds. Thank you very much.
+
+----
+
+"I think there are four great motives for writing, at any rate for writing prose. They exist in different degrees in every writer, and in any one writer the proportions will vary from time to time, according to the atmosphere in which he is living. They are:
+
+(i) Sheer egoism. Desire to seem clever, to be talked about, to be remembered after death, to get your own back on grown-ups who snubbed you in childhood, etc., etc. It is humbug to pretend this is not a motive, and a strong one"

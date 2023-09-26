@@ -1,0 +1,4 @@
+- https://slab.com/blog/jeff-bezos-writing-management-strategy/
+- It takes patient, courage, and ambition.
+- Ambition requires you to be extremely long-term thinking.
+- Can you train yourself to be more ambitious and long-term thinking? Hmm... not sure.

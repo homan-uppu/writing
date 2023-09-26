@@ -1,0 +1,1 @@
+Finding your voice across mediums - this is important, and I'm going to work on this with writing first, and will then expand it to other mediums. Amen.

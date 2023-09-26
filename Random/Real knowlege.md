@@ -1,0 +1,1 @@
+Is the path of Yoga: to understand intimately the nature of the mind and to learn how to wield it.

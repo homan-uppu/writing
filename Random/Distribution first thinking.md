@@ -1,0 +1,1 @@
+When thinking through the writing copilot, work backwards from the audience, their problems, how much they'd value this solution, how you'd effectively reach them.

@@ -32,7 +32,7 @@ The second skill I would say is having a taste, having good taste, having good j
 
 There are some people just tend to do this really well. They just end up at the right place at the right time with the right people doing the right things. And they're rewarded for it by achieving what they want to.
 
-How much of it is luck and how much of it is skill? Some people do this so consistently well that I believe it's more skill than luck.
+Some people do this so consistently well that I believe it's more skill than luck.
 
 ### Communicating
 

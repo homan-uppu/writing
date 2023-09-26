@@ -1,0 +1,1 @@
+If you can't explain something in 1000 words, do you really understand it?

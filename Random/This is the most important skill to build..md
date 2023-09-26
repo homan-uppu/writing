@@ -1,0 +1,1 @@
+Embrace the pain. Embrace the suffering. Amen.

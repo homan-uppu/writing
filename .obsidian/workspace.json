@@ -4,34 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "873520f40a50a9ad",
+        "id": "967557b13fa5d14d",
         "type": "tabs",
         "children": [
           {
-            "id": "d251d1c300a713e1",
+            "id": "d13c894cd068fc13",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Essays/Hidden knowledge.md",
+                "file": "Essays/Why I worry about education.md",
                 "mode": "source",
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "beb1f1b18c85e625",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "2c1c3ef6759ada63",
+            "id": "26d242be82f2b5ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Random/Gaps in \"Hidden knowledge\".md",
+                "file": "Random/Building the writing muscle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2edaa74e2a44ed61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Random/Zestful ease.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Essays/Hidden knowledge.md",
+                "file": "Essays/Why I worry about education.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Essays/Hidden knowledge.md",
+                "file": "Essays/Why I worry about education.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Essays/Hidden knowledge.md"
+                "file": "Essays/Why I worry about education.md"
               }
             }
           }
@@ -165,35 +171,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d251d1c300a713e1",
+  "active": "d13c894cd068fc13",
   "lastOpenFiles": [
-    "Random/Gaps in \"Hidden knowledge\".md",
-    "Essays/Hidden knowledge.md",
-    "Essays/The quality of your feed, is the quality of your mind..md",
-    "Random/Curation is an important aspect of teaching.md",
-    "Random/Editing is writing..md",
-    "Random/The only ideas that I care about right now.md",
-    "Ideas/Writing feedback.md",
-    "Ideas/Consumption copilot.md",
-    "Random/Code explainer.md",
-    "Random/Brainstorming.md",
-    "Random/Knowledge curation.md",
-    "Ideas/Make people smarter system.md",
-    "Random/Concise explanations.md",
-    "Random/The opportunity for impact is larger than it seems.md",
-    "Random/Distribution first thinking.md",
-    "Random/Writing is the most important muscle..md",
-    "Random/Most knowledge is hidden.md",
-    "Random/Untitled",
-    "Random/The creativity essay will take many rounds of iterations..md",
-    "Random/Eat less food. Less often..md",
-    "Random/Keep at this path..md",
-    "Agenda/9-26-23.md",
+    "Agenda/9-28-23.md",
+    "Essays/Why I worry about education.md",
+    "Random/Message to Dev.md",
+    "Random/A sizable, and growing, part of my motivations is the thirst for freedom..md",
+    "Random/Writing style.md",
+    "Random/The intro.md",
+    "Random/On resilience.md",
+    "Random/Compounding.md",
+    "Random/AI protect me from myself (Draft notes).md",
+    "Random/Braindump.md",
+    "Random/Cadence.md",
+    "Random/It's decided.md",
+    "Essays/ESSAYS README.md",
+    "Random/Building the writing muscle.md",
+    "Random/My commitment.md",
+    "Random/Zestful ease.md",
+    "Random/The essence of this process.md",
+    "Random/Haters gonna hate.md",
     "Essays/Skills that matter.md",
-    "Essays/Catering to the algorithm vs. artistry.md",
-    "Essays/Creativity is eating the world.md",
-    "Essays/Be attached to outcomes, not the means.md",
-    "Essays/The tool becomes the teacher.md",
+    "Essays/Hidden knowledge.md",
+    "Random/Why such deviation for this next essay?.md",
+    "Random/Massive tectonic shift.md",
+    "Ideas/Writing copilot.md",
+    "Ideas/Consumption copilot.md",
+    "Random/Must resist the snacks.md",
+    "Random/The only ideas that I care about right now.md",
+    "Random/Untitled",
     "creative-fields.png",
     "Screenshot 2023-09-06 at 10.02.35 AM.png",
     "Essays/Untitled",

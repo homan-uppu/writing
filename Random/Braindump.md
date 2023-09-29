@@ -1,3 +1,13 @@
+Every idea that I write about, I realize just how much more nuanced it is than I had originally thought.
+
+Writing is the most powerful tool I've come across to inspect how I feel about something. Observation leads to a feeling, an intuition about something. Writing is the process to turn that feeling into a useful understanding about the world that helps me act.
+
+What's the mind that you're building? - This is the most important question that I ought to keep asking myself.
+
+Hatred / anger aren't useful to give attention to. Let them settle, and move on. Lingering doesn't help you "get back" at someone, it just gives them greater power over you. How quickly you can move on determines the strength of your mind.
+
+----
+
 Ashtanga, minimal food (And I think you overestimate what minimal is - you can go a lot less than you think), meditation to ground the mind.
 
 No financial burden looming over my head - this may be a factor in crippling the state of my mind.

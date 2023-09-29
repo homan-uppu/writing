@@ -1,0 +1,1 @@
+In order to survive this phase, you must operate with zestful ease. This is how you maximize productivity. Regulating energy. Keeping the balance. Being at ease, and yet with strong concentration. Amen.

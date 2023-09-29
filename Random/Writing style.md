@@ -1,0 +1,1 @@
+There was something so genuine about Patrick's writing that I'd like to analyze. It felt real. And, even though it was long, I wanted to read it. Let's go read one of his essays, get water, and come back.

@@ -1,0 +1,3 @@
+- I should make this essay **exceptionally high quality** via a powerful image that represents the problem I see (that image is clear in my mind, just need to get that output via AI - and that too will be a great learning experience: to push these systems to translate my idea to reality, the way it is). Let's see how this works.
+	- Don't get feedback on this, and look to publish it today, no matter what. (before posting, comment on something in HN, I feel like that changes how the post is received).
+- 

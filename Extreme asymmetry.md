@@ -40,10 +40,28 @@ The following become apparent as we move from a simple game to more complex game
 
 ...
 
-The games we play in life are far, far more complex than the games we discussed above. There are more possible decisions. Each game lasts longer (often till we die). Which means that the asymmetry in our lives should be much, much greater than what we see in simpler games.
+The games we play in life are far, far more complex than the games we discussed above. There are more possible decisions. Each game lasts longer (often till we die). Which means that the true asymmetry in our endeavors should be much, much greater than what we see in simpler games.
 
 But why then for much of human history we haven't really seen such asymmetry? In the industrial age, many workers were paid similar wages. Even as recently as a couple of decades ago, there was a strong middle class that led similar lives because they made similar amounts of money. Our education systems have been designed to produce similarly knowledgeable graduates.
 
-How could we have had so much symmetry when the reality was incredibly asymmetrical?
+There are a few reasons:
+- Freedom to do what you want.
+- Leverage.
+- 
 
 I believe the reason isn't that the underlying asymmetry was different, but rather that 
+
+...
+
+Our emotional response is outdated.
+
+(a graph of gdp, with the flat part circled to show what we are conditioned for, and how the nature of the world, what works in the world, the level of symmetry in that world is vastly different than the part that we're in now).
+
+Some emotional responses are conditioned through evolution. Others are conditioned through cultural impressions. We all likely feel shock when we hear a loud bang near us, or the feeling of a snake rubbing up against our foot on a walk. This is evolutionary conditioning.
+
+An example of cultural conditioning is my fear of debt. When I was young my family was in a great deal of debt. We lived in India where there weren't many formal avenues to take loans and therefore my family took a large informal loan for a business that didn't work out. Debt collection was carried out by goons. The stories I heard from my mother growing up about how disgusting that situation made her feel has given me a great aversion towards debt. I've never had a credit card. The times I borrowed a bit from a friend I wasn't able to sleep well at night. My cultural conditioning has made me despise owing someone something and being answerable to them.
+
+I'm actively working on reducing my aversion towards debt because I think it's too extreme 
+
+We lack the cultural conditioning for equality.
+

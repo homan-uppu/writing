@@ -1,5 +1,7 @@
 ### Extreme asymmetry
 
+There is something important to say about the path to mastery - and how that increases 
+
 ---
 
 (note: tbc I'm not trivializing human endeavors by calling everything just a "game". You can replace game with whatever word / phrase you want as long as it represents the underlying decision tree structure )

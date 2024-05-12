@@ -34,13 +34,16 @@ To study how asymmetry is a function of complexity, let's look at three games: T
 
 The following become apparent as we move from a simple game to more complex games:
 - The number of truly equal states decreases as a percentage of all states.
-- Calculation becomes less valuable as a tool the more complex the game becomes, and intuition is used more.
-- 
-
+- Calculation becomes less valuable as a tool the more complex the game becomes, and intuition is used more. (analogy: how the body functions very differently for sprinting vs. long distance, the mind applies a different mechanism altogether for more complex games). (note: about how AI has also evolved from calculation towards intuition).
+- Fewer draws
+- More pronounced power law of skill (compare ELO ratings).
+- Teaching the game becomes more difficult as formulas and calculations play less of a role. (just touch on this and say how this will be the focus of a future essay - perhaps you can put this as annotation instead of here).
 
 ...
 
 The games we play in life are far, far more complex than the games we discussed above. There are more possible decisions. Each game lasts longer (often till we die). Which means that the true asymmetry in our endeavors should be much, much greater than what we see in simpler games.
+
+(And something about how inaccuracies early on if we continue playing on, will take us far, far away from the optimal).
 
 But why then for much of human history we haven't really seen such asymmetry? In the industrial age, many workers were paid similar wages. Even as recently as a couple of decades ago, there was a strong middle class that led similar lives because they made similar amounts of money. Our education systems have been designed to produce similarly knowledgeable graduates.
 
@@ -49,7 +52,7 @@ There are a few reasons:
 - Leverage.
 - 
 
-I believe the reason isn't that the underlying asymmetry was different, but rather that 
+I believe the reason isn't that the underlying asymmetry was different, but rather that it wasn't visible due to external factors.
 
 ...
 
@@ -57,11 +60,29 @@ Our emotional response is outdated.
 
 (a graph of gdp, with the flat part circled to show what we are conditioned for, and how the nature of the world, what works in the world, the level of symmetry in that world is vastly different than the part that we're in now).
 
-Some emotional responses are conditioned through evolution. Others are conditioned through cultural impressions. We all likely feel shock when we hear a loud bang near us, or the feeling of a snake rubbing up against our foot on a walk. This is evolutionary conditioning.
+Some emotional responses are conditioned through evolution. Others are conditioned through culture: the stories we tell each other, and ourselves. We all likely feel shock when we hear a loud bang near us, or the feeling of a snake rubbing up against our foot on a walk. This is evolutionary conditioning.
 
 An example of cultural conditioning is my fear of debt. When I was young my family was in a great deal of debt. We lived in India where there weren't many formal avenues to take loans and therefore my family took a large informal loan for a business that didn't work out. Debt collection was carried out by goons. The stories I heard from my mother growing up about how disgusting that situation made her feel has given me a great aversion towards debt. I've never had a credit card. The times I borrowed a bit from a friend I wasn't able to sleep well at night. My cultural conditioning has made me despise owing someone something and being answerable to them.
 
-I'm actively working on reducing my aversion towards debt because I think it's too extreme 
+I'm actively working on reducing my aversion towards debt because I think it's too extreme. But I think that's a much better position to be in than to train caution when there is none.
 
-We lack the cultural conditioning for equality.
+We unfortunately don't just lack the caution against equality, we've been culturally conditioned to want it! (quickly explain why we wanted it in the past).
+
+Training the right intuition is a monumental task. This means that even if you intellectually understand that there's asymmetry, you still probably suck at acting optimally (need to define what optimally means here).
+
+I've started applying the following heuristics in my life to become better at gauging asymmetry, and developing my intuition.
+- jk
+- kj
+- j
+
+
+...
+
+(Perhaps as a footnote - I'm not sure this ought to be in the focus of the essay).
+Asymmetry is becoming more extreme across the board.
+- Fraction of a country's population contribute to outcomes.
+- Fraction of people will control most of world's wealth and influence.
+- (a few more shocking examples).
+
+The only way to counter this is to make the games we play less fair, or slow down the rate at which we can play, or reduce the complexity of the games we play (i.e. make technology worse, not better). I don't think these are possible, which is why I'm a strong advocate of universal basic income. We can't change the growing inequality, but we can raise the floor.
 

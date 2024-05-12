@@ -1,0 +1,1 @@
+For example, after discovering that the power law exists in everything, I tried to 

@@ -1,6 +1,10 @@
 ---
 
 ---
+"Do not whine... Do not complain. Work harder. Sped more time alone." - Joan Didion. 
+
+---
+
 https://en.wikipedia.org/wiki/Pothana - a spiritual poet. On that note, there 
 
 ---
@@ -14,15 +18,10 @@ Language is a technology to preserve and propagate culture between disconnected 
 https://collabfund.com/blog/intelligent-vs-smart/ -> "It’s similar in investing. Hedge fund manager Kyle Bass summed this up well, saying: “It’s easy to maintain conviction. It’s harder to maintain investors.” The most successful investors tend to be expert communicators, because you have to compel your investors to stick with you during inevitable times of underperformance. Buffett. Sequoia. Even Vanguard; they are so skilled – intentionally so – at delivering an effective message beyond the numbers.
 
 Warren Buffett – amazing writer.
-
 Charlie Munger – amazing writer.
-
 Seth Klarman – amazing writer.
-
 John Bogle – amazing writer.
-
 Joel Greenblatt – amazing writer.
-
 Howard Marks – amazing writer.
 
 I don’t think this is a coincidence. These investors’ ability to write let them effectively tell their story, set expectations, and reassure investors. That made their investors more likely to stick around when times got rocky.

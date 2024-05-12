@@ -1,0 +1,1 @@
+1. Component based architecture: i.e. I can prompt to create one component, and then I ought to be able to use that component inside of another component.r

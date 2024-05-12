@@ -1,0 +1,5 @@
+- Modern education, as it is, will NOT create the minds we need.
+- Coding will never go out of demand.
+- More software increases demand for more software.
+- Filmmaking ought to be a core, required competency.
+- 

@@ -1,0 +1,1 @@
+These are notes on how to gauge complexity of an activity. How human progress makes us move up the stack. And how to remain relevant.

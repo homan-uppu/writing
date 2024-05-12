@@ -1,0 +1,1 @@
+https://www.youtube.com/watch?v=pSJsqYH-hK4 -> Great artist, great fashion designer, inspirational, zen.

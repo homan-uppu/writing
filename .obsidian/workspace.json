@@ -4,40 +4,73 @@
     "type": "split",
     "children": [
       {
-        "id": "967557b13fa5d14d",
+        "id": "7cad505f45c95ca2",
         "type": "tabs",
+        "dimension": 64.83271375464685,
         "children": [
           {
-            "id": "d13c894cd068fc13",
+            "id": "8a7df0babf414544",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Essays/Why I worry about education.md",
+                "file": "MAIN.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "26d242be82f2b5ac",
+            "id": "e71f1be0d21f7911",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Random/Building the writing muscle.md",
+                "file": "On ambition.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2edaa74e2a44ed61",
+            "id": "4ba211d88da53d71",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Random/Zestful ease.md",
+                "file": "Extreme asymmetry.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5abb61a62b6426a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "On writing efficiently.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "baef2601b65dd972",
+        "type": "tabs",
+        "dimension": 35.16728624535316,
+        "children": [
+          {
+            "id": "7ed2b0fee6d407ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Author's notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 226.5
   },
   "right": {
     "id": "ec038bdad1d66462",
@@ -109,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Essays/Why I worry about education.md",
+                "file": "On ambition.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Essays/Why I worry about education.md",
+                "file": "On ambition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +182,19 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Essays/Why I worry about education.md"
+                "file": "On ambition.md"
+              }
+            }
+          },
+          {
+            "id": "5e46de861cfad754",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -171,45 +216,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d13c894cd068fc13",
+  "active": "e71f1be0d21f7911",
   "lastOpenFiles": [
-    "Agenda/9-28-23.md",
-    "Essays/Why I worry about education.md",
-    "Random/Message to Dev.md",
-    "Random/A sizable, and growing, part of my motivations is the thirst for freedom..md",
-    "Random/Writing style.md",
-    "Random/The intro.md",
-    "Random/On resilience.md",
-    "Random/Compounding.md",
-    "Random/AI protect me from myself (Draft notes).md",
-    "Random/Braindump.md",
-    "Random/Cadence.md",
-    "Random/It's decided.md",
-    "Essays/ESSAYS README.md",
-    "Random/Building the writing muscle.md",
-    "Random/My commitment.md",
-    "Random/Zestful ease.md",
-    "Random/The essence of this process.md",
-    "Random/Haters gonna hate.md",
-    "Essays/Skills that matter.md",
-    "Essays/Hidden knowledge.md",
-    "Random/Why such deviation for this next essay?.md",
-    "Random/Massive tectonic shift.md",
-    "Ideas/Writing copilot.md",
-    "Ideas/Consumption copilot.md",
-    "Random/Must resist the snacks.md",
-    "Random/The only ideas that I care about right now.md",
-    "Random/Untitled",
-    "creative-fields.png",
+    "Author's notes.md",
+    "Extreme asymmetry.md",
+    "On ambition.md",
+    "MAIN.md",
+    "On writing efficiently.md",
+    "We are addicted to our beliefs.md",
+    "Paying for education no longer works.md",
+    "Building is easier than figuring out what to build.md",
+    "Think more than you think you should.md",
+    "Intuition separates greats from the rest.md",
+    "Why secrets aren't as valuable as before.md",
+    "Random/Essays.md",
+    "Random/Don't be attached to the fruits of this labor.md",
+    "Random/Big picture.md",
+    "Random/AGI if external, Liberation if internal..md",
+    "Random/Don't dogmatically believe in idea, EVEN if you believe they are true..md",
+    "Random/big-picture-2024.md",
+    "Random/Getting too side-tracked.md",
+    "Random/on_space.md",
+    "videos/Brainstorming.md",
+    "videos/products.md",
+    "People.md",
+    "The system.md",
+    "Gautam <> Karthik.md",
     "Screenshot 2023-09-06 at 10.02.35 AM.png",
-    "Essays/Untitled",
-    "Essays/Job hunting",
-    "Essays/Published",
-    "Essays/Dailies",
-    "Essays/On college",
-    "Agenda",
-    "Essays",
-    "Random",
-    "Ideas"
+    "creative-fields.png",
+    "Streaks.md",
+    "Essays/Skills that matter.md",
+    "xnote/xnote.xcodeproj/xcuserdata/karthikuppuluri.xcuserdatad/xcschemes/xcschememanagement.plist",
+    "xnote/xnote.xcodeproj/xcuserdata/karthikuppuluri.xcuserdatad/xcschemes",
+    "xnote/xnote.xcodeproj/xcuserdata/karthikuppuluri.xcuserdatad",
+    "xnote/xnote.xcodeproj/xcuserdata",
+    "xnote/xnote.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist",
+    "xnote/xnote.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/configuration",
+    "xnote/xnote.xcodeproj/project.xcworkspace/xcshareddata/swiftpm",
+    "xnote/xnote.xcodeproj/project.xcworkspace/xcshareddata",
+    "xnote/xnote.xcodeproj/project.xcworkspace/xcuserdata/karthikuppuluri.xcuserdatad/UserInterfaceState.xcuserstate",
+    "xnote/xnote.xcodeproj/project.xcworkspace/xcuserdata/karthikuppuluri.xcuserdatad"
   ]
 }

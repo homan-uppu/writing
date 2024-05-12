@@ -1,0 +1,3 @@
+This might be an important angle to think about.
+
+If the output can't make money, then is it even useful? It's tougher to justify paying for it in that situation, right? Perhaps. But, at the same time, learning how to write is inherently useful. Incredibly useful. And there is some subset of the world that believes it as well, and some subset of that audience that will pay today for a great writing copilot.

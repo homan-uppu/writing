@@ -1,0 +1,2 @@
+- I think the mathematical example isn't good because it's so contrived and gets to be too mathematical.
+- It's far easier to talk about gravity - it's something that everyone can experience right here and now without having to over-intellectualize it. It's a more intuitive starting point.

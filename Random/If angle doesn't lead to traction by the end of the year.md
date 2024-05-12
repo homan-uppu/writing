@@ -1,0 +1,1 @@
+I'm going to use that experience to join a stellar company. That's one angle. But, I'm also not going to think about that angle for now. Amen.

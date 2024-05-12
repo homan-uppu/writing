@@ -1,0 +1,1 @@
+That's all you need. Make one fucking scene. That's your starting point. And try to get it done today.

@@ -1,8 +1,0 @@
-- Greater leverage.
-- Platforms driven by algorithms. And creators that sit on top.
-- Creativity is becoming a necessity, not a "cool thing that someone else will do".
-- What is creativity.
-- Consequences of a creative world: power law distribution for everything. No more middle class. No more same job till you die.
-	- Global economy will resemble creator economy.
-	- Need to rethink all of our systems from the ground up. What does the ideal learning system look like?
-	- The case for UBI.

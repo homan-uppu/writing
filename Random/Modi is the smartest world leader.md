@@ -1,0 +1,1 @@
+https://www.youtube.com/shorts/-dBT9BcrSMw -> he understands the power and value of decentralization and is working towards it in the fastest way possible in a nation like India.

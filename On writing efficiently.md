@@ -1,0 +1,3 @@
+I'm surprised by just how much information and feeling you can communicate with so few words. I need to quickly overcome my conditioning that great work needs to be long. Maybe there will come a time when I do take the time to create well crafted long-form writing, but that time isn't now.
+
+Efficiency without losing the emotional essence is critical. I need to strike this balance much better than I'm able to right now.

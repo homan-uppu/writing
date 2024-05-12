@@ -1,0 +1,5 @@
+- Update jisnu.org. It will be where any long-form thinking will go, along with my bio. This doesn't really have to happen right now I think... Will see.
+- Write your manifesto for this phase - the mistakes you've made in the past that you will not repeat, your obsession with craft and why you're only going to take the artist's path. (Maybe reference Rick Rubin - I really like this guy). Pin this to your X profile. Actually, this manifesto is the first step. Make it extreme. I would rather die on this hill than budge. And I've accepted the possibility that no matter what I create for the rest of my life I might not make money from it, and I'm perfectly OK with that. But what this shift does is it puts me in a default alive state forever. I've adjusted my lifestyle to give me infinite runway (for all intents and purposes). All I want to do is ship great products and that's all I'm going to do.
+
+The ones that love the craft, and the ones that do it because it's just the viable career option. One shines like a bright star, while the other withers away.
+

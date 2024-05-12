@@ -1,0 +1,3 @@
+The reaction you see when you say something that shatters someone's deeply held beliefs is similar to the reaction you see when you hold back a drug addict from getting their next hit. I believe it's the same underlying neurobiological response. 
+
+Our minds don't differentiate between beliefs, drugs, food, sugar, intimacy in the way that we do. Our minds are fundamentally addictive, and we are addicted to far more than what we think we are.

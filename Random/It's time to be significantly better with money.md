@@ -1,0 +1,3 @@
+- Keep exceptionally close track of every cent.
+- Weekly audit of how I spent money over the week.
+- Figure out

@@ -1,0 +1,1 @@
+Fear saps imagination, clouds judgement. Our greatest battle is within our own minds.

@@ -1,0 +1,1 @@
+- How about a video streaming building this app? That sounds pretty good if you ask me. Amen. 

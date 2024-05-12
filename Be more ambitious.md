@@ -1,3 +1,8 @@
+
+*This essay seems to have a lot of overlap with "We don't know what we want". Maybe that is a pre-requisite for this essay. Be cautious in clubbing. The right approach is most likely to keep them separate.*
+
+...
+
 Many of the world's problems stems from lack of ambition.
 
 I don't think it's possible to create ambition where there isn't. But I do believe it's possible to cultivate a seed of ambition if you have it.
@@ -10,13 +15,15 @@ So there's nothing to celebrate about ambition itself. But from a collective per
 
 ...
 
+(This ought to be the intro - start with the qualifier and tell the triggered folks to gtfo because I'm not here to chat with them. This is for those who suffer in the way that I do).
+
 Ambition is a disease. It literally causes a lack of ease - which is what "disease" means.
 
-You only have 2 options: train your mind to become less ambitious, or cultivate your ambition. If you can do the former, I recommend it. You'll likely be happier as a result. Please share your notes on how you did it - I'd appreciate it.
+You only have 2 options: train your mind to become less ambitious, or cultivate your ambition. If you can do the former, I recommend it. You'll may be happier as a result.
 
 But that's only possible if the disease hasn't spread too much. If you're reading this you probably suffer from the disease to such an extent that you'd scoff at the idea of curbing it. The rest of this essay is for you.
 
-If you're ambitious and you don't want to (i.e. you can't) curb it, then you only have on option: take it to the extreme. Staying at average ambition will do you and the world more harm than good.
+If you're ambitious and you don't want to (i.e. can't) curb it, then you only have on option: take it to the extreme. Staying at an average level ambition will do you more harm than good.
 
 To see why, we have to unpack what it even means to be ambitious, and why some of us suffer from this disease.
 

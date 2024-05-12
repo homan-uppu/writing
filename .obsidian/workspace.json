@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "On ambition.md",
+                "file": "Be more ambitious.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "On ambition.md",
+                "file": "Be more ambitious.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "On ambition.md",
+                "file": "Be more ambitious.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "On ambition.md"
+                "file": "Be more ambitious.md"
               }
             }
           },
@@ -218,9 +218,9 @@
   },
   "active": "e71f1be0d21f7911",
   "lastOpenFiles": [
-    "Author's notes.md",
     "Extreme asymmetry.md",
-    "On ambition.md",
+    "Be more ambitious.md",
+    "Author's notes.md",
     "MAIN.md",
     "On writing efficiently.md",
     "We are addicted to our beliefs.md",

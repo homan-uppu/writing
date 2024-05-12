@@ -17,7 +17,7 @@
 - Co-founder only companies
 
 *Meta*
-- [[On ambition]]
+- [[Be more ambitious]]
 - How to be more ambitious
 - We don't know what we want
 - Maximizing transactions is all we want

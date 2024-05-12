@@ -1,0 +1,3 @@
+Yeah, I like this organization better than anything else. The latency honestly doesn't matter. I want to type more slowly anyway. And therefore, this doesn't really hurt my ability to express myself in any meaningful way.
+
+On the other hand, the organizational benefits are solid. The folder structure, the ability to link to other pages, etc. is solid. This feels like a tool built for thinking, whereas other text editors feel like tools for coding. And there is a significant difference there.

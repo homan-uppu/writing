@@ -23,8 +23,6 @@ I also believe asymmetry is becoming more extreme. Rapidly. That means that the 
 
 What causes asymmetry? Why is it becoming more extreme? How exactly do we suffer by not uncovering asymmetries? And what can we do about it?
 
-...
-
 ### Our activities can be modeled as games
 
 Most human endeavors can be modeled as a game: we want something and we figure out how to get what we want by making choices. When we get what we want we feel some satiation that makes us want more of it.
@@ -36,8 +34,6 @@ The pattern we follow to get what we want resembles a decision tree. At each poi
 To be clear the current model is missing a great deal of nuance. Yet, I believe it's directionally correct and the right level of nuance to be able to explain asymmetry. *(note: In reality there are many nuances to this process that cause weird behaviors. For example, oftentimes we become addicted to following a particular path rather than even getting what we want - i.e. what we created that path for. I believe exploring that nuance is important to shed light on the human condition, but I'll save that for another essay.)*
 
 Modeling our pursuit of fulfilling our wants as a game is useful because we can study how we operate in the world by studying simpler games, and then extrapolating to the more complex games that we play.
-
-...
 
 ### Asymmetry is a function of complexity
 
@@ -51,8 +47,6 @@ The following become apparent as we move from a simple game to more complex game
 - Fewer draws
 - More pronounced power law of skill (compare ELO ratings).
 - Teaching the game becomes more difficult as formulas and calculations play less of a role. (just touch on this and say how this will be the focus of a future essay - perhaps you can put this as annotation instead of here).
-
-...
 ### Extreme asymmetry is a recent phenomena
 
 The games we play in life are far, far more complex than the games we discussed above. There are more possible decisions. Each game lasts longer (often till we die). Which means that the true asymmetry in our endeavors should be much, much greater than what we see in simpler games.

@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6020842f11f199ce",
+            "id": "97cc8809ae90984e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,24 +20,12 @@
             }
           },
           {
-            "id": "bbc5897065aba270",
+            "id": "4c72da7f8658f85f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Notes/Extreme asymmetry.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "89a6367b904981a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-Internal notes/Knowledge base design.md",
+                "file": "0-Rough/Asymmetry flow.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Notes/Extreme asymmetry.md",
+                "file": "0-Rough/Asymmetry flow.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Notes/Extreme asymmetry.md",
+                "file": "0-Rough/Asymmetry flow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Notes/Extreme asymmetry.md"
+                "file": "0-Rough/Asymmetry flow.md"
               }
             }
           },
@@ -184,21 +172,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bbc5897065aba270",
+  "active": "4c72da7f8658f85f",
   "lastOpenFiles": [
     "MAIN.md",
-    "1-Notes/Be more ambitious.md",
+    "0-Rough/Asymmetry flow.md",
+    "1-Notes/Depth is breadth.md",
+    "2-Essays",
+    "2-Essays/Extreme asymmetry.md",
+    "1-Internal notes/jisnu.org website.md",
     "1-Internal notes/Knowledge base design.md",
+    "0-Rough/2024-05-13.md",
+    "1-Internal notes/Force better writing at all layers.md",
+    "0-Rough/Scratch.md",
+    "1-Notes/Be more ambitious.md",
     "0-Rough/5-13-24.md",
     "0-Rough/The goal is to arrive at a simple, concise explanation.md",
     "2024-05-13.md",
     "0-Rough/Untitled.canvas",
     "Untitled.md",
-    "1-Internal notes/jisnu.org presentation.md",
     "1-Internal notes",
     "0-Rough/On moving.md",
     "0-Rough/On writing.md",
-    "1-Notes/Extreme asymmetry.md",
     "1-Notes/Why secrets aren't as valuable as before.md",
     "1-Notes/Intuition separates greats from the rest.md",
     "1-Notes/Think more than you think you should.md",
@@ -208,14 +202,8 @@
     "1-Notes/Write efficiently without losing the essence.md",
     "0-Rough/Momentum.md",
     "0-Rough/On study space.md",
-    "0-Rough/On health.md",
-    "0-Rough/Author's notes.md",
-    "1-Notes/The value of publishing ideas.md",
-    "0-Rough/Scratch 1.md",
     "0-Inputs",
     "1-Notes",
-    "Untitled 1.md",
-    "0-Rough/Cool the mind, and re-apply it..md",
     "Untitled.canvas",
     "Screenshot 2023-09-06 at 10.02.35 AM.png",
     "creative-fields.png",
@@ -224,7 +212,6 @@
     "xnote/xnote.xcodeproj/xcuserdata/karthikuppuluri.xcuserdatad",
     "xnote/xnote.xcodeproj/xcuserdata",
     "xnote/xnote.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist",
-    "xnote/xnote.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/configuration",
-    "xnote/xnote.xcodeproj/project.xcworkspace/xcshareddata/swiftpm"
+    "xnote/xnote.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/configuration"
   ]
 }

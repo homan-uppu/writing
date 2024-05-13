@@ -34,3 +34,9 @@ And create (or learn) shortcut to trigger moving a file to another folder.
 
 ### Questions
 - What about internal vs. external? For example, this jisnu.org presentation file seems reasonably well thought out. It has achieved a notion of "internal" and it shouldn't go in notes which will clutter the things that I want to eventually share with the world. That difference is important. Create another folder for internal for now.
+
+### Daily notes
+
+They go in the "Rough" folder every day. The daily schedules and things that I really don't care about searching for / recovering later on. I think most of the rough notes will be daily notes.
+
+When something in a daily note becomes its own nugget of insight, it needs to move into its own independent note (starting in Rough ofc), which should ideally make its way to a higher layer (internal / external note) because I want to [[Force better writing at all layers]].

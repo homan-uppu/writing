@@ -1,6 +1,6 @@
 {
-  "promptDelete": false,
-  "alwaysUpdateLinks": true,
+  "snapToObjects": true,
+  "snapToGrid": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "0-Rough"
 }

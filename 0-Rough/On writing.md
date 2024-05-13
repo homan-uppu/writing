@@ -1,3 +1,8 @@
+
+OK yeah, I'm sold on the computer being a much better experience to write... as long as the internet is off! Internet kills. Seriously. Stay off of the internet. And absolutely grind. Make the arguments concise. Simple. Easy to understand. And expand to deeper levels of abstractions as required. Amen.
+
+---
+
 This is a powerful process. I agree with PG: I believe that those who haven't published any meaningful writing haven't thought about anything deeply.
 
 It is the most powerful process for conscious learning that I've come across so far, second to the practice of self-observation (nothing beats this).

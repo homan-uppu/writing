@@ -1,0 +1,3 @@
+I need to spend as much time there as possible. Come back home for the aft. Go back for late aft. Maximize time there outside of extreme heat.
+
+This is the right strategy. Do not stay at home beyond 5:30pm. It's simply a waste of time. Seriously. Need to be much better about this. GTFO by 5:30pm. Get back to the office and get the grind on until 10pm ish. This is the work ethic that's required. Amen.

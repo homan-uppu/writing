@@ -1,3 +1,12 @@
+- [[#Asymmetry exists everywhere|Asymmetry exists everywhere]]
+- [[#Our activities can be modeled as games|Our activities can be modeled as games]]
+- [[#Asymmetry is a function of complexity|Asymmetry is a function of complexity]]
+- [[#Extreme asymmetry is a recent phenomena|Extreme asymmetry is a recent phenomena]]
+- [[#Asymmetry is becoming more extreme|Asymmetry is becoming more extreme]]
+- [[#Our intuition is outdated.|Our intuition is outdated.]]
+- [[#What we can do|What we can do]]
+### Asymmetry exists everywhere
+
 Asymmetry exist in all aspects of our lives.
 
 Only a small percentage of decisions are responsible for most outcomes.
@@ -16,19 +25,23 @@ What causes asymmetry? Why is it becoming more extreme? How exactly do we suffer
 
 ...
 
+### Our activities can be modeled as games
+
 Most human endeavors can be modeled as a game: we want something and we figure out how to get what we want by making choices. When we get what we want we feel some satiation that makes us want more of it.
 
 The want can be anything: to build a great company, make a great movie, be a better partner, listener, have more compassion, etc. 
 
 The pattern we follow to get what we want resembles a decision tree. At each point in the tree we're faced with many options. We choose one option and go further down in the tree where we face more options. We may also backtrack and take different paths.
 
-To be clear this is an incredibly reductive model. The current model is missing a great deal of nuance, I believe it's directionally correct and the right level of nuance to be able to explain asymmetry. *(note: In reality there are many nuances to this process that cause weird behaviors. For example, oftentimes we become addicted to following a particular path rather than even getting what we want - i.e. what we created that path for. I believe exploring that nuance is important to shed light on the human condition, but I'll save that for another essay.)*
+To be clear the current model is missing a great deal of nuance. Yet, I believe it's directionally correct and the right level of nuance to be able to explain asymmetry. *(note: In reality there are many nuances to this process that cause weird behaviors. For example, oftentimes we become addicted to following a particular path rather than even getting what we want - i.e. what we created that path for. I believe exploring that nuance is important to shed light on the human condition, but I'll save that for another essay.)*
 
-Modeling our pursuit of fulfilling our wants as a game is useful because we can study its features by studying simpler games that we're much better at, and then extrapolating to the more complex games that we need to play to get the things we want in the world.
+Modeling our pursuit of fulfilling our wants as a game is useful because we can study how we operate in the world by studying simpler games, and then extrapolating to the more complex games that we play.
 
 ...
 
-The primary cause for asymmetry is complexity. Complexity is the number of possibilities in the game decision tree. (https://en.wikipedia.org/wiki/Game_complexity)
+### Asymmetry is a function of complexity
+
+By complexity I mean the number of possibilities (https://en.wikipedia.org/wiki/Game_complexity) (*yeah, need a much better definition here*).
 
 To study how asymmetry is a function of complexity, let's look at three games: Tic Tac Toe (simple), Chess (medium complexity), Go (high complexity).
 
@@ -40,6 +53,7 @@ The following become apparent as we move from a simple game to more complex game
 - Teaching the game becomes more difficult as formulas and calculations play less of a role. (just touch on this and say how this will be the focus of a future essay - perhaps you can put this as annotation instead of here).
 
 ...
+### Extreme asymmetry is a recent phenomena
 
 The games we play in life are far, far more complex than the games we discussed above. There are more possible decisions. Each game lasts longer (often till we die). Which means that the true asymmetry in our endeavors should be much, much greater than what we see in simpler games.
 
@@ -54,9 +68,11 @@ There are a few reasons:
 
 I believe the reason isn't that the underlying asymmetry was different, but rather that it wasn't visible due to external factors.
 
-...
+### Asymmetry is becoming more extreme
 
-Our emotional response is outdated.
+Are you serious? What makes that happen?
+
+### Our intuition is outdated.
 
 (a graph of gdp, with the flat part circled to show what we are conditioned for, and how the nature of the world, what works in the world, the level of symmetry in that world is vastly different than the part that we're in now).
 
@@ -69,6 +85,8 @@ I'm actively working on reducing my aversion towards debt because I think it's t
 We unfortunately don't just lack the caution against equality, we've been culturally conditioned to want it! (quickly explain why we wanted it in the past).
 
 Training the right intuition is a monumental task. This means that even if you intellectually understand that there's asymmetry, you still probably suck at acting optimally (need to define what optimally means here).
+
+### What we can do
 
 I've started applying the following heuristics in my life to become better at gauging asymmetry, and developing my intuition.
 - jk

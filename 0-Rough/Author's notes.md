@@ -1,5 +1,11 @@
 ### Extreme asymmetry
 
+---
+
+Thinking about the flow. Let's shed some light on it.
+
+---
+
 There is something important to say about the path to mastery - and how that increases 
 
 ---

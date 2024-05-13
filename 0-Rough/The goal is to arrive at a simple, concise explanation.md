@@ -1,0 +1,1 @@
+Starting with a tweet about a topic is actually the right "goal" state. The deeper your understanding, the more simply and concisely you can explain it. In a single paragraph you should be able to communicate the essence of what you believe that you may spend the rest of the essay defending or backing up, etc.

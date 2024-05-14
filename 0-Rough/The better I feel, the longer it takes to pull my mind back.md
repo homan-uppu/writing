@@ -1,0 +1,1 @@
+That's because you're not balanced, you're feeling pleasant sensations that you're craving. And craving is much tougher to spot and avoid than aversion is. You have to be more mindful of such craving and try your best to nip it in the bud. That's the crux. Train your mind to be better at noticing this.

@@ -92,7 +92,7 @@ And this is why even though we may intellectually see that the world is extremel
 
 ...
 
-I believe our lack of an intuitive fear towards equality is what holds us back. 
+I believe our lack of an intuitive fear towards equality is a large factor in what holds us back. 
 
 The less equal the world becomes, the more we suffer from our lack of fear of equality. Not only do we not fear equality, we actually crave it! To cultivate appropriate fear, we have to first undo our craving to see equality everywhere we look.
 
@@ -116,11 +116,36 @@ This is one of many, many situations in which we have lack the appropriate fear 
 
 A parent that enrolls their child in a school should be terrified if all the children appear to be doing equally well (all achieve high test scores). Because that certainly means that test is far from assessing the skill required to thrive in today's extremely asymmetric world.
 
-A 
+A prospective student evaluating educational programs should be terrified if they see equal outcomes for graduates. If those outcomes are jobs, then the companies then it means that the majority of the companies hiring these students are likely incredibly suboptimal and won't survive as the world becomes more asymmetric. If those outcomes are some scores, then those scores are certainly disconnected from reality.
+
+I'll explore the most important ones in subsequent essays.
 
 ...
 
-I want to be clear, we must still crave for equality of opportunity. That is the only craving that we must not only preserve, but cultivate. That is still the right craving to have to create a more fair, and just world. But we need to realize that equal opportunity actually creates more extreme asymmetry in outcomes, and we must accept that.
+When our intuition is lacking and we want to train it, heuristics are helpful to train better habits.
+
+A heuristic I've found helpful is to pause whenever I think something is equal, because the notion of equality is almost certainly a delusion since we're all playing quite complex games.
+
+The pause is useful because it gives me the space to evaluate:
+1. Is this 
+
+And we ought to cultivate greater compassion. Evolution has hardwired us to respect less those that achieve less. This may have been a useful conditioning back when we were hunters, etc. because it was likely true that if someone achieved less, they were slacking. And this fear of being perceived lesser than another pushed us to become better at doing our work, which increases the probability that our tribe survived and we could pass on our genes.
+
+This evolutionary conditioning is especially dangerous in an extremely asymmetric world because it'll make most of us incredibly unhappy. In a free world with high leverage it's likely that a friend, neighbor, or someone we know, younger, less experienced, etc. will achieve orders of magnitude greater outcomes than we do. This will become very common.
+
+In other words, jealousy was incredibly useful to grow our species, but is incredibly outdated in an extremely asymmetric world. In a hunger gatherer tribe, if you weren't jealous and didn't strive to do as well as others in your tribe, you'd likely be ostracized because there wouldn't be enough food for everyone. Yet today, jealousy primarily acts to wreak havoc on mental health with no upside.
+
+...
+
+I want to be clear, I believe we must still crave for equality of opportunity. That is the only craving that we must not only preserve, but cultivate. That is still the right craving to have to create a more fair, and just world. But we need to realize that equal opportunity actually creates more extreme asymmetry in outcomes, and we must accept that and build a world in alignment with this reality. 
+
+If we don't want greater asymmetry, it also means that we don't want human progress since asymmetry is a function of leverage. It also means that we don't want people to be more free because more free people invent things that increase leverage.
+
+I wish you the best in training yourself to thrive in an extremely asymmetric world. We all have a lot of work to do. 
+
+In this essay I've only scratched the surface of how we ought to train ourselves to take advantage of an extremely asymmetric world. This shift has great consequences that impact every single aspect of our lives. In subsequent essays, I'll explore what those impacts are, and what we can do about it for the most important aspects.
+
+[[I'd appreciate your feedback]] on this essay.
 
 ---
 

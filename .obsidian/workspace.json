@@ -30,6 +30,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1a97506ab0fbcf60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-Rough/I'd appreciate your feedback.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -174,12 +186,12 @@
   },
   "active": "db4e1d59cdf6fe05",
   "lastOpenFiles": [
+    "0-Rough/I'd appreciate your feedback.md",
+    "2-Essays/Asymmetry (draft).md",
     "MAIN.md",
     "0-Rough/2024-05-13.md",
     "0-Rough/2024-05-14.md",
     "2-Essays/Extreme asymmetry.md",
-    "2-Essays/Asymmetry (draft).md",
-    "0-Rough/Untitled 9.md",
     "1-Internal notes/Try not using headers when you write.md",
     "0-Rough/The better I feel, the longer it takes to pull my mind back.md",
     "1-Notes/Depth is breadth.md",

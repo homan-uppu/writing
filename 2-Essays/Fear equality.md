@@ -5,13 +5,13 @@ A small percentage of individuals hold most wealth in the world.
 A small percentage of employees in a company contribute most of the productivity.
 A small percentage of individuals contribute to the majority of progress - in any field.
 
-Asymmetry exists everywhere in our modern world and is accelerating rapidly. It will penetrate every domain, and I don't believe it's possible to slow down this shift because it's intrinsically tied to human progress. Every single thing that we create: stories, technology, policies work to make our world more asymmetric.
+Asymmetry exists everywhere in our modern world and is rapidly accelerating. It will penetrate every domain. 
 
-For many of us, rising asymmetry is making it tougher for us to get what we want out of our lives - whatever that may be. But this isn't because it's somehow more difficult to create value in the world. In fact it's easier than ever! Our difficulties stem from the fact that the habits that enabled us to get what we want in a more symmetrical world no longer help us get what want in an extremely asymmetrical world. Our understanding and habits are incredibly outdated.
+It's not possible to slow down this shift because it's intrinsically tied to human progress. Every single thing that we create: stories, technology, policies work to make our world more asymmetric.
 
-A young student that doesn't understand and act according to the growing asymmetry in the world and how that impacts what the world needs in a few years will likely train themselves in ways that won't be relevant.
+Yet, we deeply crave equality, symmetry. As the world becomes more asymmetric, this craving for equality blinds us to the paths that enable us get what we want in our lives.
 
-A startup founder that doesn't understand  and act according to the growing asymmetry will almost certainly fail to build a meaningful company - increasingly so as asymmetry rises.
+The modern paradox is that it's easier than ever to get what you want because we have greater freedom to do and say what we want than ever before, and the technologies at our disposal are more powerful than ever before! Our difficulties stem from the fact that the habits that enabled us to get what we want in a more symmetrical (equal) world no longer help us get what want in an extremely asymmetrical world. Our understanding and habits are terribly outdated. We're mis-aligned with reality.
 
 ...
 
@@ -21,7 +21,7 @@ Asymmetry is a function of complexity and leverage.
 
 We can model the process we follow to get what we want (whatever that may be) as a game. The "winning" criteria is feeling the satiation from getting what we want. Our process involves making decisions about what to do. Each decision takes us to a point where we see more choices that we have to decide from. (1)
 
-Therefore, this process resembles a decision tree:
+Therefore, our process to get the things we want resembles a decision tree:
 
 <>.
 
@@ -29,7 +29,7 @@ Complexity is proportional to the number of possibilities in this process, or in
 
 Whether you want to build a great company, make an emotionally moving work of art, or even improve your relationships, the process resembles this tree because it involves making choices out of an array of choices available at any given moment in time. And each choice you make influences the choices that are available next.
 
-The advantage of framing our endeavors as games is that we can study the nature of human endeavors by studying the nature of simpler, more well understood games, and extrapolating our learnings to the games that we play.
+The advantage of framing our endeavors as games is that we can study the nature of human endeavors by studying the nature of simpler, more well understood games, and extrapolating those learnings to the games that we play.
 
 Let's look at three simple (relative to most of the games we play) games: Tic Tac Toe (simple game), Chess (medium complexity), and Go (high complexity).
 
@@ -68,9 +68,15 @@ And lastly leverage also increases the possible moves you can make even within c
 
 Filmmakers today have a more possibilities for the films they create. They can tell stories about far away planets, alien species, alternate realities, or whatever their imagination lets them because we can use computers, and increasingly artificial intelligence, to turn those ideas to reality. Whereas a filmmaker from a century ago was far more likely to just stick to making films set in the modern society because they had far less leverage.
 
-Therefore leverage both increases the complexity of the games we play, and exposes the underlying asymmetry much more quickly than ever before.
+Therefore leverage both increases the complexity of the games we play, and exposes the underlying asymmetry much more quickly than ever before. As we continue to progress as a species by creating a more free world in which we have more equal opportunity, and by creating more powerful technology to more quickly turn our ideas into reality, we will accelerate exponentially fast towards extreme asymmetry in outcomes. (4)
 
-As we continue to progress as a species by creating a more free world in which we have more equal opportunity, and by creating more powerful technology to more quickly turn our ideas into reality, we will accelerate exponentially fast towards extreme asymmetry in outcomes. (4)
+...
+
+I made a claim earlier that the games we play are far more complex than chess and go. A good reader would have asked why. Even though my intuition led me to write that claim when I first thought of it, the explanation wasn't as straightforward as I had thought it would be.
+
+The games we play are becoming more complex because they are trending towards making us feel a certain way. Most jobs in the 60's involved performing tasks that were not measured by how well they made someone feel. Yet today, many more people are in the business of figuring out how to make people feel good. Artists make people feel through their art. Businesses try to make people feel good through their products - after all if solving someone's problem didn't make them feel better, you haven't really solved it.
+
+And our feelings are far more complex than games like Chess or Go. To see why, think back to the times when you've tried to communicate how you felt about something. The difficulty in putting a feeling into words (or any medium for that matter) shows how a feeling has a higher representational complexity than words, symbols, pictures, videos, etc. Because Chess / Go positions can easily be represented in words / symbols, we know they haven't reached the complexity of feelings.
 
 ...
 

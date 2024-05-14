@@ -9,23 +9,25 @@ Asymmetry exists everywhere in our modern world and is rapidly accelerating. It 
 
 It's not possible to slow down this shift because it's intrinsically tied to human progress. Every single thing that we create: stories, technology, policies work to make our world more asymmetric.
 
-Yet, we deeply crave equality, symmetry. As the world becomes more asymmetric, this craving for equality blinds us to the paths that enable us get what we want in our lives.
+Yet, we deeply crave equality, symmetry. As the world becomes more asymmetric, this craving for equality blinds us to the paths that enable us get what we want in our lives. And it prevents us from designing our society in a way that's aligned with reality, preventing us from getting what we collectively want: a safer, freer, happier world.
 
-The modern paradox is that it's easier than ever to get what you want because we have greater freedom to do and say what we want than ever before, and the technologies at our disposal are more powerful than ever before. Our difficulties stem from the fact that the habits that enabled us to get what we want in a more symmetrical (equal) world no longer help us get what want in an extremely asymmetrical world. Our understanding and habits are terribly outdated. We're mis-aligned with reality.
+The modern paradox is that it's easier than ever to get what you want because we have greater freedom to do and say what we want than ever before, and the technologies at our disposal are more powerful than ever before. Yet we find it difficult to do so because the habits that enabled us to get what we want in a more symmetrical (equal) world no longer help us get what want in an extremely asymmetrical world. Our understanding and habits are terribly outdated. 
 
-To understand why, we need to first see what causes asymmetry, and study how it's changing.
+Our habits are misaligned with reality.
+
+To understand why, we need to first see what causes asymmetry, study how it's changing, and then introspect to see how our habits mislead us.
 
 ...
 
 Asymmetry is a function of complexity and leverage.
 
-We can model the process we follow to get what we want (whatever that may be) as a game. The "winning" criteria is feeling the satiation from getting what we want. Our process involves making decisions about what to do. Each decision takes us to a point where we see more choices that we have to decide from. (1)
+We can model the process we follow to get what we want (whatever that may be) as a game. The "winning" criteria is feeling the satiation from getting what we want. Our process involves making decisions about what to do. Each decision takes us to a point where we see more choices that we have to decide from. [^1]
 
 Therefore, our process to get the things we want resembles a decision tree:
 
 <>.
 
-Complexity is proportional to the number of possibilities in this process, or in other words, the number of possible paths you can take in this tree. More complex games have more possibilities than less complex games. (2)
+Complexity is proportional to the number of possibilities in this process, or in other words, the number of possible paths you can take in this tree. More complex games have more possibilities than less complex games. [^2]
 
 Whether you want to build a great company, make an emotionally moving work of art, or even improve your relationships, the process resembles this tree because it involves making choices out of an array of choices available at any given moment in time. And each choice you make influences the choices that are available next.
 
@@ -44,13 +46,15 @@ Asymmetry rises as the complexity of the game increases.
 
 ...
 
-I believe the games we play to get the things we want are much, much higher in complexity than the games we discussed above, and that the complexity of the games we play are actually rising due to leverage. Therefore, we will see greater asymmetry moving forward.
+The games we play to get the things we want are much, much higher in complexity than the games we discussed above, and the complexity of the games we play are actually rising due to leverage. Therefore, we will see increasing asymmetry proportional to increase in complexity of the games we play.
 
 By leverage I simply mean the time it takes to turn an idea into reality. The greater the leverage available to you, the less time it takes you to turn your ideas into reality.
 
-Human progress increases leverage in the world. When a dictatorship is replaced by a democracy, the citizens often gain leverage because they are more free and therefore can manifest their ideas that they previously couldn't. When a new technology is created, it decreases the time and effort to implement an idea. Computers, internet, artificial intelligence, government policies, cultural changes towards greater freedom, etc. all work to increase leverage in the world. (3)
+Human progress increases leverage available, and spreads it to more people, and more domains.
 
-Greater leverage also means that simpler games become less valuable, and therefore the games that we play become more complex.
+When a dictatorship is replaced by a democracy, the citizens often gain leverage because they are more free and therefore can manifest their ideas that they previously couldn't. When a new technology is created, it decreases the time and effort to implement an idea. Computers, internet, artificial intelligence, government policies, cultural changes towards greater freedom, etc. all work to increase leverage in the world. [^3]
+
+Greater leverage also means that simpler games become less valuable for us to do because technology does it better than we can. We shift towards playing more complex games.
 
 For example, before computers, most people involved in business spent a large chunk of their time concerned with numbers. Computers were able to solve number crunching better than we could, and therefore we had more time to spend on figuring out what products to create, how to build great teams, etc - which are all far more complex than arithmetic.
 
@@ -66,7 +70,7 @@ And lastly leverage also increases the possible moves you can make even within c
 
 Filmmakers today have a more possibilities for the films they create. They can tell stories about far away planets, alien species, alternate realities, or whatever their imagination lets them because we can use computers, and increasingly artificial intelligence, to turn those ideas to reality. Whereas a filmmaker from a century ago was far more likely to just stick to making films set in the modern society because they had far less leverage.
 
-Therefore leverage both increases the complexity of the games we play, and exposes the underlying asymmetry much more quickly than ever before. As we continue to progress as a species by creating a more free world in which we have more equal opportunity, and by creating more powerful technology to more quickly turn our ideas into reality, we will accelerate exponentially fast towards extreme asymmetry in outcomes. (4)
+Therefore leverage both increases the complexity of the games we play, and exposes the underlying asymmetry much more quickly than ever before. As we continue to progress as a species by creating a more free world in which we have more equal opportunity, and by creating more powerful technology to more quickly turn our ideas into reality, we will accelerate exponentially fast towards extreme asymmetry in outcomes. [^4]
 
 ...
 
@@ -88,11 +92,11 @@ Our intuitions for how to get what we want are extremely outdated because they'v
 
 And this is precisely what leads to the paradox that we see in society today. There is a small fraction of individuals in this world that have found it easier than ever to get what they want because they've built the intuition for how to operate in an extremely asymmetric world, whereas those that haven't are quite vocal about how it's becoming much more difficult to get what they want (e.g. to have a nice home, affording kids, eating 3 healthy meals a day, and fulfilling basic human desires).
 
-This paradox exists because even though it's easier than ever to manifest our ideas, create value in the world and capture that value to afford the the things we want, most of us don't have the intuition to do this well. (5). For example: the salaries for useful jobs (e.g. software engineer) will skyrocket because there is unlimited demand for those who can operate well in such asymmetry, while yet most candidates applying for the job will be rejected and feel that the market is bad. This paradox is accelerating and will penetrate every domain as it's a direct reflection of asymmetry.
+This paradox exists because even though it's easier than ever to manifest our ideas, create value in the world and capture that value to afford the the things we want, most of us don't have the intuition to do this well [^5]. For example: the salaries for useful jobs (e.g. software engineer) will skyrocket because there is unlimited demand for those who can operate well in such asymmetry, while yet most candidates applying for the job will be rejected and feel that the market is bad. This paradox is accelerating and will penetrate every domain as it's a direct reflection of asymmetry.
 
 By "intuition", I mean the instinctive force that can be felt. It's a sort of muscle memory that pulls you to do things a certain way. It is not active, conscious thinking about what to do.
 
-Because intuition exists in the realm of feeling, it's often felt as an emotion. For example, a company founder with great intuition feels appropriate fear that guides them in the right direction. They fear hiring the wrong person because they know through experience how dangerous that is, whereas a novice founder likely doesn't have the same fear, and therefore will burn themselves. (6)
+Because intuition exists in the realm of feeling, it's often felt as an emotion. For example, a company founder with great intuition feels appropriate fear that guides them in the right direction. They fear hiring the wrong person because they know through experience how dangerous that is, whereas a novice founder likely doesn't have the same fear, and therefore will burn themselves. [^6]
 
 This difference in intuition is also why advice is interpreted differently. You can tell someone to be very cautious about who they hire, but unless they cultivate the intuitive emotional response to guide them, they'll invariably not internalize the advice optimally - in the way that it was intended by the person who told them.
 
@@ -154,12 +158,17 @@ In this essay I've only scratched the surface of how we ought to train ourselves
 
 ---
 
-1. *Note: You may say that modeling our endeavors as games is reductive. I agree that it is, but I believe it's still directionally correct - that the lessons we extrapolate from smaller games apply to the more complex games each of us plays to get what we want.*
-2. *note: there are many ways to measure game complexity, and it's an active space of research. I've tried to provide a simpler definition to work with for now which I believe to be accurate enough for the sake of our discussion, and that any better measure of complexity shouldn't change the conclusions we derive from this.*
-3. *This happens due to the underlying incentives that govern a group of individuals - which is an interesting topic that I plan to dive deep into in another essay. Those incentives don't change unless the fundamental nature of the individual mind changes, and I don't see that happening anytime soon.*
-4. *And asymmetry is accelerating exponentially because leverage increases exponentially. We can see why by looking at global gdp curve. Global GDP is a lagging indicator of leverage. It's lagging to the degree of time it takes to use the latest technology to turn an idea to reality. For example, the true economic value of what current AI technologies will bring to the world will only become apparent in a couple of years after people have actually used that technology to create value in the world. So the true leverage available in this moment will only be reflected by global gdp after some time. Yet, despite this lag, global gdp still gives us a good sense of the trajectory. Just remember to apply exponential increase when extrapolating.*
-5. *To be clear, when I say  most of us don't have the intuition to do this, I'm not implying that everyone is in a position to get what they want even if they gain intuition quickly. That's because there is still a of work we need to do to ensure equality of opportunity. Someone in a war torn region in the world, no matter how much intuition they have, may still struggle to turn that intuition into outcomes due to circumstance. But if you're reading this it probably means that you have access to the internet, have at least a smartphone, and at least an hour of time a day to do what you want. I believe that's the minimum required to train intuition and afford what you want within a decade.*
-6. *Contrary to popular belief that greats fear less than the rest of us, I believe all greats of their crafts actually have greater fear towards lack of growth. The better you get, the more you can see how most paths will not lead to the sort of growth you want, and the more healthy fear you develop. It's no surprise that books such as "Only the paranoid survive" were written. (Disclaimer: I haven't read the book, the title just seemed relevant.)*
+[^1] *Note: You may say that modeling our endeavors as games is reductive. I agree that it is, but I believe it's still directionally correct - that the lessons we extrapolate from smaller games apply to the more complex games each of us plays to get what we want.*
+
+[^2] *note: there are many ways to measure game complexity, and it's an active space of research. I've tried to provide a simpler definition to work with for now which I believe to be accurate enough for the sake of our discussion, and that any better measure of complexity shouldn't change the conclusions we derive from this.*
+
+[^3] *This happens due to the underlying incentives that govern a group of individuals - which is an interesting topic that I plan to dive deep into in another essay. Those incentives don't change unless the fundamental nature of the individual mind changes, and I don't see that happening anytime soon.*
+
+[^4] *And asymmetry is accelerating exponentially because leverage increases exponentially. We can see why by looking at global gdp curve. Global GDP is a lagging indicator of leverage. It's lagging to the degree of time it takes to use the latest technology to turn an idea to reality. For example, the true economic value of what current AI technologies will bring to the world will only become apparent in a couple of years after people have actually used that technology to create value in the world. So the true leverage available in this moment will only be reflected by global gdp after some time. Yet, despite this lag, global gdp still gives us a good sense of the trajectory. Just remember to apply exponential increase when extrapolating.*
+
+[^5] *To be clear, when I say  most of us don't have the intuition to do this, I'm not implying that everyone is in a position to get what they want even if they gain intuition quickly. That's because there is still a of work we need to do to ensure equality of opportunity. Someone in a war torn region in the world, no matter how much intuition they have, may still struggle to turn that intuition into outcomes due to circumstance. But if you're reading this it probably means that you have access to the internet, have at least a smartphone, and at least an hour of time a day to do what you want. I believe that's the minimum required to train intuition and afford what you want within a decade.*
+
+[^6] *Contrary to popular belief that greats fear less than the rest of us, I believe all greats of their crafts actually have greater fear towards lack of growth. The better you get, the more you can see how most paths will not lead to the sort of growth you want, and the more healthy fear you develop. It's no surprise that books such as "Only the paranoid survive" were written. (Disclaimer: I haven't read the book, the title just seemed relevant.)*
 
 
-1. *Intuition is far more difficult to train than intellectual understanding. This has drastic implications on our education system, which I'll dive into in a future essay. Specifically, I believe that pay-to-learn education is outdated because it doesn't have the right incentives for an extremely asymmetric world.*
+(?) *Intuition is far more difficult to train than intellectual understanding. This has drastic implications on our education system, which I'll dive into in a future essay. Specifically, I believe that pay-to-learn education is outdated because it doesn't have the right incentives for an extremely asymmetric world.*

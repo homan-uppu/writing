@@ -11,11 +11,11 @@ It's not possible to slow down this shift because it's intrinsically tied to hum
 
 Yet, we deeply crave equality, symmetry. As the world becomes more asymmetric, this craving for equality blinds us to the paths that enable us get what we want in our lives.
 
-The modern paradox is that it's easier than ever to get what you want because we have greater freedom to do and say what we want than ever before, and the technologies at our disposal are more powerful than ever before! Our difficulties stem from the fact that the habits that enabled us to get what we want in a more symmetrical (equal) world no longer help us get what want in an extremely asymmetrical world. Our understanding and habits are terribly outdated. We're mis-aligned with reality.
-
-...
+The modern paradox is that it's easier than ever to get what you want because we have greater freedom to do and say what we want than ever before, and the technologies at our disposal are more powerful than ever before. Our difficulties stem from the fact that the habits that enabled us to get what we want in a more symmetrical (equal) world no longer help us get what want in an extremely asymmetrical world. Our understanding and habits are terribly outdated. We're mis-aligned with reality.
 
 To understand why, we need to first see what causes asymmetry, and study how it's changing.
+
+...
 
 Asymmetry is a function of complexity and leverage.
 
@@ -44,9 +44,7 @@ Asymmetry rises as the complexity of the game increases.
 
 ...
 
-I believe the games we play to get the things we want are much, much higher in complexity than the games we discussed above, and that the complexity is actually rising. Therefore, we will see greater asymmetry moving forward.
-
-To see why, we need to understand how the world is changing, and studying leverage is a useful way to study change.
+I believe the games we play to get the things we want are much, much higher in complexity than the games we discussed above, and that the complexity of the games we play are actually rising due to leverage. Therefore, we will see greater asymmetry moving forward.
 
 By leverage I simply mean the time it takes to turn an idea into reality. The greater the leverage available to you, the less time it takes you to turn your ideas into reality.
 
@@ -72,17 +70,21 @@ Therefore leverage both increases the complexity of the games we play, and expos
 
 ...
 
-I made a claim earlier that the games we play are far more complex than chess and go. A good reader would have asked why. Even though my intuition led me to write that claim when I first thought of it, the explanation wasn't as straightforward as I had thought it would be.
+I made a claim earlier that the games we play are far more complex than chess and go. A good reader would have paused. Even though my intuition led me to write that claim when I first thought of it, the explanation wasn't as straightforward as I had thought it would be.
 
-The games we play are becoming more complex because they are trending towards making us feel a certain way. Most jobs in the 60's involved performing tasks that were not measured by how well they made someone feel. Yet today, many more people are in the business of figuring out how to make people feel good. Artists make people feel through their art. Businesses try to make people feel good through their products - after all if solving someone's problem didn't make them feel better, you haven't really solved it.
+The games we play are becoming more complex because they are trending towards making us feel a certain way. For example, most jobs in the 1960's involved performing tasks that were not measured by how well they made someone feel. Yet today, many more people are in the business of figuring out how to make people feel good. 
 
-And our feelings are far more complex than games like Chess or Go. To see why, think back to the times when you've tried to communicate how you felt about something. The difficulty in putting a feeling into words (or any medium for that matter) shows how a feeling has a higher representational complexity than words, symbols, pictures, videos, etc. Because Chess / Go positions can easily be represented in words / symbols, we know they haven't reached the complexity of feelings.
+(*todo: the evidence needs to be stronger -> this following line specifically.*) Artists make people feel through their art. Businesses try to make people feel good through their products - after all if solving someone's problem didn't make them feel better, you haven't really solved it.
+
+And our feelings are far, far more complex than games like Chess or Go, leading to far greater asymmetry in the world than we see in Chess or Go. 
+
+To see why, think back to the times when you've tried to communicate how you felt about something. The difficulty in putting a feeling into words (or any medium for that matter) shows how a feeling has a higher representational complexity than words, symbols, pictures, videos, etc. Because Chess / Go positions can easily be represented in words / symbols, we know they haven't reached the complexity of feelings. (*I don't believe we will be able to represent feelings as a sequence of symbols anytime soon because the representational complexity of feelings is so high that the complexity of symbols doesn't grow fast enough. It's a scaling problem and precisely the problem we'll need to tackle in order to get AGI that reaches human level ability. AGI is a scaling problem. I believe we will need to invent many more technologies before we achieve it.*).
 
 ...
 
 Even if we intellectually agree that our games are becoming more complex, and therefore there is accelerating asymmetry, I assure you that we are all incredibly bad at acting according to this intellectual understanding. The optimal way to get what we want in this world looks very different than what we do.
 
-That's because our intuitions for how to get what we want are extremely outdated because they've been shaped by a world with much lesser asymmetry. The stories we tell each other, our education systems, government policies, etc. are all still stuck in a world with far less asymmetry as there was far less leverage. And our intuitions are shaped by all of our life experiences leading to this point which are influenced greatly by the cultures we grew up in.
+Our intuitions for how to get what we want are extremely outdated because they've been shaped by a world with much lesser asymmetry. The stories we tell each other, our education systems, government policies, etc. are all still stuck in a world with far less asymmetry. And our intuitions are shaped by all of our life experiences leading to this point which are influenced greatly by the cultures we grew up in.
 
 And this is precisely what leads to the paradox that we see in society today. There is a small fraction of individuals in this world that have found it easier than ever to get what they want because they've built the intuition for how to operate in an extremely asymmetric world, whereas those that haven't are quite vocal about how it's becoming much more difficult to get what they want (e.g. to have a nice home, affording kids, eating 3 healthy meals a day, and fulfilling basic human desires).
 

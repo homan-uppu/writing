@@ -1,21 +1,21 @@
-A small percentage of decisions account for most of the outcomes.
-A small percentage of creators account for most of the views.
-A small percentage of books account for most of the sales.
-A small percentage of individuals hold most wealth in the world.
+A small percentage of decisions lead most results.
+A small percentage of creators capture most of views.
+A small percentage of books capture most of sales.
+A small percentage of individuals hold most of the wealth.
 A small percentage of employees in a company contribute most of the productivity.
 A small percentage of individuals contribute to the majority of progress - in any field.
 
-Asymmetry exists everywhere in our modern world and is rapidly accelerating. It will penetrate every domain. 
+Asymmetry exists everywhere in our modern world and is rapidly accelerating.
 
 It's not possible to slow down this shift because it's intrinsically tied to human progress. Every single thing that we create: stories, technology, policies work to make our world more asymmetric.
 
 Yet, we deeply crave equality, symmetry. As the world becomes more asymmetric, this craving for equality blinds us to the paths that enable us get what we want in our lives. And it prevents us from designing our society in a way that's aligned with reality, preventing us from getting what we collectively want: a safer, freer, happier world.
 
-The modern paradox is that it's easier than ever to get what you want because we have greater freedom to do and say what we want than ever before, and the technologies at our disposal are more powerful than ever before. Yet we find it difficult to do so because the habits that enabled us to get what we want in a more symmetrical (equal) world no longer help us get what want in an extremely asymmetrical world. Our understanding and habits are terribly outdated. 
+The modern paradox is that it's easier than ever to create value in the world: we are more free, and our technology is more powerful than ever before, yet we find it more difficult than ever to create value in the world, capture some of it to afford the things that we want.
 
-Our habits are misaligned with reality.
+Our habits are misaligned with reality. Increasingly so. The habits that enabled us to get what we want in a more symmetrical (equal) world no longer help us get what want in an extremely asymmetrical world. Our habits have become outdated.
 
-To understand why, we need to first see what causes asymmetry, study how it's changing, and then introspect to see how our habits mislead us.
+To understand why, we need to first see what causes asymmetry, understand why asymmetry is growing and what that means for our world, and then introspect to see how our habits mislead us.
 
 ...
 
@@ -46,11 +46,11 @@ Asymmetry rises as the complexity of the game increases.
 
 ...
 
-The games we play to get the things we want are much, much higher in complexity than the games we discussed above, and the complexity of the games we play are actually rising due to leverage. Therefore, we will see increasing asymmetry proportional to increase in complexity of the games we play.
+The games we play to get the things we want are much, much higher in complexity than the games we discussed above, leading to far greater asymmetry. The complexity of the games we play are also rising due to leverage, causing asymmetry to increase in proportion.
 
 By leverage I simply mean the time it takes to turn an idea into reality. The greater the leverage available to you, the less time it takes you to turn your ideas into reality.
 
-Human progress increases leverage available, and spreads it to more people, and more domains.
+Human progress increases leverage and spreads it to more people & domains.
 
 For example, when a dictatorship is replaced by a democracy, the citizens often gain leverage because they are more free and therefore can manifest their ideas that they previously couldn't. They have greater leverage.  When a new technology is created, it reduces the time and effort to turn your idea into reality. 
 
@@ -58,9 +58,7 @@ Computers, internet, artificial intelligence, government policies, greater indiv
 
 Greater leverage also means that simpler games become less valuable for us to do because technology does it better than we can. We shift towards playing more complex games.
 
-For example, before computers, most people involved in business spent a large chunk of their time concerned with numbers. Computers were able to solve number crunching better than we could, and therefore we had more time to spend on figuring out what products to create, how to build great teams, etc - which are all far more complex than arithmetic.
-
-When leverage increases it often means that simpler games can be done better by technology, leaving us room to play more complex games. And the more complex the games become, the greater the asymmetry.
+For example, before computers, most people involved in business spent a large chunk of their time calculating numbers on paper. Computers were able to do number crunching better than we could, and therefore we had more time to spend on figuring out what products to create, how to build great teams, etc - which are all far more complex than number calculation.
 
 Yet, we would still not see great asymmetry between players playing a highly complex game if each move takes a long time to make. For example, if each move in Chess took 4 years to make, by the time the two players died, the board position probably wouldn't be too skewed one way or the other.
 
@@ -68,11 +66,11 @@ In other words, the longer it takes to make a move, the longer it takes for the 
 
 Leverage decreases the time per move, and therefore exposes the underlying asymmetry quite quickly. Today, the best company founder will outpace everyone else by many orders of magnitude before they die in ways that a similarly great founder 100 years ago could not simply because each move took much longer to make.
 
-And lastly leverage also increases the possible moves you can make even within complex games, therefore making the same game more complex. If we study the ideas we have, we'll notice that we tend to not have ideas that we subconsciously think are impossible to turn into reality. As leverage increases, our subconscious becomes more willing to dream bigger because it is more confident that those dreams can be turned into reality.
+And lastly, leverage also increases the possible moves you can make even within complex games, therefore making the same game more complex. If we study the ideas we have, we'll notice that we tend to not have ideas that we subconsciously think are impossible to turn into reality. As leverage increases, our subconscious becomes more willing to dream bigger because it is more confident that those dreams can be turned into reality.
 
-Filmmakers today have a more possibilities for the films they create. They can tell stories about far away planets, alien species, alternate realities, or whatever their imagination lets them because we can use computers, and increasingly artificial intelligence, to turn those ideas to reality. Whereas a filmmaker from a century ago was far more likely to just stick to making films set in the modern society because they had far less leverage.
+Filmmakers today have a more possibilities for the films they create. They can tell stories about far away planets, alien species, alternate realities, or whatever their imagination lets them because they can use computers, and artificial intelligence, to turn those ideas to reality in a reasonable amount of time. Whereas a filmmaker from a century ago was far more likely to just stick to making films set in the modern society that took 
 
-Therefore leverage both increases the complexity of the games we play, and exposes the underlying asymmetry much more quickly than ever before. As we continue to progress as a species by creating a more free world in which we have more equal opportunity, and by creating more powerful technology to more quickly turn our ideas into reality, we will accelerate exponentially fast towards extreme asymmetry in outcomes. [^4]
+Therefore leverage both increases the complexity of the games we play, and exposes the underlying asymmetry much more quickly than ever before.
 
 ...
 
@@ -84,9 +82,13 @@ The games we play are becoming more complex because they are trending towards ma
 
 And our feelings are far, far more complex than games like Chess or Go, leading to far greater asymmetry in the world than we see in Chess or Go. 
 
-To see why, think back to the times when you've tried to communicate how you felt about something. The difficulty in representing a feeling in words (or any medium for that matter) shows how a feeling has a higher representational complexity than words, symbols, pictures, videos, etc.
+To see why, think back to the times when you've tried to communicate how you felt about something. The difficulty in representing a feeling in words (or any medium for that matter) shows how a feeling has a higher representational complexity than words, symbols, pictures, videos, etc. This why the same sentence is interpreted in as many ways as the number of readers. 
 
-Chess / Go positions can easily be represented in words / symbols, and so I believe that they're far from matching complexity of feelings. (*I don't believe we will be able to represent feelings as a sequence of symbols anytime soon because the representational complexity of feelings is so high that the complexity of symbols doesn't grow fast enough. It's a scaling problem and precisely the problem we'll need to tackle in order to get AGI that reaches human level ability. AGI is a scaling problem. I believe we will need to invent many more technologies before we achieve it.*).
+We do not yet have a medium that perfectly represents what we feel.
+
+Yet, Chess & Go positions can easily be represented in words / symbols, which is why I believe that they're far from matching complexity of feelings. 
+
+(*I don't believe we will be able to represent feelings as a sequence of symbols anytime soon because the representational complexity of feelings is so high that the complexity of symbols doesn't grow fast enough. It's a scaling problem and precisely the problem we'll need to tackle in order to get AGI that reaches human level ability. AGI is a scaling problem. I believe we will need to invent many more technologies before we achieve it.*).
 
 ...
 

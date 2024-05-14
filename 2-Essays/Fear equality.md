@@ -52,7 +52,9 @@ By leverage I simply mean the time it takes to turn an idea into reality. The gr
 
 Human progress increases leverage available, and spreads it to more people, and more domains.
 
-When a dictatorship is replaced by a democracy, the citizens often gain leverage because they are more free and therefore can manifest their ideas that they previously couldn't. When a new technology is created, it decreases the time and effort to implement an idea. Computers, internet, artificial intelligence, government policies, cultural changes towards greater freedom, etc. all work to increase leverage in the world. [^3]
+For example, when a dictatorship is replaced by a democracy, the citizens often gain leverage because they are more free and therefore can manifest their ideas that they previously couldn't. They have greater leverage.  When a new technology is created, it reduces the time and effort to turn your idea into reality. 
+
+Computers, internet, artificial intelligence, government policies, greater individual freedom, etc. all work to increase leverage in the world. [^3]
 
 Greater leverage also means that simpler games become less valuable for us to do because technology does it better than we can. We shift towards playing more complex games.
 
@@ -74,7 +76,7 @@ Therefore leverage both increases the complexity of the games we play, and expos
 
 ...
 
-I made a claim earlier that the games we play are far more complex than chess and go. A good reader would have paused. Even though my intuition led me to write that claim when I first thought of it, the explanation wasn't as straightforward as I had thought it would be.
+I made a claim earlier that the games we play are far more complex than Chess and Go. A good reader would have paused and asked why. Even though my intuition led me to write that claim when I first thought of it, the explanation wasn't as straightforward as I had felt it would be.
 
 The games we play are becoming more complex because they are trending towards making us feel a certain way. For example, most jobs in the 1960's involved performing tasks that were not measured by how well they made someone feel. Yet today, many more people are in the business of figuring out how to make people feel good. 
 
@@ -82,7 +84,9 @@ The games we play are becoming more complex because they are trending towards ma
 
 And our feelings are far, far more complex than games like Chess or Go, leading to far greater asymmetry in the world than we see in Chess or Go. 
 
-To see why, think back to the times when you've tried to communicate how you felt about something. The difficulty in putting a feeling into words (or any medium for that matter) shows how a feeling has a higher representational complexity than words, symbols, pictures, videos, etc. Because Chess / Go positions can easily be represented in words / symbols, we know they haven't reached the complexity of feelings. (*I don't believe we will be able to represent feelings as a sequence of symbols anytime soon because the representational complexity of feelings is so high that the complexity of symbols doesn't grow fast enough. It's a scaling problem and precisely the problem we'll need to tackle in order to get AGI that reaches human level ability. AGI is a scaling problem. I believe we will need to invent many more technologies before we achieve it.*).
+To see why, think back to the times when you've tried to communicate how you felt about something. The difficulty in representing a feeling in words (or any medium for that matter) shows how a feeling has a higher representational complexity than words, symbols, pictures, videos, etc.
+
+Chess / Go positions can easily be represented in words / symbols, and so I believe that they're far from matching complexity of feelings. (*I don't believe we will be able to represent feelings as a sequence of symbols anytime soon because the representational complexity of feelings is so high that the complexity of symbols doesn't grow fast enough. It's a scaling problem and precisely the problem we'll need to tackle in order to get AGI that reaches human level ability. AGI is a scaling problem. I believe we will need to invent many more technologies before we achieve it.*).
 
 ...
 
@@ -122,15 +126,11 @@ Yet, in the modern workforce we celebrate when we see an entire team has equally
 
 The intuition for when inequality is due to slacking or lacking will be invaluable.
 
-...
-
-This is one of many, many situations in which we have lack the appropriate fear towards equality.
+This is one of the many, many situations in which we have lack the appropriate fear towards equality.
 
 A parent that enrolls their child in a school should be terrified if all the children appear to be doing equally well (all achieve high test scores). Because that certainly means that test is far from assessing the skill required to thrive in today's extremely asymmetric world.
 
 A prospective student evaluating educational programs should be terrified if they see equal outcomes for graduates. If those outcomes are jobs, then the companies then it means that the majority of the companies hiring these students are likely incredibly suboptimal and won't survive as the world becomes more asymmetric. If those outcomes are some scores, then those scores are certainly disconnected from reality.
-
-I'll explore the most important ones in subsequent essays.
 
 ...
 
@@ -138,7 +138,7 @@ When our intuition is lacking and we want to train it, heuristics are helpful to
 
 One heuristic I've found helpful is to pause whenever I think something is equal, because the notion of equality is almost certainly a delusion as we're all playing quite complex games in a highly leveraged world.
 
-I also believe we ought to cultivate greater compassion. Evolution has hardwired us to respect less those that achieve less. This may have been a useful conditioning back when we were hunters, etc. because it was likely true that if someone achieved less, they were slacking. And this fear of being perceived lesser than another pushed us to become better at doing our work, which increases the probability that our tribe survived and we could pass on our genes.
+We also need to be more compassionate. Evolution has hardwired us to respect less those that achieve less. This was a useful conditioning back when we were hunters & gatherers because it was likely true that if someone achieved less, they were slacking. And this fear of being perceived lesser than another pushed us to become better at doing our work, which increases the probability that our tribe survives and we pass on our genes.
 
 This evolutionary conditioning is especially dangerous in an extremely asymmetric world because it'll make most of us incredibly unhappy. In a free world with high leverage it's likely that a friend, neighbor, or someone we know, younger, less experienced, etc. will achieve orders of magnitude greater outcomes than we do. This will become increasingly common.
 

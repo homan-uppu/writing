@@ -25,7 +25,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Essays/Asymmetry (draft).md",
+                "file": "2-Essays/Fear equality.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "86569a7b02d2512c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-Rough/2024-05-14.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb05056a44bc5432",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-Rough/Right title for essay?.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Essays/Asymmetry (draft).md",
+                "file": "2-Essays/Fear equality.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Essays/Asymmetry (draft).md",
+                "file": "2-Essays/Fear equality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Essays/Asymmetry (draft).md"
+                "file": "2-Essays/Fear equality.md"
               }
             }
           },
@@ -186,11 +210,13 @@
   },
   "active": "db4e1d59cdf6fe05",
   "lastOpenFiles": [
-    "0-Rough/I'd appreciate your feedback.md",
-    "2-Essays/Asymmetry (draft).md",
     "MAIN.md",
-    "0-Rough/2024-05-13.md",
+    "2-Essays/Fear equality.md",
+    "0-Rough/Right title for essay?.md",
     "0-Rough/2024-05-14.md",
+    "0-Rough/I feel a sense of responsibility.md",
+    "0-Rough/I'd appreciate your feedback.md",
+    "0-Rough/2024-05-13.md",
     "2-Essays/Extreme asymmetry.md",
     "1-Internal notes/Try not using headers when you write.md",
     "0-Rough/The better I feel, the longer it takes to pull my mind back.md",
@@ -213,8 +239,6 @@
     "1-Notes/Intuition separates greats from the rest.md",
     "1-Notes/Think more than you think you should.md",
     "1-Notes/Building is easier than figuring out what to build.md",
-    "1-Notes/Paying for education no longer works.md",
-    "1-Notes/We are addicted to our beliefs.md",
     "0-Inputs",
     "1-Notes",
     "Untitled.canvas",

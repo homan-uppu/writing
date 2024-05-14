@@ -5,7 +5,7 @@ A small percentage of individuals hold most wealth in the world.
 A small percentage of employees in a company contribute most of the productivity.
 A small percentage of individuals contribute to the majority of progress - in any field.
 
-Asymmetry exists everywhere in our modern world and is accelerating rapidly. It will penetrate every domain, and I don't believe it's possible to slow down this shift.
+Asymmetry exists everywhere in our modern world and is accelerating rapidly. It will penetrate every domain, and I don't believe it's possible to slow down this shift because it's intrinsically tied to human progress. Every single thing that we create: stories, technology, policies work to make our world more asymmetric.
 
 For many of us, rising asymmetry is making it tougher for us to get what we want out of our lives - whatever that may be. But this isn't because it's somehow more difficult to create value in the world. In fact it's easier than ever! Our difficulties stem from the fact that the habits that enabled us to get what we want in a more symmetrical world no longer help us get what want in an extremely asymmetrical world. Our understanding and habits are incredibly outdated.
 

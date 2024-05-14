@@ -21,6 +21,7 @@
 - How to be more ambitious
 - We don't know what we want
 - Maximizing transactions is all we want
+- The best teams will work in person
 
 ---
 

@@ -60,7 +60,7 @@ When leverage increases it often means that simpler games can be done better by 
 
 Yet, we would still not see great asymmetry between players playing a highly complex game if each move takes a long time to make. For example, if each move in Chess took 4 years to make, by the time the two players died, the board position probably wouldn't be too skewed one way or the other.
 
-In other words, the longer it takes to make a move, the longer it takes for the underlying asymmetry to become visible.
+In other words, the longer it takes to make a move, the longer it takes for the underlying asymmetry between players to become visible.
 
 Leverage decreases the time per move, and therefore exposes the underlying asymmetry quite quickly. Today, the best company founder will outpace everyone else by many orders of magnitude before they die in ways that a similarly great founder 100 years ago could not simply because each move took much longer to make.
 
@@ -70,10 +70,21 @@ Filmmakers today have a more possibilities for the films they create. They can t
 
 Therefore leverage both increases the complexity of the games we play, and exposes the underlying asymmetry much more quickly than ever before.
 
-As we continue to progress as a species by creating a more free world in which we have more equal opportunity, and by creating more powerful technology to more quickly turn our ideas into reality, we will accelerate towards extreme asymmetry in outcomes.
+As we continue to progress as a species by creating a more free world in which we have more equal opportunity, and by creating more powerful technology to more quickly turn our ideas into reality, we will accelerate exponentially fast towards extreme asymmetry in outcomes. (4)
 
 ...
 
+Even if we intellectually agree that our games are becoming more complex, and therefore there is accelerating asymmetry, I assure you that we are all incredibly bad at acting according to this intellectual understanding. The optimal way to get what we want in this world looks very different than what we do.
+
+That's because our intuitions for how to get what we want are extremely outdated because they've been shaped by a world with much lesser asymmetry. The stories we tell each other, our education systems, government policies, etc. are all still stuck in a world with far less asymmetry as there was far less leverage. And our intuitions are shaped by all of our life experiences leading to this point which are influenced greatly by the cultures we grew up in.
+
+And this is precisely what leads to the paradox that we see in society today. There is a small fraction of individuals in this world that have found it easier than ever to get what they want because they've built the intuition for how to operate in an extremely asymmetric world, whereas those that haven't are quite vocal about how it's becoming much more difficult to get what they want (e.g. to have a nice home, affording kids, eating 3 healthy meals a day, and fulfilling basic human desires).
+
+This paradox exists because even though it's easier than ever to manifest your ideas, create value in the world and capture that value to afford the the things you want, most of us haven't been trained to do this well.
+
+...
+
+I believe the 
 
 
 ...
@@ -86,3 +97,4 @@ As we continue to progress as a species by creating a more free world in which w
 1. *Note: You may say that modeling our endeavors as games is reductive. I agree that it is, but I believe it's still directionally correct - that the lessons we extrapolate from smaller games apply to the more complex games each of us plays to get what we want.*
 2. *note: there are many ways to measure game complexity, and it's an active space of research. I've tried to provide a simpler definition to work with for now which I believe to be accurate enough for the sake of our discussion, and that any better measure of complexity shouldn't change the conclusions we derive from this.*
 3. *This happens due to the underlying incentives that govern a group of individuals - which is an interesting topic that I plan to dive deep into in another essay. Those incentives don't change unless the fundamental nature of the individual mind changes, and I don't see that happening anytime soon.*
+4. *And asymmetry is accelerating exponentially because leverage increases exponentially. We can see why by looking at global gdp curve. Global GDP is a lagging indicator of leverage. It's lagging to the degree of time it takes to use the latest technology to turn an idea to reality. For example, the true economic value of what current AI technologies will bring to the world will only become apparent in a couple of years after people have actually used that technology to create value in the world. So the true leverage available in this moment will only be reflected by global gdp after some time. Yet, despite this lag, global gdp still gives us a good sense of the trajectory. Just remember to apply exponential increase when extrapolating.*

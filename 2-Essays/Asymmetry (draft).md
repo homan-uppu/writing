@@ -124,14 +124,11 @@ I'll explore the most important ones in subsequent essays.
 
 When our intuition is lacking and we want to train it, heuristics are helpful to train better habits.
 
-A heuristic I've found helpful is to pause whenever I think something is equal, because the notion of equality is almost certainly a delusion since we're all playing quite complex games.
+One heuristic I've found helpful is to pause whenever I think something is equal, because the notion of equality is almost certainly a delusion as we're all playing quite complex games in a highly leveraged world.
 
-The pause is useful because it gives me the space to evaluate:
-1. Is this 
+I also believe we ought to cultivate greater compassion. Evolution has hardwired us to respect less those that achieve less. This may have been a useful conditioning back when we were hunters, etc. because it was likely true that if someone achieved less, they were slacking. And this fear of being perceived lesser than another pushed us to become better at doing our work, which increases the probability that our tribe survived and we could pass on our genes.
 
-And we ought to cultivate greater compassion. Evolution has hardwired us to respect less those that achieve less. This may have been a useful conditioning back when we were hunters, etc. because it was likely true that if someone achieved less, they were slacking. And this fear of being perceived lesser than another pushed us to become better at doing our work, which increases the probability that our tribe survived and we could pass on our genes.
-
-This evolutionary conditioning is especially dangerous in an extremely asymmetric world because it'll make most of us incredibly unhappy. In a free world with high leverage it's likely that a friend, neighbor, or someone we know, younger, less experienced, etc. will achieve orders of magnitude greater outcomes than we do. This will become very common.
+This evolutionary conditioning is especially dangerous in an extremely asymmetric world because it'll make most of us incredibly unhappy. In a free world with high leverage it's likely that a friend, neighbor, or someone we know, younger, less experienced, etc. will achieve orders of magnitude greater outcomes than we do. This will become increasingly common.
 
 In other words, jealousy was incredibly useful to grow our species, but is incredibly outdated in an extremely asymmetric world. In a hunger gatherer tribe, if you weren't jealous and didn't strive to do as well as others in your tribe, you'd likely be ostracized because there wouldn't be enough food for everyone. Yet today, jealousy primarily acts to wreak havoc on mental health with no upside.
 
@@ -157,4 +154,4 @@ In this essay I've only scratched the surface of how we ought to train ourselves
 6. *Contrary to popular belief that greats fear less than the rest of us, I believe all greats of their crafts actually have greater fear towards lack of growth. The better you get, the more you can see how most paths will not lead to the sort of growth you want, and the more healthy fear you develop. It's no surprise that books such as "Only the paranoid survive" were written. (Disclaimer: I haven't read the book, the title just seemed relevant.)*
 
 
-7. *Intuition is far more difficult to train than intellectual understanding. This has drastic implications on our education system, which I'll dive into in a future essay. Specifically, I believe that pay-to-learn education is outdated because it doesn't have the right incentives for an extremely asymmetric world.*
+1. *Intuition is far more difficult to train than intellectual understanding. This has drastic implications on our education system, which I'll dive into in a future essay. Specifically, I believe that pay-to-learn education is outdated because it doesn't have the right incentives for an extremely asymmetric world.*

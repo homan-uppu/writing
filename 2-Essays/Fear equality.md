@@ -85,24 +85,14 @@ Computers, internet, artificial intelligence, government policies, greater indiv
 
 Greater leverage increases the complexity of the games we play in three ways:
 1. By reducing the time per move.
-2. By eliminating the need to play simpler games (technology does it for us).
+2. By eliminating the need to play simpler games (because technology does it for us).
 3. By increasing the possibilities within any game, thereby making the game more complex.
 
-Greater leverage means that simpler games become less valuable for us to do because technology does it better than we can. We shift towards playing more complex games.
+When it takes a long time to make a move, the underlying asymmetry doesn't manifest quickly. Imagine a game of chess where each move took 5 years to make. By the time the players die, their differences wouldn't be that apparent. It's not that the asymmetry wasn't there, but that it didn't have enough time to present itself.  Over the past decade technology has drastically reduced the time it takes to turn an idea into reality - i.e. the time it takes to make a move.
 
-For example, before computers, most people involved in business spent a large chunk of their time calculating numbers on paper. Computers were able to do number crunching better than we could, and therefore we had more time to spend on figuring out what products to create, how to build great teams, etc - which are all far more complex than number calculation.
+As leverage increases, we stop playing simpler games. Before we had computers, a large amount of time and effort was involved in keep track of numbers and basic numerical calculations. As we had better technology, we were able to shift more of our time to playing more complex games: figuring out what to create and how to create it.
 
-Yet, we would still not see great asymmetry between players playing a highly complex game if each move takes a long time to make. For example, if each move in Chess took 4 years to make, by the time the two players died, the board position probably wouldn't be too skewed one way or the other.
-
-In other words, the more quickly, and the longer players play, the more their underlying differences are uncovered, and the more the underlying asymmetry reveals itself.
-
-Leverage decreases the time per move, and therefore exposes the underlying asymmetry quite quickly. Today, the best company founder will outpace everyone else by many orders of magnitude before they die in ways that a similarly great founder 100 years ago could not simply because each move took much longer to make.
-
-And lastly, leverage also increases the possible moves you can make even within complex games, therefore making the same game more complex. If we study the ideas we have, we'll notice that we tend to not have ideas that we subconsciously think are impossible to turn into reality. As leverage increases, our subconscious becomes more willing to dream bigger because it is more confident that those dreams can be turned into reality.
-
-Filmmakers today have a more possibilities for the films they create. They can tell stories about far away planets, alien species, alternate realities, or whatever their imagination lets them because they can use computers, and artificial intelligence, to turn those ideas to reality in a reasonable amount of time. Whereas a filmmaker from a century ago was far more likely to just stick to making films set in the modern society that took 
-
-Therefore leverage both increases the complexity of the games we play, and exposes the underlying asymmetry much more quickly than ever before.
+And lastly, games that were always complex become more complex with leverage. Our ideas are subconsciously limited by the leverage we have available to us because our minds don't like to dream about things that it believes are impossible. Most filmmakers a century ago likely wouldn't have dreamt of making a film about intergalactic politics, and constrained their ideas to films that could take place in the normal world. As leverage increased, filmmakers were able to dream bigger and wider. Their minds opened up to more possibilities within the same game, making the game more complex.
 
 ...
 
@@ -140,6 +130,8 @@ This can be true while it's also true that upward mobility is more difficult. Bu
 (*Fairness has nothing to do with luck. It could be possible that someone finds themselves at the right place at the right time for some reason. That is very different than saying that there is inherent unfairness in the game. I'll explore in a later essay luck vs. skill, but a more fair world will lead to greater asymmetry.*)
 
 ...
+
+**Therefore, asymmetry is a function of complexity, complexity is a function of leverage, and leverage is a function of human progress.**
 
 ...
 

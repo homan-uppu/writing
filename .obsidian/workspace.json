@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "223f3e23f77130be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-Rough/Complexity of the games we play is a function of leverage.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d5f637857e8fa9b3",
             "type": "leaf",
             "state": {
@@ -198,8 +210,9 @@
   },
   "active": "982c580f7563e572",
   "lastOpenFiles": [
-    "0-Rough/Asymmetry in games.md",
+    "0-Rough/Complexity of the games we play is a function of leverage.md",
     "2-Essays/Fear equality.md",
+    "0-Rough/Asymmetry in games.md",
     "0-Rough/2024-05-15.md",
     "MAIN.md",
     "1-Notes/Depth is breadth.md",
@@ -225,7 +238,6 @@
     "0-Rough/The goal is to arrive at a simple, concise explanation.md",
     "2024-05-13.md",
     "0-Rough/Untitled.canvas",
-    "Untitled.md",
     "1-Internal notes",
     "0-Inputs",
     "1-Notes",

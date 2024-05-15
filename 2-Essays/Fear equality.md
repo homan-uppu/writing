@@ -45,7 +45,7 @@ For example, in Chess, moves and openings that were considered good before compu
 
 There is a greater asymmetry in the value of moves.
 
-B) More complex games have a greater difference between the best and the rest
+B) More complex games have a greater difference between the best and the rest.
 
 We observe that there are fewer draws the more complex the game becomes.
 
@@ -65,7 +65,7 @@ The gap between the best and the next best is far greater in Go than in Chess. M
 
 *Yes, there may be differences in how ELO ratings are calculated for each game, but I'm confident that even when you adjust for such differences in calculations, the argument will still hold: the more complex games will have greater asymmetry that does not grow linearly with the difference in complexity.*
 
-C) Complex games have a wider spread of ability
+C) Complex games have a wider spread of ability.
 
 In more complex games we notice a much higher range for the ELO ratings. Meaning ability is spread more widely & the difference between the best and the average also grows. This is why the top ELO rating will be higher for more complex games.
 
@@ -73,13 +73,13 @@ Therefore, asymmetry increases as the complexity of the game increases.
 
 ...
 
-The games we play to get the things we want are much, much higher in complexity than the games we discussed above, leading to far greater asymmetry. 
+The games we play today to get the things we want are much, much higher in complexity than the games we discussed above, leading to far greater asymmetry. 
 
-Yet, complexity alone doesn't help us understand why asymmetry is growing. If the games we play are more complex than the board games we discussed, then why haven't we always seen a great deal of asymmetry?
+Yet, complexity alone doesn't help us understand why asymmetry is growing. If the games we play have always been more complex than the board games we discussed, then why haven't we always seen a great deal of asymmetry?
 
 The complexity of the games we play is a function of leverage. By leverage I simply mean the time it takes to turn an idea into reality. The greater the leverage available to you, the less time it takes you to turn your ideas into reality.
 
-Any human progress increases leverage, and spreads it to more people. For example, when a dictatorship is replaced by a democracy, the citizens often gain leverage because they are more free and therefore can manifest their ideas that they previously couldn't. When a new technology is created, it reduces the time and effort to turn your idea into reality. 
+Any human progress increases leverage, and spreads it to more people. For example, when a dictatorship is replaced by a democracy, the citizens gain leverage because they are more free and therefore can manifest their ideas that they previously couldn't. When a new technology is created, it reduces the time and effort to turn your idea into reality. 
 
 Computers, internet, artificial intelligence, government policies, greater individual freedom, etc. all work to increase leverage in the world. [^3]
 
@@ -92,11 +92,11 @@ When it takes a long time to make a move, the underlying asymmetry doesn't manif
 
 As leverage increases, we stop playing simpler games. Before we had computers, a large amount of time and effort was involved in keep track of numbers and basic numerical calculations. As we had better technology, we were able to shift more of our time to playing more complex games: figuring out what to create and how to create it.
 
-And lastly, games that were always complex become more complex with leverage. Our ideas are subconsciously limited by the leverage we have available to us because our minds don't like to dream about things that it believes are impossible. Most filmmakers a century ago likely wouldn't have dreamt of making a film about intergalactic politics, and constrained their ideas to films that could take place in the normal world. As leverage increased, filmmakers were able to dream bigger and wider. Their minds opened up to more possibilities within the same game, making the game more complex.
+And lastly, games that were always complex become even more complex due to leverage. Our ideas are subconsciously limited by the leverage we have available to us because our minds don't like to dream about things that it believes are impossible. Most filmmakers a century ago likely wouldn't have dreamt of making a film about intergalactic politics, and constrained their ideas to films that could take place in the normal world. As leverage increased, filmmakers were able to dream bigger and wider. Their minds opened up to more possibilities within the same game, making the game more complex.
 
 ...
 
-I made a claim earlier that the games we play are far more complex than Chess and Go. A good reader would have been annoyed that I offered no explanation. Even though my intuition led me to write that claim, the explanation wasn't as straightforward as I initially felt it would be.
+I made a claim earlier that the games we play are far more complex than Chess and Go. A good reader would have been annoyed that I offered no explanation. Even though my intuition led me to write that claim quickly, the explanation wasn't as straightforward as I initially felt it would be.
 
 There is a hierarchy of complexity for the games, and the most complex games we play are the ones in which success is measured by how good we make people feel.
 
@@ -108,26 +108,15 @@ It's precisely this lost information that allows for the various interpretations
 
 The representational complexity of Chess and Go can easily be represented by symbols, and therefore I believe that any game in which success is measured by how good you make someone feel will be orders of magnitude more complex than Chess and Go (proportional to the difference in complexity between feeling and a sequence of symbols). Therefore, the underlying asymmetry that we are moving towards is quite extreme.
 
-As leverage increases, we move up the complexity hierarchy to play games measured by how good you make people feel. A couple of centuries ago, most workers spent their time playing games that had nothing to do with how you made someone feel. They'd often assemble physical things in a factory. As that region progressed, they built better technology to require less workers to manufacture the same thing, and also offshored more simpler work to other places, leaving workers to move up complexity towards services such as marketing, support, design, etc.
+As leverage increases, we move up the complexity hierarchy to play games measured by how good you make people feel. A couple of centuries ago, most workers spent their time playing games that had nothing to do with how to make someone feel. They'd often assemble physical things in a factory. As that region progressed, they built better technology to require less workers to manufacture the same thing, and also offshored simpler work to other places, leaving workers to move up complexity towards services such as marketing, support, design, etc, which are closer to solving for how to make people feel good.
 
-We notice this trend today as well. Programmers are being asked to become better at thinking about what to build and understanding users, without just thinking about how to build something. Animators are being asked to contribute something meaningful to the story instead of only translating a rough sketch into a completed animation. Pizza cooks, and ice cream store employees, are being asked to tell their stories on social media to attract more customers. Everyone is moving towards figuring out how to make people feel good.
+We notice this trend today as well. Programmers are being asked to become better at thinking about what to build and understanding users, without just thinking about how to build something. Animators are being asked to contribute something meaningful to the story instead of only translating a rough sketch into a completed animation. Pizza cooks, and ice cream store employees, are being asked to tell engaging stories on social media to attract more customers. Everyone is moving towards figuring out how to make people feel good.
+
+Artists for thousands of years have been solving for how to make people feel. Which is why it's no surprise that the arts have always had extreme asymmetry. Human progress is pushing us all towards the games that artists have been playing for a long time, and also the extreme asymmetry that artists have felt for a long time.
 
 ...
 
-Still, we can't accept that asymmetry and inequality are bound to rise without discussing fairness.
 
-The world is different than board games in that fairness is not equally distributed. In Chess, if it were the case that a player had 10x the time on the clock to make their moves, then naturally the one with more time would likely win - given they've both had intensive professional training for their entire lives.
-
-But, counterintuitively, an unfair world is more equal than a fair one. We can sniff out unfairness by seeing how much equality there is in the entire system.
-
-For example:
-
-In a world with greater equality of outcomes, an outlier is more likely a result of unfairness.
-In a world with greater inequality of outcomes, an outlier is more likely a result of fairness.
-
-This can be true while it's also true that upward mobility is more difficult. But the reason is that upward mobility is more difficult because we have outdated habits, not because of unfairness. The level of unfairness is decreasing as a function of leverage (may need to substantiate).
-
-(*Fairness has nothing to do with luck. It could be possible that someone finds themselves at the right place at the right time for some reason. That is very different than saying that there is inherent unfairness in the game. I'll explore in a later essay luck vs. skill, but a more fair world will lead to greater asymmetry.*)
 
 ...
 
@@ -175,7 +164,7 @@ This is one of the many, many situations in which we have lack the appropriate f
 
 A parent that enrolls their child in a school should be terrified if all the children appear to be doing equally well (all achieve high test scores). Because that certainly means that test is far from assessing the skill required to thrive in today's extremely asymmetric world.
 
-A prospective student evaluating educational programs should be terrified if they see equal outcomes for graduates. If those outcomes are jobs, then the companies then it means that the majority of the companies hiring these students are likely incredibly suboptimal and won't survive as the world becomes more asymmetric. If those outcomes are some scores, then those scores are certainly disconnected from reality.
+A prospective student evaluating educational programs should be terrified if they see equal outcomes for graduates. If those outcomes are jobs, then the companies then it means that the majority of the companies hiring these students are likely incredibly suboptimal and won't survive as the world becomes more asymmetric. If those outcomes are some scores, then those scores are certainly disconnected from reality, and won't matter eventually.
 
 ...
 

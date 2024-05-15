@@ -32,48 +32,12 @@
             }
           },
           {
-            "id": "51c8f681c9228658",
+            "id": "b127375f35694378",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Rough/Feeling is the most complex system.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "223f3e23f77130be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-Rough/Complexity of the games we play is a function of leverage.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d5f637857e8fa9b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MAIN.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "974defb93dd150c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-Notes/Depth is breadth.md",
+                "file": "0-Rough/Fairness and asymmetry.md",
                 "mode": "source",
                 "source": false
               }
@@ -222,8 +186,9 @@
   },
   "active": "982c580f7563e572",
   "lastOpenFiles": [
-    "0-Rough/Feeling is the most complex system.md",
+    "0-Rough/Fairness and asymmetry.md",
     "2-Essays/Fear equality.md",
+    "0-Rough/Feeling is the most complex system.md",
     "0-Rough/Complexity of the games we play is a function of leverage.md",
     "0-Rough/Asymmetry in games.md",
     "0-Rough/2024-05-15.md",
@@ -248,7 +213,6 @@
     "0-Rough/Scratch.md",
     "1-Notes/Be more ambitious.md",
     "0-Rough/5-13-24.md",
-    "0-Rough/The goal is to arrive at a simple, concise explanation.md",
     "0-Rough/Untitled.canvas",
     "1-Internal notes",
     "0-Inputs",

@@ -1,0 +1,1 @@
+ Depth is everything. Go deep. Think things through deeply. One thought of depth cannot be matched by any number of shallow thoughts

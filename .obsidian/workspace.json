@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "3f1a3030f995bf1c",
+        "id": "5e979c3736740675",
         "type": "tabs",
         "children": [
           {
-            "id": "db4e1d59cdf6fe05",
+            "id": "0d40dc81c4932b62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-Rough/2024-05-15.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "982c580f7563e572",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,54 +32,31 @@
             }
           },
           {
-            "id": "3ba21c1b85675528",
+            "id": "d5f637857e8fa9b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Rough/Filmmaker interview (Evil does not exist).md",
+                "file": "MAIN.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "86569a7b02d2512c",
+            "id": "974defb93dd150c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Rough/2024-05-14.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d82ed90114701631",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-Rough/Fear equality - scratch.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1a97506ab0fbcf60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-Notes/I'd appreciate your feedback.md",
+                "file": "1-Notes/Depth is breadth.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,22 +196,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db4e1d59cdf6fe05",
+  "active": "982c580f7563e572",
   "lastOpenFiles": [
-    "1-Internal notes/How to review & iterate on an essay.md",
+    "0-Rough/Asymmetry in games.md",
     "2-Essays/Fear equality.md",
-    "1-Internal notes/Try not using headers when you write.md",
-    "0-Rough/Filmmaker interview (Evil does not exist).md",
-    "0-Rough/2024-05-14.md",
+    "0-Rough/2024-05-15.md",
+    "MAIN.md",
+    "1-Notes/Depth is breadth.md",
+    "1-Notes/Depth is everything.md",
+    "1-Notes/Extreme asymmetry.md",
     "1-Notes/I'd appreciate your feedback.md",
     "0-Rough/Fear equality - scratch.md",
+    "0-Rough/2024-05-14.md",
     "0-Rough/Right title for essay?.md",
-    "MAIN.md",
+    "0-Inputs/Evil does not exist filmmaker interview.md",
+    "1-Internal notes/Try not using headers when you write.md",
+    "1-Internal notes/How to review & iterate on an essay.md",
     "0-Rough/I feel a sense of responsibility.md",
     "0-Rough/2024-05-13.md",
-    "2-Essays/Extreme asymmetry.md",
     "0-Rough/The better I feel, the longer it takes to pull my mind back.md",
-    "1-Notes/Depth is breadth.md",
     "2-Essays",
     "1-Internal notes/jisnu.org website.md",
     "1-Internal notes/Knowledge base design.md",
@@ -235,9 +227,6 @@
     "0-Rough/Untitled.canvas",
     "Untitled.md",
     "1-Internal notes",
-    "0-Rough/On moving.md",
-    "0-Rough/On writing.md",
-    "1-Notes/Why secrets aren't as valuable as before.md",
     "0-Inputs",
     "1-Notes",
     "Untitled.canvas",

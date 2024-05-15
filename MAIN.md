@@ -1,5 +1,5 @@
 *Active*
-- [[Extreme asymmetry]]
+- [[Fear equality]]
 
 *Published*
 
@@ -17,11 +17,11 @@
 - Co-founder only companies
 
 *Meta*
-- [[Be more ambitious]]
-- How to be more ambitious
-- We don't know what we want
-- Maximizing transactions is all we want
-- The best teams will work in person
-
+- [[Be more ambitious]] / How to be more ambitious.
+- We don't know what we want (on evolution).
+- Maximizing transactions is all we want (may not write this, doesn't feel too important compared to many other topics.)
+- The best teams will work in person (critically important - this is a foundation for how I will build teams).
+- Randomness is an illusion (i.e. you aren't a lottery ticket ). - *this is quite foundational to my worldview, is what I'm realizing.* - Luck vs. skill.
+- [[Depth is breadth]] / [[Depth is everything]]
 ---
 

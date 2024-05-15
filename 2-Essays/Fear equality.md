@@ -3,19 +3,19 @@ A small percentage of creators capture most of views.
 A small percentage of books capture most of sales.
 A small percentage of individuals hold most of the wealth.
 A small percentage of employees in a company contribute most of the productivity.
-A small percentage of individuals contribute to the majority of progress - in any field.
+A small percentage of individuals in the world contribute the majority of human progress.
 
 Asymmetry exists everywhere in our modern world and is rapidly accelerating.
 
-It's not possible to slow down this shift because it's intrinsically tied to human progress. Every single thing that we create: stories, technology, policies work to make our world more asymmetric.
+It's not possible to slow down this shift because it's intrinsically tied to human progress. Every single thing that we create: stories, technology, government policies, make our world more asymmetric.
 
-Yet, we deeply crave equality, symmetry. As the world becomes more asymmetric, this craving for equality blinds us to the paths that enable us get what we want in our lives. And it prevents us from designing our society in a way that's aligned with reality, preventing us from getting what we collectively want: a safer, freer, happier world.
+Yet, we deeply crave equality, symmetry. As the world becomes more asymmetric, this craving for equality blinds us to the paths that enable us get what we want in our lives. And this delusional craving prevents us from designing our society in ways that are aligned with reality, making it tougher to build a safer, freer world for all. Our craving to see equality everywhere causes suffering for each of us and the collective.
 
-The modern paradox is that it's easier than ever to create value in the world: we are more free, and our technology is more powerful than ever before, yet we find it more difficult than ever to create value in the world, capture some of it to afford the things that we want.
+The modern paradox is that it's easier than ever to create value in the world: we are more free, and our technology is more powerful than ever before, yet we find it more difficult than ever to create value in the world in order to afford the things that we want.
 
-Our habits are misaligned with reality. Increasingly so. The habits that enabled us to get what we want in a more symmetrical (equal) world no longer help us get what want in an extremely asymmetrical world. Our habits have become outdated.
+This paradox exists because our habits are misaligned with reality. Increasingly so. The habits that enabled us to get what we want in a more symmetrical (equal) world no longer help us get what want in an extremely asymmetrical world. Our habits have become outdated.
 
-To understand why, we need to first see what causes asymmetry, understand why asymmetry is growing and what that means for our world, and then introspect to see how our habits mislead us.
+To understand why, we need to first see what causes asymmetry, understand why asymmetry is growing, what that means for our world. Then we can introspect to see how we're deluded, how that leads to us not getting what we want, and how we may retrain ourselves to be more aligned with reality.
 
 ...
 
@@ -29,24 +29,51 @@ Therefore, our process to get the things we want resembles a decision tree:
 
 Complexity is proportional to the number of possibilities in this process, or in other words, the number of possible paths you can take in this tree. More complex games have more possibilities than less complex games. [^2]
 
-Whether you want to build a great company, make an emotionally moving work of art, or even improve your relationships, the process resembles this tree because it involves making choices out of an array of choices available at any given moment in time. And each choice you make influences the choices that are available next.
+Whether you want to build a great company, make an emotionally moving work of art, or even improve your relationships, the process you follow to get what you want resembles this tree because you make choices out of an array of choices available at any given moment in time, and each choice you make influences the choices that are available next.
 
-The advantage of framing our endeavors as games is that we can study the nature of human endeavors by studying the nature of simpler, more well understood games, and extrapolating those learnings to the games that we play.
+The advantage of framing our endeavors as games is that we can study the nature of most human endeavors by studying the nature of simpler, more well understood games, and extrapolating those learnings to the games that we play.
 
-Let's look at three simple (relative to most of the games we play) games: Tic Tac Toe (simple game), Chess (medium complexity), and Go (high complexity).
+Let's look at three simple (relative to most of the games we play) games: Tic Tac Toe (simple game), Chess (medium complexity), and Go (high complexity), to get a sense for how asymmetry is related to the complexity of the game.
 
-We observe the following as the game becomes more complex:
-1. There are less draws.
-2. It's more difficult to become great at the game.
-3. Intuition becomes a greater factor in how the best players play.
-4. The difference in skill between players increases.
-5. The best player is further ahead than the rest.
+(*todo: explain why these games differ in complexity*)
 
-Asymmetry rises as the complexity of the game increases.
+**More complex games have a fewer percentage of moves that are equally good.**
+
+The better we get at a game, the more we realize the difference in how good moves are. When we first start out, all moves seem to be "pretty good" since we haven't yet learned the downstream consequences of a move early on.
+
+For example, in Chess, moves and openings that were considered good before computers got good at Chess were later found to be not that great and therefore professionals discarded those moves entirely.
+
+There is a greater asymmetry in the value of moves.
+
+**More complex games have a greater difference between the best and the rest**
+
+We observe that there are fewer draws the more complex the game becomes.
+
+Any game of tic-tac-toe between two “seasoned players” will end in a draw. Chess players at the top of their games will often draw. In Chess championships, many of the games played result in a draw. In Go there rarely if ever any draws between top players.
+
+Another way to notice this difference is to observe the ELO ratings of professional players. ELO ratings is a way to calculate relative skills of players.
+
+> The difference in the ratings between two players serves as a predictor of the outcome of a match. Two players with equal ratings who play against each other are expected to score an equal number of wins. A player whose rating is 100 points greater than their opponent's is expected to score 64%; if the difference is 200 points, then the expected score for the stronger player is 76%
+> 
+> (https://en.wikipedia.org/wiki/Elo_rating_system)
+
+It's important to note that the difference in rating doesn't translate linearly to the difference in wins. Someone who is a thousand ELO rating higher than another will almost certainly win.
+
+In Go, the difference in ELO rating of the top two players is 183 (https://www.goratings.org/en/), whereas the difference in ELO rating of the top two Chess players is 25 (https://www.chess.com/players).
+
+The gap between the best and the next best is far greater in Go than in Chess. Meanwhile there's no need for ELO rating for Tic Tac Toe because every "professional" would draw, meaning everyone's ELO would be zero.
+
+*Yes, there may be differences in how ELO ratings are calculated for each game, but I'm confident that even when you adjust for such differences in calculations, the argument will still hold: the more complex games will have greater asymmetry that does not grow linearly with the difference in complexity.*
+
+**Complex games have a wider spread of ability**
+
+In more complex games we notice a much higher range for the ELO ratings. Meaning ability is spread more widely & the difference between the best and the average also grows. This is why the top ELO rating will be higher for more complex games.
+
+Therefore, asymmetry increases as the complexity of the game increases.
 
 ...
 
-The games we play to get the things we want are much, much higher in complexity than the games we discussed above, leading to far greater asymmetry. The complexity of the games we play are also rising due to leverage, causing asymmetry to increase in proportion.
+The games we play to get the things we want are much, much higher in complexity than the games we discussed above, leading to far greater asymmetry. The complexity of the games we play is also rising due to leverage, causing asymmetry to increase in proportion.
 
 By leverage I simply mean the time it takes to turn an idea into reality. The greater the leverage available to you, the less time it takes you to turn your ideas into reality.
 
@@ -89,6 +116,25 @@ We do not yet have a medium that perfectly represents what we feel.
 Yet, Chess & Go positions can easily be represented in words / symbols, which is why I believe that they're far from matching complexity of feelings. 
 
 (*I don't believe we will be able to represent feelings as a sequence of symbols anytime soon because the representational complexity of feelings is so high that the complexity of symbols doesn't grow fast enough. It's a scaling problem and precisely the problem we'll need to tackle in order to get AGI that reaches human level ability. AGI is a scaling problem. I believe we will need to invent many more technologies before we achieve it.*).
+
+...
+
+Still, we can't accept that asymmetry and inequality are bound to rise without discussing fairness.
+
+The world is different than board games in that fairness is not equally distributed. In Chess, if it were the case that a player had 10x the time on the clock to make their moves, then naturally the one with more time would likely win - given they've both had intensive professional training for their entire lives.
+
+But, counterintuitively, an unfair world is also more equal than a fair one. We can sniff out unfairness by seeing how much equality there is in the entire system.
+
+For example:
+
+In a world with greater equality of outcomes, an outlier is more likely a result of unfairness.
+In a world with greater inequality of outcomes, an outlier is more likely a result of fairness.
+
+This can be true while it's also true that upward mobility is more difficult. But the reason is that upward mobility is more difficult because we have outdated habits, not because of unfairness. The level of unfairness is decreasing as a function of leverage (may need to substantiate).
+
+(*Fairness has nothing to do with luck. It could be possible that someone finds themselves at the right place at the right time for some reason. That is very different than saying that there is inherent unfairness in the game. I'll explore in a later essay luck vs. skill, but a more fair world will lead to greater asymmetry.*)
+
+...
 
 ...
 
@@ -140,7 +186,7 @@ When our intuition is lacking and we want to train it, heuristics are helpful to
 
 One heuristic I've found helpful is to pause whenever I think something is equal, because the notion of equality is almost certainly a delusion as we're all playing quite complex games in a highly leveraged world.
 
-We also need to be more compassionate. Evolution has hardwired us to respect less those that achieve less. This was a useful conditioning back when we were hunters & gatherers because it was likely true that if someone achieved less, they were slacking. And this fear of being perceived lesser than another pushed us to become better at doing our work, which increases the probability that our tribe survives and we pass on our genes.
+We also need to be more compassionate. Evolution has hardwired us to respect less those that achieve less. This was a useful conditioning back when we were hunters & gatherers because it was likely true that if someone achieved less, they were slacking. And this fear of being perceived lesser than another pushed us to become better at doing our work, which increased the probability that our tribe survives and we pass on our genes.
 
 This evolutionary conditioning is especially dangerous in an extremely asymmetric world because it'll make most of us incredibly unhappy. In a free world with high leverage it's likely that a friend, neighbor, or someone we know, younger, less experienced, etc. will achieve orders of magnitude greater outcomes than we do. This will become increasingly common.
 
@@ -171,6 +217,5 @@ In this essay I've only scratched the surface of how we ought to train ourselves
 [^5] *To be clear, when I say  most of us don't have the intuition to do this, I'm not implying that everyone is in a position to get what they want even if they gain intuition quickly. That's because there is still a of work we need to do to ensure equality of opportunity. Someone in a war torn region in the world, no matter how much intuition they have, may still struggle to turn that intuition into outcomes due to circumstance. But if you're reading this it probably means that you have access to the internet, have at least a smartphone, and at least an hour of time a day to do what you want. I believe that's the minimum required to train intuition and afford what you want within a decade.*
 
 [^6] *Contrary to popular belief that greats fear less than the rest of us, I believe all greats of their crafts actually have greater fear towards lack of growth. The better you get, the more you can see how most paths will not lead to the sort of growth you want, and the more healthy fear you develop. It's no surprise that books such as "Only the paranoid survive" were written. (Disclaimer: I haven't read the book, the title just seemed relevant.)*
-
 
 (?) *Intuition is far more difficult to train than intellectual understanding. This has drastic implications on our education system, which I'll dive into in a future essay. Specifically, I believe that pay-to-learn education is outdated because it doesn't have the right incentives for an extremely asymmetric world.*

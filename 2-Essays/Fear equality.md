@@ -116,11 +116,51 @@ Artists for thousands of years have been solving for how to make people feel. Wh
 
 ...
 
+We can't be satisfied with any conclusions about asymmetry without thinking about the role of fairness. The real world is not like a board game. It's not fair.
 
+Let's imagine a fairy tale world. Every child would have loving, caring, supportive parents, wonderful teachers, the freedom to explore what they want. No one is concerned about how to make a living. Everyone has access to great healthcare, etc. 
+
+In this imaginary world, we all have incredibly high leverage: anything we imagine can be manifested into reality quickly. Have an idea for an app? It will be built in a day according to your instructions and you can share it with the entire world. The same for a video, song, etc. Whatever you can imagine and express well enough through some mediums (language, drawing, etc.) someone or something will turn it into reality for you. In this world all you will care about is to create things that you and others want - whether that's art, better medical instruments, physical things, whatever you want.
+
+What do you think the outcomes of this imaginary world would look like?
+
+I believe it would be incredibly asymmetric. That the richest person in this world will be so stupidly rich that it's unfathomable to us right now. And that there would be a massive variance in outcomes across the board.
+
+I believe this to be true because in a highly leveraged world, we have more possibilities and we make moves much quicker. Therefore, slight differences in choices at the start of the game would lead to drastic differences by the time we die, simply due to the complexity of the game.
+
+And what we've noticed in our world is that not all explorations are equally worthwhile. Someone who spends their entire life learning how to craft the best baskets to sell to their village will not have the same outcomes as someone who developed an interest for building, say, software.
+
+A slightly different influence that leads to a difference choice early will have incredibly large difference in where you end up. The greater the leverage, the greater the difference because the deeper in the game decision tree you can explore. 
+
+Two twin children, that open up a social app and see two different videos are in influenced in subtly different ways. Because each decision is faster to make due to leverage, even subtle difference in influence will lead to drastic differences by the time they die.
+
+And this isn't even taking into account the difference in our abilities at birth! If we include that, then asymmetry will be even greater. I think it's silly to think that we're not born with different capabilities, different strengths and weaknesses, different emotional reactions to the same stimuli. Nature is also a complex system - maybe even more complex than our feelings. Expecting it to produce two equal things of anything is a delusion.
+
+Now, unfairness can also cause inequality. But the shape of the inequality caused by unfairness is fundamentally different than the shape of the inequality caused by fairness + leverage. We'll need to train ourselves to be able to differentiate.
 
 ...
 
-**Therefore, asymmetry is a function of complexity, complexity is a function of leverage, and leverage is a function of human progress.**
+Human progress makes the world more fair.
+
+Someone born poor 2000 years ago had very little chance to move up in life. They'd likely be an indentured laborer or worse a slave. They'd have little to no freedom. They'd be unable to speak their mind against someone richer than them. There were rigid class divisions in society. 
+
+Even a century ago, most factory workers would likely never be able to afford starting their own factory one day because their wages would never add up to be enough, and because they wouldn't have access to capital (far fewer investors). Generally only those that had wealth had the ability to create what they wanted.
+
+Today, even in many of the poorest communities around the world, many kids have the ability to create, to speak their minds in ways their grandparents couldn't dream of, and have access to information and knowledge through the internet that is barely any less than the richest kid living in a high rise building in Manhattan.
+
+Human progress reduces the barrier to entry and spreads it wider.
+
+Yet, it's undeniable that the child that has access to higher quality feedback, more competent, ambitious peers, a stronger safety net, and more supportive loving parents, has an unfair advantage. While have a great deal of work to do, and we shouldn't stop pushing for a more fair world. But the world is more fair than it has ever been in modern history.
+
+Every humanitarian effort. Every improvement in technology. Every advancement in medicine, government policy, etc. will all help us get closer to a fair world, that will simultaneously be more asymmetric, unequal.
+
+...
+
+Asymmetry is a function of complexity. The greater the complexity of a game, the more asymmetric the game is.
+
+The complexity of the games we play is a function of leverage. The greater leverage that exists in the world, pushes us to play more complex games.
+
+Leverage that exists in the world is a function of human progress. Every advancement we make in any domain pushes us towards a more fair and leveraged world.
 
 ...
 

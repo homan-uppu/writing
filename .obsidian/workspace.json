@@ -44,19 +44,31 @@
             }
           },
           {
-            "id": "ce1d8a496cd7a2b2",
+            "id": "0b2c20fe0393a607",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Rough/Human progress and fairness.md",
+                "file": "0-Rough/Examples of outdated reactions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a9a4b3985614c9fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-Rough/Inequality exists everywhere.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Rough/Intellectual understanding is not enough.md",
+                "file": "2-Essays/Fear equality.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Rough/Intellectual understanding is not enough.md",
+                "file": "2-Essays/Fear equality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Rough/Intellectual understanding is not enough.md"
+                "file": "2-Essays/Fear equality.md"
               }
             }
           },
@@ -196,10 +208,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3da3005d8e29b574",
+  "active": "982c580f7563e572",
   "lastOpenFiles": [
-    "2-Essays/Fear equality.md",
     "0-Rough/Intellectual understanding is not enough.md",
+    "0-Rough/Examples of outdated reactions.md",
+    "0-Rough/Inequality exists everywhere.md",
+    "2-Essays/Fear equality.md",
+    "0-Rough/Fear equality act 3 (old).md",
     "0-Rough/Human progress and fairness.md",
     "0-Rough/Fairness and asymmetry.md",
     "0-Rough/Fairness and asymmetry (first).md",
@@ -222,9 +237,6 @@
     "0-Rough/2024-05-13.md",
     "0-Rough/The better I feel, the longer it takes to pull my mind back.md",
     "2-Essays",
-    "1-Internal notes/jisnu.org website.md",
-    "1-Internal notes/Knowledge base design.md",
-    "1-Internal notes/Force better writing at all layers.md",
     "0-Rough/Untitled.canvas",
     "1-Internal notes",
     "0-Inputs",

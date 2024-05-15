@@ -19,7 +19,7 @@ To understand why, we need to first see what causes asymmetry, understand why as
 
 ...
 
-Asymmetry is a function of complexity and leverage.
+Asymmetry is a function of complexity.
 
 We can model the process we follow to get what we want (whatever that may be) as a game. The "winning" criteria is feeling the satiation from getting what we want. Our process involves making decisions about what to do. Each decision takes us to a point where we see more choices that we have to decide from. [^1]
 
@@ -37,7 +37,7 @@ Let's look at three simple (relative to most of the games we play) games: Tic Ta
 
 (*todo: explain why these games differ in complexity*)
 
-**More complex games have a fewer percentage of moves that are equally good.**
+A) More complex games have a fewer percentage of moves that are equally good.
 
 The better we get at a game, the more we realize the difference in how good moves are. When we first start out, all moves seem to be "pretty good" since we haven't yet learned the downstream consequences of a move early on.
 
@@ -45,7 +45,7 @@ For example, in Chess, moves and openings that were considered good before compu
 
 There is a greater asymmetry in the value of moves.
 
-**More complex games have a greater difference between the best and the rest**
+B) More complex games have a greater difference between the best and the rest
 
 We observe that there are fewer draws the more complex the game becomes.
 
@@ -65,7 +65,7 @@ The gap between the best and the next best is far greater in Go than in Chess. M
 
 *Yes, there may be differences in how ELO ratings are calculated for each game, but I'm confident that even when you adjust for such differences in calculations, the argument will still hold: the more complex games will have greater asymmetry that does not grow linearly with the difference in complexity.*
 
-**Complex games have a wider spread of ability**
+C) Complex games have a wider spread of ability
 
 In more complex games we notice a much higher range for the ELO ratings. Meaning ability is spread more widely & the difference between the best and the average also grows. This is why the top ELO rating will be higher for more complex games.
 
@@ -73,23 +73,28 @@ Therefore, asymmetry increases as the complexity of the game increases.
 
 ...
 
-The games we play to get the things we want are much, much higher in complexity than the games we discussed above, leading to far greater asymmetry. The complexity of the games we play is also rising due to leverage, causing asymmetry to increase in proportion.
+The games we play to get the things we want are much, much higher in complexity than the games we discussed above, leading to far greater asymmetry. 
 
-By leverage I simply mean the time it takes to turn an idea into reality. The greater the leverage available to you, the less time it takes you to turn your ideas into reality.
+Yet, complexity alone doesn't help us understand why asymmetry is growing. If the games we play are more complex than the board games we discussed, then why haven't we always seen a great deal of asymmetry?
 
-Human progress increases leverage and spreads it to more people & domains.
+The complexity of the games we play is a function of leverage. By leverage I simply mean the time it takes to turn an idea into reality. The greater the leverage available to you, the less time it takes you to turn your ideas into reality.
 
-For example, when a dictatorship is replaced by a democracy, the citizens often gain leverage because they are more free and therefore can manifest their ideas that they previously couldn't. They have greater leverage.  When a new technology is created, it reduces the time and effort to turn your idea into reality. 
+Any human progress increases leverage, and spreads it to more people. For example, when a dictatorship is replaced by a democracy, the citizens often gain leverage because they are more free and therefore can manifest their ideas that they previously couldn't. When a new technology is created, it reduces the time and effort to turn your idea into reality. 
 
 Computers, internet, artificial intelligence, government policies, greater individual freedom, etc. all work to increase leverage in the world. [^3]
 
-Greater leverage also means that simpler games become less valuable for us to do because technology does it better than we can. We shift towards playing more complex games.
+Greater leverage increases the complexity of the games we play in three ways:
+1. By reducing the time per move.
+2. By eliminating the need to play simpler games (technology does it for us).
+3. By increasing the possibilities within any game, thereby making the game more complex.
+
+Greater leverage means that simpler games become less valuable for us to do because technology does it better than we can. We shift towards playing more complex games.
 
 For example, before computers, most people involved in business spent a large chunk of their time calculating numbers on paper. Computers were able to do number crunching better than we could, and therefore we had more time to spend on figuring out what products to create, how to build great teams, etc - which are all far more complex than number calculation.
 
 Yet, we would still not see great asymmetry between players playing a highly complex game if each move takes a long time to make. For example, if each move in Chess took 4 years to make, by the time the two players died, the board position probably wouldn't be too skewed one way or the other.
 
-In other words, the longer it takes to make a move, the longer it takes for the underlying asymmetry between players to become visible.
+In other words, the more quickly, and the longer players play, the more their underlying differences are uncovered, and the more the underlying asymmetry reveals itself.
 
 Leverage decreases the time per move, and therefore exposes the underlying asymmetry quite quickly. Today, the best company founder will outpace everyone else by many orders of magnitude before they die in ways that a similarly great founder 100 years ago could not simply because each move took much longer to make.
 
@@ -123,7 +128,7 @@ Still, we can't accept that asymmetry and inequality are bound to rise without d
 
 The world is different than board games in that fairness is not equally distributed. In Chess, if it were the case that a player had 10x the time on the clock to make their moves, then naturally the one with more time would likely win - given they've both had intensive professional training for their entire lives.
 
-But, counterintuitively, an unfair world is also more equal than a fair one. We can sniff out unfairness by seeing how much equality there is in the entire system.
+But, counterintuitively, an unfair world is more equal than a fair one. We can sniff out unfairness by seeing how much equality there is in the entire system.
 
 For example:
 

@@ -67,7 +67,7 @@ The gap between the best and the next best is far greater in Go than in Chess. M
 
 *Yes, there may be differences in how ELO ratings are calculated for each game, but I'm confident that even when you adjust for such differences in calculations, the argument will still hold: the more complex games will have greater asymmetry that does not grow linearly with the difference in complexity.*
 
-*C) Complex games have a wider range of ability.*
+*C) Complex games have a wider spread of ability.*
 
 In more complex games we notice a much higher range for the ELO ratings. Meaning ability is spread more widely & the difference between the best and the average also grows. This is why the top ELO rating will be higher for more complex games.
 
@@ -168,7 +168,17 @@ Therefore, asymmetry is rising.
 
 ...
 
-**How fast is it increasing?**
+But, asymmetry isn't rising linearly. Leverage is accelerating exponentially, and therefore so is asymmetry.
+
+Global GDP is a rough, but directionally correct, approximation of the leverage in the world. The more leverage that exists in the world means that we are able to turn more ideas into reality, creating and selling more things of higher value.
+
+It's only a rough approximation because it only represents the transactions between us that involve a monetary exchange. There are many transactions that increase due to leverage that aren't directly captured by an exchange of money such as liking social media posts.
+
+GDP is also a lagging indicator of leverage because it takes time to turn leverage into transactions because even though the time it takes to turn an idea to reality decreases, it's still not 0. And only executed ideas have an opportunity to impact GDP.
+
+We can see how leverage is accelerating exponentially by observing how our global GDP is rising exponentially: https://ourworldindata.org/grapher/global-gdp-over-the-long-run.
+
+Therefore asymmetry is not just increasing, but increasing exponentially fast.
 
 ...
 

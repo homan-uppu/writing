@@ -7,17 +7,17 @@ A small percentage of individuals in the world contribute the majority of human 
 
 Asymmetry exists everywhere in our modern world and is rapidly accelerating.
 
-It's not possible to slow down this shift because it's intrinsically tied to human progress. Every single thing that we create: stories, technology, government policies, make our world more asymmetric.
+Asymmetry is intrinsically tied to human progress. Every single thing that we create: stories, technology, government policies, make our world more asymmetric.
 
 Yet, we deeply crave equality, symmetry. As the world becomes more asymmetric, this craving for equality blinds us to the paths that enable us get what we want in our lives.
 
-The modern paradox is that it's easier than ever to create value in the world: we are more free, and our technology is more powerful than ever before, yet we find it more difficult than ever to create value in the world in order to afford the things that we want.
+The modern paradox is that it's easier than ever to create value in the world: we are more free, and our technology is more powerful than ever before, yet we find it more difficult than ever to get the things we want.
 
 This paradox exists because our habits are misaligned with reality. Increasingly so. The habits that enabled us to get what we want in a more symmetrical (equal) world no longer help us get what want in an extremely asymmetrical world. 
 
 Our habits are terribly outdated.
 
-To understand why, we need to first see what causes asymmetry, understand why asymmetry is growing, and what that means for our world. Then we can introspect to see how we're deluded, how that leads to us not getting what we want, and how we may retrain ourselves to be more aligned with reality.
+To understand why, we need to first see what asymmetry looks like, what causes it, and understand why it's growing.
 
 ...
 
@@ -144,11 +144,9 @@ Even a century ago, most factory workers would likely never be able to afford st
 
 Today, even in many of the poorest communities around the world, many kids have the ability to create, to speak their minds in ways their grandparents couldn't dream of, and have access to information and knowledge through the internet that is barely any less than the richest kid living in a high rise building in Manhattan.
 
-Human progress reduces the barrier to entry and spreads it wider.
+Human progress increases leverage and spreads it wider.
 
-Yet, it's undeniable that the child that has access to higher quality feedback, more competent, ambitious peers, a stronger safety net, and more supportive loving parents, has an unfair advantage. While have a great deal of work to do, and we shouldn't stop pushing for a more fair world. But the world is more fair than it has ever been in modern history.
-
-Every humanitarian effort. Every improvement in technology. Every advancement in medicine, government policy, etc. will all help us get closer to a fair world, that will simultaneously be more asymmetric, unequal.
+Yet, it's undeniable that the child that has access to higher quality feedback, more competent, ambitious peers, a stronger safety net, and more supportive loving parents, has an unfair advantage. We have a lot of work to do. But the world is more fair than it has ever been in modern history.
 
 ...
 
@@ -162,13 +160,13 @@ Therefore, asymmetry is rising.
 
 ...
 
-But, asymmetry isn't rising linearly. Leverage is accelerating exponentially, and therefore so is asymmetry.
+But, asymmetry isn't rising linearly. Leverage is accelerating exponentially, and therefore so does the complexity of our activities, and therefore so does asymmetry.
 
 Global GDP is a rough, but directionally correct, approximation of the leverage in the world. The more leverage that exists in the world means that we are able to turn more ideas into reality, creating and selling more things of higher value.
 
-It's only a rough approximation because it only represents the transactions between us that involve a monetary exchange. There are many transactions that increase due to leverage that aren't directly captured by an exchange of money such as liking social media posts.
+It's only a rough approximation because it only represents the transactions between us that involve a monetary exchange. There are many transactions that increase due to leverage that aren't directly captured by an exchange of money, such as liking posts on social media.
 
-GDP is also a lagging indicator of leverage because it takes time to turn leverage into transactions because even though the time it takes to turn an idea to reality decreases, it's still not 0. And only executed ideas have an opportunity to impact GDP.
+GDP is also a lagging indicator of leverage because it takes time to turn leverage into transactions because even though the time it takes to turn an idea to reality decreases, it's still not instantaneous. And often only implemented ideas have an opportunity to impact GDP.
 
 We can see how leverage is accelerating exponentially by observing how our global GDP is rising exponentially: https://ourworldindata.org/grapher/global-gdp-over-the-long-run.
 
@@ -192,9 +190,7 @@ And any change you make in your life that you think is directionally correct wil
 
 Our second problem is that we don't have the right emotional response to equality (symmetry). Instead of fearing equality as we should, we crave it. [^1] This makes shifting our behaviors towards asymmetry even more difficult than it would have been to act optimally to a viral pandemic. 
 
-The right emotional response to equality is fear. Yet, we crave it.
-
-Our craving for equality blinds us to reality. The more disconnected our beliefs are from reality, the more we suffer. And reality is slipping away under our feet quickly.
+Our craving for equality blinds us to reality. The more disconnected our beliefs are from reality, the more we suffer. And reality is slipping away from us quickly. Through the following examples I hope to show how far off our intuitions are from the optimal.
 
 ...
 
@@ -223,23 +219,19 @@ Similarly, a young person who wants to join a great company so that they can bec
 
 A prospective employee with the right intuition would be paranoid about understanding whether the company is truly equal internally, or they're just saying they are. Of course, all companies (even the great ones) will claim they are equal internally because it's not culturally acceptable yet to claim that they aren't, but not uncovering the true inequality internally will lead a prospective employee to make incredibly suboptimal decisions.
 
-To be clear, there are many "highly valued" companies on the market that are incredibly equal internally, and therefore are rotting. A company's value is a lagging indicator of their health. Today's rot will manifest in earnings down the line. And so any job hunter that has the right intuition for asymmetry and how the world works should fear being lured in by a company's present value.
+To be clear, there are many "highly valued" companies on the market that are incredibly equal internally, and therefore are rotting. A company's value is a lagging indicator of their health. Today's rot will manifest in earnings down the line. And so any job hunter that has the right intuition for asymmetry and how the world works should fear being lured in by a company's present market value if they're not set up for success in the future.
 
 ...
 
-Similarly a prospective student that wants to join the best learning program, with the right intuition, would be fearful of any academic program that claims that a high percentage of its graduates are equally competent or have found jobs that pay similarly well. That's a sign that the graduates are average, and / or that they are joining companies that are average. And if you join such a learning program you too will join a company that will become irrelevant soon.
+Similarly a prospective student that wants to join the best learning program, with the right intuition, would be fearful of any academic program that claims that a high percentage of its graduates are equally competent or have found jobs that pay similarly well. That's a sign that the graduates are average, and / or that they are joining companies that are average. And since there is no stagnation, only accelerated growth or death, those companies will become irrelevant more quickly than ever before.
 
 Selectivity is not what matters, it's the outcomes. A highly selective organization that still has equal outcomes is almost certainly a terrible one. A useless organization can still have asymmetric outcomes that make it seem that it's a great institution. They do this by simply bringing together a bunch of ambitious talent together and letting them do their thing. It's important to understand how much the institution is actually impacting the asymmetric outcomes. [^3]
 
-And lastly it's important to also be cautious of asymmetry when the best player is average. That means that not only is the institution not teaching the skills at the level of complexity required to be relevant, it means they suck at teaching even simpler skills. There are ways to gauge how good the talent is that I'll discuss later.
+And lastly it's important to also be cautious of asymmetry when the best player is average. That means that not only is the institution not teaching the skills at the level of complexity required to be relevant in a highly leveraged world, it means they suck at teaching even simpler skills.
+
+We need entirely new playbooks to optimally build companies, educate ourselves, and even operate society. And these optimal paths look quite weird.
 
 ...
-
-This essay only scratches the surface of how the world is becoming more asymmetric and how our intuitions are outdated. The slower we are to update our intuitions and habits to be aligned with the rapidly changing reality of the world, the more difficult we will find it becomes to get what we want.
-
-In this upcoming decade, with the sharp rise in leverage we will witness through artificial intelligence, we will see an unfathomable increase in asymmetry. Everywhere we look will be extremely asymmetric, unequal.
-
-Equality should be feared. Except one kind: the equality of opportunity. Let's make the world more fair, and adapt to the rising inequality it will result in.
 
 The need for compassion, towards others and ourselves, is greater than ever before.
 
@@ -249,7 +241,7 @@ Unfortunately in the modern world this evolutionary programming only leads to su
 
 ...
 
-Fear equality. Fight for fairness. Overcome jealousy. Build compassion. Uncover the underlying asymmetries of the world. When you decide on how to respond, respond harder and faster than you feel you should. Accept that you will be ridiculed for acting more optimally than others. Thrive.
+Fear equality. Fight for fairness. Overcome jealousy. Build compassion. Uncover the underlying asymmetries of the world. When you decide on how to respond, respond harder and faster than you feel you should. Accept that you will be ridiculed for acting more optimally than most. Thrive.
 
 ...
 

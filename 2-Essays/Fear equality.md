@@ -39,7 +39,7 @@ Let's look at three simple (relative to most of the games we play) games: Tic Ta
 
 (*todo: explain why these games differ in complexity*)
 
-A) More complex games have a fewer percentage of moves that are equally good.
+*A) More complex games have a fewer percentage of moves that are equally good.*
 
 The better we get at a game, the more we realize the difference in how good moves are. When we first start out, all moves seem to be "pretty good" since we haven't yet learned the downstream consequences of a move early on.
 
@@ -47,7 +47,7 @@ For example, in Chess, moves and openings that were considered good before compu
 
 There is a greater asymmetry in the value of moves.
 
-B) More complex games have a greater difference between the best and the rest.
+*B) More complex games have a greater difference between the best and the rest.*
 
 We observe that there are fewer draws the more complex the game becomes.
 
@@ -67,7 +67,7 @@ The gap between the best and the next best is far greater in Go than in Chess. M
 
 *Yes, there may be differences in how ELO ratings are calculated for each game, but I'm confident that even when you adjust for such differences in calculations, the argument will still hold: the more complex games will have greater asymmetry that does not grow linearly with the difference in complexity.*
 
-C) Complex games have a wider spread of ability.
+*C) Complex games have a wider range of ability.*
 
 In more complex games we notice a much higher range for the ELO ratings. Meaning ability is spread more widely & the difference between the best and the average also grows. This is why the top ELO rating will be higher for more complex games.
 
@@ -138,7 +138,7 @@ Two twin children, that open up a social app and see two different videos are in
 
 And this isn't even taking into account the difference in our abilities at birth! If we include that, then asymmetry will be even greater. I think it's silly to think that we're not born with different capabilities, different strengths and weaknesses, different emotional reactions to the same stimuli. Nature is a complex system - maybe even more complex than our feelings. Expecting it to produce two equal things of anything is a delusion.
 
-Now, unfairness can also cause inequality. But the shape of the inequality caused by unfairness is fundamentally different than the shape of the inequality caused by fairness + leverage. We'll need to train ourselves to be able to differentiate between them.
+Now, unfairness can also cause inequality. But the shape of the inequality caused by unfairness is fundamentally different than the shape of the inequality caused by fairness + leverage. We'll need to train ourselves to be able to differentiate between them, but the idea that a fair world would be equal is a delusion.
 
 ...
 

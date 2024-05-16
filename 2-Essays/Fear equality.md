@@ -65,12 +65,13 @@ And we can observe this fact in the ELO ratings of the games above. The differen
 
 Lastly, we should notice that the more complex the game becomes, outcomes (i.e. ELO ratings) only become more equal the further you go towards worse players. In other words, when two professionals are equally good it means that they're not close to the best player.
 
-Therefore, as the complexity of the game increases so does the asymmetry of the values of moves, as well as the asymmetry in outcomes. And the change in asymmetry that we observe when we move from a lower complexity game to a higher one isn't a linear change.
+Therefore, as the complexity of the game increases so does the asymmetry of the values of moves, as well as the asymmetry in outcomes. And lastly, asymmetry is not linear (i.e. the gap between 1 & 2 is greater than gap between 2 & 3, and so on).
+
 ...
 
 The games we play today to get the things we want are much, much higher in complexity than the games we discussed above, leading to far greater asymmetry. 
 
-Yet, complexity alone doesn't help us understand why asymmetry is growing. If the games we play have always been more complex than the board games we discussed, then why haven't we always seen a great deal of asymmetry?
+Yet, complexity alone doesn't help us understand why asymmetry is growing. If the games we play have always been more complex than the board games we discussed, then why haven't we always seen a great deal of asymmetry in the world, and importantly, why is it increasing?
 
 The complexity of the games we play is a function of leverage. By leverage I mean: the time it takes to turn an idea into reality. The greater the leverage available to you, the less time it takes you to turn your ideas into reality.
 
@@ -111,7 +112,7 @@ Artists for thousands of years have been solving for how to make people feel. Wh
 
 ...
 
-We can't be satisfied with any conclusions about asymmetry without thinking about the role of fairness. The real world is not like a board game. It's not fair.
+We can't be satisfied with any conclusions about asymmetry without also considering the role of fairness. The real world is not like a board game. Life's not fair.
 
 Let's imagine a fairy tale world. Every child would have loving, caring, supportive parents, wonderful teachers, the freedom to explore what they want. No one is concerned about how to make a living. Everyone has access to great healthcare, etc. 
 
@@ -175,11 +176,25 @@ Therefore asymmetry is not just increasing, but increasing exponentially fast.
 
 ...
 
-Intellectual understanding of asymmetry is not enough to act optimally in an extremely asymmetric world because we lack the appropriate intuitive, emotional response to guide us.
+Intellectual understanding of asymmetry is not enough to act optimally in an asymmetric world that is rapidly accelerating in its asymmetry. 
 
-Instead of fearing equality as we should, we crave it. [^1]
+We have two fundamental problems holding us back, and these problems stem from the limitations of our minds.
 
-And our craving blinds us to reality. The more our beliefs deviate from reality, the more we suffer, as we'll see in the following examples.
+Our first problem is that we do not have an intuitive grasp of exponential change. Even if you intellectually see the current asymmetry of the world and how it's increasing rapidly, you will certainly be surprised and caught off guard. We don't have to look far back to see why. Before the COVID-19 pandemic took off, many nations and institutions had the math right: they could all see the rapid spread of the virus. Heck, even I read an essay in February that predicted that we'd have a pandemic. Yet, few, if any, of us had the appropriate emotional response. We lacked the appropriate fear and caution that would have enabled us to take the optimal path to preventing a pandemic.
+
+Similarly, even if you believe everything you've read in this essay so far, I assure you that we'll all be very surprised as we see this asymmetry skyrocket on an exponential curve. And if you want to act optimally today, you're going to look stupid and be laughed at by the world in the same way that anyone who wore a mask in January 2020 would have been. 
+
+And interestingly during COVID if you were acting optimally, you would have also been ridiculed later in the pandemic because you would have stopped masking before most others did, and would have been hated for putting others' lives at risk.
+
+Since we all suck at responding optimally to exponential change, you will always look weird and stupid for acting optimally in an exponentially changing environment.
+
+And any change you make in your life that you think is directionally correct will almost certainly not be a strong enough change. In the COVID analogy, if you believed the math that predicted it, even though the optimal strategy in Jan 2020 was to mask up, you would have just washed you hands an extra time thinking it's enough.
+
+Our second problem is that we don't have the right emotional response to equality (symmetry). Instead of fearing equality as we should, we crave it. [^1] This makes shifting our behaviors towards asymmetry even more difficult than it would have been to act optimally to a viral pandemic. 
+
+The right emotional response to equality is fear. Yet, we crave it.
+
+Our craving for equality blinds us to reality. The more disconnected our beliefs are from reality, the more we suffer. And reality is slipping away under our feet quickly.
 
 ...
 
@@ -192,11 +207,15 @@ When a team leader sees that a group of teammates are performing equally well, t
 
 And it should be noted that there is also asymmetry for how much each factor contributes to the problem - it's not that each of the points above are equally responsible at any given point in time. If I were to pick the most important factor it would be that the team does not consist of great players, because if they were good, they'd be obsessed about increasing their leverage as much as possible, moving as fast as possible, assessing productivity more accurately, and would be paranoid about not letting in average players [^2], 
 
-You might say for the sake of the employees and society, teams shouldn't be obsessed about improving themselves by identifying their internal asymmetries (implying they shouldn't fire low performers). But the fact is that teams that don't organize themselves around asymmetry will find it incredibly difficult to compete. What that ideal organization looks like is a nuanced topic that I'll cover later - but one thing is certain: it looks quite different from how we've been building companies so far. And since asymmetry is growing rapidly, companies that aren't aligned with reality will become irrelevant more quickly than ever before.
+You might say for the sake of the employees and society, teams shouldn't be obsessed about improving themselves by identifying their internal asymmetries (implying they shouldn't fire low performers). But the fact is that teams that don't organize themselves around asymmetry will find it incredibly difficult to survive. There is no stagnation in a rapidly changing world, there is only accelerated growth, and accelerated death. Companies will have no choice but to adapt or perish.
 
-You may also believe that it's probably good to slow down this rate of change to make it easier on employees. Whether you realize it or not, by saying this you're also advocating for slower human progress meaning a slower rate of increase in fairness in the world. Everything is connected.
+What that ideal organization looks like is a nuanced topic that I'll cover later - but one thing is certain: it looks quite different from how we've been building companies so far. And since asymmetry is growing rapidly, companies that aren't aligned with reality will become irrelevant more quickly than ever before.
 
-Since asymmetry is indirectly a function of leverage, every time we see a bump in leverage (e.g. a more powerful AI model is released), we will notice massive layoffs, as well as a sharp rise in compensation and demand for top talent. Many are already feeling this paradox: the job market seems terrible, yet companies are desperate for great talent and are willing to pay more than ever. Asymmetry is manifesting itself.
+You may also believe that it's probably good to slow down this rate of change to make it easier on employees. Whether you realize it or not, by saying this you're also advocating for slower human progress meaning a slower rate of increase in fairness in the world. 
+
+Everything is connected in ways that we may not like, but cannot deny.
+
+Since asymmetry is indirectly a function of leverage, every time we see a bump in leverage (e.g. a more powerful AI model is released), we will notice massive layoffs, as well as a sharp rise in compensation and demand for top talent. Many are already feeling this paradox: the job market seems terrible, yet companies are desperate for great talent and are willing to pay more than ever. Reality is giving us a wake up call.
 
 ...
 

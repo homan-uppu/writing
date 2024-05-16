@@ -9,13 +9,15 @@ Asymmetry exists everywhere in our modern world and is rapidly accelerating.
 
 It's not possible to slow down this shift because it's intrinsically tied to human progress. Every single thing that we create: stories, technology, government policies, make our world more asymmetric.
 
-Yet, we deeply crave equality, symmetry. As the world becomes more asymmetric, this craving for equality blinds us to the paths that enable us get what we want in our lives. And this delusional craving prevents us from designing our society in ways that are aligned with reality, making it tougher to build a safer, freer world for all. Our craving to see equality everywhere causes suffering for each of us and the collective.
+Yet, we deeply crave equality, symmetry. As the world becomes more asymmetric, this craving for equality blinds us to the paths that enable us get what we want in our lives.
 
 The modern paradox is that it's easier than ever to create value in the world: we are more free, and our technology is more powerful than ever before, yet we find it more difficult than ever to create value in the world in order to afford the things that we want.
 
-This paradox exists because our habits are misaligned with reality. Increasingly so. The habits that enabled us to get what we want in a more symmetrical (equal) world no longer help us get what want in an extremely asymmetrical world. Our habits have become outdated.
+This paradox exists because our habits are misaligned with reality. Increasingly so. The habits that enabled us to get what we want in a more symmetrical (equal) world no longer help us get what want in an extremely asymmetrical world. 
 
-To understand why, we need to first see what causes asymmetry, understand why asymmetry is growing, what that means for our world. Then we can introspect to see how we're deluded, how that leads to us not getting what we want, and how we may retrain ourselves to be more aligned with reality.
+Our habits are terribly outdated.
+
+To understand why, we need to first see what causes asymmetry, understand why asymmetry is growing, and what that means for our world. Then we can introspect to see how we're deluded, how that leads to us not getting what we want, and how we may retrain ourselves to be more aligned with reality.
 
 ...
 
@@ -77,7 +79,7 @@ The games we play today to get the things we want are much, much higher in compl
 
 Yet, complexity alone doesn't help us understand why asymmetry is growing. If the games we play have always been more complex than the board games we discussed, then why haven't we always seen a great deal of asymmetry?
 
-The complexity of the games we play is a function of leverage. By leverage I simply mean the time it takes to turn an idea into reality. The greater the leverage available to you, the less time it takes you to turn your ideas into reality.
+The complexity of the games we play is a function of leverage. By leverage I mean: the time it takes to turn an idea into reality. The greater the leverage available to you, the less time it takes you to turn your ideas into reality.
 
 Any human progress increases leverage, and spreads it to more people. For example, when a dictatorship is replaced by a democracy, the citizens gain leverage because they are more free and therefore can manifest their ideas that they previously couldn't. When a new technology is created, it reduces the time and effort to turn your idea into reality. 
 
@@ -98,9 +100,9 @@ And lastly, games that were always complex become even more complex due to lever
 
 I made a claim earlier that the games we play are far more complex than Chess and Go. A good reader would have been annoyed that I offered no explanation. Even though my intuition led me to write that claim quickly, the explanation wasn't as straightforward as I initially felt it would be.
 
-There is a hierarchy of complexity for the games, and the most complex games we play are the ones in which success is measured by how good we make people feel.
+There is a hierarchy of complexity for human endeavors. The most complex human activities are the ones in which success is measured by how good we make people feel.
 
-And the representational complexity of feeling is far greater than that of Chess or Go. By representational complexity I mean how easy it is to describe the state of the game at any moment in time. A game that has a much more complicated state, likely also has many more possibilities for what moves you can take, and is therefore more complex in general.
+And the representational complexity of feeling is far greater than that of Chess or Go. By representational complexity I mean how easy it is to describe the state of the game at any moment in time. A game that has a much more complicated state, likely has many more possibilities for what moves you can take, and is therefore more complex in general.
 
 To see why, recall when you had to communicate how you felt. You'll remember how difficult it is to do so, and importantly that no matter how many words you use, you weren't able to fully, completely, represent your feeling in words. This is because a feeling has a much higher representational complexity than words. Trying to represent a feeling in words is difficult because we are trying to represent something of a higher complexity into a medium that has less complexity. Information is bound to be lost.
 
@@ -110,7 +112,7 @@ The representational complexity of Chess and Go can easily be represented by sym
 
 As leverage increases, we move up the complexity hierarchy to play games measured by how good you make people feel. A couple of centuries ago, most workers spent their time playing games that had nothing to do with how to make someone feel. They'd often assemble physical things in a factory. As that region progressed, they built better technology to require less workers to manufacture the same thing, and also offshored simpler work to other places, leaving workers to move up complexity towards services such as marketing, support, design, etc, which are closer to solving for how to make people feel good.
 
-We notice this trend today as well. Programmers are being asked to become better at thinking about what to build and understanding users, without just thinking about how to build something. Animators are being asked to contribute something meaningful to the story instead of only translating a rough sketch into a completed animation. Pizza cooks, and ice cream store employees, are being asked to tell engaging stories on social media to attract more customers. Everyone is moving towards figuring out how to make people feel good.
+We notice this trend today as well. Programmers are being asked to become better at thinking about what to build and understanding users, without just thinking about how to build something (https://x.com/ID_AA_Carmack/status/1637087219591659520). Animators are being asked to contribute something meaningful to the story instead of only translating a rough sketch into a completed animation. Pizza cooks, and ice cream store employees, are being asked to tell engaging stories on social media to attract more customers. Everyone is moving towards figuring out how to make people feel.
 
 Artists for thousands of years have been solving for how to make people feel. Which is why it's no surprise that the arts have always had extreme asymmetry. Human progress is pushing us all towards the games that artists have been playing for a long time, and also the extreme asymmetry that artists have felt for a long time.
 
@@ -130,13 +132,13 @@ I believe this to be true because in a highly leveraged world, we have more poss
 
 And what we've noticed in our world is that not all explorations are equally worthwhile. Someone who spends their entire life learning how to craft the best baskets to sell to their village will not have the same outcomes as someone who developed an interest for building, say, software.
 
-A slightly different influence that leads to a difference choice early will have incredibly large difference in where you end up. The greater the leverage, the greater the difference because the deeper in the game decision tree you can explore. 
+A slightly different influence that leads to a difference choice early will have incredibly large difference in where you end up. The greater the leverage, the greater the difference because the deeper in the game decision tree you can get to before you die.
 
-Two twin children, that open up a social app and see two different videos are in influenced in subtly different ways. Because each decision is faster to make due to leverage, even subtle difference in influence will lead to drastic differences by the time they die.
+Two twin children, that open up a social app and see two different videos are in influenced in subtly different ways. Since each decision they make from then on is faster to make due to leverage, even subtle difference in influence will lead to drastic differences by the time they die.
 
-And this isn't even taking into account the difference in our abilities at birth! If we include that, then asymmetry will be even greater. I think it's silly to think that we're not born with different capabilities, different strengths and weaknesses, different emotional reactions to the same stimuli. Nature is also a complex system - maybe even more complex than our feelings. Expecting it to produce two equal things of anything is a delusion.
+And this isn't even taking into account the difference in our abilities at birth! If we include that, then asymmetry will be even greater. I think it's silly to think that we're not born with different capabilities, different strengths and weaknesses, different emotional reactions to the same stimuli. Nature is a complex system - maybe even more complex than our feelings. Expecting it to produce two equal things of anything is a delusion.
 
-Now, unfairness can also cause inequality. But the shape of the inequality caused by unfairness is fundamentally different than the shape of the inequality caused by fairness + leverage. We'll need to train ourselves to be able to differentiate.
+Now, unfairness can also cause inequality. But the shape of the inequality caused by unfairness is fundamentally different than the shape of the inequality caused by fairness + leverage. We'll need to train ourselves to be able to differentiate between them.
 
 ...
 
@@ -161,6 +163,12 @@ Asymmetry is a function of complexity. The greater the complexity of a game, the
 The complexity of the games we play is a function of leverage. The greater leverage that exists in the world, the more complex the games we play become.
 
 Leverage is a function of human progress. Every positive advancement pushes us towards a more fair and leveraged world.
+
+Therefore, asymmetry is rising.
+
+...
+
+**How fast is it increasing?**
 
 ...
 
@@ -211,19 +219,19 @@ And lastly it's important to also be cautious of asymmetry when the best player 
 
 This essay only scratches the surface of how the world is becoming more asymmetric and how our intuitions are outdated. The slower we are to update our intuitions and habits to be aligned with the rapidly changing reality of the world, the more difficult we will find it becomes to get what we want.
 
-In this upcoming decade, with the sharp rise in leverage we will witness through artificial intelligence, we will see an unfathomable amount of asymmetry in the world, everywhere we look.
+In this upcoming decade, with the sharp rise in leverage we will witness through artificial intelligence, we will see an unfathomable increase in asymmetry. Everywhere we look will be extremely asymmetric, unequal.
 
 Equality should be feared. Except one kind: the equality of opportunity. Let's make the world more fair, and adapt to the rising inequality it will result in.
 
-Lastly, the need for compassion, towards others and ourselves, is greater than ever before.
+The need for compassion, towards others and ourselves, is greater than ever before.
 
 Our minds have been programmed by evolution to respect those that achieve greater results, and respect less those who achieve less. This was a useful programming back when we were hunter gatherers because in that context when an individual achieved less it meant less food for the tribe and everyone would suffer. Our craving for external validation, craving for status, and even our jealousy, helped us work hard to contribute equally well to the tribe, so that we weren't left behind.
 
-Unfortunately in the modern world this evolutionary programming only leads to suffering. Asymmetry is inevitable, and it will always be the case that someone or the other achieves much, much more than you. Your neighbor, your childhood friends, a kid that wasn't even born when you started trying to be good at what you do will achieve more than you.
+Unfortunately in the modern world this evolutionary programming only leads to suffering. Asymmetry is inevitable, and it will always be the case that someone or the other achieves much, much more than you. Your neighbor, your childhood friends, a kid that wasn't even born when you started trying to be good at what you do will achieve more than you for reasons that won't be easy to decipher.
 
-Perhaps this explains the paradox we see today in the developed world: progress leads to more things, but less happiness.
+Perhaps this explains the paradox we see today in the developed world: we somehow have more things, more opportunities, and yet we somehow seem... less happy.
 
-Therefore, the accelerating asymmetry in our lives even calls for an entirely different intuition for the game that is at the root of all the games we play: the pursuit of happiness.
+Therefore, the accelerating asymmetry in our lives even calls for an entirely different intuition for the game that is at the root of all the games we play: the pursuit of happiness. Updating our habits to be more aligned with reality is necessary not just for material wellbeing, but also happiness.
 
 ...
 

@@ -183,7 +183,9 @@ And it should be noted that there is also asymmetry for how much each factor con
 
 You might say for the sake of the employees and society, teams shouldn't be obsessed about improving themselves by identifying their internal asymmetries (implying they shouldn't fire low performers). But the fact is that teams that don't organize themselves around asymmetry will find it incredibly difficult to compete. What that ideal organization looks like is a nuanced topic that I'll cover later - but one thing is certain: it looks quite different from how we've been building companies so far. And since asymmetry is growing rapidly, companies that aren't aligned with reality will become irrelevant more quickly than ever before.
 
-Since asymmetry is indirectly a function of leverage, every time we see a bump in leverage (e.g. a more powerful AI model is released), we will notice massive layoffs, as well as much higher compensation and demand for top talent. Many are already feeling this paradox in the world right now: the market seems terrible, yet companies are desperate for great talent and are willing to pay more than ever. This is the asymmetry is manifesting itself.
+You may also believe that it's probably good to slow down this rate of change to make it easier on employees. Whether you realize it or not, by saying this you're also advocating for slower human progress meaning a slower rate of increase in fairness in the world. Everything is connected.
+
+Since asymmetry is indirectly a function of leverage, every time we see a bump in leverage (e.g. a more powerful AI model is released), we will notice massive layoffs, as well as a sharp rise in compensation and demand for top talent. Many are already feeling this paradox: the job market seems terrible, yet companies are desperate for great talent and are willing to pay more than ever. Asymmetry is manifesting itself.
 
 ...
 
@@ -199,13 +201,29 @@ Similarly a prospective student that wants to join the best learning program, wh
 
 Selectivity is not what matters, it's the outcomes. A highly selective organization that still has equal outcomes is almost certainly a terrible one. A useless organization can still have asymmetric outcomes that make it seem that it's a great institution. They do this by simply bringing together a bunch of ambitious talent together and letting them do their thing. It's important to understand how much the institution is actually impacting the asymmetric outcomes. [^3]
 
+And lastly it's important to also be cautious of asymmetry when the best player is average. That means that not only is the institution not teaching the skills at the level of complexity required to be relevant, it means they suck at teaching even simpler skills. There are ways to gauge how good the talent is that I'll cover in detail in subsequent essays.
+
 1. *This craving for equality was useful in a world with far less leverage than what we have today. In a world with less leverage and more rigid class divides, it was important for us to fight for equality of opportunity, for fairness. And yet our obsession morphed from fairness to equality everywhere. Our collective culture was shaped by this obsession for equality. We see it everywhere: teachers are praised when all students perform equally well, nations founded on the principle that "all men are created equal", etc. As the world becomes more asymmetric, our delusions become greater and more disconnected from reality. Our culture shapes our intuitions and emotional responses to situations. There are some emotional responses that evolution conditions us with: most of us have an aversion jumping from high places, or running into fire. Others are conditioned by culture. Our fear of of inequality and craving for equality are conditioned by our outdated culture.*
 2. *As fast as **possible**. The "possible" is very important. As I'll explore in another essay, the best teams might actually seem to be moving a bit slower than the next best because how much time to spend on thinking vs. acting is also a function of leverage. I believe the more leverage you have, the more time you ought to spend thinking before acting. It's more important to find the right path to take, rather than just moving fast along any path. And finding the better paths takes more thinking time.*
 3. *I suspect the only role that most colleges play today is to put a bunch of sharp, ambitious people together. If those individuals were similarly grouped together outside of a college environment, I'm confident we'd still see incredible results, and possibly even much greater results.*
 
 ...
 
+This essay only scratches the surface of how the world is becoming more asymmetric and how our intuitions are outdated. The slower we are to update our intuitions and habits to be aligned with the rapidly changing reality of the world, the more difficult we will find it becomes to get what we want.
 
+In this upcoming decade, with the sharp rise in leverage we will witness through artificial intelligence, we will see an unfathomable amount of asymmetry in the world, everywhere we look.
+
+Equality should be feared. Except one kind: the equality of opportunity. Let's make the world more fair, and adapt to the rising inequality it will result in.
+
+Lastly, the need for compassion, towards others and ourselves, is greater than ever before.
+
+Our minds have been programmed by evolution to respect those that achieve greater results, and respect less those who achieve less. This was a useful programming back when we were hunter gatherers because in that context when an individual achieved less it meant less food for the tribe and everyone would suffer. Our craving for external validation, craving for status, and even our jealousy, helped us work hard to contribute equally well to the tribe, so that we weren't left behind.
+
+Unfortunately in the modern world this evolutionary programming only leads to suffering. Asymmetry is inevitable, and it will always be the case that someone or the other achieves much, much more than you. Your neighbor, your childhood friends, a kid that wasn't even born when you started trying to be good at what you do will achieve more than you.
+
+Perhaps this explains the paradox we see today in the developed world: progress leads to more things, but less happiness.
+
+Therefore, the accelerating asymmetry in our lives even calls for an entirely different intuition for the game that is at the root of all the games we play: the pursuit of happiness.
 
 ...
 

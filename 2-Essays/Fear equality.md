@@ -21,39 +21,33 @@ To understand why, we need to first see what causes asymmetry, understand why as
 
 ...
 
-Asymmetry is a function of complexity.
+We can model the process we follow to get what we want (whatever that may be) as a game. The "winning" criteria is feeling the satiation from getting what we want and our process resembles a tree. Each decision we make leads to more decisions that have to be made. [^1]
 
-We can model the process we follow to get what we want (whatever that may be) as a game. The "winning" criteria is feeling the satiation from getting what we want. Our process involves making decisions about what to do. Each decision takes us to a point where we see more choices that we have to decide from. [^1]
-
-Therefore, our process to get the things we want resembles a decision tree:
-
-<>.
-
-Complexity is proportional to the number of possibilities in this process, or in other words, the number of possible paths you can take in this tree. More complex games have more possibilities than less complex games. [^2]
-
-Whether you want to build a great company, make an emotionally moving work of art, or even improve your relationships, the process you follow to get what you want resembles this tree because you make choices out of an array of choices available at any given moment in time, and each choice you make influences the choices that are available next.
+Whether you want to build a great company, make an emotionally moving work of art, or even improve your relationships, the process you follow to get what you want resembles a decision tree. When you learn that something doesn't work you backtrack and go down a different branch. When something works you continue going down that branch.
 
 The advantage of framing our endeavors as games is that we can study the nature of most human endeavors by studying the nature of simpler, more well understood games, and extrapolating those learnings to the games that we play.
 
+Games have a notion of "complexity". While there are many ways to calculate complexity of a game it boils down to how many possibilities exist in the game. In a simple game there are only so many different moves a player can make, and only so many states that a player can end up in. More complex games have more moves (choices), more states, and therefore more possibilities.
+
+Complexity is important for us to understand because asymmetry is a function of complexity. *The greater the complexity of the game, the greater the asymmetry that exists in the game.*
+
 Let's look at three simple (relative to most of the games we play) games: Tic Tac Toe (simple game), Chess (medium complexity), and Go (high complexity), to get a sense for how asymmetry is related to the complexity of the game.
 
-(*todo: explain why these games differ in complexity*)
+There are two ways we can observe asymmetry in these games:
+1. Asymmetry in the moves (inputs).
+2. Asymmetry in the outcomes (output).
 
-*A) More complex games have a fewer percentage of moves that are equally good.*
+For a given state of a game, each move you can take at from that state has a notion of "value". The higher the value of the move, the better it is.
 
-The better we get at a game, the more we realize the difference in how good moves are. When we first start out, all moves seem to be "pretty good" since we haven't yet learned the downstream consequences of a move early on.
+By greater asymmetry in the moves, I mean that the range of values of the moves from any given state is greater, and also the difference between the best move and the next best move is greater.
 
-For example, in Chess, moves and openings that were considered good before computers got good at Chess were later found to be not that great and therefore professionals discarded those moves entirely.
+For example, in Tic Tac Toe, between two trained players, there is only one possible value for each move: 0 - since two trained players in Tic Tac Toe will always draw.
 
-There is a greater asymmetry in the value of moves.
+Chess has a greater range of values than Tic Tac Toe, and Go has an even greater range due to its higher complexity.
 
-*B) More complex games have a greater difference between the best and the rest.*
+The greater asymmetry in outcomes follows from the greater asymmetry of moves. The difference between the best player and the second best player grows as the complexity of the game increases.
 
-We observe that there are fewer draws the more complex the game becomes.
-
-Any game of tic-tac-toe between two “seasoned players” will end in a draw. Chess players at the top of their games will often draw. In Chess championships, many of the games played result in a draw. In Go there rarely if ever any draws between top players.
-
-Another way to notice this difference is to observe the ELO ratings of professional players. ELO ratings is a way to calculate relative skills of players.
+We can study this by analyzing the ELO ratings of professional players. ELO is a way to calculate relative skills of players:
 
 > The difference in the ratings between two players serves as a predictor of the outcome of a match. Two players with equal ratings who play against each other are expected to score an equal number of wins. A player whose rating is 100 points greater than their opponent's is expected to score 64%; if the difference is 200 points, then the expected score for the stronger player is 76%
 > 
@@ -65,14 +59,13 @@ In Go, the difference in ELO rating of the top two players is 183 (https://www.g
 
 The gap between the best and the next best is far greater in Go than in Chess. Meanwhile there's no need for ELO rating for Tic Tac Toe because every "professional" would draw, meaning everyone's ELO would be zero.
 
-*Yes, there may be differences in how ELO ratings are calculated for each game, but I'm confident that even when you adjust for such differences in calculations, the argument will still hold: the more complex games will have greater asymmetry that does not grow linearly with the difference in complexity.*
+Asymmetry is not linear. The gap between the best player and the 2nd best player is larger than the gap between the 2nd best player and the 3rd best, and so on. The greater the complexity of the game, the greater the gap between the best and the rest, and the more skewed the curve looks.
 
-*C) Complex games have a wider spread of ability.*
+And we can observe this fact in the ELO ratings of the games above. The difference between the 2nd and 3rd best players is lesser than the difference between the best and the 2nd best. And so on.
 
-In more complex games we notice a much higher range for the ELO ratings. Meaning ability is spread more widely & the difference between the best and the average also grows. This is why the top ELO rating will be higher for more complex games.
+Lastly, we should notice that the more complex the game becomes, outcomes (i.e. ELO ratings) only become more equal the further you go towards worse players. In other words, when two professionals are equally good it means that they're not close to the best player.
 
-Therefore, asymmetry increases as the complexity of the game increases.
-
+Therefore, as the complexity of the game increases so does the asymmetry of the values of moves, as well as the asymmetry in outcomes. And the change in asymmetry that we observe when we move from a lower complexity game to a higher one isn't a linear change.
 ...
 
 The games we play today to get the things we want are much, much higher in complexity than the games we discussed above, leading to far greater asymmetry. 

@@ -156,20 +156,22 @@ Every humanitarian effort. Every improvement in technology. Every advancement in
 
 ...
 
-Asymmetry is a function of complexity. The greater the complexity of a game, the more asymmetric the game is.
+Asymmetry is a function of complexity. The greater the complexity of a game, the greater the asymmetry within the game and for the outcomes of the game.
 
-The complexity of the games we play is a function of leverage. The greater leverage that exists in the world, pushes us to play more complex games.
+The complexity of the games we play is a function of leverage. The greater leverage that exists in the world, the more complex the games we play become.
 
-Leverage that exists in the world is a function of human progress. Every advancement we make in any domain pushes us towards a more fair and leveraged world.
+Leverage is a function of human progress. Every positive advancement pushes us towards a more fair and leveraged world.
 
 ...
+
+
 
 
 [[I'd appreciate your feedback]] on this essay.
 
 ---
 
-[^1] *Note: You may say that modeling our endeavors as games is reductive. I agree that it is, but I believe it's still directionally correct - that the lessons we extrapolate from smaller games apply to the more complex games each of us plays to get what we want.*
+[^1] *Note: You may say that modeling our endeavors as games is reductive. I agree that it is, but I believe it's still directionally correct - that the lessons we extrapolate from smaller games apply to the more complex games each of us plays to get what we want. In future essays I plan to dive deeper into the nuances of the games we play, and specifically into the nature of our minds - which is what dictates why we want what we want and how we go about getting it.*
 
 [^2] *note: there are many ways to measure game complexity, and it's an active space of research. I've tried to provide a simpler definition to work with for now which I believe to be accurate enough for the sake of our discussion, and that any better measure of complexity shouldn't change the conclusions we derive from this.*
 

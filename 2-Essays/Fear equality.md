@@ -226,7 +226,7 @@ A prospective employee with the right intuition would be paranoid about understa
 
 To be clear, there are many highly valued companies on the market that are incredibly equal internally, and therefore are rotting. A company's value is a lagging indicator of their health. Today's rot will manifest in earnings down the line. And so any job hunter that has the right intuition for asymmetry and how the world works should fear being lured in by a company's present market value if they're not set up for success in the future.
 
-A great team is asymmetric, but not all asymmetric teams are great. If you notice asymmetry in a team and the best player seems not unfathomably great, they're not a great team.
+A great team is asymmetric, but not all asymmetric teams are great. If you notice asymmetry in a team and the best player doesn't seem unfathomably great, they're not a great team. And the degree of "unfathomable" increases as leverage increases in the world.
 
 ...
 
@@ -236,7 +236,7 @@ Selectivity is not what matters, it's the outcomes. A highly selective organizat
 
 And lastly it's important to also be cautious of asymmetry when the best player is average. That means that not only is the institution not teaching the skills at the level of complexity required to be relevant in a highly leveraged world, it means they suck at teaching even simpler skills.
 
-We need entirely new playbooks to optimally build companies, educate ourselves, and even build society [^5]. Some of these optimal paths will look quite weird.
+We need entirely new playbooks to optimally build companies, educate ourselves, and even build society [^5] that are aligned with sharply rising asymmetry. Some of these optimal paths will feel quite counterintuitive.
 
 ...
 
@@ -252,9 +252,9 @@ This is why we see another "paradox": in the developed world we have more things
 
 We will need to retrain ourselves to not put those who have more wealth or status on pedestals. And the only way to do that is to retrain ourselves to not think we are better than others who have less wealth or status than we do. The more asymmetric the world becomes, the more compassion we need to build in order to be happy - in ways that were not required in a more symmetric world. Unfortunately this is difficult to do. 
 
-Just like how we see asymmetric outcomes in all external things, I predict we'll see a growing asymmetry in happiness as well. Those that can retrain their minds will find themselves to be incredibly happy. Those that cannot will be less happy than previous generations even though they have more than ever.
+Just like how we see asymmetric outcomes in all external things, I predict we'll see a growing asymmetry in happiness as well. Those that can retrain their minds will find themselves incredibly happy. Those that cannot will be less happy than previous generations even though they have more than ever.
 
-Acting optimally in an asymmetric world requires understanding ourselves, retraining our minds are the most fundamental level. In an extremely asymmetric world, to get what we want, we will need to work against the programming that evolution has given us.
+Acting optimally in an asymmetric world requires understanding ourselves, retraining our minds at the most fundamental level. In an extremely asymmetric world, to get what we want, we will need to work against the programming that evolution has given us.
 
 ...
 
@@ -268,13 +268,17 @@ I wish you the best.
 
 [[I'd appreciate your feedback]] on this essay.
 
-When we don't have the right intuition for how to act optimally, heuristics are useful. Heuristics are like shortcuts or rules of thumb that help us shift our behaviors towards the optimal.
-
-In subsequent essays I'll share the heuristics that I'm developing for myself to act optimally in an extremely asymmetric world. These heuristics have already impacted every aspect of my life (because asymmetry impacts every aspect of our lives): how I work, what ideas I think about, how I invest in my relationships, etc.
-
-All I can say now is that I'm incredibly surprised every day by how suboptimal I'm acting for almost everything I do. I'm struggling to change my habits that have been ingrained for years, but are unfortunately outdated. I'm excited to share these heuristics with you in upcoming essays for your feedback. I suspect you too will be surprised.
-
 ---
+
+Footnotes:
+
+*When we don't have the right intuition for how to act optimally, heuristics are useful. Heuristics are like shortcuts or rules of thumb that help us shift our behaviors towards the optimal.*
+
+*In subsequent essays I'll share the heuristics that I'm developing for myself to act optimally in an extremely asymmetric world. These heuristics have already impacted every aspect of my life (because asymmetry impacts every aspect of our lives): how I work, what ideas I think about, how I invest in my relationships, etc.*
+
+*All I can say now is that I'm incredibly surprised every day by how suboptimal I'm acting for almost everything I do. I'm struggling to change my habits that have been ingrained for years, but are unfortunately outdated. I'm excited to share these heuristics with you in upcoming essays for your feedback. I suspect you too will be surprised.*
+
+Annotations:
 
 [^1] *Note: You may say that modeling our endeavors as games is reductive. I agree that it is, but I believe it's still directionally correct - that the lessons we extrapolate from smaller games apply to the more complex games each of us plays to get what we want. In future essays I plan to dive deeper into the nuances of the games we play, and specifically into the nature of our minds - which is what dictates why we want what we want and how we go about getting it.*
 

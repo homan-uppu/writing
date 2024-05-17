@@ -18,13 +18,13 @@ To see why, we need to first understand what asymmetry even is, what causes it, 
 
 ...
 
-We can model the process we follow to get what we want (whatever that may be) as a game. The "winning" criteria is feeling the satiation from getting what we want and our process resembles a tree. Each decision we make leads to more decisions that have to be made. [^1]
+We can model the process we follow to get what we want (whatever that may be) as a game. The "winning" criteria is feeling the satiation from getting what we want and our process resembles a tree. Each decision we make leads to more decisions that have to be made.
 
 Whether you want to build a great company, make an emotionally moving work of art, or even improve your relationships, the process you follow to get what you want resembles a decision tree. When you learn that something doesn't work you backtrack and go down a different branch. When something works you continue going down that branch.
 
-The advantage of framing our endeavors as games is that we can study the nature of our endeavors by studying the nature of simpler, more well understood games, and extrapolating those learnings to the games that we play.
+The advantage of framing our endeavors as games is that we can study the nature of our endeavors by studying the nature of simpler, more well understood games, and extrapolating those learnings to the games that we play. [^1]
 
-Games have a notion of "complexity". While there are many ways to calculate complexity of a game it boils down to how many possibilities exist in the game. In a simple game there are only so many different moves a player can make, and only so many states that a player can end up in. More complex games have more moves (choices), more states, and therefore more possibilities.
+Games have a notion of "complexity" [^2]. While there are many ways to calculate complexity of a game it boils down to how many possibilities exist in the game. In a simple game there are only so many different moves a player can make, and only so many states that a player can end up in. More complex games have more moves (choices), more states, and therefore more possibilities.
 
 Complexity is important for us to understand because asymmetry is a function of complexity. *The greater the complexity of the game, the greater the asymmetry that exists in the game.*
 
@@ -74,7 +74,7 @@ The complexity of the games we play is a function of leverage. By leverage I mea
 
 Any human progress increases leverage, and spreads it to more people. For example, when a dictatorship is replaced by a democracy, the citizens gain leverage because they are more free and therefore can manifest their ideas that they previously couldn't. When a new technology is created, it reduces the time and effort to turn your idea into reality. 
 
-Computers, internet, artificial intelligence, government policies, greater individual freedom, etc. all work to increase leverage in the world. [^3]
+Computers, internet, artificial intelligence, government policies, greater individual freedom, etc. all work to increase leverage in the world.
 
 Greater leverage increases the complexity of the games we play in three ways:
 1. By reducing the time per move.
@@ -121,11 +121,7 @@ I believe it would be incredibly asymmetric. The richest person in this imaginar
 
 I believe this to be true because in a highly leveraged world, we have more possibilities and we make moves much quicker. Therefore, slight differences in choices at the start of the game would lead to drastic differences by the time we die due to the complexity of the game.
 
-And not all explorations are equally worthwhile. Someone who spends their entire life learning how to craft the best baskets to sell to their village will not have the same outcomes as someone who developed an interest for building, say, software. 
-
-```
-To be clear, when I say outcomes I don't mean anything about internal outcomes. It could be the case that the person who makes baskets is much happier. I mean only external outcomes: wealth, status, etc.
-```
+And not all explorations are equally worthwhile. Someone who spends their entire life learning how to craft the best baskets to sell to their village will not have the same outcomes as someone who developed an interest for building, say, software. [^3]
 
 Being influenced slightly differently early on, which leads to a slightly different choice will have incredibly large difference in where you end up. The greater the leverage, the greater the difference because the deeper in the game decision tree you can get to before you die as you can make many more moves.
 
@@ -212,7 +208,7 @@ When a team leader sees that a group of teammates are performing equally well, t
 4. *The team leader is terrible at assessing productivity*. As leverage increases, productivity becomes more difficult to measure because the activities become more complex, but also because our craving for equality blinds us to just how differently able individuals are.
 5. *The team is not moving fast enough*. Asymmetry manifests more slowly the slower a team executes (i.e. the slower they make their moves).
 
-And it should be noted that there is also asymmetry for how much each factor contributes to the problem - it's not that each of the points above are equally responsible at any given point in time. If I were to pick the most important factor it would be that the team does not consist of great players, because if they were good, they'd be obsessed about increasing their leverage as much as possible, moving as fast as possible, assessing productivity more accurately, and would be paranoid about not letting in average players [^2], 
+And it should be noted that there is also asymmetry for how much each factor contributes to the problem - it's not that each of the points above are equally responsible at any given point in time. If I were to pick the most important factor it would be that the team does not consist of great players, because if they were good, they'd be obsessed about increasing their leverage as much as possible, moving optimally fast, assessing productivity more accurately, and would be paranoid about not letting in average players who would pollute culture.
 
 You might say for the sake of the employees and society, teams shouldn't be obsessed about improving themselves by identifying their internal asymmetries (implying they shouldn't fire low performers). But the fact is that teams that don't organize themselves around asymmetry will find it incredibly difficult to survive. There is no stagnation in a rapidly changing world, there is only accelerated growth, and accelerated death. Companies will have no choice but to adapt or perish.
 
@@ -230,17 +226,17 @@ A young person who wants to join a great company so that they can become great a
 
 A prospective employee with the right intuition would be paranoid about understanding whether the company is truly equal internally, or they're just saying they are. Of course, all companies (even the great ones) will claim they are equal internally because it's not culturally acceptable yet to claim that they aren't, but not uncovering the true inequality internally will lead a prospective employee to make incredibly suboptimal decisions.
 
-To be clear, there are many "highly valued" companies on the market that are incredibly equal internally, and therefore are rotting. A company's value is a lagging indicator of their health. Today's rot will manifest in earnings down the line. And so any job hunter that has the right intuition for asymmetry and how the world works should fear being lured in by a company's present market value if they're not set up for success in the future.
+To be clear, there are many highly valued companies on the market that are incredibly equal internally, and therefore are rotting. A company's value is a lagging indicator of their health. Today's rot will manifest in earnings down the line. And so any job hunter that has the right intuition for asymmetry and how the world works should fear being lured in by a company's present market value if they're not set up for success in the future.
 
 ...
 
 A prospective student that wants to join the best learning program, with the right intuition, would be fearful of any academic program that claims that a high percentage of its graduates are equally competent or have found jobs that pay similarly well. That's a sign that the graduates are average, and / or that they are joining companies that are average. And since there is no stagnation, only accelerated growth or death, those companies will become irrelevant more quickly than ever before.
 
-Selectivity is not what matters, it's the outcomes. A highly selective organization that still has equal outcomes is almost certainly a terrible one. A useless organization can still have asymmetric outcomes that make it seem that it's a great institution. They do this by simply bringing together a bunch of ambitious talent together and letting them do their thing. It's important to understand how much the institution is actually impacting the asymmetric outcomes. [^3]
+Selectivity is not what matters, it's the outcomes. A highly selective organization that still has equal outcomes is almost certainly a terrible one. A useless organization can still have asymmetric outcomes that make it seem that it's a great institution. They do this by simply bringing together a bunch of ambitious talent together and letting them do their thing. It's important to understand how much the institution is actually impacting the asymmetric outcomes. [^4] 
 
 And lastly it's important to also be cautious of asymmetry when the best player is average. That means that not only is the institution not teaching the skills at the level of complexity required to be relevant in a highly leveraged world, it means they suck at teaching even simpler skills.
 
-We need entirely new playbooks to optimally build companies, educate ourselves, and even build society (*We will need universal basic income, there is no way around it.*). And these optimal paths will look quite weird.
+We need entirely new playbooks to optimally build companies, educate ourselves, and even build society [^5]. And these optimal paths will look quite weird.
 
 ...
 
@@ -284,16 +280,8 @@ All I can say now is that I'm incredibly surprised every day by how suboptimal I
 
 [^2] *note: there are many ways to measure game complexity, and it's an active space of research. I've tried to provide a simpler definition to work with for now which I believe to be accurate enough for the sake of our discussion, and that any better measure of complexity shouldn't change the conclusions we derive from this.*
 
-[^3] *This happens due to the underlying incentives that govern a group of individuals - which is an interesting topic that I plan to dive deep into in another essay. Those incentives don't change unless the fundamental nature of the individual mind changes, and I don't see that happening anytime soon.*
+[^3] *To be clear, when I say outcomes I don't mean anything about internal outcomes. It could be the case that the person who makes baskets is much happier. I mean only external outcomes: wealth, status, etc.*
 
-[^4] *And asymmetry is accelerating exponentially because leverage increases exponentially. We can see why by looking at global gdp curve. Global GDP is a lagging indicator of leverage. It's lagging to the degree of time it takes to use the latest technology to turn an idea to reality. For example, the true economic value of what current AI technologies will bring to the world will only become apparent in a couple of years after people have actually used that technology to create value in the world. So the true leverage available in this moment will only be reflected by global gdp after some time. Yet, despite this lag, global gdp still gives us a good sense of the trajectory. Just remember to apply exponential increase when extrapolating.*
+[^4] *I suspect the only role that most colleges play today is to put a bunch of sharp, ambitious people together. If those individuals were similarly grouped together outside of a college environment, I'm confident we'd still see incredible results, and possibly even much greater results.*
 
-[^5] *To be clear, when I say  most of us don't have the intuition to do this, I'm not implying that everyone is in a position to get what they want even if they gain intuition quickly. That's because there is still a of work we need to do to ensure equality of opportunity. Someone in a war torn region in the world, no matter how much intuition they have, may still struggle to turn that intuition into outcomes due to circumstance. But if you're reading this it probably means that you have access to the internet, have at least a smartphone, and at least an hour of time a day to do what you want. I believe that's the minimum required to train intuition and afford what you want within a decade.*
-
-[^6] *Contrary to popular belief that greats fear less than the rest of us, I believe all greats of their crafts actually have greater fear towards lack of growth. The better you get, the more you can see how most paths will not lead to the sort of growth you want, and the more healthy fear you develop. It's no surprise that books such as "Only the paranoid survive" were written. (Disclaimer: I haven't read the book, the title just seemed relevant.)*
-
-(?) *Intuition is far more difficult to train than intellectual understanding. This has drastic implications on our education system, which I'll dive into in a future essay. Specifically, I believe that pay-to-learn education is outdated because it doesn't have the right incentives for an extremely asymmetric world.*
-
-1. *This craving for equality was useful in a world with far less leverage than what we have today. In a world with less leverage and more rigid class divides, it was important for us to fight for equality of opportunity, for fairness. And yet our obsession morphed from fairness to equality everywhere. Our collective culture was shaped by this obsession for equality. We see it everywhere: teachers are praised when all students perform equally well, nations founded on the principle that "all men are created equal", etc. As the world becomes more asymmetric, our delusions become greater and more disconnected from reality. Our culture shapes our intuitions and emotional responses to situations. There are some emotional responses that evolution conditions us with: most of us have an aversion jumping from high places, or running into fire. Others are conditioned by culture. Our fear of of inequality and craving for equality are conditioned by our outdated culture.*
-2. *As fast as **possible**. The "possible" is very important. As I'll explore in another essay, the best teams might actually seem to be moving a bit slower than the next best because how much time to spend on thinking vs. acting is also a function of leverage. I believe the more leverage you have, the more time you ought to spend thinking before acting. It's more important to find the right path to take, rather than just moving fast along any path. And finding the better paths takes more thinking time.*
-3. *I suspect the only role that most colleges play today is to put a bunch of sharp, ambitious people together. If those individuals were similarly grouped together outside of a college environment, I'm confident we'd still see incredible results, and possibly even much greater results.*
+[^5] *For example, we will need universal basic income*

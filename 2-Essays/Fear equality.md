@@ -22,7 +22,7 @@ We can model the process we follow to get what we want (whatever that may be) as
 
 Whether you want to build a great company, make an emotionally moving work of art, or even improve your relationships, the process you follow to get what you want resembles a decision tree. When you learn that something doesn't work you backtrack and go down a different branch. When something works you continue going down that branch.
 
-The advantage of framing our endeavors as games is that we can study the nature of most human endeavors by studying the nature of simpler, more well understood games, and extrapolating those learnings to the games that we play.
+The advantage of framing our endeavors as games is that we can study the nature of our endeavors by studying the nature of simpler, more well understood games, and extrapolating those learnings to the games that we play.
 
 Games have a notion of "complexity". While there are many ways to calculate complexity of a game it boils down to how many possibilities exist in the game. In a simple game there are only so many different moves a player can make, and only so many states that a player can end up in. More complex games have more moves (choices), more states, and therefore more possibilities.
 

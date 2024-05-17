@@ -3,21 +3,18 @@ A small percentage of creators capture most engagement.
 A small percentage of books capture most of sales.
 A small percentage of individuals hold most of the wealth.
 A small percentage of employees in a company are responsible for the majority of output.
-A small percentage of individuals in the world contribute the majority of human progress.
+A small percentage of companies capture most of the market.
+A small percentage of individuals contribute the majority of progress in any domain.
 
-Asymmetry exists everywhere in our modern world and is rapidly accelerating.
+Asymmetry exists everywhere in our modern world and is rapidly accelerating. Yet, we deeply crave equality, symmetry. Our craving for equality blinds us to reality.
 
-Asymmetry is intrinsically tied to human progress. Every single thing that we create: stories, technology, government policies, make our world more asymmetric.
+The more blind we are to reality, the more we suffer because as the world becomes more asymmetric, the right strategy to get what we want increasingly looks very different than what we do now to get the things we want. Therefore, as the world becomes more asymmetric we will find it more difficult than ever to get the things we want unless we adapt ourselves to be more aligned with reality.
 
-Yet, we deeply crave equality, symmetry. As the world becomes more asymmetric, this craving for equality blinds us to the paths that enable us get what we want in our lives.
+The optimally organized companies, nations, teams, schools, governments, etc. all look quite different than how they are today. The optimal strategy is not only different, it's repulsive because it goes against our deeply held beliefs about how the world works. Our beliefs and habits are outdated.
 
-The modern paradox is that it's easier than ever to create value in the world: we are more free, and our technology is more powerful than ever before, yet we find it more difficult than ever to get the things we want.
+We cannot stop growing asymmetry because it is intrinsically tied to human progress. Every single thing that we create: stories, technology, government policies, make our world more asymmetric.
 
-This paradox exists because our habits are misaligned with reality. Increasingly so. The habits that enabled us to get what we want in a more symmetrical (equal) world no longer help us get what want in an extremely asymmetrical world. 
-
-Our habits are terribly outdated.
-
-To understand why, we need to first see what asymmetry looks like, what causes it, and understand why it's growing.
+To understand how we're outdated, why that leads to suffering, and how we need to change to be more aligned with reality, we need to first understand what asymmetry even is, what causes it, see how it's changing, and understand how exactly that impacts our world. Then we can analyze where we're going wrong.
 
 ...
 
@@ -229,7 +226,7 @@ Selectivity is not what matters, it's the outcomes. A highly selective organizat
 
 And lastly it's important to also be cautious of asymmetry when the best player is average. That means that not only is the institution not teaching the skills at the level of complexity required to be relevant in a highly leveraged world, it means they suck at teaching even simpler skills.
 
-We need entirely new playbooks to optimally build companies, educate ourselves, and even build society. And these optimal paths will look quite weird.
+We need entirely new playbooks to optimally build companies, educate ourselves, and even build society (*We will need universal basic income, there is no way around it.*). And these optimal paths will look quite weird.
 
 ...
 

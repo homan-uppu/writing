@@ -6,9 +6,9 @@ I write in order to identify and correct my own delusions, so that I can get wha
 
 No matter how deeply I think things through, it's impossible for me to question every deeply held belief I have about how the world works. It could be the case that a subconscious delusion leads me down the wrong path such that no matter how great my thinking is, since the thinking was grounded in delusion, the conclusions I arrive at are bound to be deluded.[^1]
 
-You're incredibly deluded as well! But we're both certainly deluded in different ways; this is the beauty of nature: nothing is equal. You will be able to sniff out some of my delusions in ways that I can't because you might not share that exact delusion, or may not share it to the same degree. Our differences will help us push each other to be less deluded.
+You're incredibly deluded as well! But we're both certainly deluded in different ways; this is the beauty of nature: nothing is equal. You'll be able to sniff out some of my delusions in ways that I can't because you might not share that exact delusion, or may not share it to the same degree. Our differences will help us push each other to be less deluded.
 
-This is why I'd greatly appreciate your feedback on my essays. Your feedback is essential to help me seek truth effectively. I can't do it without your help.
+This is why I'd greatly appreciate your feedback on my essays. Your feedback is essential to help me seek truth effectively. In fact, I can't do it without your help.
 
 For writing motivated in this way, I believe there is a great way to give feedback, and I ask that you try to give me great feedback. These are the guidelines that I follow:
 
@@ -30,19 +30,21 @@ Tend towards attacking the foundation, providing evidence / explanations, transl
 
 At the very end of your feedback, I'd appreciate hearing from you the difference in how you felt before and after you read the essay, and what questions the essay has spawned in your mind. You will certainly have questions / ideas pop up in your mind that I haven't had because we are different. I want to steal the good ones.
 
-Giving great feedback is a lot of effort. Reading an essay thoroughly, thinking deeply and writing feedback could take an hour or many. Why should you go through this effort to help me seek truth?
+As you can see, giving great feedback is a lot of effort. Reading an essay thoroughly, thinking deeply and writing feedback could take an hour or many. Why should you go through this effort to help me seek truth?
 
-I think there are many benefits to challenging yourself to think more critically, but I think one outshines them all. By giving me great feedback I will hold you in high regard. I will want to collaborate with you. I will want to invite you to everything I do. I will want to share with you ideas much sooner without fleshing them out as much. I believe great thinking is severely lacking in our world, and by demonstrating your ability to think, I will have no choice but to try and collaborate with you in some sense - whether that's helping you craft your own ideas, implement them, whatever it may be.
+I think there are many benefits to challenging yourself to think more critically, but I think one outshines them all. By giving me great feedback I will hold you in high regard. I will want to collaborate with you. I will want to invite you to everything I do. I will want to share with you ideas much sooner.  I believe there's a dearth of quality thinking in our world. By demonstrating your ability to think well, I will have no choice but to try and collaborate with you.
 
-Now, if I were you, I'd stop and ask the question: "Is this person even going to do something meaningful?". Because if you believe that I'm not going to achieve much in the world, you probably shouldn't prioritize giving me feedback on my writing because the returns on your investment would be quite low: the most you'd get is probably my feedback on your writing.
+If I were you, I'd stop and ask the question: "Is this person even going to do something meaningful?". Because if you believe that I'm not going to achieve much in the world, you probably shouldn't prioritize giving me feedback on my writing because the returns on your investment would be quite low: the most you'd get is probably my feedback on your writing.
 
-But if you believe that there's a chance that I may do something big someday that could change the world in a meaningful way, then the expected return on investment would be much, much higher because by taking the time to give me great feedback, you greatly increase the likelihood of me wanting to collaborate with you.
+But if you believe that there's a chance that I may do something big someday that could change the world in a meaningful way, then the expected return on investment would be much, much higher because by taking the time to give me great feedback, you greatly increase the likelihood of us collaborating.
 
-I have some big ideas in my mind that I do believe will meaningfully impact the world if well executed. Give me great feedback to increase the chances of us working on them together. And of course, by work on them with me I mean that you too will shape and own those ideas because as I said: I'm deluded. You will find ample opportunity to make every idea better.
+I have some big ideas in my mind that I do believe will meaningfully impact the world if well executed. Give me great feedback to increase the chances of us working on them together. And of course, by work on them with me I mean that you too will shape and own those ideas because as I said: I'm deluded. You will find ample opportunity to make every idea better and own them.
 
-Lastly, if you don't think you can carve out the time to give me great feedback, just wait until you have the time. By sending me not great feedback I will form a negative impression about your ability to think well. And great feedback takes some time. Consistent poor feedback means I will not ask you for your feedback again. No hard feelings. I have limited time and I need to prioritize well because the faster I fix my delusions the faster I get what I want. 
+Lastly, if you don't think you can carve out the time to give me great feedback, just wait until you have the time. By sending me not great feedback I will form a negative impression about your ability to think well, and great feedback takes some time. Consistent poor feedback means I will not ask you for your feedback again. No hard feelings. I have limited time and I need to prioritize well because the faster I fix my delusions the faster I get what I want.
 
 Nothing stagnates; it only accelerates upwards or downwards. This principle applies to collaboration as well.
+
+I look forward to hearing from you.
 
 ---
 

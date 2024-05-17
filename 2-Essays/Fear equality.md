@@ -8,13 +8,13 @@ A small percentage of individuals contribute the majority of progress in any dom
 
 Asymmetry exists everywhere in our modern world and is rapidly accelerating. Yet, we deeply crave equality, symmetry. Our craving for equality blinds us to reality.
 
-The more blind we are to reality, the more we suffer because as the world becomes more asymmetric, the right strategy to get what we want increasingly looks very different than what we do now to get the things we want. Therefore, as the world becomes more asymmetric we will find it more difficult than ever to get the things we want unless we adapt ourselves to be more aligned with reality.
+The more blind we are to reality, the more we suffer because as the world becomes more asymmetric, the right strategy to get what we want increasingly looks very different than what we do. As the world becomes more asymmetric we will find it more difficult than ever to get the things we want unless we adapt ourselves to be more aligned with reality.
 
-The optimally organized companies, nations, teams, schools, governments, etc. all look quite different than how they are today. The optimal strategy is not only different, it's repulsive because it goes against our deeply held beliefs about how the world works. Our beliefs and habits are outdated.
+Optimally organized companies, nations, teams, schools, governments, etc. all look quite different than how they are today. The optimal strategy is not only different, it's repulsive because it goes against our deeply held beliefs about how the world works. Our beliefs and habits are outdated.
 
-We cannot stop growing asymmetry because it is intrinsically tied to human progress. Every single thing that we create: stories, technology, government policies, make our world more asymmetric.
+We cannot stop the rise in asymmetry because it is intrinsically tied to human progress. Every single thing that we do: stories, technology, government policies, humanitarian efforts make our world more asymmetric.
 
-To understand how we're outdated, why that leads to suffering, and how we need to change to be more aligned with reality, we need to first understand what asymmetry even is, what causes it, see how it's changing, and understand how exactly that impacts our world. Then we can analyze where we're going wrong.
+To see why, we need to first understand what asymmetry even is, what causes it, see how it's changing, and understand how exactly that impacts our world. Then we can see where we're going wrong and try to make sense of it.
 
 ...
 
@@ -34,7 +34,7 @@ There are two ways we can observe asymmetry in these games:
 1. Asymmetry in the moves (inputs).
 2. Asymmetry in the outcomes (output).
 
-For a given state of a game, each move you can take at from that state has a notion of "value". The higher the value of the move, the better it is.
+For any given state of a game, each move you can take at from that state has a notion of "value". The higher the value of the move, the better it is.
 
 By greater asymmetry in the moves, I mean that the range of values of the moves from any given state is greater, and also the difference between the best move and the next best move is greater.
 
@@ -42,7 +42,7 @@ For example, in Tic Tac Toe, between two trained players, there is only one poss
 
 Chess has a greater range of values than Tic Tac Toe, and Go has an even greater range due to its higher complexity.
 
-The greater asymmetry in outcomes follows from the greater asymmetry of moves. The difference between the best player and the second best player grows as the complexity of the game increases.
+The greater asymmetry in outcomes is a consequence of the greater asymmetry of moves. The difference between the best player and the second best player grows as the complexity of the game increases.
 
 We can study this by analyzing the ELO ratings of professional players. ELO is a way to calculate relative skills of players:
 
@@ -50,17 +50,17 @@ We can study this by analyzing the ELO ratings of professional players. ELO is a
 > 
 > (https://en.wikipedia.org/wiki/Elo_rating_system)
 
-It's important to note that the difference in rating doesn't translate linearly to the difference in wins. Someone who is a thousand ELO rating higher than another will almost certainly win.
+It's important to note that the difference in rating doesn't translate linearly to the difference in wins. Someone who is a few hundred ELO rating higher than another will almost certainly win.
 
-In Go, the difference in ELO rating of the top two players is 183 (https://www.goratings.org/en/), whereas the difference in ELO rating of the top two Chess players is 25 (https://www.chess.com/players).
+In Go, the difference in ELO rating of the top two players is 183 (https://www.goratings.org/en/), whereas in Chess, the difference in ELO rating of the top two Chess players is only 25 (https://www.chess.com/players).
 
 The gap between the best and the next best is far greater in Go than in Chess. Meanwhile there's no need for ELO rating for Tic Tac Toe because every "professional" would draw, meaning everyone's ELO would be zero.
 
 Asymmetry is not linear. The gap between the best player and the 2nd best player is larger than the gap between the 2nd best player and the 3rd best, and so on. The greater the complexity of the game, the greater the gap between the best and the rest, and the more skewed the curve looks.
 
-And we can observe this fact in the ELO ratings of the games above. The difference between the 2nd and 3rd best players is lesser than the difference between the best and the 2nd best. And so on.
+And we can observe this fact in the ELO ratings of the games above. The difference between the 2nd and 3rd best players is lesser than the difference between the best and the 2nd best, and so on.
 
-Lastly, we should notice that the more complex the game becomes, outcomes (i.e. ELO ratings) only become more equal the further you go towards worse players. In other words, when two professionals are equally good it means that they're not close to the best player.
+Lastly, we should notice that the more complex the game becomes, outcomes (i.e. ELO ratings) only become more equal the further you go towards worse players. *In other words, when two players are equally good it means that they're not close to the best player.*
 
 Therefore, as the complexity of the game increases so does the asymmetry of the values of moves, as well as the asymmetry in outcomes. And lastly, asymmetry is not linear (i.e. the gap between 1 & 2 is greater than gap between 2 & 3, and so on).
 
@@ -89,15 +89,15 @@ And lastly, games that were always complex become even more complex due to lever
 
 ...
 
-I made a claim earlier that the games we play are far more complex than Chess and Go. A good reader would have been annoyed that I offered no explanation. Even though my intuition led me to write that claim quickly, the explanation wasn't as straightforward as I initially felt it would be.
+I made a claim earlier that the games we play are far more complex than Chess and Go. A good reader would have been annoyed that I offered no explanation. Even though my intuition led me to write that claim quickly (and I suspect many readers would have a similar intuition), the explanation wasn't as straightforward as I initially felt it would be.
 
 There is a hierarchy of complexity for human endeavors. The most complex human activities are the ones in which success is measured by how good we make people feel.
 
 And the representational complexity of feeling is far greater than that of Chess or Go. By representational complexity I mean how easy it is to describe the state of the game at any moment in time. A game that has a much more complicated state, likely has many more possibilities for what moves you can take, and is therefore more complex in general.
 
-To see why, recall when you had to communicate how you felt. You'll remember how difficult it is to do so, and importantly that no matter how many words you use, you weren't able to fully, completely, represent your feeling in words. This is because a feeling has a much higher representational complexity than words. Trying to represent a feeling in words is difficult because we are trying to represent something of a higher complexity into a medium that has less complexity. Information is bound to be lost.
+To see why, recall when you had to communicate how you felt. You'll remember how difficult it is to do so, and importantly that no matter how many words you use, you weren't able to fully, completely, represent your feeling in words. This is because a feeling has a much higher representational complexity than words. Trying to represent a feeling in words is difficult because we are trying to represent something of a higher complexity into a medium that has less complexity. Information is bound to be lost in that translation.
 
-It's precisely this lost information that allows for the various interpretations of words. Every single person reading this essay will have different feelings as they read this. Even though my intention is to make you feel what I feel about this topic, there is absolutely no way for me to do so without any loss of information, no matter what medium I use: words, images, videos, symbols, anything - even if I spend my entire life trying. This gap is quite large.
+It's precisely this lost information that allows for the various interpretations of words. Every single person reading this essay will have different feelings as they read this. Even though my intention is to make you feel what I feel about this topic, there is absolutely no way for me to do so without any loss of information, no matter what medium I use: words, images, videos, symbols, anything - even if I spend my entire life trying. I believe this gap is quite large.
 
 The representational complexity of Chess and Go can easily be represented by symbols, and therefore I believe that any game in which success is measured by how good you make someone feel will be orders of magnitude more complex than Chess and Go (proportional to the difference in complexity between feeling and a sequence of symbols). Therefore, the underlying asymmetry that we are moving towards is quite extreme.
 
@@ -111,39 +111,53 @@ Artists for thousands of years have been solving for how to make people feel. Wh
 
 We can't be satisfied with any conclusions about asymmetry without also considering the role of fairness. The real world is not like a board game. Life's not fair.
 
-Let's imagine a fairy tale world. Every child would have loving, caring, supportive parents, wonderful teachers, the freedom to explore what they want. No one is concerned about how to make a living. Everyone has access to great healthcare, etc. 
+Let's imagine a fairy tale world in which every child has loving, caring, supportive parents, the best teachers, the freedom to explore what they want. No one is concerned about how to make a living. Everyone has access to great healthcare, a fast fair legal system, etc.
 
 In this imaginary world, we all have incredibly high leverage: anything we imagine can be manifested into reality quickly. Have an idea for an app? It will be built in a day according to your instructions and you can share it with the entire world. The same for a video, song, etc. Whatever you can imagine and express well enough through some mediums (language, drawing, etc.) someone or something will turn it into reality for you. In this world all you will care about is to create things that you and others want - whether that's art, better medical instruments, physical things, whatever you want.
 
 What do you think the outcomes of this imaginary world would look like?
 
-I believe it would be incredibly asymmetric. That the richest person in this world will be so stupidly rich that it's unfathomable to us right now. And that there would be a massive variance in outcomes across the board.
+I believe it would be incredibly asymmetric. The richest person in this imaginary world will be so stupidly rich that it's unfathomable to us right now. And that there would be great variance in outcomes across the board.
 
-I believe this to be true because in a highly leveraged world, we have more possibilities and we make moves much quicker. Therefore, slight differences in choices at the start of the game would lead to drastic differences by the time we die, simply due to the complexity of the game.
+I believe this to be true because in a highly leveraged world, we have more possibilities and we make moves much quicker. Therefore, slight differences in choices at the start of the game would lead to drastic differences by the time we die due to the complexity of the game.
 
-And what we've noticed in our world is that not all explorations are equally worthwhile. Someone who spends their entire life learning how to craft the best baskets to sell to their village will not have the same outcomes as someone who developed an interest for building, say, software.
+And not all explorations are equally worthwhile. Someone who spends their entire life learning how to craft the best baskets to sell to their village will not have the same outcomes as someone who developed an interest for building, say, software. 
 
-A slightly different influence that leads to a difference choice early will have incredibly large difference in where you end up. The greater the leverage, the greater the difference because the deeper in the game decision tree you can get to before you die.
+```
+To be clear, when I say outcomes I don't mean anything about internal outcomes. It could be the case that the person who makes baskets is much happier. I mean only external outcomes: wealth, status, etc.
+```
 
-Two twin children, that open up a social app and see two different videos are in influenced in subtly different ways. Since each decision they make from then on is faster to make due to leverage, even subtle difference in influence will lead to drastic differences by the time they die.
+Being influenced slightly differently early on, which leads to a slightly different choice will have incredibly large difference in where you end up. The greater the leverage, the greater the difference because the deeper in the game decision tree you can get to before you die as you can make many more moves.
 
-And this isn't even taking into account the difference in our abilities at birth! If we include that, then asymmetry will be even greater. I think it's silly to think that we're not born with different capabilities, different strengths and weaknesses, different emotional reactions to the same stimuli. Nature is a complex system - maybe even more complex than our feelings. Expecting it to produce two equal things of anything is a delusion.
+Two twins that open up a social app and see two different videos are in influenced in subtly different ways. Each slightly different choice compounds greatly and they will end up in very different places in their exploration of life. The greater the leverage in the world, the more pronounced this difference. Twins born a century ago, on average, would have ended life with a less different exploration of life than twins today.
 
-Now, unfairness can also cause inequality. But the shape of the inequality caused by unfairness is fundamentally different than the shape of the inequality caused by fairness + leverage. We'll need to train ourselves to be able to differentiate between them, but the idea that a fair world would be equal is a delusion.
+And this isn't even taking into account the difference in our abilities at birth! If we include that, then asymmetry will be even greater. I think it's silly to think that we're not born with different capabilities, different strengths and weaknesses, different emotional reactions to the same stimuli. Nature is an incredibly complex system - possibly more complex than our feelings. Expecting it to produce two equal things of anything is a delusion.
+
+Therefore, in a fair, leveraged world in which our activities are complex, we would see extreme asymmetry.
 
 ...
 
-Human progress makes the world more fair.
+Unfairness can also cause inequality. But the shape of the inequality caused by unfairness is fundamentally different than the shape of the inequality caused by fairness + leverage. Being able to differentiate between them is an important skill that as we'll see later, will help us navigate an asymmetric world.
 
-Someone born poor 2000 years ago had very little chance to move up in life. They'd likely be an indentured laborer or worse a slave. They'd have little to no freedom. They'd be unable to speak their mind against someone richer than them. There were rigid class divisions in society. 
+Equality that stems from unfairness is different in that there are more rigid boundaries between classes, and it's more difficult to move from one class to another. Hierarchical caste systems that tell you what you can and cannot do with your life, and that you have different rights and potentials than other casts are incredibly unfair. Even in the industrial revolution, there was a large, rigid divide between workers and those that were able to afford to build factories - quite unfair, but less unfair than the caste systems that gave you absolutely no way to rise. There were at least a dozen factory workers across the entire industrial revolution that were able to start their own factories at some point. The same can't be said about someone born as an "untouchable" who wanted to, say, learn how to read and write.
 
-Even a century ago, most factory workers would likely never be able to afford starting their own factory one day because their wages would never add up to be enough, and because they wouldn't have access to capital (far fewer investors). Generally only those that had wealth had the ability to create what they wanted.
+The graph of outcomes in an unfair world looks like a step function. You will find different classes, and you'll see that there aren't any individuals with outcomes in between the outcomes of the two classes. In other words, all factory workers would make roughly equal outcomes, whereas all factory owners would make roughly equal outcomes, but you'd find very few in between the workers and the owners. This is a symptom of unfairness.
 
-Today, even in many of the poorest communities around the world, many kids have the ability to create, to speak their minds in ways their grandparents couldn't dream of, and have access to information and knowledge through the internet that is barely any less than the richest kid living in a high rise building in Manhattan.
+Inequality that stems from a complex world with fairness and leverage is a smoother curve: you will find individuals at all sorts of different outcomes. We can see this in the outcomes for our board game examples: though the difference between the best and the rest is large, if you plotted everyone on a graph, it would be much smoother than if you plotted all outcomes in the industrial revolution, and cultures with rigid caste systems.
 
-Human progress increases leverage and spreads it wider.
+When you look at those curves closely, you'll notice something interesting: the more unfair curves are also more "equal" because they have more people that are making roughly the same, but just divided by classes. Whereas the inequality from fairness and leverage is far less equal because it's tougher to find even two individuals with the same outcome.
 
-Yet, it's undeniable that the child that has access to higher quality feedback, more competent, ambitious peers, a stronger safety net, and more supportive loving parents, has an unfair advantage. We have a lot of work to do. But the world is more fair than it has ever been in modern history.
+*Therefore, counterintuitively, the way to sniff out unfairness is to see how much equality exists in the graph of outcomes*. The more equality that exists (i.e. the more it looks like a step function), the more cautious we ought to be. And complete equality (like the outcomes of Tic Tac Toe) is fair, but terrible, because it means our activities are not complex enough. It would be fair in that we'd all be equally terrible at life. But what you'll see in any unfair system is that there will always be someone who sits a step above a group of others who make equal outcomes.
+
+The idea that a fair world would be equal is delusional. A more fair, more leveraged world will be more unequal in outcomes, because the underlying exploration of life will be more varied. And the inequality that stems from unfairness is actually more equal than the inequality that stems from fairness & leverage.
+
+...
+
+Human progress makes the world more fair by increasing leverage and spreading it wider.
+
+Today, even in many of the poorest communities around the world, many kids have the ability to create, to speak their minds in ways their grandparents couldn't dream of, and have access to information and knowledge through the internet that is barely less than the richest kid living in a high rise building in Manhattan.
+
+Yet, it's undeniable that the child that has access to higher quality feedback, more competent, ambitious peers, a stronger safety net, and more supportive loving parents, has an unfair advantage. We have a lot of work to do to make the world fair, but the world is more fair than it has ever been in modern history.
 
 ...
 
@@ -153,7 +167,7 @@ The complexity of the games we play is a function of leverage. As leverage incre
 
 Leverage is a function of human progress. Every advancement: technology, human rights, medicine, policy, etc. pushes us towards a more fair and leveraged world.
 
-Asymmetry is rising due to progress.
+Therefore, asymmetry is rising due to progress.
 
 ...
 
@@ -165,7 +179,7 @@ It's only a rough approximation because it only represents the transactions betw
 
 GDP is also a lagging indicator of leverage because it takes time to turn leverage into transactions because even though the time it takes to turn an idea to reality decreases, it's still not instantaneous. And often only implemented ideas have an opportunity to impact GDP.
 
-We can see how leverage is accelerating exponentially by observing how our global GDP is rising exponentially: https://ourworldindata.org/grapher/global-gdp-over-the-long-run.
+We can see how leverage is accelerating exponentially by observing how our global GDP is accelerating exponentially: https://ourworldindata.org/grapher/global-gdp-over-the-long-run.
 
 Therefore asymmetry is not just increasing, but increasing exponentially fast.
 
@@ -173,7 +187,7 @@ Therefore asymmetry is not just increasing, but increasing exponentially fast.
 
 Intellectual understanding of asymmetry is not enough to act optimally in an asymmetric world that is rapidly accelerating in its asymmetry. 
 
-We have two fundamental problems holding us back, and these problems stem from the limitations of our minds.
+We have two fundamental problems holding us back which stem from the limitations of our minds.
 
 Our first problem is that we do not have an intuitive grasp of exponential change. Even if you intellectually see the current asymmetry of the world and how it's increasing rapidly, you will certainly be surprised and caught off guard. We don't have to look far back to see why. Before the COVID-19 pandemic took off, many nations and institutions had the math right: they could all see the rapid spread of the virus. Heck, even I read an essay in February that predicted that we'd have a pandemic. Yet, few, if any, of us had the appropriate emotional response. We lacked the appropriate fear and caution that would have enabled us to take the optimal path to preventing a pandemic.
 
@@ -208,7 +222,7 @@ You may also believe that it's probably good to slow down this rate of change to
 
 Everything is connected in ways that we may not like, but cannot deny.
 
-Since asymmetry is indirectly a function of leverage, every time we see a bump in leverage (e.g. a more powerful AI model is released), we will notice massive layoffs, as well as a sharp rise in compensation and demand for top talent. Many are already feeling this paradox: the job market seems terrible, yet companies are desperate for great talent and are willing to pay more than ever. Reality is giving us a wake up call.
+Since asymmetry is indirectly a function of leverage, every time we see a bump in leverage (e.g. a more powerful AI model is released), we will notice massive layoffs, as well as a sharp rise in compensation and demand for top talent. Many are already feeling this "paradox": the job market seems terrible, yet companies are desperate for great talent and are willing to pay more than ever. Reality is giving us a wake up call.
 
 ...
 
@@ -234,13 +248,25 @@ The need for compassion, towards others and ourselves, is greater than ever befo
 
 Our minds have been programmed by evolution to respect those that achieve greater results, and respect less those who achieve less. This was a useful conditioning for back when we were hunter gatherers because in that context when an individual achieved less it meant less food for the tribe and everyone would suffer. Our craving for external validation, craving for status, and even our jealousy, helped us work hard to contribute equally well to the tribe, so that we weren't left behind.
 
-Unfortunately in the modern world this evolutionary programming only leads to suffering. Our outdated emotional responses harm us instead of protecting us as they once did. 
+Unfortunately in the modern world this evolutionary programming only leads to suffering. Our outdated emotional responses harm us instead of protecting us as they once did.
 
 Asymmetry is inevitable, and it will always be the case that someone or the other achieves much, much more than you. Your neighbor, your childhood friends, a kid that wasn't even born when you started trying to be good at what you do will achieve more than you for reasons that won't be easy to decipher, and will increasingly be difficult to attribute to privilege.
 
+This is why we see another "paradox": in the developed world we have more things, luxuries, and can manifest our ideas more quickly than ever before... yet, we seem less happy. Not retraining ourselves to be aligned with the growing asymmetry will also make us less happy. 
+
+We will need to retrain ourselves to not put those who have more wealth or status on pedestals. And the only way to do that is to retrain ourselves to not think we are better than others who have less wealth or status than we do. The more asymmetric the world becomes, the more compassion we need to build in order to be happy - in ways that were not required in a more symmetric world. Unfortunately this is difficult to do. 
+
+Just like how we see asymmetric outcomes in all external things, I predict we'll see a growing asymmetry in happiness as well. Those that can retrain their minds will find themselves to be incredibly happy. Those that cannot will be less happy than previous generations even though they have more than ever.
+
+Acting optimally in an asymmetric world requires understanding ourselves, retraining our minds are the most fundamental level. In an extremely asymmetric world, to get what we want, we will need to work against the programming that evolution has given us.
+
 ...
 
-Fear equality. Fight for fairness. Overcome jealousy. Build compassion. Uncover the underlying asymmetries of the world. When you decide on how to respond, respond harder and faster than you feel you should. Accept that you will be ridiculed, hated even, for acting optimally. Thrive.
+Fear equality. Fight for fairness. Overcome jealousy. Build compassion. Uncover the underlying asymmetries of the world. When you decide on how to respond, respond harder and faster than you feel you should. Accept that you will be ridiculed, hated even, for acting optimally.
+
+If you can manage to train yourself to be aligned with reality, there has never before been such an opportunity in human history to get what you want, whatever that may be.
+
+I wish you the best.
 
 ...
 

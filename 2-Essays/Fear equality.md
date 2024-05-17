@@ -201,18 +201,16 @@ Our craving for equality blinds us to reality. The more disconnected our beliefs
 
 ...
 
-When a team leader sees that a group of teammates are performing equally well, they celebrate it, whereas they should be fearing it. In a world with extreme asymmetry, equally performing teammates implies the following:
+When a team leader sees that a group of teammates are performing equally well, they celebrate it, whereas they should be fear it. In a world with extreme asymmetry, equally performing teammates implies the following:
 1. *The team is not well leveraged*. They are using outdated technology that is slower to turn their ideas into reality, or they don't know how to apply leverage effectively.
 2. *The team consists of average players*. As we saw in our board games, the greater the asymmetry, the greater the difference between the top player and the next best. The difference between players only goes down the more you move towards the worst players. A team of terrible players would all be equally bad. A team of great players would have great differences in ability between them.
 3. *The team's activities are not complex as they could be*. This is likely due to them not adapting themselves to an increase in leverage by moving up the complexity hierarchy to doing more complex work. For example: someone continuing to manually summarizing and transcribing notes, or coding simple functions when present technology can do it way more efficiently.
 4. *The team leader is terrible at assessing productivity*. As leverage increases, productivity becomes more difficult to measure because the activities become more complex, but also because our craving for equality blinds us to just how differently able individuals are.
 5. *The team is not moving fast enough*. Asymmetry manifests more slowly the slower a team executes (i.e. the slower they make their moves).
 
-And it should be noted that there is also asymmetry for how much each factor contributes to the problem - it's not that each of the points above are equally responsible at any given point in time. If I were to pick the most important factor it would be that the team does not consist of great players, because if they were good, they'd be obsessed about increasing their leverage as much as possible, moving optimally fast, assessing productivity more accurately, and would be paranoid about not letting in average players who would pollute culture.
+And the root cause of this is that the team does not consist of great players. If they were good, they'd be obsessed about increasing their leverage as much as possible, moving optimally fast, assessing productivity more accurately, and would be paranoid about not letting in average players who would pollute culture. As asymmetry rises, great teams will be far more asymmetric: the best will contribute significantly more than the rest.
 
 You might say for the sake of the employees and society, teams shouldn't be obsessed about improving themselves by identifying their internal asymmetries (implying they shouldn't fire low performers). But the fact is that teams that don't organize themselves around asymmetry will find it incredibly difficult to survive. There is no stagnation in a rapidly changing world, there is only accelerated growth, and accelerated death. Companies will have no choice but to adapt or perish.
-
-What that ideal organization looks like is a nuanced topic that I'll cover later - but one thing is certain: it looks quite different from how we've been building companies so far. And since asymmetry is growing rapidly, companies that aren't aligned with reality will become irrelevant more quickly than ever before.
 
 You may also believe that it's probably good to slow down this rate of change to make it easier on employees. Whether you realize it or not, by saying this you're also advocating for slower human progress meaning a slower rate of increase in fairness in the world. 
 
@@ -222,21 +220,23 @@ Since asymmetry is indirectly a function of leverage, every time we see a bump i
 
 ...
 
-A young person who wants to join a great company so that they can become great at their craft should fear companies in which there is great equality between employees. I often hear people coming back from interviews claiming "wow, everyone there seems great at what they do!", and end up joining the company. This was a great heuristic when we had less leverage (meaning the world was less asymmetric and there wasn't as great of a difference between great players), but is incredibly dangerous today.
+A young person who wants to join a great company should fear companies in which there is great equality between employees. I often hear people coming back from interviews claiming "wow, everyone there seems great at what they do!", and end up joining the company. This was a great heuristic when we had less leverage (meaning the world was less asymmetric and there wasn't as great of a difference between great players), but is incredibly dangerous today.
 
-A prospective employee with the right intuition would be paranoid about understanding whether the company is truly equal internally, or they're just saying they are. Of course, all companies (even the great ones) will claim they are equal internally because it's not culturally acceptable yet to claim that they aren't, but not uncovering the true inequality internally will lead a prospective employee to make incredibly suboptimal decisions.
+A prospective employee with the right intuition would be paranoid about understanding whether the company is truly equal internally, or they're just saying they are. Of course, all companies (even the great ones) will claim they are equal internally because it's not culturally acceptable yet to claim that they aren't, but not uncovering the true inequality internally will lead a prospective employee to make incredibly suboptimal decisions. Choosing where you work is one of the most important decisions you'll make in your life. A miscalculation here leads to greatly suboptimal outcomes.
 
 To be clear, there are many highly valued companies on the market that are incredibly equal internally, and therefore are rotting. A company's value is a lagging indicator of their health. Today's rot will manifest in earnings down the line. And so any job hunter that has the right intuition for asymmetry and how the world works should fear being lured in by a company's present market value if they're not set up for success in the future.
 
+A great team is asymmetric, but not all asymmetric teams are great. If you notice asymmetry in a team and the best player seems not unfathomably great, they're not a great team.
+
 ...
 
-A prospective student that wants to join the best learning program, with the right intuition, would be fearful of any academic program that claims that a high percentage of its graduates are equally competent or have found jobs that pay similarly well. That's a sign that the graduates are average, and / or that they are joining companies that are average. And since there is no stagnation, only accelerated growth or death, those companies will become irrelevant more quickly than ever before.
+A prospective student that wants to join the best learning program, with the right intuition, would be fearful of any program that claims that a high percentage of its graduates are equally competent or have found jobs that pay similarly well. That's a sign that the graduates are average, and / or that they are joining companies that are average. Since there is no stagnation, only accelerated growth or death, those companies will become irrelevant more quickly than ever before, and these students will be left wondering what went wrong.
 
 Selectivity is not what matters, it's the outcomes. A highly selective organization that still has equal outcomes is almost certainly a terrible one. A useless organization can still have asymmetric outcomes that make it seem that it's a great institution. They do this by simply bringing together a bunch of ambitious talent together and letting them do their thing. It's important to understand how much the institution is actually impacting the asymmetric outcomes. [^4] 
 
 And lastly it's important to also be cautious of asymmetry when the best player is average. That means that not only is the institution not teaching the skills at the level of complexity required to be relevant in a highly leveraged world, it means they suck at teaching even simpler skills.
 
-We need entirely new playbooks to optimally build companies, educate ourselves, and even build society [^5]. And these optimal paths will look quite weird.
+We need entirely new playbooks to optimally build companies, educate ourselves, and even build society [^5]. Some of these optimal paths will look quite weird.
 
 ...
 

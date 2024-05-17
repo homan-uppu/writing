@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Essays/Fear equality.md",
+                "file": "1-Internal notes/jisnu.org website.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e6c3d1d3f5b15576",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-Essays/I'd appreciate your feedback.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a40d9c56c367f30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-Rough/2024-05-17.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Essays/Fear equality.md",
+                "file": "2-Essays/I'd appreciate your feedback.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Essays/Fear equality.md",
+                "file": "2-Essays/I'd appreciate your feedback.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Essays/Fear equality.md"
+                "file": "2-Essays/I'd appreciate your feedback.md"
               }
             }
           },
@@ -159,14 +184,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "64577c8d07b74bf2",
+  "active": "e6c3d1d3f5b15576",
   "lastOpenFiles": [
-    "0-Rough/Heuristics.md",
-    "2-Essays/Fear equality.md",
+    "1-Internal notes/jisnu.org website.md",
+    "2-Essays/I'd appreciate your feedback.md",
     "0-Rough/2024-05-17.md",
+    "0-Rough/Untitled 10.md",
+    "0-Rough/Untitled 9.md",
+    "2-Essays/Fear equality.md",
+    "0-Rough/Heuristics.md",
     "0-Rough/Essay website stuff.md",
     "0-Rough/Kanye's wisdom.md",
-    "1-Internal notes/jisnu.org website.md",
     "MAIN.md",
     "0-Rough/\"Fear equality\" essay next steps.md",
     "0-Rough/What do I even want to say about complexity?.md",
@@ -185,9 +213,6 @@
     "0-Inputs/Evil does not exist filmmaker interview.md",
     "0-Rough/2024-05-15.md",
     "0-Rough/Human progress and fairness.md",
-    "0-Rough/Fairness and asymmetry.md",
-    "0-Rough/Fairness and asymmetry (first).md",
-    "0-Rough/Feeling is the most complex system.md",
     "2-Essays",
     "0-Rough/Untitled.canvas",
     "1-Internal notes",

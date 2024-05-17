@@ -1,1 +1,0 @@
-*TODO - this is necessary before sharing the essay with others. Think through what it means to give good feedback before asking someone for feedback.*

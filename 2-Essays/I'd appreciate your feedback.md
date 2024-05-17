@@ -40,6 +40,8 @@ But if you believe that there's a chance that I may do something big someday tha
 
 I have some big ideas in my mind that I do believe will meaningfully impact the world. Give me great feedback to increase the chances of us working on them together. And of course, by work on them with me I mean that you too will shape and own those ideas because as I said: I'm deluded.
 
+Lastly, if you don't think you can carve out the time to give me great feedback, just wait until you have the time. By sending me half baked feedback I will form a negative impression about your ability to think well. And consistent poor feedback means I will not ask you for your feedback again. Nothing stagnates, it only accelerates upwards or downwards. This principle applies to collaboration as well.
+
 ---
 
 [^1] *I also view writing as a form of finding and eliminating what doesn't work without worrying about what works.*

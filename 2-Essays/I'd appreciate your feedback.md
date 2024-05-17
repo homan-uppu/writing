@@ -38,9 +38,11 @@ Now, if I were you, I'd stop and ask the question: "Is this person even going to
 
 But if you believe that there's a chance that I may do something big someday that could change the world in a meaningful way, then the expected return on investment would be much, much higher because by taking the time to give me great feedback, you greatly increase the likelihood of me wanting to collaborate with you.
 
-I have some big ideas in my mind that I do believe will meaningfully impact the world. Give me great feedback to increase the chances of us working on them together. And of course, by work on them with me I mean that you too will shape and own those ideas because as I said: I'm deluded.
+I have some big ideas in my mind that I do believe will meaningfully impact the world if well executed. Give me great feedback to increase the chances of us working on them together. And of course, by work on them with me I mean that you too will shape and own those ideas because as I said: I'm deluded. You will find ample opportunity to make every idea better.
 
-Lastly, if you don't think you can carve out the time to give me great feedback, just wait until you have the time. By sending me half baked feedback I will form a negative impression about your ability to think well. And consistent poor feedback means I will not ask you for your feedback again. Nothing stagnates, it only accelerates upwards or downwards. This principle applies to collaboration as well.
+Lastly, if you don't think you can carve out the time to give me great feedback, just wait until you have the time. By sending me not great feedback I will form a negative impression about your ability to think well. And great feedback takes some time (I'd estimate about an hour at the least). Consistent poor feedback means I will not ask you for your feedback again. No hard feelings, I have limited time and I need to prioritize well.
+
+Nothing stagnates, it only accelerates upwards or downwards. This principle applies to collaboration as well.
 
 ---
 

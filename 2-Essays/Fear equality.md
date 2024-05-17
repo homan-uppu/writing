@@ -272,6 +272,12 @@ I wish you the best.
 
 [[I'd appreciate your feedback]] on this essay.
 
+When we don't have the right intuition for how to act optimally, heuristics are useful. Heuristics are like shortcuts or rules of thumb that help us shift our behaviors towards the optimal.
+
+In subsequent essays I'll share the heuristics that I'm developing for myself to act optimally in an extremely asymmetric world. These heuristics have already impacted every aspect of my life (because asymmetry impacts every aspect of our lives): how I work, what ideas I think about, how I invest in my relationships, etc.
+
+All I can say now is that I'm incredibly surprised every day by how suboptimal I'm acting for almost everything I do. I'm struggling to change my habits that have been ingrained for years, but are unfortunately outdated. I'm excited to share these heuristics with you in upcoming essays for your feedback. I suspect you too will be surprised.
+
 ---
 
 [^1] *Note: You may say that modeling our endeavors as games is reductive. I agree that it is, but I believe it's still directionally correct - that the lessons we extrapolate from smaller games apply to the more complex games each of us plays to get what we want. In future essays I plan to dive deeper into the nuances of the games we play, and specifically into the nature of our minds - which is what dictates why we want what we want and how we go about getting it.*

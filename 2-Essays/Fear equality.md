@@ -1,8 +1,8 @@
 A small percentage of decisions lead most results.
-A small percentage of creators capture most of views.
+A small percentage of creators capture most engagement.
 A small percentage of books capture most of sales.
 A small percentage of individuals hold most of the wealth.
-A small percentage of employees in a company contribute most of the productivity.
+A small percentage of employees in a company are responsible for the majority of output.
 A small percentage of individuals in the world contribute the majority of human progress.
 
 Asymmetry exists everywhere in our modern world and is rapidly accelerating.
@@ -152,11 +152,11 @@ Yet, it's undeniable that the child that has access to higher quality feedback, 
 
 Asymmetry is a function of complexity. The greater the complexity of a game, the greater the asymmetry within the game and for the outcomes of the game.
 
-The complexity of the games we play is a function of leverage. The greater leverage that exists in the world, the more complex the games we play become.
+The complexity of the games we play is a function of leverage. As leverage increases our activities become more complex.
 
-Leverage is a function of human progress. Every positive advancement pushes us towards a more fair and leveraged world.
+Leverage is a function of human progress. Every advancement: technology, human rights, medicine, policy, etc. pushes us towards a more fair and leveraged world.
 
-Therefore, asymmetry is rising.
+Asymmetry is rising due to progress.
 
 ...
 
@@ -182,15 +182,15 @@ Our first problem is that we do not have an intuitive grasp of exponential chang
 
 Similarly, even if you believe everything you've read in this essay so far, I assure you that we'll all be very surprised as we see this asymmetry skyrocket on an exponential curve. And if you want to act optimally today, you're going to look stupid and be laughed at by the world in the same way that anyone who wore a mask in January 2020 would have been. 
 
-And interestingly during COVID if you were acting optimally, you would have also been ridiculed later in the pandemic because you would have stopped masking before most others did, and would have been hated for putting others' lives at risk.
+And interestingly during COVID if you were acting optimally, you would have also been ridiculed later in the pandemic because you would have stopped masking before most others did, and would have been hated.
 
-Since we all suck at responding optimally to exponential change, you will always look weird and stupid for acting optimally in an exponentially changing environment.
+Since we all suck at responding optimally to exponential change, you will always look weird and stupid for acting optimally.
 
-And any change you make in your life that you think is directionally correct will almost certainly not be a strong enough change. In the COVID analogy, if you believed the math that predicted it, even though the optimal strategy in Jan 2020 was to mask up, you would have just washed you hands an extra time thinking it's enough.
+Also, any change you make in your life that is directionally correct will almost certainly not be a strong enough change. In the COVID analogy, if you believed the math that predicted it, even though the optimal strategy in Jan 2020 was to mask up, you would have just washed you hands an extra time thinking it's enough. This is because though we understand it intellectually, we don't have the appropriate fear (caution) towards it.
 
-Our second problem is that we don't have the right emotional response to equality (symmetry). Instead of fearing equality as we should, we crave it. [^1] This makes shifting our behaviors towards asymmetry even more difficult than it would have been to act optimally to a viral pandemic. 
+Our second problem is that we don't have the right emotional response to equality (symmetry). Instead of fearing equality as we should, we crave it. [^1] This makes shifting our behaviors to act optimally even more difficult than it would have been to act optimally towards a viral pandemic because we don't crave a pandemic (except maybe psychos) as we crave equality. Undoing craving and cultivating fear is more difficult than just cultivating fear. And it's not twice as difficult, it's orders of magnitude more difficult because overcoming craving is far more difficult than cultivating fear.
 
-Our craving for equality blinds us to reality. The more disconnected our beliefs are from reality, the more we suffer. And reality is slipping away from us quickly. Through the following examples I hope to show how far off our intuitions are from the optimal.
+Our craving for equality blinds us to reality. The more disconnected our beliefs are from reality, the more we suffer. And reality is slipping away from us quickly. Through the following examples I hope to show how our intuitions are outdated
 
 ...
 
@@ -215,7 +215,7 @@ Since asymmetry is indirectly a function of leverage, every time we see a bump i
 
 ...
 
-Similarly, a young person who wants to join a great company so that they can become great at their craft should fear companies in which there is great equality between employees. I often hear people coming back from interviews claiming "wow, everyone there seems great at what they do!", and end up joining the company. This was a great heuristic when we had less leverage (meaning the world was less asymmetric and there wasn't as great of a difference between great players), but is incredibly dangerous today.
+A young person who wants to join a great company so that they can become great at their craft should fear companies in which there is great equality between employees. I often hear people coming back from interviews claiming "wow, everyone there seems great at what they do!", and end up joining the company. This was a great heuristic when we had less leverage (meaning the world was less asymmetric and there wasn't as great of a difference between great players), but is incredibly dangerous today.
 
 A prospective employee with the right intuition would be paranoid about understanding whether the company is truly equal internally, or they're just saying they are. Of course, all companies (even the great ones) will claim they are equal internally because it's not culturally acceptable yet to claim that they aren't, but not uncovering the true inequality internally will lead a prospective employee to make incredibly suboptimal decisions.
 
@@ -223,13 +223,13 @@ To be clear, there are many "highly valued" companies on the market that are inc
 
 ...
 
-Similarly a prospective student that wants to join the best learning program, with the right intuition, would be fearful of any academic program that claims that a high percentage of its graduates are equally competent or have found jobs that pay similarly well. That's a sign that the graduates are average, and / or that they are joining companies that are average. And since there is no stagnation, only accelerated growth or death, those companies will become irrelevant more quickly than ever before.
+A prospective student that wants to join the best learning program, with the right intuition, would be fearful of any academic program that claims that a high percentage of its graduates are equally competent or have found jobs that pay similarly well. That's a sign that the graduates are average, and / or that they are joining companies that are average. And since there is no stagnation, only accelerated growth or death, those companies will become irrelevant more quickly than ever before.
 
 Selectivity is not what matters, it's the outcomes. A highly selective organization that still has equal outcomes is almost certainly a terrible one. A useless organization can still have asymmetric outcomes that make it seem that it's a great institution. They do this by simply bringing together a bunch of ambitious talent together and letting them do their thing. It's important to understand how much the institution is actually impacting the asymmetric outcomes. [^3]
 
 And lastly it's important to also be cautious of asymmetry when the best player is average. That means that not only is the institution not teaching the skills at the level of complexity required to be relevant in a highly leveraged world, it means they suck at teaching even simpler skills.
 
-We need entirely new playbooks to optimally build companies, educate ourselves, and even operate society. And these optimal paths look quite weird.
+We need entirely new playbooks to optimally build companies, educate ourselves, and even build society. And these optimal paths will look quite weird.
 
 ...
 
@@ -237,11 +237,13 @@ The need for compassion, towards others and ourselves, is greater than ever befo
 
 Our minds have been programmed by evolution to respect those that achieve greater results, and respect less those who achieve less. This was a useful conditioning for back when we were hunter gatherers because in that context when an individual achieved less it meant less food for the tribe and everyone would suffer. Our craving for external validation, craving for status, and even our jealousy, helped us work hard to contribute equally well to the tribe, so that we weren't left behind.
 
-Unfortunately in the modern world this evolutionary programming only leads to suffering. Asymmetry is inevitable, and it will always be the case that someone or the other achieves much, much more than you. Your neighbor, your childhood friends, a kid that wasn't even born when you started trying to be good at what you do will achieve more than you for reasons that won't be easy to decipher, and will increasingly be difficult to attribute fully to privilege.
+Unfortunately in the modern world this evolutionary programming only leads to suffering. Our outdated emotional responses harm us instead of protecting us as they once did. 
+
+Asymmetry is inevitable, and it will always be the case that someone or the other achieves much, much more than you. Your neighbor, your childhood friends, a kid that wasn't even born when you started trying to be good at what you do will achieve more than you for reasons that won't be easy to decipher, and will increasingly be difficult to attribute to privilege.
 
 ...
 
-Fear equality. Fight for fairness. Overcome jealousy. Build compassion. Uncover the underlying asymmetries of the world. When you decide on how to respond, respond harder and faster than you feel you should. Accept that you will be ridiculed for acting more optimally than most. Thrive.
+Fear equality. Fight for fairness. Overcome jealousy. Build compassion. Uncover the underlying asymmetries of the world. When you decide on how to respond, respond harder and faster than you feel you should. Accept that you will be ridiculed, hated even, for acting optimally. Thrive.
 
 ...
 

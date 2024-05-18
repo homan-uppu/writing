@@ -1,8 +1,9 @@
 
-*Active*
-- [[Fear equality]]
-
 *Published*
+- [Fear equality](https://jisnu.org/fear-equality)
+- [I'd appreciate your feedback](https://jisnu.org/feedback)
+
+*Active*
 
 ---
 

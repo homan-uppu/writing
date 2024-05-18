@@ -1,5 +1,6 @@
 #jisnu-website
 
+
 It fucking matters. And I’m going to do the best job I can possibly do in the presentation layer as well.
 
 ### Ideas

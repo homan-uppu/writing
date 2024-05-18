@@ -1,0 +1,1 @@
+I believe craving for status prevents my ability to see reality as it is.

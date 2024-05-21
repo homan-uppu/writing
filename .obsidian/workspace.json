@@ -4,35 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "5dace278b7620961",
+        "id": "4bf1370ba26cae26",
         "type": "tabs",
         "children": [
           {
-            "id": "ea6264f9a0f75a04",
+            "id": "13591c04160e050f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Rough/2024-05-21.md",
+                "file": "2-Essays/There is no room for average.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1eb7355d495b5626",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-Rough/Why do the average not have room in an asymmetric world?.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ae660e02ea9ad9fa",
+            "id": "00104f9390990cba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2-Essays/Fear equality.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Essays/Fear equality.md",
+                "file": "2-Essays/There is no room for average.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Essays/Fear equality.md",
+                "file": "2-Essays/There is no room for average.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Essays/Fear equality.md"
+                "file": "2-Essays/There is no room for average.md"
               }
             }
           },
@@ -172,12 +183,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ae660e02ea9ad9fa",
+  "active": "13591c04160e050f",
   "lastOpenFiles": [
-    "MAIN.md",
+    "0-Rough/Why do the average not have room in an asymmetric world?.md",
+    "2-Essays/There is no room for average.md",
     "2-Essays/Fear equality.md",
-    "1-Notes/Why secrets aren't as valuable as before.md",
     "0-Rough/2024-05-21.md",
+    "MAIN.md",
+    "1-Notes/Why secrets aren't as valuable as before.md",
     "0-Rough/Untitled 12.md",
     "1-Internal notes/Improving \"Fear equality\".md",
     "1-Internal notes/Build compassion (removed excerpt from Fear Equality).md",
@@ -198,8 +211,6 @@
     "0-Inputs/On Jisnu.md",
     "0-Inputs/Internal memos.md",
     "0-Rough/2024-05-19.md",
-    "0-Rough/High level pass (Fear equality).md",
-    "0-Rough/Building the people database.md",
     "0-Inputs/Screenshot 2024-05-16 at 9.00.30 AM.png",
     "2-Essays",
     "0-Rough/Untitled.canvas",

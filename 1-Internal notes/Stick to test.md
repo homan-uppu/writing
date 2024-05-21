@@ -1,0 +1,5 @@
+Aim for efficiency at this phase. Just stick to writing. Nothing visual. No animations. No pictures. Nothing. Craft the idea and get it out into the world.
+
+My speed is about to increase rapidly. I've had the necessary incubation period. The ideas are getting there. It's all about crafting these ideas in public. It's time to really turn up transparency. Flesh ideas out, but ship them as soon as they're good enough. Quality is incredibly important. The beauty in the presentation is not required at this stage as the right audience is incredibly tiny. They will not require flash, only substance. In fact, too much flash is probably a bad sign.
+
+Given this, focus entirely on text. Nothing else in the essays. You have the perfect setup to publish such essays. You also have the foundational idea from which you will derive future essays. Great.

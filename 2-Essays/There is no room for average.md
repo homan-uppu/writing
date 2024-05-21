@@ -188,29 +188,29 @@ As the room for average disappears, we will need universal basic income. But tha
 
 I don't believe basic income will ever reach a point that will make us feel satisfied with it. Of course, it may initially afford us great healthcare, a home, etc., but it will never be enough for the same reason that the bar for "great" sharply rises with increase in leverage. When we have more breakthroughs in medicine, housing, arts, technology, clothing, etc. a basic income will not allow you to afford those breakthroughs until those creations become cheaper, which takes time. This leads anyone relying on a basic income to get what they want to always feel that what they want is out of reach.
 
-This will lead to another "paradox": people will feel like they don't have enough, but if someone from a century ago time traveled to the present, they'd find the things we complain about to be silly. In other words, in absolute terms our species will be better off than ever before, yet in the moment we will not be satisfied with what we have.
+This will lead to another "paradox": people will feel like they don't have enough, but if someone from a century ago time traveled to their present, they'd find the things they complain about to be silly. In other words, in absolute terms our species will be better off than ever before, yet in the day-to-day we will not be satisfied with what we have.
 
-Why can't we have a very high basic income that allows us to afford many of the breakthroughs? Because it doesn't optimize for global GDP growth. The country that maximizes global GDP growth is a country that is perpetually in a state of not having enough. Having a basic income higher than whatever is the optimal amount to maximize GDP will not last.
+Why can't we have a very high basic income that allows us to afford many of the breakthroughs? Because it doesn't optimize for GDP growth. The country that maximizes GDP growth is a country that is perpetually in a state of not having enough. Having a basic income higher than whatever is the optimal amount to maximize GDP will not last. 
 
-I don't believe the world can stop optimizing for global GDP. If you look closely, every single human activity optimizes for GDP. That being said, I would honestly be incredibly happy if you disagree that we will always optimize for GDP and that the basic income we will achieve will one day be enough for many humans to be able to afford what they want - even if that basic income comes at the cost of GDP growth. 
+Maximizing for GDP is important for a country if it wants to retain its ability to provide for itself. Asymmetry also applies to countries: we will see the "top" country spit away from the pack and be very far ahead. For average countries to even think about basic income (on their terms), they will need to maximize their GDP growth to be able to tax it and redistribute that wealth for everyone. There is no stagnation, countries that don't become great will rapidly decline. As economies decline, everything within a country de-stabilizes and they will need to seek support from the countries at the top. That support will always come with conditions that they will be forced to accept. Therefore, I don't believe the world can stop optimizing for GDP growth because no country wants to live life on another country's terms. 
 
-Even if there exists such a possibility, you will need to be incredibly ambitious and great at what you do in order to achieve it. There is no room for the average in the endeavor to create a world that supports the average in the way they want to be supported. I hope you succeed... for my sake.
+That being said, I would honestly be incredibly happy if you disagree that we will always optimize for GDP and that the basic income we will achieve will one day be enough for many humans to be able to afford what they want - even if that basic income comes at the cost of GDP growth. Even if there exists such a possibility, you will need to be incredibly ambitious and great at what you do in order to achieve it. There is no room for the average in the endeavor to create a world that supports the average in the way they want to be supported. I hope you succeed... for my sake.
 
 ---
-
-The only way to get what you want in a world that is rapidly becoming more asymmetric is to become more ambitious and great at what you do. 
 
 Ambition was once rewarded. Today, ambition is required.
 
-You may not like how the system is setup. You may not want to be more ambitious, and you may want to leave everything behind and live in a remote area of the world and just live life. I think that's a great idea if that's what you want. But, what you'll see is that leaving the system behind will increasingly require a greater ambition than what is required to be great in the system.
-
-No matter what you choose to do: be a part of the system, change the system, or exit the system, you will require a lot of ambition, and be great at what you do. There is no longer room to be average and coast.
+You may not like how the system is setup. You may not want to be more ambitious or great at what you do, and you may want to leave everything behind and live in a remote area of the world and just live life. I think that's a great idea if that's what you want. But, what you'll see is that leaving the system behind will increasingly require a greater ambition than what is required to be great in the system.
 
 Becoming great at what you do doesn't have to be a miserable process. In fact, it should be enjoyable because increasingly the only way to become great is to do what you're meant to do. Who do you think will be a better filmmaker, one that is naturally obsessed with stories and dreams of scenes all the time or one that's in it for the money? 
 
-As leverage increases and the complexity of our activities increase, we will realize that the only way to become great at a highly complex activity is to be naturally obsessed about it. We will be great at the thing that we can't stop ourselves from doing.
+No matter what you choose to do: be a part of the system, change the system, or exit the system, you will need great ambition, and be great at what you do. There is no longer room to be average and coast.
 
----
+For those who are ambitious and want be great at what they do, the world is only getting better. You will be able to turn your dreams into reality more quickly than ever before. You will be able to implement your ideas for the entire world. You will have access to knowledge, tools, arts, and freedom that your ancestors couldn't have even imagined. 
+
+It won't even matter what you want to be great at. The greatest parents will be rewarded for sharing their knowledge on how to parent. The greatest chefs will be able to "cook" for the entire world at once. The greatest artists will capture the imagination of billions. The greatest financial advisors will manage the most of the world's money. 
+
+***Just be great.***
 
 ---
 

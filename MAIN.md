@@ -1,56 +1,47 @@
 
 *Published*
-- [Fear equality](https://jisnu.org/fear-equality)
 - [I'd appreciate your feedback](https://jisnu.org/feedback)
 
 *Active*
 
 ---
 
-*The foundation is set (in Fear Equality). This foundation leads to what I call the "optimal path" to thrive in this new reality. The optimal path has a set of heuristics. I will write an essay for each heuristic. And finally, I will write a single essay that combines all of the heuristics into one. That aggregating essay is tentatively titled: "How to educate yourself".*
+1. [[There is no room for average]]
 
-*Each heuristic has the following components*
-1. What the heuristic is.
-2. What the optimality is (for today's leverage).
-3. What the optimality will be in the next few years (i.e. how to update when leverage changes).
-4. How to be more optimal. (What to implement to actually improve).
-
-*Heuristics:*
+*How to be great:*
+- Be more ambitious (Ambition is required more than ever)
 - Fear equality (to the degree of leverage, for the things that matter)
 - Solve for people (hierarchy of complexity)
 - Think more before you do
 - Be more transparent (secrecy)
 - Don't pay for education (pay to learn outdated)
-- Be more ambitious (Ambition is required more than ever)
 - Study yourself
-
-*Heuristics without optimality. You should take it as far as you can independent of the leverage in the world.*
 - Build intuition.
-- Depth is breadth. (Go deep)
+- Be all in.
 - Know what you want
-- Don't identify with labels
-- Have integrity.
-- Overcome Jealousy.
+- Don't label yourself.
+- Have high integrity.
 - Build compassion.
 
-*In order to explain heuristics well, there are truths about the world that must be explained*
+*Each skill has the following components*
+1. What it is.
+2. What is optimal today (for today's leverage).
+3. How will the optimal change. (i.e. how to update when leverage changes).
+4. How to be more optimal. (What to implement to actually improve).
+
+These may also be collapsed together in ways that I can't see right now. I don't think it will result in 14 essays as it looks right now.
+
+*Other truths about the world that may be required to explain how to be great.*
 - We are becoming more similar (culture is converging) - required for "Be more ambitious"
 - Changing yourself is more difficult than you think. ("Why I won't work with old people" - probably a better title).
 - Maximizing transactions is all we want.
 - The best teams work in person.
 
-*Theory*
-- [[Intuition separates greats from the rest]]
-- [[Think more than you think you should]]
-- [[Building is easier than figuring out what to build]]
-- [[We are addicted to our beliefs]]
-- [[Why secrets aren't as valuable as before]]
-- [[Paying for education no longer works]]
-- Co-founder only companies
-- [[Be more ambitious]] / How to be more ambitious.
-- We don't know what we want (on evolution).
-- Maximizing transactions is all we want (may not write this, doesn't feel too important compared to many other topics.)
-- The best teams will work in person (critically important - this is a foundation for how I will build teams).
-- Randomness is an illusion (i.e. you aren't a lottery ticket ). - *this is quite foundational to my worldview, is what I'm realizing.* - Luck vs. skill.
-- [[Depth is breadth]] / [[Depth is everything]]
-- Learn to quit.
+*Finally*
+- How to educate yourself -> putting all of the theory above into a single essays targeting an 18 year old in today's world.
+
+---
+
+Make everything true to how you feel and ensure that it actually fits into the theory (and if it doesn't, update the theory!).
+
+I'm not going to do anything else until I've completed this body of work. Naturally writing these essays will lead to many more. But I will give myself the option to cut off "side quests" as long as I fulfill this "main quest" well enough. That will be the choice of a future version of myself.

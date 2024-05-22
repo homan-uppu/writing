@@ -4,46 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "4bf1370ba26cae26",
+        "id": "bad6e7dd830eb7bf",
         "type": "tabs",
         "children": [
           {
-            "id": "13591c04160e050f",
+            "id": "6c2f15a614a1a9bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Essays/There is no room for average.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "1eb7355d495b5626",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-Rough/Why do the average not have room in an asymmetric world?.md",
+                "file": "0-Rough/2024-05-22.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "00104f9390990cba",
+            "id": "82d01ca7ebda5c12",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Essays/Fear equality.md",
+                "file": "MAIN.md",
                 "mode": "source",
-                "source": true
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a0af6fe4d3975c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-Inputs/Marlon Brando on Acting to survive.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Essays/There is no room for average.md",
+                "file": "MAIN.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Essays/There is no room for average.md",
+                "file": "MAIN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Essays/There is no room for average.md"
+                "file": "MAIN.md"
               }
             }
           },
@@ -183,11 +184,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "13591c04160e050f",
+  "active": "82d01ca7ebda5c12",
   "lastOpenFiles": [
+    "0-Rough/2024-05-22.md",
+    "0-Inputs/Marlon Brando on Acting to survive.md",
+    "0-Rough/Ambition oasis in the desert of negativity.md",
+    "2-Essays/Fear equality.md",
     "0-Rough/Why do the average not have room in an asymmetric world?.md",
     "2-Essays/There is no room for average.md",
-    "2-Essays/Fear equality.md",
     "0-Rough/2024-05-21.md",
     "MAIN.md",
     "1-Notes/Why secrets aren't as valuable as before.md",
@@ -208,9 +212,6 @@
     "0-Rough/Can just aim directly to the output?.md",
     "0-Rough/Examples of where our intuition is wrong (Fear equality).md",
     "0-Rough/The optimal path.md",
-    "0-Inputs/On Jisnu.md",
-    "0-Inputs/Internal memos.md",
-    "0-Rough/2024-05-19.md",
     "0-Inputs/Screenshot 2024-05-16 at 9.00.30 AM.png",
     "2-Essays",
     "0-Rough/Untitled.canvas",

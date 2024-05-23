@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bad6e7dd830eb7bf",
+        "id": "f15685399fe18850",
         "type": "tabs",
         "children": [
           {
-            "id": "6c2f15a614a1a9bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-Rough/2024-05-22.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "82d01ca7ebda5c12",
+            "id": "38f81d944f27bf5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,14 +20,14 @@
             }
           },
           {
-            "id": "1a0af6fe4d3975c7",
+            "id": "d19cf0423991103b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Inputs/Marlon Brando on Acting to survive.md",
+                "file": "2-Essays/Winners take all.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MAIN.md",
+                "file": "2-Essays/Winners take all.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MAIN.md",
+                "file": "2-Essays/Winners take all.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MAIN.md"
+                "file": "2-Essays/Winners take all.md"
               }
             }
           },
@@ -184,34 +172,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "82d01ca7ebda5c12",
+  "active": "d19cf0423991103b",
   "lastOpenFiles": [
-    "0-Rough/2024-05-22.md",
-    "0-Inputs/Marlon Brando on Acting to survive.md",
-    "0-Rough/Ambition oasis in the desert of negativity.md",
-    "2-Essays/Fear equality.md",
-    "0-Rough/Why do the average not have room in an asymmetric world?.md",
-    "2-Essays/There is no room for average.md",
-    "0-Rough/2024-05-21.md",
     "MAIN.md",
-    "1-Notes/Why secrets aren't as valuable as before.md",
-    "0-Rough/Untitled 12.md",
-    "1-Internal notes/Improving \"Fear equality\".md",
-    "1-Internal notes/Build compassion (removed excerpt from Fear Equality).md",
-    "1-Internal notes/Take the direct path.md",
-    "0-Rough/Optimal path.md",
-    "0-Rough/This truth really hurts for me..md",
-    "0-Rough/Approach.md",
-    "0-Rough/Untitled 11.md",
-    "0-Rough/Harithas feedback.md",
-    "0-Rough/Heuristics.md",
-    "1-Internal notes/Stick to test.md",
-    "0-Rough/2024-05-20.md",
-    "0-Rough/Untitled 10.md",
-    "1-Internal notes/You will be unpopular to the degree you're right.md",
-    "0-Rough/Can just aim directly to the output?.md",
-    "0-Rough/Examples of where our intuition is wrong (Fear equality).md",
-    "0-Rough/The optimal path.md",
+    "2-Essays/Winners take all.md",
+    "2-Essays/We suck at exponential change.md",
+    "1-Notes/Be more transparent.md",
+    "1-Notes/Obsession.md",
+    "0-Rough/Really struggling with positioning.md",
+    "0-Rough/No room for average (from the ground up).md",
+    "0-Rough/Winner takes all.md",
+    "0-Rough/Woah.md",
+    "0-Rough/Untitled 14.md",
+    "0-Rough/Untitled 13.md",
+    "0-Rough/Joe (deleted).md",
+    "0-Rough/2024-05-22.md",
+    "2-Essays/No room for average.md",
+    "0-Rough/The foundation.md",
+    "0-Rough/Improving \"No room for average\".md",
+    "0-Inputs/Overestimating risk to democracy (Tyler Cowen).md",
+    "0-Rough/Dedicate yourself to the craft of writing.md",
+    "1-Internal notes/Double down on strengths.md",
+    "0-Rough/Writing is the most efficient expression.md",
+    "0-Rough/There is an angle here. Balance the mind. Find it..md",
+    "0-Inputs/Old Irish farmer recounts the past.md",
+    "0-Rough/There is something special about the age we're in.md",
+    "0-Inputs/\"But the people are retarded\" - OSHO.md",
+    "0-Rough/The incentives are on your side.md",
+    "0-Rough/The battlefield. Kurukshretra.md",
     "0-Inputs/Screenshot 2024-05-16 at 9.00.30 AM.png",
     "2-Essays",
     "0-Rough/Untitled.canvas",

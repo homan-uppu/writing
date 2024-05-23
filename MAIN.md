@@ -3,24 +3,25 @@
 - [I'd appreciate your feedback](https://jisnu.org/feedback)
 
 *Active*
+[[Winners take all]]
+[[We suck at exponential change]]
+[[Be more transparent]]
 
 ---
 
-1. [[There is no room for average]]
-
 *How to be great:*
 - Be more ambitious (Ambition is required more than ever)
-- Fear equality (to the degree of leverage, for the things that matter)
+- Fear similarity (to the degree of leverage, for the things that matter)
 - Solve for people (hierarchy of complexity)
 - Think more before you do
-- Be more transparent (secrecy)
 - Don't pay for education (pay to learn outdated)
 - Study yourself
 - Build intuition.
-- Be all in.
-- Know what you want
+- Go all in.
+- What we actually want
+- Obsession
 - Don't label yourself.
-- Have high integrity.
+- High integrity.
 - Build compassion.
 
 *Each skill has the following components*
@@ -36,6 +37,7 @@ These may also be collapsed together in ways that I can't see right now. I don't
 - Changing yourself is more difficult than you think. ("Why I won't work with old people" - probably a better title).
 - Maximizing transactions is all we want.
 - The best teams work in person.
+- The country that will win (the most "American" country).
 
 *Finally*
 - How to educate yourself -> putting all of the theory above into a single essays targeting an 18 year old in today's world.
@@ -45,3 +47,5 @@ These may also be collapsed together in ways that I can't see right now. I don't
 Make everything true to how you feel and ensure that it actually fits into the theory (and if it doesn't, update the theory!).
 
 I'm not going to do anything else until I've completed this body of work. Naturally writing these essays will lead to many more. But I will give myself the option to cut off "side quests" as long as I fulfill this "main quest" well enough. That will be the choice of a future version of myself.
+
+Only after this body of work will I look ahead to see what the best next step could be.

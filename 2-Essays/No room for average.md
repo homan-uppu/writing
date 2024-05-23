@@ -1,35 +1,18 @@
----
-title: Fear equality
-date: May 2024
----
-- A small percentage of decisions lead most results.
-- A small percentage of creators capture most engagement.
-- A small percentage of books capture most of sales.
 - A small percentage of individuals hold most of the wealth.
 - A small percentage of employees in a company are responsible for the majority of output.
 - A small percentage of companies capture most of the market.
 
-The world is quite asymmetric.
+The world is quite asymmetric, and this asymmetry is accelerating rapidly. It cannot be stopped because everything we want: better human rights for all, better technology, great art, less wars - makes the world more asymmetric.
 
-Asymmetry is accelerating rapidly and it cannot be stopped because it's the result of human progress. Every single thing we do - whether we build technology, shape culture through art, fight for human rights - makes the world more asymmetric.
+The more asymmetric the world becomes, the less world values those that are average at what they do.
 
-The more asymmetric the world becomes, the more counterintuitive it is to act optimally to get what we want because our habits become more outdated.
+Rate of change is accelerating. There is no longer stagnation, only accelerated growth or accelerated death. Average teams & companies will become irrelevant shockingly fast as the great ones increasingly capture most of the value. Average players in any game will not be valued. They can either become great at what they do, change what they do to something they are great at, or create something new to do, that the world will value, and become great at that.
 
-A leader of a company who believes they have equally great employees will fail. A prospective employee that joins a company with a great team in which there isn't a large difference between the best and the worst will join a company that will quickly perish. A prospective student who joins an institution that claims to have great outcomes for most of their graduates will receive a terribly outdated education.
+There is no room for the average anywhere, and it's increasingly important to become great at what you do. I assure you that you're average (I certainly am <FootnoteReference number={1} />) - especially if you think you're OK continuing what you're doing in the way you're doing it. Our mediocrity will be exposed rapidly making it more difficult to get what we want, and the path to becoming great will require a massive change in how we live our lives.
 
-This is because as asymmetry rises, the best teams will look more unequal than ever before. The gap between the best performer and the next best performer will be much greater than ever before. Similarly the gap between the 2nd best and the 3rd best will be much greater than the 4th and 5th. You will only see more equality in ability as you tend towards the mediocre.
+To see why, we need to understand what causes asymmetry, how it's changing, and how that makes being average more painful than ever before.
 
-Therefore someone joining a team that isn't extremely asymmetric are, whether they acknowledge it or not, joining mediocre teams.
-
-The rate of change is accelerating. There will no longer be stagnation of any sort, only accelerated growth or accelerated death. Mediocre teams & companies will become irrelevant shockingly fast. Therefore a slight miscalculation that leads you to join a mediocre team, or an institution that trains you to join mediocre teams, will be more costly than ever before. The type of skill and training that leads to mediocrity does not translate to becoming great at what you do. You will feel a painful crunch if you remain mediocre during this shift. Most of us are mediocre. I certainly am.
-
-The world will increasingly not have any room for the average in any domain. The average will either have to become incredibly good at what they do, find another domain where they can be great, or create a new game that people value in which they can be great. There will be no "middle class" in any domain, i.e. no group of similarly performing individuals, because such groups will not be able to compete with the best who will be much, much better than before.
-
-All of us will make great miscalculations in getting what we want because even if we intellectually understand the growing asymmetry in the world, we lack the appropriate intuition for it. Our failures will stem from our craving for equality, and our solution comes from turning that craving into fear of equality. Habits are tough to break as they are. Turning a craving into a fear is an even greater challenge. Yet, we have no choice.
-
-To see what the optimal strategy is in a rapidly changing world in order to be good at getting what we want, we need to first understand what is causing the world to change.
-
-...
+---
 
 Asymmetry is a function of complexity. The greater the complexity, the greater the asymmetry.
 
@@ -65,7 +48,8 @@ Lastly, we should notice that the more complex the game becomes, outcomes (i.e. 
 
 ---
 
-The games we play today to get the things we want are of much, much higher in complexity than the games we discussed above, leading to far greater asymmetry in the actions we take, and in our outcomes.
+
+The games we play today to get the things we want are of much, much more complex than the games we discussed above, leading to far greater asymmetry in the actions we take, and in our outcomes.
 
 But, if the games we play have always been more complex than the board games we discussed, then why haven't we always seen a great deal of asymmetry in the world, and importantly, why is it increasing?
 
@@ -88,7 +72,7 @@ And lastly, games that were always complex become even more complex due to lever
 
 ---
 
-I made a claim earlier that the games we play are far more complex than Chess and Go. A good reader would have been annoyed that I offered no explanation. Even though my intuition led me to write that claim quickly (and I suspect some readers would have a similar intuition), the explanation wasn't as straightforward as I initially felt it would be.
+I made a claim earlier that the games we play are far more complex than Chess and Go. A good reader would have been annoyed that I offered no explanation.
 
 There is a hierarchy of complexity for human endeavors. The most complex human activities are the ones in which success is measured by how good you make people feel.
 
@@ -132,7 +116,7 @@ Two twins that open up a social app and see two different videos are in influenc
 
 And this isn't even taking into account the difference in our abilities at birth! If we include that, then asymmetry would be even greater. I think it's silly to think that we're not born with different capabilities, different strengths and weaknesses, different emotional reactions to the same stimuli. Nature is an incredibly complex system - possibly more complex than our feelings. I believe you're deluded if you expect nature to produce two equal things - of anything.
 
-Therefore, in a fair, leveraged world in which our activities are complex, we would see extreme asymmetry.
+Therefore, in a fair, highly leveraged world in which our activities are complex, we would see extreme asymmetry.
 
 ---
 
@@ -152,148 +136,94 @@ There is a lot of unfairness in the world today because there is still too much 
 
 The idea that a fair world would be equal is delusional. A more fair, more leveraged world will be more unequal in outcomes, because the underlying exploration of life will be more varied. And the inequality that stems from unfairness is actually more equal than the inequality that stems from fairness & leverage.
 
----
-
-Human progress makes the world more fair by increasing leverage and spreading it wider.
-
-Today, even in many of the poorest communities around the world, many kids have the ability to create, to speak their minds in ways their grandparents couldn't dream of, and have access to information and knowledge through the internet that is barely less than the richest kid living in a Manhattan high rise.
-
 Yet, it's undeniable that the rich child that has access to higher quality, personalized, feedback, more competent, ambitious peers, a stronger safety net, and more supportive loving parents, has an unfair advantage. We have a lot of work to do to make the world fair. And we ought to fight hard for that fairness, but not by pulling down the rich kid's experience, but by making it accessible to all.
 
----
+The world is getting better. In many of the poorest communities around the world, many kids have the ability to create, to speak their minds in ways their grandparents couldn't dream of, and have access to information and knowledge through the internet that is barely any less than a rich kid in Manhattan.
 
-Asymmetry is a function of complexity. The greater the complexity of a game, the greater the asymmetry within the game and for the outcomes of the game.
+Therefore as we fight for human rights across the world we will actually see greater asymmetry because we now have more players in the game that have access to the same leverage the rest of us do. There are more people to increase the leverage in our world. The greater the leverage, the greater the asymmetry.
 
-The complexity of the games we play is a function of leverage. As leverage increases our activities become more complex.
-
-Leverage is a function of human progress. Every advancement: technology, human rights, medicine, policy, etc. pushes us towards a more leveraged and fair world.
-
-Therefore, asymmetry is rising due to progress.
+We must fight for a more fair, leveraged world, and deal with the asymmetry that it results in, and not expect that we will have greater equality in outcomes in a more fair world.
 
 ---
 
-But, asymmetry isn't increasing linearly, but rather it's accelerating exponentially. Therefore the complexity of our activities rises exponentially, and so does asymmetry.
+But, asymmetry isn't increasing linearly, but rather accelerating exponentially. Therefore the complexity of our activities rises exponentially, and so does asymmetry.
 
 Global GDP is a rough, but directionally correct, approximation of the leverage in the world. The more leverage that exists in the world means that we are able to turn more ideas into reality, creating and selling more things of higher value.
 
 It's only a rough approximation because it only represents the transactions between us that involve a monetary exchange. There are many transactions that increase due to leverage that aren't yet directly captured by an exchange of money, such as liking posts on social media.
 
-GDP is also a lagging indicator of leverage because it takes time to turn leverage into transactions because even though the time it takes to turn an idea to reality decreases, it's still not instantaneous. Only implemented ideas have an opportunity to impact GDP, so we will see today what today's leverage is after some time, once people have applied today's leverage to create value in the world.
+GDP is also a lagging indicator of leverage because it takes time to turn leverage into transactions because even though the time it takes to turn an idea to reality decreases, it's still not instantaneous. Only implemented ideas have an opportunity to impact GDP, so we will see what today's leverage is after some time: once people have applied today's leverage to implement good ideas.
 
 Therefore, leverage is accelerating exponentially because global GDP is accelerating exponentially: https://ourworldindata.org/grapher/global-gdp-over-the-long-run.
 
-Due to this acceleration, we are likely to see much greater asymmetry in the next few years that is proportional to the rise in asymmetry over the past century, if not more.
+Due to this exponential acceleration, we are likely to see a rise in asymmetry in the next few years that is proportional to the rise in asymmetry over the past century, if not more.
 
 ---
 
-Intellectual understanding of how asymmetry is rising is not enough to act optimally.
-
-We have two fundamental problems holding us back from acting optimally which both stem from the limitations of our minds.
-
-Our first problem is that we do not have an intuitive grasp of exponential change. Even if you intellectually see the current asymmetry of the world and how it's increasing rapidly, you will certainly be surprised and caught off guard. We don't have to look far back to see why. Before the COVID-19 pandemic took off, many nations and institutions had the math right: they could all see the rapid spread of the virus. Heck, even I read an essay in February 2020 that predicted that we'd have a global pandemic. Yet, few, if any, of us had the appropriate emotional response. We lacked the appropriate fear and caution that would have enabled us to take the optimal path to preventing the pandemic.
-
-Similarly, even if you believe everything you've read so far, I assure you that we'll all be very surprised as we see asymmetry skyrocket on an exponential curve. And if you want to act optimally today, you're going to look stupid and be laughed at by the world in the same way that anyone who wore a mask in January 2020 would have been. Interestingly, you would have also been ridiculed later in the pandemic because you would have stopped masking and taking precautions before most others did, and would have been hated for "putting lives at risk".
-
-Since we all suck at responding optimally to exponential change, you will always look weird and stupid for acting optimally.
-
-Any change you make in your life that is directionally correct will almost certainly not be a strong enough change. In the COVID analogy, if you believed the math that predicted it, even though the optimal strategy in Jan 2020 was to mask up, you would have just washed you hands an extra time thinking it's enough. This is because even though we understand it something intellectually, we don't have the appropriate fear (that manifests as caution) towards it.
-
-Our second problem is that we don't have even a directionally correct emotional response to equality (symmetry). ***Instead of fearing equality as we should, we crave it.***
-
-This makes shifting our behaviors to act optimally even more difficult than it would have been to act optimally towards a viral pandemic because we don't crave a pandemic (except maybe psychos), as we crave equality. Undoing craving and cultivating fear is more difficult than just cultivating fear. And it's not twice as difficult, it's orders of magnitude more difficult because overcoming craving is far more difficult than cultivating fear.
-
-Our craving for equality blinds us to reality. The more disconnected our beliefs are from reality, the more we suffer. And reality is slipping away from us quickly. Through the following examples I hope to show you how our intuitions are outdated.
+Asymmetry is a function of complexity. The greater the complexity of a game, the greater the asymmetry within the game and the greater the asymmetry in the outcomes of the game. The complexity of the games we play is a function of leverage. As leverage increases our activities become more complex. Leverage is a function of human progress. Every advancement: technology, human rights, medicine, policy, etc. pushes us towards a more leveraged and fair world. Leverage increases exponentially fast, making asymmetry increase exponentially fast.
 
 ---
 
-To illustrate how our intuitions fail us, let's study a young person, Joe, in today's world who is looking to build a great life for himself. I'm making a few assumptions about Joe that I believe represent(s/ed) most of us:
-1. They want the world to value them and what they bring to the world.
-2. They're not yet sure what they're great at, that the world also values (and will continue to value once they become great at it).
-3. They want things that require money to have (home, high quality healthcare, entertainment, family, etc.). Therefore they want to make good money.
+Why do the average not have room in an asymmetric world?
 
-Joe does not correctly understand asymmetry and how it's changing.
+Greater asymmetry means that those that are great at what they do will account for most of the productivity within teams, and the greatest teams will account for most of the productivity in the world - in any domain.
 
-Each blunder Joe makes is costlier than ever before as it compounds more quickly than ever before. The following are blunders that Joe will make which causes him to suffer more than a similarly able person a few years ago.
+As asymmetry increases:
+1. As a few become increasingly responsible for the majority of the productivity of a team. Everyone but the few will be let go.
+2. The individuals that remain within a team will increasingly do work that looks different from what anyone else in their team is doing. The more similar their activities are, the more true it will be that a few will be much better than the others, which reduces the need for the others.
+3. Teams will more aggressively need to search for the best talent because best will be much more valuable than ever before and no number of average players can will be able to match the productivity of a great player.
+4. Teams will be able to more easily & quickly let go of average players because the average contribute less to the productivity of the team - letting them go rocks the boat less.
 
-***1st blunder: what to learn***
+This dynamic leads to a "paradox" whenever leverage increases: companies will fire many employees while simultaneously creating job postings with higher compensations than ever before. They've let go of the average and are seeking the greats - for the same roles. Of course such companies will have to lie to the world by saying that those let go are incredibly talented and that it wasn't their fault. But you will know it's a lie because they will still be hiring aggressively for the same role they fired.
 
-Joe will be lured into learning less complex skills that will be quickly outdated as leverage rapidly increases the complexity of the games we play. Instead of building his intuition for solving for peoples' feelings, Joe will learn skills that are more disconnected from feeling.
+As leverage increases, average teams will become irrelevant much more quickly than ever before. Teams too will have no choice but to become great or perish, just as individuals within those teams.
 
-He will waste too much time learning programming frameworks, design tools, etc. without spending enough time studying the problems people have and how to solve them, or studying what makes people have meaningful experiences and how to provide them.
+The standards that determine what is great will also sharply increase in proportion to leverage. Whenever a player arises that pushes the boundaries of what we thought was possible, what is considered great will also skyrocket. Such breakthroughs will happen more quickly than ever before as leverage increases, and the magnitude of each breakthrough will also be greater than ever before because in a highly asymmetric world, a small percentage improvement in how to do something leads to massive gains in outcomes.
 
-Joe may also blunder by choosing a career in a slower changing domain: working in a factory, or to be a electrician, etc. because he underestimates the rate at which all domains are becoming faster changing. He fails to see how there is no refuge from rapid change, and instead of embracing it, he blunders by trying to run away from it.
-
-***2nd blunder: how to learn***
-
-Joe's second blunder will be in how he goes about learning what he thinks is useful.
-
-He will be lured in by colleges, bootcamps, etc. that claim that a high percentage of graduates get great job offers upon graduating. They claim "average $100k salary!". Joe will fail to see that the average salary means nothing and that the only things that matter are what the highest outcome is, and the degree of asymmetry in outcomes.
-
-If this learning program does not have massive outliers, it is an outdated learning program given the leverage that exists in the world today, because it means that they are teaching skills that are not complex enough, and therefore will not matter as leverage increases. Or it means that the companies hiring these graduates from this institution are mediocre companies, and will perish soon, leaving Joe with mediocre skills that won't translate to being great.
-
-The ideal learning program in today's world that will best prepare a student for the future will have extremely asymmetric outcomes. Of course, there is a gap between ability and actual outcome: even though the best software engineer who can correctly leverage AI is likely at least 100x more productive than the average today, they will not get paid that much more. But, as the world becomes more fair and people are compensated more accurately, looking at the best outcome will become a more reliable metric to gauge how good a teaching program is.
-
-In addition to joining the wrong institution, Joe will likely take out loans or spend hard earned money to join such institutions. Paying money for education works in a more symmetrical outcomes world. Today, if the education is optimal, it means the outcomes will be quite asymmetrical, and therefore Joe will almost certainly not get the return on his investment. Pay-to-learn is an outdated business model for education in an asymmetric world.
-
-***3rd blunder: choice in team***
-
-Joe will be lured by teams that claim that everyone on the team is great. Given the leverage that exists in the world today, the best team will be far from having equally good members. If they're equally good it means they haven't upgraded their activities to be more complex, or they haven't upgraded their skills to optimally make use of the greater leverage, or they're terrible at assessing true productivity.
-
-Of course even the best teams will also tell the world that everyone on the team is great, because it's not yet culturally acceptable to tell the truth. Joe will blunder again by not realizing that no matter what the team says that it's his responsibility to uncover the truth as it's critical information for his decision. Joe will lack the social engineering skills required to extract this critical information, and will blunder.
-
-There is one exception for when an equally excellent team exists: when each person is doing a different, but similarly complex, activity. For example: a startup with an engineer, designer, and product / sales person. But even in this scenario it's not that they have equal outcomes, it's just more difficult to measure and compare how each is performing relative to the other. You can't find this exception in larger teams because we don't yet have sufficient leverage in the world to have, say, a single engineer running everything. Therefore as soon as you have a team of the same skill, you should certainly notice asymmetry in outcomes if they're a great team.
-
-Joe will also blunder by thinking that a company that is valued highly today is a great company to join without studying whether they are set up for success in a rapidly shifting world. He won't realize that stagnation is an illusion in a rapidly changing world: there is only accelerated growth or accelerated death. Companies valued highly today with mediocre teams will become irrelevant faster than ever before in human history. And also that anyone who is truly great at what they do will leave a mediocre team more quickly than ever before. Highly valued companies that are rotting internally are walking corpses.
-
-***4th blunder: delusional expectations***
-
-Joe was born into an extremely deluded world. Truths about how the world works have become lies as the world changed.
-
-Joe grows up believing there is a middle class waiting for him when he gets a job.
-
-Once Joe understands that a middle class doesn't exist as he wished, he will believe that he will get some sort of universal basic income / welfare scheme that will satisfy his basic needs.
-
-Once Joe realizes that his wants in life will never be fulfilled by any government welfare scheme, he will believe that the only solution is to reverse this rapid rise in asymmetry. 
-
-Joe won't realize that this is not possible without reversing the fundamental nature of all of our minds: we want things, and we crave to get them as quickly as possible - which is the source of the incentives that govern our world.
-
-Joe will not realize that any efforts to overthrow this system will only reinforce it, and therefore will spend precious time on efforts that go against the incentives of our world. Joe will be extremely unhappy as he will likely not succeed in the revolution he craves (unless he somehow manages to destroy all of humanity and everything we've created). He will also not have the skill to create value in the world because he didn't spend time training it, and will not be satisfied with the universal basic income offered to him. Joe will sadly turn towards addictions to provide meaning.
-
-***The world has shifted from rewarding ambition to requiring it.***
-
-Joe will want to escape the rat race to live peacefully in some remote area. Joe will then confront another harsh truth: the ambition required to create value in the world will look tiny compared to the ambition required to leave everything behind. He will realize just how addicted he is to all of the comforts of the modern world, more so than any human that came before him. By the time Joe has understood the game, it's too late.
+Therefore, as asymmetry increases, there is also less room for complacency. Great companies, teams, individuals can become average shockingly quickly.
 
 ---
 
-We don't have to become Joe. We must not.
+As the room for average disappears, we will need universal basic income. But that income will never be enough to enable you to get what you want.
 
-There has never been a better time in human history to get what we want, including happiness. The world is increasingly become fair, and we each have more knowledge and power at our fingertips than those that came before us. Yet, the path to getting what we want has become more narrow, almost as narrow as a razor's edge. We can walk it if we try.
+I don't believe basic income will ever reach a point that will make us feel satisfied with it. Of course, it may initially afford us great healthcare, a home, etc., but it will never be enough for the same reason that the bar for "great" sharply rises with increase in leverage. When we have more breakthroughs in medicine, housing, arts, technology, clothing, etc. a basic income will not allow you to afford those breakthroughs until those creations become cheaper, which takes time. This leads anyone relying on a basic income to get what they want to always feel that what they want is out of reach.
 
-Fear equality. Fight for fairness. Overcome jealousy. Build compassion. Uncover the hidden, accelerating, asymmetries of the world. When you decide on how to respond, respond harder and faster than you feel you should. Accept that you will be ridiculed, hated even, for acting optimally. Recognize that the world needs you to be more ambitious.
+This will lead to another "paradox": people will feel like they don't have enough, but if someone from a century ago time traveled to their present, they'd find the things they complain about to be silly. In other words, in absolute terms our species will be better off than ever before, yet in the day-to-day we will not be satisfied with what we have.
 
-In my next essay I'll share what I think this optimal path looks like and how the path reacts to change in leverage.
+Why can't we have a very high basic income that allows us to afford many of the breakthroughs? Because it doesn't optimize for GDP growth. The country that maximizes GDP growth is a country that is perpetually in a state of not having enough. Having a basic income higher than whatever is the optimal amount to maximize GDP will not last. 
 
-[I'd appreciate your feedback](/feedback) on this essay.
+Maximizing for GDP is important for a country if it wants to retain its ability to provide for itself. Asymmetry also applies to countries: we will see the "top" country spit away from the pack and be very far ahead. For average countries to even think about basic income (on their terms), they will need to maximize their GDP growth to be able to tax it and redistribute that wealth for everyone. There is no stagnation, countries that don't become great will rapidly decline. As economies decline, everything within a country de-stabilizes and they will need to seek support from the countries at the top. That support will always come with conditions that they will be forced to accept. Therefore, I don't believe the world can stop optimizing for GDP growth because no country wants to live life on another country's terms. 
+
+That being said, I would honestly be incredibly happy if you disagree that we will always optimize for GDP and that the basic income we will achieve will one day be enough for many humans to be able to afford what they want - even if that basic income comes at the cost of GDP growth. Even if there exists such a possibility, you will need to be incredibly ambitious and great at what you do in order to achieve it. There is no room for the average in the endeavor to create a world that supports the average in the way they want to be supported. I hope you succeed... for my sake.
 
 ---
 
-### Notes
+Ambition was once rewarded. Today, ambition is required.
+
+You may not like how the system is setup. You may not want to be more ambitious or great at what you do, and you may want to leave everything behind and live in a remote area of the world and just live life. I think that's a great idea if that's what you want. But, what you'll see is that leaving the system behind will increasingly require a greater ambition than what is required to be great in the system.
+
+Becoming great at what you do doesn't have to be a miserable process. In fact, it should be enjoyable because increasingly the only way to become great is to do what you're meant to do. Who do you think will be a better filmmaker, one that is naturally obsessed with stories and dreams of scenes all the time or one that's in it for the money? 
+
+No matter what you choose to do: be a part of the system, change the system, or exit the system, you will need great ambition, and be great at what you do. There is no longer room to be average and coast.
+
+For those who are ambitious and want be great at what they do, the world is only getting better. You will be able to turn your dreams into reality more quickly than ever before. You will be able to implement your ideas for the entire world. You will have access to knowledge, tools, arts, and freedom that your ancestors couldn't have even imagined. 
+
+It won't even matter what you want to be great at. The greatest parents will be rewarded for sharing their knowledge on how to parent. The greatest chefs will be able to "cook" for the entire world at once. The greatest artists will capture the imagination of billions. The greatest financial advisors will manage the most of the world's money. 
+
+***Just be great.***
+
+---
+
+### Footnotes
+
 
 <Footnotes>
 <Footnote number={1}>
-You may say that modeling our endeavors as games is reductive. I agree that it is, but I believe it's still directionally correct - that the lessons we extrapolate from smaller games apply to the more complex games each of us plays to get what we want.
-</Footnote>
 
-<Footnote number={2}>
-There are many ways to measure game complexity, and it's an active space of research. I've tried to provide a simpler definition to work with for now which I believe to be accurate enough for the sake of our discussion, and that any better measure of complexity shouldn't change the conclusions we derive from this.
-</Footnote>
+I'm not being modest. I believe underplaying one's abilities is a form of dishonesty and I wouldn't do that. My hunch about how much room for the average there is the world today given the current leverage that exists in the world makes me genuinely believe I am average and that if I don't rapidly become great at what I do, I will not get the things I want. If you believe I'm better at what I do than you are, then you have more work than I do - which is already a lot!
 
-<Footnote number={3}>
-I believe the difference in representational complexity of feeling and language will determine how long it takes to get to artificial general intelligence that surpasses human capabilities. I also believe that we're quite far away from that. Still, the advancements in the short-term will be rapid.
-</Footnote>
+I also believe I will become great at what I do within a few years. This essay and the essays I'm going to write are primarily for me to understand what the best path to do so is. My motivations are entirely selfish.
 
-<Footnote number={4}>
-To be clear, when I say "outcomes" I only mean external outcomes: wealth, status, etc. It could be the case that the person who makes baskets is much happier.
 </Footnote>
-
 </Footnotes>
+

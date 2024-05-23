@@ -1,0 +1,3 @@
+While most people who are obsessed with something probably aren't incredibly happy, I've noticed that the happiest people I've met seem to be naturally obsessed about something. Something pulls at them. They have access to an internal space of play that they can sustain for long periods of time such that they end up more relaxed, calm and happy than when they started.
+
+That's probably a good indicator of the type of obsession: does it ease you or make you more anxious?

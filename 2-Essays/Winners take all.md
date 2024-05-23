@@ -3,19 +3,19 @@ title: Winners take all
 date: May 2024
 ---
 
-The world is becoming more "hit driven".
+The world is becoming more hit driven.
 - 1% content creators capture most revenue.
 - 1% of startups create most value.
 - 1% hold most of the world's wealth.
 
 We can't reverse or slow down this shift without slowing down our progress as a species. And we wouldn't want to do that.
 
-The gap between the best and the next best will rise sharply. The gap between the 2nd best and the 3rd best will rise as well, but less than the best and 2nd. You will only see more equality in ability and outcomes as you tend towards the mediocre.
+The gap between the best and the next best will rise sharply. The gap between the 2nd best and the 3rd best will rise as well, but less. You will only see more equality in ability and outcomes as you tend towards the mediocre.
 
-Winners will take all, everywhere, in anything.
+Winners will take all.
 - The top creators will capture most value.
 - The top doctors will treat everyone.
-- The top Pizza chefs will make pizzas for the entire world.
+- The top Pizza cooks will make pizzas for the entire world.
 - The top city for startups will become the only one. 
 - The top country will dictate global order and culture.
 
@@ -24,15 +24,13 @@ The only difference is in how long each takes.
 - Be the best at what you do.
 - Or find something else you can be the best at and double down.
 - Or create something new that the world will value and be the best at it. 
-- But, be the best.
+- But... be the best.
 
-We will be shocked by how rapidly this inequality accelerates; this is just the tip of the iceberg.
+We will be shocked by how rapidly this inequality accelerates; we're just getting started.
 
 ...
 
-Inequality is a function of complexity. The greater the complexity, the greater the inequality.
-
-In games, complexity corresponds to the number of possibilities within the game. A simpler game has fewer possibilities, while a more complex game has many more possibilities.
+Inequality is a function of complexity. In games, complexity corresponds to the number of possibilities within the game. A simpler game has fewer possibilities, while a more complex game has many more possibilities.
 
 Most human endeavors can be modeled as a games: "success" is the satiation we feel from getting what we want, and we explore to get what we want by making choices (making "moves" in the game). Therefore we can study asymmetry in simpler games and extrapolate our learnings to the more complex games we play.
 
@@ -40,54 +38,52 @@ Let's take three games: [Tic Tac Toe](https://en.wikipedia.org/wiki/Tic-tac-toe)
 
 Tic Tac Toe is simpler than Chess because there are less possibilities of the game because there are much fewer board positions you can end up at. Similarly Chess is less complex than Go because there are fewer board positions that are possible in the game, meaning less overall possibilities.
 
-We can observe asymmetry in these games in two ways: 
+We can observe inequality in these games in two ways:
 1. Inequality in the values of moves to make
 2. Inequality in outcomes
 
 Some moves are obviously better than others, meaning there's a notion of "value" such that the higher the value of a move, the better it is: the more it corresponds with winning (getting what you want).
 
-The greater the asymmetry in moves, the less equal the values of the moves are. In a simple game like Tic Tac Toe, in a competition between two trained players, all moves are valued equally because a draw can always be forced. In a game of Chess (medium complexity), from any given position of the board, there are a range of values for the moves you can make. There are better and worse moves, and there is some difference between the best move and the next best move. In Go, similar to Chess, there are better and worse moves, but the gap between the best move and the next best move is greater than it is in Chess because Go is a more complex game.
+In a simple game like Tic Tac Toe, in a competition between two trained players, all moves are valued equally because a draw can always be forced. In a game of Chess (medium complexity), from any given position of the board, there are a range of values for the moves you can make. There are better and worse moves, and there is some difference between the best move and the next best move. In Go, similar to Chess, there are better and worse moves, but the gap between the best move and the next best move is greater than it is in Chess because Go is a more complex game.
 
 Greater asymmetry in moves leads to greater asymmetry of outcomes. We can observe this by seeing the ELO ratings of professionals for these games. "ELO rating" is a way to calculate relative skills of players:
 
 > The difference in the ratings between two players serves as a predictor of the outcome of a match. Two players with equal ratings who play against each other are expected to score an equal number of wins. A player whose rating is 100 points greater than their opponent's is expected to score 64%; if the difference is 200 points, then the expected score for the stronger player is 76%. ([https://en.wikipedia.org/wiki/Elo_rating_system](https://en.wikipedia.org/wiki/Elo_rating_system))
 
-It's important to note that the difference in ELO rating doesn't translate linearly to the difference in wins. Someone who is a few hundred ELO rating higher than another will almost certainly win.
+Difference in ELO rating doesn't translate linearly to the difference in wins. Someone who is a few hundred ELO rating higher than another will almost certainly win.
 
 In Go, the difference in ELO rating of the top two players is 183 ([https://www.goratings.org/en/](https://www.goratings.org/en/)), whereas in Chess, the difference in ELO rating of the top two Chess players is only 25 ([https://www.chess.com/players](https://www.chess.com/players)).
 
-The gap between the best and the next best is greater in Go than in Chess. Meanwhile there's no need for ELO rating for Tic Tac Toe because every "professional" would draw, meaning everyone's ELO would be zero. Similarly, the gap between the 2nd best and 3rd best is greater the more complex a game is. We observe this in the ELO ratings of professionals in Chess and Go. The more complex the game, the greater the difference in outcome of the nth and the (n+1)th player. 
+The gap between the best and the next best is greater in Go than in Chess. Meanwhile there's no need for ELO rating for Tic Tac Toe because every "professional" would draw: everyone's ELO is 0. Similarly, the gap between the 2nd best and 3rd best is greater the more complex a game is, and so on.
 
-Asymmetry is not linear. The gap between the best player and the 2nd best player is larger than the gap between the 2nd best player and the 3rd best, and so on. The greater the complexity of the game, the greater the gap between the best and the rest, and the more skewed the curve looks.
+Inequality is not linear. The gap between the best player and the 2nd best player is larger than the gap between the 2nd best player and the 3rd best, and so on. The greater the complexity of the game, the greater the gap between the best and the rest, and the more skewed the curve looks.
 
-Lastly, we should notice that the more complex the game becomes, outcomes (i.e. ELO ratings) become more equal the further you go towards worse players. ***In other words, the more complex the game, the more likely that when two players are equally good it means that they're farther in ability from the best.***
+***The more complex the game, the more likely that when two players are equally good it means that they're farther in ability from the best.***
+
+In more complex games, training doesn't help decrease inequality. Professionals in Chess and Go who have spent their entire lives training still have differences proportional to the complexity of their game.
 
 ---
 
-The games we play today to get the things we want are of much, much higher in complexity than the games we discussed above, leading to far greater asymmetry in the actions we take, and in our outcomes.
+Most valuable activities are far more complex than Chess and Go. There's far greater inequality in the values of our moves, and in outcomes.
 
-But, if the games we play have always been more complex than the board games we discussed, then why haven't we always seen a great deal of asymmetry in the world, and importantly, why is it increasing?
+But, if our activities are more complex, why haven't we seen great inequality in the past? And why is inequality increasing?
 
-That's because the complexity of the games we play is a function of leverage. By leverage I mean: how little time it takes to turn an idea into reality. The greater the leverage available to you, the less time it takes you to turn your ideas into reality.
-
-Human progress increases leverage, and spreads it to more people. For example, when a dictatorship is replaced by a democracy, the citizens gain leverage because they are more free and therefore can manifest their ideas that they previously couldn't. When a new technology is created, it reduces the time it takes to turn your idea into reality, thereby increasing leverage.
-
-Computers, internet, artificial intelligence, government policies, greater individual freedom, etc. all work to increase leverage in the world.
+The complexity of our work is a function of leverage. Leverage = how little time it takes to turn an idea into reality. The greater the leverage available to you, the less time it takes you to turn your ideas into reality.
 
 Greater leverage increases the complexity of the games we play in three ways:
 1. By reducing the time per move.
 2. By eliminating the need to play simpler games (because technology does it for us).
 3. By increasing the possibilities within any game, thereby making the game itself more complex.
 
-When it takes a long time to make a move, the underlying asymmetry doesn't manifest quickly. Imagine a game of chess where each move took 5 years to make. By the time the players die, their differences wouldn't be that apparent. It's not that the asymmetry wasn't there, but that it didn't have enough time to present itself.  Over the past decade technology has drastically reduced the time it takes to turn an idea into reality - i.e. the time it takes to make a move, and therefore the underlying asymmetries manifest themselves faster.
+When it takes a long time to make a move, the underlying inequality doesn't manifest quickly. Imagine a game of chess where each move took 5 years to make. By the time the players die, their differences wouldn't be that apparent. It's not that the extreme inequality wasn't there, but it didn't have enough time to present itself.  As leverage increases, underlying inequalities manifest more quickly.
 
-As leverage increases, we stop playing simpler games. Before we had computers, a large amount of time and effort was involved in keep track of numbers and basic numerical calculations. As we gained better technology, we were able to shift more of our time to playing more complex games: figuring out what to create and how to create it.
+As leverage increases, we stop doing simpler activities. Before we had computers, a lot of time was spent crunching numbers. As we gained better technology, we were able to shift more of our time figuring out what to create and how to create it - much more complex activities than crunching numbers.
 
-And lastly, games that were always complex become even more complex due to leverage. Our subconscious is limited by the leverage we have available to us. Our minds don't like to dream about things that it believes are impossible. Most filmmakers a century ago likely wouldn't have dreamt of making a film about intergalactic politics, and constrained their ideas to films that could take place in the normal world. As leverage increased, filmmakers were able to dream bigger and wider. Their minds opened up to more possibilities within the same game, making the game itself more complex.
+Lastly, leverage has increased the complexity of the same activities. Our minds don't like to dream about things that it believes are impossible. Greater leverage creates more possibilities within the same game, making the game itself more complex. <FootnoteReference number={2} />
 
 ---
 
-You should have been annoyed that I offered no explanation for how our activities are more complex than Chess and Go.
+You should have been annoyed that I offered no explanation for how our activities are more complex than Chess and Go. It may intuitively seem so, but the explanation isn't obvious.
 
 There is a hierarchy of complexity for human endeavors. The most complex human activities are the ones that involve people and how they feel.
 

@@ -8,7 +8,7 @@ The world is becoming more hit driven.
 - 1% of startups create most value.
 - 1% hold most of the world's wealth.
 
-We're just getting started. The gap between the few and the many will rise in both ability and outcomes.
+We're just getting started. The gap in ability and outcomes between the few and the many will sharply rise.
 
 Winners will take all.
 - The best creators will capture most value.
@@ -28,23 +28,21 @@ We can't reverse or slow down this shift without slowing down progress. And we w
 
 Inequality is a function of complexity. In games, complexity corresponds to the number of possibilities within the game. A simpler game has fewer possibilities, while a more complex game has many more possibilities. The greater the complexity of the game, the greater the  inequality in ability and outcomes.
 
-Most human endeavors can be modeled as a games: "success" is the satiation we feel from getting what we want, and we explore to get what we want by making choices which are "moves" in the game. We can study simpler games and extrapolate learnings to the games we play.
+Most human endeavors can be modeled as a games: "success" is the satiation we feel from getting what we want, and we explore by making choices ("moves") in the game. By modeling our endeavors as games, we can study simpler games and extrapolate learnings from them.
 
 Let's look at three popular board games: [Tic Tac Toe](https://en.wikipedia.org/wiki/Tic-tac-toe) (simple), [Chess](https://en.wikipedia.org/wiki/Chess) (medium complexity), [Go](https://en.wikipedia.org/wiki/Go_(game)) (high complexity).
 
-Tic Tac Toe is simpler than Chess because there are less possibilities (less possible board positions). Chess is simpler than Go for the same reason.
+Tic Tac Toe is simpler than Chess because there are less possibilities (less possible board positions), and similarly Chess is simpler than Go.
 
 We can observe inequality in these games in two ways:
-1. Inequality in the values of moves to make
+1. Inequality in choices
 2. Inequality in outcomes
 
-Some moves are obviously better than others, meaning there's a notion of "value" such that the higher the value of a move, the better it is: the more it corresponds with winning.
+Some choices are obviously better than others, meaning there's a notion of "value" such that the higher the value of a choice, the better it is: the more it corresponds with getting what you want.
 
-In a simple game like Tic Tac Toe, in a competition between two trained players, all moves are valued equally because a draw can always be forced. In Chess, from any given position of the board, there are better and worse moves, and there is some difference between the best move and the next best move. 
+In a simple game like Tic Tac Toe, in a competition between two trained players, there are only two values for all choices that correspond to drawing or losing - because a draw can always be forced by trained players. In Chess, from any given position of the board, there is a much wider range of values for choices: some are terrible, some are bad, some are good, and some are excellent. In Go, there is an even wider range of values of choices than in Chess because it is a more complex game.
 
-Similar to Chess, in Go there are better and worse moves, but the gap between the best move and the next best move is greater than it is in Chess because Go is a more complex game.
-
-As game complexity increases, the way we use our minds changes. For simpler games we can rely fully on our logical mind to calculate the best move. The more complex the game is, the more important intuition becomes because you can't calculate all possibilities - intuition determines which branches you calculate for.
+As game complexity increases, the way we use our minds changes. For simpler games we can rely fully on our logical mind to calculate the best move. The more complex the game is, the more important intuition becomes because you can't calculate all possibilities, and intuition determines which branches you calculate for. Choosing which branch to calculate for becomes more important than raw calculation ability as game complexity increases.
 
 The more a game relies on intuition, the more unequal the outcomes become no matter how much training the players have. We can observe this by seeing the ELO ratings of professionals for these games. "ELO rating" is a way to calculate relative skills of players:
 
@@ -60,7 +58,7 @@ Inequality is not linear. The gap between the best player and the 2nd best playe
 
 ***The more complex the game, the more equal players are in ability, the further they are from the best.***
 
-This is inequality is independent how much training the players have. The players we've referenced above have dedicated their entire lives to becoming great at their game, and yet we see inequality because training intuition has greater variance.
+This is inequality is independent how much training the players have. The players we've referenced above have dedicated their entire lives to becoming great at their game, and yet we see inequality because training intuition for complex games has greater variance in outcomes by nature.
 
 ---
 
@@ -119,7 +117,7 @@ We haven't even taken into account the difference in our abilities at birth. It'
 
 The more complex a system, the more difficult it is to find two things that are equal: in Go, there are less "equal" board positions than in Chess or Tic Tac Toe. Nature is an incredibly complex system in which finding two things that are equal is almost impossible. No two trees are the same, no two rocks are the same. Humans are not created equal.
 
-In a fair, highly leveraged world of complex activities, winners take all.
+In a fair, highly leveraged world of complex activities, winners take all because outcomes in a fair world better correlate with ability, and complex activities have greater inequality in ability no matter how much training a player has.
 
 ---
 
@@ -139,9 +137,7 @@ Complete equality (like the outcomes of Tic Tac Toe) can be fair but only when t
 
 Many incorrectly believe the rising inequality in our world is primarily due to the world becoming more unfair. They point to how much more difficult it is to rise upwards. But in a highly leveraged, fair it would be incredibly difficult to rise upwards because our games are more complex and we make moves more quickly, therefore competing with the best becomes more difficult.
 
-Therefore difficulty in moving upwards does not necessarily point to unfairness. Though we definitely have unfairness that causes difficulty moving upwards. As we make the world more fair we will find it more unequal than before.
-
----
+Therefore difficulty in moving upwards does not necessarily mean unfairness. Though we definitely have unfairness that causes difficulty moving upwards, which we must eliminate, as we make the world more fair we will find it more unequal than before.
 
 Human progress makes the world more fair by increasing leverage and spreading it wider.
 
@@ -185,17 +181,17 @@ A basic income will never "feel enough", or if it does, the feeling will be flee
 
 A basic income will never be so high that the outcomes of the best will be anywhere close the outcomes of most because such a distribution does not maximize GDP growth.
 
-"Winners take all" applies to the global economy as well. Countries that fail to compete on GDP will be subjected to a modern version of colonialism: they will require help from winners, and that help with come with conditions that will force them to be more like the winners. Their basic income will fall to what optimizes GDP growth, and their unique culture will be engulfed by the cultures of winners. Countries, in order to survive, will compete on GDP and won't raise basic income so high that it kills their chances of winning.
+"Winners take all" applies to the global economy as well. Countries that fail to compete on GDP will be subjected to a modern version of colonialism: they will require help from winners, and that help with come with conditions that will force them to be more like the winners. Their basic income will fall to what optimizes GDP growth, and their unique culture will be engulfed by the cultures of winners. Countries, in order to survive, will compete on GDP and won't raise basic income so high that it kills their ability to compete. Swimming against these incentives will become more difficult as leverage increases.
 
-You shouldn't rely on a basic income to get what you want - it's only a launching pad to be the best at something.
+Therefore, you shouldn't rely on a basic income to get what you want - it's only a launching pad to be the best at something.
 
 ---
 
-The only way to get what you want and keep getting what you want is to be the best and stay the best. The way to do that looks very different than what we think: working anxiously till exhaustion hurts more than helps. Building the right intuition is a delicate art that effort alone does not guarantee. 
+The only way to get what you want and keep getting what you want is to be the best and stay the best. The way to do that looks very different than what we think: working anxiously till exhaustion hurts more than helps. Building the right intuition is a delicate art that effort alone does not guarantee.
 
 - The path is counterintuitive. 
 - The path is difficult.
-- If you tread it well, you will be unstoppable.
+- But, if you tread it well, you will be unstoppable.
 
 ---
 

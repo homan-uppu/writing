@@ -94,7 +94,7 @@ Outside of unfairness of birth, we've come a long way. Even in many of the poore
 
 Yet, the rich child who has access to better personalized feedback, more competent peers, a stronger safety net, and more supportive parents, has an unfair advantage. We must give everyone the rich kid's advantage.
 
-By solving fairness we will not have similar outcomes, but rather greater inequality because more people will have access to greater leverage and they will help us more rapidly increase leverage. And greater leverage increases difference in outcomes for the same difference in ability.
+By solving fairness we will not have similar outcomes, but rather greater inequality because more people will have access to greater leverage and they will help us more rapidly increase leverage through their work. And greater leverage disproportionately increases difference in outcomes for the same difference in ability.
 
 ---
 
@@ -106,7 +106,7 @@ Fair systems, such as a group of professional Chess players, will have unequal o
 
 Complete equality is possible in a fair world, but only when the activity is simple (like Tic Tac Toe). No complex activity, in a fair world, will have completely equal outcomes. If it seems that there are completely equal outcomes for a complex game, you won't have to look far to find the one that sits above everyone else (who within themselves have equal outcomes).
 
-Upward mobility will become more difficult in a fair, leveraged world because winners take all, and those not the best in what they do won't be able to contribute to the economy. Therefore you can't say a system is less fair because moving upwards is difficult. That's like saying Chess is unfair because I can't be as good as Magnus Carlsen. I probably wouldn't be as good as him no matter how hard I trained. Life is not fair while the game can be.
+Upward mobility will become more difficult in a fair, leveraged world because winners take all, and those not the best in what they do won't be able to contribute to the economy. Therefore you can't say a system is less fair because moving upwards is difficult. That's like saying Chess is unfair because I can't be a professional chess player that can earn a living from playing. I probably couldn't be one no matter how hard I trained. Life is not fair while the game can be.
 
 ---
 
@@ -128,7 +128,7 @@ GDP is also a lagging indicator of leverage because it takes time to turn levera
 
 Global GDP is [growing exponentially fast](https://ourworldindata.org/grapher/global-gdp-over-the-long-run), therefore leverage is growing exponentially fast, and so will the complexity of our activities, and so will inequality - accelerating us towards a winners take all world exponentially fast.
 
-There is no longer any stagnation, only accelerated growth or accelerated death. We will feel the impact of each choice we make more strongly than ever before because the number of choices we make in our lives increases with leverage, and therefore each choice compounds more aggressively.
+There is no longer any stagnation, only accelerated growth or accelerated death. We will feel the impact of each choice we make more strongly than ever before.
 
 ---
 
@@ -138,9 +138,9 @@ In theory everyone can be the best at something unique to them that the world va
 
 Therefore, we need a universal basic income that grows in proportion to leverage. Like with other things that change exponentially, we're too slow to act, and we suck at cooperating until shit hits the fan.
 
-A basic income will never "feel enough", or if it does, the feeling will be fleeting. The next breakthrough in medicine, technology, culture, anything will make you crave something that the basic income will not afford. Such breakthroughs will happen more frequently than ever before. By relying on a basic income you will perpetually want things out of your reach that you will consider to be basic necessities.
+A basic income will never "feel enough", or if it does, the feeling will be fleeting. The next breakthrough in medicine, technology, culture, anything will make you crave something that the basic income will not afford immediately. Such breakthroughs will happen more frequently than ever before. By relying on a basic income you will perpetually want things out of your reach that you will consider to be basic necessities.
 
-A basic income will never be so high that the outcomes of the best will be anywhere close the outcomes of most because such a distribution does not maximize GDP growth.
+A basic income will never be so high that the outcomes of the best will be anywhere close the outcomes of the average because such a distribution does not maximize GDP growth.
 
 "Winners take all" applies to the global economy as well. Countries that fail to compete on GDP will be subjected to a modern version of colonialism: they will require help from winners, and that help with come with conditions that will force them to be more like the winners. Their basic income will fall to what optimizes GDP growth, and their unique culture will be engulfed by the cultures of winners. Countries, in order to survive, will compete on GDP and won't raise basic income so high that it kills their ability to compete. Swimming against these incentives will become more difficult as leverage increases.
 
@@ -148,9 +148,7 @@ Don't rely on a basic income to get what you want; only treat it as a launching 
 
 ---
 
-The only way to get what you want and keep getting what you want is to be the best and stay the best. The way to do that looks very different than what we think: working anxiously till exhaustion probably hurts more than helps. Building the right intuition is a delicate skill that requires the right kind of effort, in the right way.
-
-The path is difficult, but if you tread it well you will be unstoppable.
+The only way to get what you want and keep getting what you want is to be the best and stay the best.
 
 ---
 

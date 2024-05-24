@@ -8,19 +8,19 @@ The world is becoming more hit driven.
 - 1% of startups create most value.
 - 1% hold most of the world's wealth.
 
-We're just getting started. The gap between the best and the rest will rise sharply.
+We're just getting started. The gap between the few and the many will rise in both ability and outcomes.
 
 Winners will take all.
-- The top creators will capture most value.
-- The top doctors will treat everyone.
-- The top Pizza cooks will make pizzas for the entire world.
-- The top city for startups will become the only one. 
-- The top country will dictate global order and culture.
+- The best creators will capture most value.
+- The best doctors will treat everyone.
+- The best Pizza cooks will make pizzas for the entire world.
+- The best city for startups will become the only one. 
+- The best country (economically) will dictate global order and culture.
 
 - Be the best at what you do.
 - Or find something else you can be the best at and double down.
 - Or create something new that the world will value and be the best at it. 
-- But... be the best.
+- Be the best.
 
 We can't reverse or slow down this shift without slowing down progress. And we wouldn't want to do that. A more fair world with equal access to opportunity, better technology, greater freedom, will have extremely unequal outcomes regardless of how well trained everyone is.
 
@@ -79,11 +79,9 @@ Lastly, leverage has increased the complexity of the same activities. Our minds 
 
 ---
 
-You should have been annoyed that I offered no explanation for how our activities are more complex than Chess and Go. It may intuitively seem so, but the explanation isn't obvious.
+How can we be sure our activities are more complex than Chess & Go? There is a hierarchy of complexity for human endeavors. The most complex human activities are the ones that involve people and how they feel.
 
-There is a hierarchy of complexity for human endeavors. The most complex human activities are the ones that involve people and how they feel.
-
-The representational complexity of feeling is far greater than that of Chess or Go. By representational complexity I mean how easy it is to describe the state of the game at any moment in time. A game that has a much more complicated state, likely has many more possibilities for what moves you can take, and is therefore more complex in general.
+The representational complexity of feeling is far greater than that of Chess or Go. By representational complexity I mean how easy it is to describe the state of the system at any moment in time. A game that has a much more complicated state, likely has many more possibilities for what moves you can take and is therefore more complex.
 
 To see why, recall when you had to communicate how you felt. You'll remember how difficult it is to do so, and importantly that no matter how many words you use, you weren't able to fully, completely, represent your feeling in words. This is because a feeling has a much higher representational complexity than words. Trying to represent a feeling in words is difficult because we are trying to represent something of a higher complexity into a medium that has less complexity. Information is bound to be lost in that translation.
 
@@ -163,25 +161,31 @@ The complexity of the games we play is a function of leverage. As leverage incre
 
 Leverage is a function of human progress. Every advancement: technology, human rights, medicine, policy, etc. pushes us towards a more leveraged and fair world.
 
-Creating a world in which winners take all.
+Progress creates a world in which winners take all.
 
 ---
 
-Inequality is accelerating exponentially because leverage accelerates exponentially.
+Inequality is accelerating exponentially, not linearly. Inequality will rise sharply in the next few years equivalent to the rise in inequality over the past century.
+
+Inequality accelerates exponentially because leverage accelerates exponentially.
 
 Global GDP is a rough, but directionally correct, approximation of the leverage in the world. The more leverage that exists in the world means that we are able to turn more ideas into reality, creating and selling more things of higher value.
 
-It's only a rough approximation because it only represents the transactions between us that involve a monetary exchange. There are many transactions that increase due to leverage that aren't yet directly captured by an exchange of money, such as liking posts on social media.
+GDP is only a rough approximation because it only represents the transactions between us that involve a monetary exchange. There are many transactions that increase due to leverage that aren't yet directly captured by an exchange of money.
 
-GDP is also a lagging indicator of leverage because it takes time to turn leverage into transactions because even though the time it takes to turn an idea to reality decreases, it's still not instantaneous. Only implemented ideas have an opportunity to impact GDP, so we will see today what today's leverage is after some time, once people have applied today's leverage to create value in the world.
+GDP is also a lagging indicator of leverage because it takes time to turn leverage into transactions. Only good ideas that are implemented will impact GDP, so we will only see what today's leverage is after people have used it well.
 
-Exponential acceleration of leverage can be seen in our GDP growth: https://ourworldindata.org/grapher/global-gdp-over-the-long-run.
+Therefore exponential acceleration of leverage can be seen in our GDP growth: https://ourworldindata.org/grapher/global-gdp-over-the-long-run.
 
 ---
 
-We needed a universal basic income yesterday. Like with other things that change exponentially, we're too slow to act and we suck at cooperating until shit hits the fan.
+In a hit driven world there is no middle class: those that aren't one of the best will no longer be able to contribute to the economy.
 
-Yet, a basic income will never "feel enough", or if it does, the feeling won't last. The next breakthrough in medicine, technology, culture, anything will make you crave something that the basic income cannot enable you to have immediately. Such breakthroughs will happen more frequently than ever before.
+In theory everyone can be the best at something unique to them that the world values, but in practice this is very difficult to achieve, and even if we do, it will take a very long time. Even then, there will be individuals who's unique strengths and tendencies won't be valued by the world and they will not be able to contribute to the economy.
+
+We needed a universal basic income yesterday and it needs to grow in proportion to leverage. Like with other things that change exponentially, we're too slow to act, and we suck at cooperating until shit hits the fan.
+
+A basic income will never "feel enough", or if it does, the feeling is fleeting. The next breakthrough in medicine, technology, culture, anything will make you crave something that the basic income cannot enable you to have immediately, and such breakthroughs will happen more frequently than ever before. By relying on a basic income you will perpetually want things out of your reach that you will consider to be basic necessities.
 
 ---
 
@@ -209,5 +213,8 @@ I believe the difference in representational complexity of feeling and language 
 <Footnote number={4}>
 To be clear, when I say "outcomes" I only mean external outcomes: wealth, status, etc. It could be the case that the person who makes baskets is much happier.
 </Footnote>
+
+
+Countries too are becoming winner takes all. Most countries will not be able to afford basic income for their people. They will rely on the winners to help out and that help will come with conditions which will make the receivers of help become more like the winners culturally and otherwise.
 
 </Footnotes>

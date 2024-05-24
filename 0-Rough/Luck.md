@@ -1,0 +1,3 @@
+Not all explorations are equally valuable though. Someone who spends their entire life learning how to craft the best baskets to sell to their village will not have the same outcomes as someone who explored building software products for large audiences <FootnoteReference number={4} />.
+
+Therefore we will find great inequality in a fair, leveraged world in which even if everyone does their best and find the right games to play, some games themselves will be far more valuable than others.

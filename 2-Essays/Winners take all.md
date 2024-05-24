@@ -4,7 +4,7 @@ date: May 2024
 ---
 
 The world is becoming more hit driven.
-- 1% content creators capture most revenue.
+- 1% content creators capture most engagement.
 - 1% of startups create most value.
 - 1% hold most of the world's wealth.
 
@@ -58,7 +58,7 @@ Inequality is not linear. The gap between the best player and the 2nd best playe
 
 ***The more complex the game, the more equal players are in ability, the further they are from the best.***
 
-This is inequality is independent how much training the players have. The players we've referenced above have dedicated their entire lives to becoming great at their game, and yet we see inequality because training intuition for complex games leads to greater variance in abilities by nature.
+Inequality in ability is independent how much training the players have. The players we've referenced above have dedicated their entire lives to becoming great at their game, and yet we see inequality because training intuition for complex games leads to greater variance in ability - by nature.
 
 ---
 
@@ -117,11 +117,7 @@ We need to have faith that nature is "running the right experiments" through its
 
 Outside of birth we must aggressively fight for fairness. We've come a long way, but still have a lot of work to do. Today, even in many of the poorest communities around the world, many kids have the ability to create, and speak their minds in ways their grandparents couldn't dream of. They have access to knowledge through the internet that is barely any less than the richest kid in the world. Yet, the rich child who has access to better personalized feedback, more competent peers, a stronger safety net, and more supportive parents, has an unfair advantage. We must give all kids the rich kid's advantage and let them explore life how they want.
 
-In a highly leveraged world, we make many more choices in life because it takes less time to implement each choice. Slight difference in ability leads to massive difference in outcomes because each choice compounds heavily. And a more fair world means that ability more closely maps to outcomes. Since there will be extreme inequality in ability, fairness will make outcomes extremely unequal.
-
-Not all explorations are equally valuable though. Someone who spends their entire life learning how to craft the best baskets to sell to their village will not have the same outcomes as someone who explored building software products for large audiences <FootnoteReference number={4} />.
-
-Therefore we will find great inequality in a fair, leveraged world in which even if everyone does their best and find the right games to play, some games themselves will be far more valuable than others.
+In a highly leveraged world, we make many more choices in life because it takes less time to implement each choice. Slight difference in ability leads to massive difference in outcomes because each choice compounds heavily. And a more fair world means that ability more closely maps to outcomes. Since there will be extreme inequality in ability, fairness will make outcomes extremely unequal, leading to a winners take all world.
 
 ---
 
@@ -165,7 +161,7 @@ There is no longer any stagnation, only accelerated growth or accelerated death.
 
 In a hit driven world there is no middle class: those that aren't one of the best will no longer be able to contribute to the economy.
 
-In theory everyone can be the best at something unique to them that the world values, but in practice this is very difficult to achieve, and even if we do, it will take a very long time. Even then, there will be individuals who's unique strengths and explorations won't be valued by the world no matter how good they are.
+In theory everyone can be the best at something unique to them that the world values, but in practice this is very difficult to achieve, and even if we do, it will take a very long time. Even then, there will be individuals who's unique strengths only allow them to become the best at something the world does not value.
 
 Therefore, we need a universal basic income that grows in proportion to leverage. Like with other things that change exponentially, we're too slow to act, and we suck at cooperating until shit hits the fan.
 

@@ -26,23 +26,27 @@ We can't reverse or slow down this shift without slowing down progress. And we w
 
 ...
 
-Inequality is a function of complexity. In games, complexity corresponds to the number of possibilities within the game. A simpler game has fewer possibilities, while a more complex game has many more possibilities.
+Inequality is a function of complexity. In games, complexity corresponds to the number of possibilities within the game. A simpler game has fewer possibilities, while a more complex game has many more possibilities. The greater the complexity of the game, the greater the  inequality in ability and outcomes.
 
-Most human endeavors can be modeled as a games: "success" is the satiation we feel from getting what we want, and we explore to get what we want by making choices (making "moves" in the game). Therefore we can study asymmetry in simpler games and extrapolate our learnings to the more complex games we play.
+Most human endeavors can be modeled as a games: "success" is the satiation we feel from getting what we want, and we explore to get what we want by making choices which are "moves" in the game. We can study simpler games and extrapolate learnings to the games we play.
 
-Let's take three games: [Tic Tac Toe](https://en.wikipedia.org/wiki/Tic-tac-toe) (simple), [Chess](https://en.wikipedia.org/wiki/Chess) (medium complexity), [Go](https://en.wikipedia.org/wiki/Go_(game)) (high complexity). (If you're not familiar with these games, please read a bit about them before proceeding).
+Let's look at three popular board games: [Tic Tac Toe](https://en.wikipedia.org/wiki/Tic-tac-toe) (simple), [Chess](https://en.wikipedia.org/wiki/Chess) (medium complexity), [Go](https://en.wikipedia.org/wiki/Go_(game)) (high complexity).
 
-Tic Tac Toe is simpler than Chess because there are less possibilities of the game because there are much fewer board positions you can end up at. Similarly Chess is less complex than Go because there are fewer board positions that are possible in the game, meaning less overall possibilities.
+Tic Tac Toe is simpler than Chess because there are less possibilities (less possible board positions). Chess is simpler than Go for the same reason.
 
 We can observe inequality in these games in two ways:
 1. Inequality in the values of moves to make
 2. Inequality in outcomes
 
-Some moves are obviously better than others, meaning there's a notion of "value" such that the higher the value of a move, the better it is: the more it corresponds with winning (getting what you want).
+Some moves are obviously better than others, meaning there's a notion of "value" such that the higher the value of a move, the better it is: the more it corresponds with winning.
 
-In a simple game like Tic Tac Toe, in a competition between two trained players, all moves are valued equally because a draw can always be forced. In a game of Chess (medium complexity), from any given position of the board, there are a range of values for the moves you can make. There are better and worse moves, and there is some difference between the best move and the next best move. In Go, similar to Chess, there are better and worse moves, but the gap between the best move and the next best move is greater than it is in Chess because Go is a more complex game.
+In a simple game like Tic Tac Toe, in a competition between two trained players, all moves are valued equally because a draw can always be forced. In Chess, from any given position of the board, there are better and worse moves, and there is some difference between the best move and the next best move. 
 
-Greater asymmetry in moves leads to greater asymmetry of outcomes. We can observe this by seeing the ELO ratings of professionals for these games. "ELO rating" is a way to calculate relative skills of players:
+Similar to Chess, in Go there are better and worse moves, but the gap between the best move and the next best move is greater than it is in Chess because Go is a more complex game.
+
+As game complexity increases, the way we use our minds changes. For simpler games we can rely fully on our logical mind to calculate the best move. The more complex the game is, the more important intuition becomes because you can't calculate all possibilities - intuition determines which branches you calculate for.
+
+The more a game relies on intuition, the more unequal the outcomes become no matter how much training the players have. We can observe this by seeing the ELO ratings of professionals for these games. "ELO rating" is a way to calculate relative skills of players:
 
 > The difference in the ratings between two players serves as a predictor of the outcome of a match. Two players with equal ratings who play against each other are expected to score an equal number of wins. A player whose rating is 100 points greater than their opponent's is expected to score 64%; if the difference is 200 points, then the expected score for the stronger player is 76%. ([https://en.wikipedia.org/wiki/Elo_rating_system](https://en.wikipedia.org/wiki/Elo_rating_system))
 
@@ -50,28 +54,28 @@ Difference in ELO rating doesn't translate linearly to the difference in wins. S
 
 In Go, the difference in ELO rating of the top two players is 183 ([https://www.goratings.org/en/](https://www.goratings.org/en/)), whereas in Chess, the difference in ELO rating of the top two Chess players is only 25 ([https://www.chess.com/players](https://www.chess.com/players)).
 
-The gap between the best and the next best is greater in Go than in Chess. Meanwhile there's no need for ELO rating for Tic Tac Toe because every "professional" would draw: everyone's ELO is 0. Similarly, the gap between the 2nd best and 3rd best is greater the more complex a game is, and so on.
+The gap between the best and the next best is greater in Go than in Chess. Meanwhile there's no need for ELO rating for Tic Tac Toe because every "professional" would draw: everyone's ELO is 0.
 
 Inequality is not linear. The gap between the best player and the 2nd best player is larger than the gap between the 2nd best player and the 3rd best, and so on. The greater the complexity of the game, the greater the gap between the best and the rest, and the more skewed the curve looks.
 
-***The more complex the game, the more likely that when two players are equally good it means that they're farther in ability from the best.***
+***The more complex the game, the more equal players are in ability, the further they are from the best.***
 
-In more complex games, training doesn't help decrease inequality. Professionals in Chess and Go who have spent their entire lives training still have differences proportional to the complexity of their game.
+This is inequality is independent how much training the players have. The players we've referenced above have dedicated their entire lives to becoming great at their game, and yet we see inequality because training intuition has greater variance.
 
 ---
 
-Most valuable activities are far more complex than Chess and Go. There's far greater inequality in the values of our moves, and in outcomes.
+The most valued games we play are far more complex than Chess and Go, and therefore there is far greater inequality in ability.
 
 But, if our activities are more complex, why haven't we seen great inequality in the past? And why is inequality increasing?
 
-The complexity of our work is a function of leverage. Leverage = how little time it takes to turn an idea into reality. The greater the leverage available to you, the less time it takes you to turn your ideas into reality.
+The complexity of our activities is a function of leverage. Leverage = how little time it takes to implement an idea. The more leverage you have, the less time it takes to manifest your ideas.
 
 Greater leverage increases the complexity of the games we play in three ways:
 1. By reducing the time per move.
 2. By eliminating the need to play simpler games (because technology does it for us).
 3. By increasing the possibilities within any game, thereby making the game itself more complex.
 
-When it takes a long time to make a move, the underlying inequality doesn't manifest quickly. Imagine a game of chess where each move took 5 years to make. By the time the players die, their differences wouldn't be that apparent. It's not that the extreme inequality wasn't there, but it didn't have enough time to present itself.  As leverage increases, underlying inequalities manifest more quickly.
+When it takes a long time to make a move, the underlying inequality doesn't manifest quickly. Imagine a game of chess where each move took 5 years to make. By the time the players die, their differences wouldn't be that apparent. It's not that the extreme inequality wasn't there, but it didn't have enough time to present itself.  As leverage increases, underlying inequalities manifest more quickly because we make moves far more quickly.
 
 As leverage increases, we stop doing simpler activities. Before we had computers, a lot of time was spent crunching numbers. As we gained better technology, we were able to shift more of our time figuring out what to create and how to create it - much more complex activities than crunching numbers.
 
@@ -83,67 +87,59 @@ How can we be sure our activities are more complex than Chess & Go? There is a h
 
 The representational complexity of feeling is far greater than that of Chess or Go. By representational complexity I mean how easy it is to describe the state of the system at any moment in time. A game that has a much more complicated state, likely has many more possibilities for what moves you can take and is therefore more complex.
 
-To see why, recall when you had to communicate how you felt. You'll remember how difficult it is to do so, and importantly that no matter how many words you use, you weren't able to fully, completely, represent your feeling in words. This is because a feeling has a much higher representational complexity than words. Trying to represent a feeling in words is difficult because we are trying to represent something of a higher complexity into a medium that has less complexity. Information is bound to be lost in that translation.
+To see why, recall when you had to communicate how you felt. You'll remember how difficult it is to do so, and importantly that no matter how many words you use, you weren't able to fully, completely, represent your feeling in words. A feeling has a much higher representational complexity than words. Translating it into words is difficult because we are trying to represent something of a higher complexity into a medium that cannot capture that complexity fully. Information is lost in translation.
 
-This lost information is precisely what allows for the various interpretations of words. Every single person reading this essay will have different feelings as they read this. Even though my intention is to make you feel what I feel about this topic, there is absolutely no way for me to do so without any loss of information, no matter what medium I use: words, images, videos, symbols, anything - even if I spend my entire life trying. I think this gap between feeling and how well we can communicate it is quite large. <FootnoteReference number={3} />
+This lost information is precisely what allows for the various interpretations of words. Every single person reading this essay will have different feelings as they read this. Even though my intention is to make you feel what I feel about this topic, there is absolutely no way for me to do so without any loss of information, no matter what medium I use: words, images, videos, symbols, etc. - even if I spend my entire life trying. I believe this gap between the complexity of human feeling and the mediums we use to communicate feeling is massive. <FootnoteReference number={3} />
 
-The representational complexity of Chess and Go can easily be represented by symbols (text, pictures, etc.), and therefore any game in which success is measured by how good you make people feel will be orders of magnitude more complex than Chess and Go (proportional to the difference in complexity between feeling and a sequence of symbols).  The underlying asymmetry that we are moving towards is quite extreme because we are moving towards "feeling games".
+Chess and Go can easily be represented by symbols (text, pictures, etc.), and therefore are much simpler than games in which success is measured by how good you make people feel. As we gain leverage, we update our games to be closer to solving for people.
 
-A couple of centuries ago, most workers spent their time playing games that weren't directly related to people. For example, they may assemble physical things in a factory and success was measured by how well and fast you could put together multiple parts of a product. As that region progressed, they built better technology, and offshored simpler work to other places, leaving workers to move up complexity towards services that solve more directly for people (marketing, sales, design, etc.).
+A couple of centuries ago, most workers spent their time playing games that weren't directly related to people. They would assemble physical things in a factory and they wouldn't need to think too much about people. As the world gains leverage, more people are involved in building products, services and art which are games in which understanding people is more important to be good at.
 
-We notice this trend today as well. Programmers are being asked to become better at thinking about what to build and understanding users, [without just thinking about how to build something](https://x.com/ID_AA_Carmack/status/1637087219591659520). Animators are being asked to contribute something meaningful to the story instead of only translating a rough sketch into a completed animation. Pizza cooks, and ice cream store employees, are all being asked to tell engaging stories on social media to attract more customers. 
+Programmers are being asked to become better at thinking about what to build and understanding users, [without just thinking about how to build something](https://x.com/ID_AA_Carmack/status/1637087219591659520). Animators are being asked to contribute something meaningful to the story instead of only translating a rough sketch into a completed animation. Pizza cooks, and ice cream store employees, are all being asked to tell engaging stories on social media to attract more customers. 
 
 ***Everyone is moving towards solving for people.***
 
-Artists for thousands of years have been solving for how to make people feel. Which is why it's no surprise that the arts have always had extreme inequality in outcomes. Human progress is pushing us all towards the games that artists have been playing for a long time, and also towards the intense inequality that artists have felt for a long time.
+Artists for thousands of years have been solving for how to make people feel. Which is why it's no surprise that the arts have always had extreme inequality in ability. Human progress is pushing us all towards the games that artists have been playing for a long time, and also towards the intense inequality in outcomes that artists have felt for a long time.
 
 ---
 
 The real world is not like a board game. Life's not fair. Yet, fairness doesn't reduce inequality, it actually increases it.
 
-Let's imagine a fairy tale world in which every child has loving, caring, supportive parents, the best teachers, and the freedom to explore what they want. Let's say no one is concerned about how to make a living, and everyone has access to great healthcare, a fast fair legal system, etc. And that everyone has very high leverage: anything we imagine can be manifested into reality much more quickly than today.
+Imagine a world in which every child has loving, supportive parents, the best teachers, and the freedom to explore what they want. No one is concerned about how to make a living, and everyone has access to great leverage: any idea we have can be implemented quickly.
 
-Have an idea for an app? It'll be manifested in a day. The same for a video, song, etc. If you can imagine an idea and express well enough through some mediums (language, drawing, etc.), then something will turn it into reality quite quickly. In this world, all you will care about is to create things that you want - whether that's art, better tools, physical things, etc.
+In this world, all people will care about is to create things for themselves and others, and the outcomes would be unfathomably unequal. The richest person in this imaginary world will be stupidly rich.
 
-What do you think the outcomes of this imaginary world would look like?
+In a highly leveraged world, slight differences between individuals are magnified. Slightly difference choices at the start would lead to drastic differences by death. The greater the leverage, the further apart explorations become.
 
-It would be unfathomably unequal. The richest person in this imaginary world will be stupidly rich. And there would be great variance in outcomes across the board - a smooth curve.
-
-I believe this because in a highly leveraged world, we have more possibilities and we make moves much more quickly. Therefore, slight differences in choices at the start of the game would lead to drastic differences by the time we die due to the complexity of the game.
-
-And not all explorations are equally worthwhile. Someone who spends their entire life learning how to craft the best baskets to sell to their village will not have the same outcomes as someone who explored building software products for large audiences. <FootnoteReference number={4} />
-
-Being influenced slightly differently early on leads to slightly different choices, which will have incredibly large difference in where you end up. The greater the leverage, the greater the difference in where you end up.
-
-Two twins that open up a social app and see two different videos are in influenced in subtly different ways. Each slightly different choice compounds greatly and they will end up in very different places in their exploration of life. The greater the leverage in the world, the more pronounced the difference in how they explore life. 
+Not all explorations are equally worthwhile. Someone who spends their entire life learning how to craft the best baskets to sell to their village will not have the same outcomes as someone who explored building software products for large audiences.<FootnoteReference number={4} />
 
 ***Twins born a century ago, on average, would have explored life less differently than twins born today.***
 
-We haven't even taken into account the difference in our abilities at birth. It's silly to think that we're not born with different capabilities, different strengths and weaknesses, different emotional reactions to the same stimuli. Nature is an incredibly complex system - possibly more complex than our feelings. You're deluded if you expect nature to produce two equal things of anything.
+We haven't even taken into account the difference in our abilities at birth. It's silly to think that we're not born with different capabilities, different strengths and weaknesses, different emotional reactions to the same stimuli. 
 
-In a fair, leveraged world of complex activities, we would see that winners take all.
+The more complex a system, the more difficult it is to find two things that are equal, like how in Go, there are less "equal" board positions than in Tic Tac Toe. Nature is an incredibly complex system in which finding two things that are equal is almost impossible. No two trees are the same, no two rocks are the same, no two humans are the same. Humans are not created equal.
+
+In a fair, leveraged world of complex activities, winners take all.
 
 ---
 
 Unfairness can also cause inequality. But the shape of the inequality caused by unfairness is different than the shape of the inequality caused by a fairness, leverage, and high complexity.
 
-Equality that stems from unfairness is different in that there are more rigid boundaries between classes, and it's more difficult to move from one class to another. Hierarchical caste systems that tell you what you can and cannot do with your life, that you have different rights and potentials than other casts, are incredibly unfair. Even in the industrial revolution, there was a large, rigid divide between workers and those that were able to afford to build factories - quite unfair, but less unfair than the caste systems that gave you absolutely no way to rise. There were at least a dozen factory workers across the entire industrial revolution that were able to start their own factories at some point. The same can't be said about someone born as an "untouchable" who wanted to, say, learn how to read and write.
+Unfair outcomes have more rigid class boundaries, and is more difficult to move from one class to another. Systems that tell you what you can and cannot do with your life, that you have different rights and than others, that make it difficult to move upwards based on ability are incredibly unfair.
 
-The graph of outcomes in an unfair world looks like a step function. You will find different classes, and you'll see that there aren't any individuals with outcomes in between the outcomes of the two classes. In other words, all factory workers would make roughly equal outcomes, whereas all factory owners would make roughly equal outcomes, but you'd find very few in between the workers and the owners. This is a symptom of unfairness.
+The graph of outcomes in an unfair world looks like a step function. You will find different classes, and you'll see that there aren't any individuals with outcomes in between the outcomes of the two classes. All factory workers would make roughly equal outcomes, whereas all factory owners would make roughly equal outcomes, but you'd find very few in between the workers and the owners. This is a symptom of unfairness.
 
 Inequality that stems from a complex world with fairness and leverage is a smoother curve: you will find individuals at all sorts of different outcomes. We can see this in the outcomes for our board game examples: though the difference between the best and the rest is large, if you plotted everyone on a graph, it would be a much smoother curve than the one you would see if you plotted all outcomes in the industrial revolution.
 
-When you look at those curves closely, you'll notice something interesting: the more unfair curves are also more "equal" because they have more people that are making roughly the same, but just divided by classes. Whereas the inequality from fairness and leverage is far less equal because it's tougher to find even a few individuals with the same outcome.
+Unfair outcomes are actually more "equal" because they have more people that are making roughly the same, but just divided by classes. Whereas the inequality from fairness and leverage is far less equal because it's tougher to find even two individuals with the same outcomes.
 
-***Therefore, counterintuitively, the way to sniff out unfairness is to see how much equality exists in the outcomes***. 
+Therefore unfairness should not be measured by the difference in outcomes of the best and worst, but rather by seeing the shape of the curve of outcomes. The more groups of equal outcomes, the less fair that society is.
 
-The industrial world is less fair than today's because it had more equal groups.
+Complete equality (like the outcomes of Tic Tac Toe) can be fair but only when the activity is simple. No complex activity will have completely equal outcomes - there will always be someone who sits a step above a group within which everyone has similar outcomes.
 
-The more equality that exists (i.e. the more it looks like a step function), the more cautious we ought to be. And complete equality (like the outcomes of Tic Tac Toe) is fair, but terrible, because it means our activities are not complex enough. It would be fair in that we'd all be equally terrible at life. But what you'll see in any unfair system is that there will always be someone who sits a step above a group within which everyone has similar outcomes.
+Many incorrectly believe the rising inequality in our world is primarily due to the world becoming more unfair. They point to how much more difficult it is to rise upwards. But in a highly leveraged, fair it would be incredibly difficult to rise upwards because our games are more complex and we make moves more quickly, therefore competing with the best becomes more difficult.
 
-There is a lot of unfairness in the world today because there is still too much equality. But it is much better than ever before.
-
-The idea that a fair world would be equal is delusional. A more fair, more leveraged world will be more unequal in outcomes, because the underlying exploration of life will be more varied. And the inequality that stems from unfairness is actually more equal than the inequality that stems from fairness & leverage.
+Therefore difficulty in moving upwards does not necessarily point to unfairness. Though we definitely have unfairness that causes difficulty moving upwards. As we make the world more fair we will find it more unequal than before.
 
 ---
 
@@ -151,7 +147,7 @@ Human progress makes the world more fair by increasing leverage and spreading it
 
 Today, even in many of the poorest communities around the world, many kids have the ability to create, to speak their minds in ways their grandparents couldn't dream of, and have access to information and knowledge through the internet that is barely less than the richest kid living in a Manhattan high rise.
 
-Yet, it's undeniable that the rich child that has access to higher quality, personalized, feedback, more competent, ambitious peers, a stronger safety net, and more supportive loving parents, has an unfair advantage. We still have a lot of work to do.
+Yet, it's undeniable that the rich child that has access to higher quality, personalized, feedback, more competent, ambitious peers, a stronger safety net, and more supportive loving parents, has an unfair advantage. We have a lot of work to bridge this gap. When we do we'll find the world more unequal than ever before.
 
 ---
 
@@ -165,17 +161,17 @@ Progress creates a world in which winners take all.
 
 ---
 
-Inequality is accelerating exponentially, not linearly. Inequality will rise sharply in the next few years equivalent to the rise in inequality over the past century.
+Inequality is accelerating exponentially, not linearly. Inequality will rise sharply in the next few years greater than the rise in inequality over the past century, if not more. It will shock us.
 
 Inequality accelerates exponentially because leverage accelerates exponentially.
 
-Global GDP is a rough, but directionally correct, approximation of the leverage in the world. The more leverage that exists in the world means that we are able to turn more ideas into reality, creating and selling more things of higher value.
+Global GDP is a rough, but directionally correct, approximation of the leverage in the world. The more leverage that exists in the world means that we are able to implement more, and better, ideas, thereby increasing our transactions and the value of our transactions.
 
-GDP is only a rough approximation because it only represents the transactions between us that involve a monetary exchange. There are many transactions that increase due to leverage that aren't yet directly captured by an exchange of money.
+GDP is only an approximation because it only represents the transactions between us that involve a monetary exchange. There are many transactions that increase due to leverage that aren't yet directly captured by an exchange of money. As it becomes faster to implement ideas, GDP will become a better approximation.
 
-GDP is also a lagging indicator of leverage because it takes time to turn leverage into transactions. Only good ideas that are implemented will impact GDP, so we will only see what today's leverage is after people have used it well.
+GDP is also a lagging indicator of leverage because it takes time to turn leverage into transactions. Only good ideas that are implemented will impact GDP, so we will only see what today's leverage is after people have used it to create.
 
-Therefore exponential acceleration of leverage can be seen in our GDP growth: https://ourworldindata.org/grapher/global-gdp-over-the-long-run.
+Global GDP is [growing exponentially fast](https://ourworldindata.org/grapher/global-gdp-over-the-long-run), therefore leverage is growing exponentially fast, and so will the complexity of our activities, and so will inequality - accelerating us towards a winners take all world exponentially fast.
 
 ---
 
@@ -189,9 +185,7 @@ A basic income will never "feel enough", or if it does, the feeling is fleeting.
 
 ---
 
-The only way to get what you want and keep getting what you want is to be the best and stay the best. The way to do that looks very different than what we think: working anxiously till exhaustion no longer works.
-
-Most systems of our world are not set up for a world in which winners take all. We have a lot of work to do.
+The only way to get what you want and keep getting what you want is to be the best and stay the best. The way to do that looks very different than what we think: working anxiously till exhaustion hurts more than helps. Building intuition well is a delicate art that effort alone does not guarantee. The path is counterintuitive and more difficult than ever before, but if you tread it well, you will be unstoppable.
 
 ---
 

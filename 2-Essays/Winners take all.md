@@ -76,7 +76,7 @@ An increase in leverage, by definition, also increases the rate which we can mak
 
 The greater the leverage, smaller differences in ability lead to larger differences in outcome because there is more compounding. In a fair, complex game, each decision a player makes carries greater weight as it impacts many more decisions that come after it.
 
-With greater leverage, players can go much deeper into the game. The deeper they go in the tree of possibilities, the more they will diverge.
+With greater leverage, players can go much deeper into the game. The deeper they go in the tree of possibilities, the more different their explorations are.
 
 ---
 
@@ -88,13 +88,13 @@ It's silly to think that we're not born with different capabilities, different e
 
 The greater the leverage, the more our differences are magnified and the more clear it will be that for some games, some just have an unfair nature given advantage. We cannot compete with them if they choose to cultivate their advantage. Life is unfair. 
 
-It's dangerous to make life completely fair at birth because that would mean wiping out our individual mutations that make us unique. We underestimate the impact of our biology on our personalities, perspectives, emotions. If we succeed at making birth fair, our species will fail because we will not have the diversity required to survive. Our job is to find our unique, nature given strengths and double down on them, not eliminate our differences.
+It's dangerous to make life completely fair at birth because that would mean wiping out our individual mutations that make us unique. We underestimate the impact of our biology on our personalities, perspectives, emotions. If we succeed at making birth fair, our species will fail because we will not have the diversity required to survive. Our job is to find our unique, nature given differences and double down on them, not eliminate them.
 
 Outside of unfairness of birth, we've come a long way. Even in many of the poorest communities around the world, many kids have the ability to create, and speak their minds in ways their grandparents couldn't dream of. They have access to knowledge through the internet that is barely any less than the richest kid in the world. 
 
 Yet, the rich child who has access to better personalized feedback, more competent peers, a stronger safety net, and more supportive parents, has an unfair advantage. We must give everyone the rich kid's advantage.
 
-By solving fairness we will not have similar outcomes because our activities are complex, leading to differences in ability no matter how hard you train, and small differences in ability lead to disproportionately large differences in outcomes due to greater compounding.
+By solving fairness we will not have similar outcomes, but rather greater inequality because more people will have access to greater leverage and they will help us more rapidly increase leverage. And greater leverage increases difference in outcomes for the same difference in ability.
 
 ---
 
@@ -110,7 +110,7 @@ Upward mobility will become more difficult in a fair, leveraged world because wi
 
 ---
 
-The greater the complexity of a game, the greater the inequality in ability no matter how hard you train, and a greater gap between the best and the rest. The greater the leverage, the more complex the games we play, and the more disproportionately large outcomes for the same difference in ability due to greater compounding. A more fair world creates more players who increase rate of progress, which increases leverage.
+The greater the complexity of a game, the greater the inequality in ability no matter how hard you train, and a greater gap between the best and the rest. The greater the leverage, the more complex the games we play, and the more disproportionately large outcomes for the same difference in ability due to greater compounding. A more fair world creates more people with access to leverage who help increase leverage even faster.
 
 Winners will take all.
 
@@ -148,7 +148,7 @@ Don't rely on a basic income to get what you want; only treat it as a launching 
 
 ---
 
-The only way to get what you want and keep getting what you want is to be the best and stay the best. The way to do that looks very different than what we think: working anxiously till exhaustion probably hurts more than helps. Building the right intuition is a delicate art that requires the right kind of effort, in the right way.
+The only way to get what you want and keep getting what you want is to be the best and stay the best. The way to do that looks very different than what we think: working anxiously till exhaustion probably hurts more than helps. Building the right intuition is a delicate skill that requires the right kind of effort, in the right way.
 
 The path is difficult, but if you tread it well you will be unstoppable.
 

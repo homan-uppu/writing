@@ -6,15 +6,15 @@
 [[Winners take all]]
 [[We suck at exponential change]]
 [[Be more transparent]]
+[[Solve for people]]
 
 ---
 
 *How to be great:*
 - Be more ambitious (Ambition is required more than ever)
 - Fear similarity (to the degree of leverage, for the things that matter)
-- Solve for people (hierarchy of complexity)
 - Think more before you do
-- Don't pay for education (pay to learn outdated)
+- Paying for education doesn't work.
 - Study yourself
 - Build intuition.
 - Go all in.

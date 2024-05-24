@@ -70,7 +70,7 @@ Leverage increases the complexity of the games we play by eliminating the need t
 
 Before we had computers, a lot of time was spent crunching numbers. As we gained better technology, we were able to shift more of our time figuring out what to create and how to create it - much more complex activities than crunching numbers.
 
-Our minds don't like to dream about things that it believes are impossible. Greater leverage gives us more confidence to dream wider and bigger, creating more possibilities within the same game, making the game itself more complex. <FootnoteReference number={2} />
+Greater leverage makes what was once impossible possible, and gives us more confidence to dream wider and bigger, creating more possibilities within the same game, making the game itself more complex <FootnoteReference number={2} />.
 
 An increase in leverage, by definition, also increases the rate which we can make moves. When it takes a long time to make a move, the underlying inequality between players doesn't manifest quickly. Imagine a game of chess where each move took 5 years to make. By the time the players die, their differences wouldn't be that apparent. It's not that the inequality in ability wasn't there, but it didn't have enough time to present itself. 
 

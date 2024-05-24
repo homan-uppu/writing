@@ -8,9 +8,7 @@ The world is becoming more hit driven.
 - 1% of startups create most value.
 - 1% hold most of the world's wealth.
 
-We can't reverse or slow down this shift without slowing down our progress as a species. And we wouldn't want to do that.
-
-The gap between the best and the next best will rise sharply. The gap between the 2nd best and the 3rd best will rise as well, but less. You will only see more equality in ability and outcomes as you tend towards the mediocre.
+We're just getting started. The gap between the best and the rest will rise sharply.
 
 Winners will take all.
 - The top creators will capture most value.
@@ -19,14 +17,12 @@ Winners will take all.
 - The top city for startups will become the only one. 
 - The top country will dictate global order and culture.
 
-The only difference is in how long each takes.
-
 - Be the best at what you do.
 - Or find something else you can be the best at and double down.
 - Or create something new that the world will value and be the best at it. 
 - But... be the best.
 
-We will be shocked by how rapidly this inequality accelerates; we're just getting started.
+We can't reverse or slow down this shift without slowing down progress. And we wouldn't want to do that. A more fair world with equal access to opportunity, better technology, greater freedom, will have extremely unequal outcomes regardless of how well trained everyone is.
 
 ...
 
@@ -141,9 +137,13 @@ Inequality that stems from a complex world with fairness and leverage is a smoot
 
 When you look at those curves closely, you'll notice something interesting: the more unfair curves are also more "equal" because they have more people that are making roughly the same, but just divided by classes. Whereas the inequality from fairness and leverage is far less equal because it's tougher to find even a few individuals with the same outcome.
 
-***Therefore, counterintuitively, the way to sniff out unfairness is to see how much equality exists in the outcomes***. The more equality that exists (i.e. the more it looks like a step function), the more cautious we ought to be. And complete equality (like the outcomes of Tic Tac Toe) is fair, but terrible, because it means our activities are not complex enough. It would be fair in that we'd all be equally terrible at life. But what you'll see in any unfair system is that there will always be someone who sits a step above a group of others, who, within their group, have equal outcomes.
+***Therefore, counterintuitively, the way to sniff out unfairness is to see how much equality exists in the outcomes***. 
 
-There is a lot of unfairness in the world today because there is still too much equality. But it is much better than ever before. Our curve of outcomes is smoother than ever before in modern history.
+The industrial world is less fair than today's because it had more equal groups.
+
+The more equality that exists (i.e. the more it looks like a step function), the more cautious we ought to be. And complete equality (like the outcomes of Tic Tac Toe) is fair, but terrible, because it means our activities are not complex enough. It would be fair in that we'd all be equally terrible at life. But what you'll see in any unfair system is that there will always be someone who sits a step above a group within which everyone has similar outcomes.
+
+There is a lot of unfairness in the world today because there is still too much equality. But it is much better than ever before.
 
 The idea that a fair world would be equal is delusional. A more fair, more leveraged world will be more unequal in outcomes, because the underlying exploration of life will be more varied. And the inequality that stems from unfairness is actually more equal than the inequality that stems from fairness & leverage.
 
@@ -185,7 +185,9 @@ Yet, a basic income will never "feel enough", or if it does, the feeling won't l
 
 ---
 
-The only way to get what you want and keep getting what you want is to be the best and stay the best, and the way to do that looks very different than what we think.
+The only way to get what you want and keep getting what you want is to be the best and stay the best. The way to do that looks very different than what we think: working anxiously till exhaustion no longer works.
+
+Most systems of our world are not set up for a world in which winners take all. We have a lot of work to do.
 
 ---
 

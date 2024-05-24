@@ -26,7 +26,7 @@ We can't reverse or slow down this shift without slowing down progress. And we w
 
 ...
 
-Inequality is a function of complexity. In games, complexity corresponds to the number of possibilities within the game. A simpler game has fewer possibilities, while a more complex game has many more possibilities. The greater the complexity of the game, the greater the  inequality in ability and outcomes.
+Inequality is a function of complexity. In games, complexity corresponds to the number of possibilities within the game. A simpler game has fewer possibilities, while a more complex game has many more possibilities. The greater the complexity of the game, the greater the  inequality in ability.
 
 Most human endeavors can be modeled as a games: "success" is the satiation we feel from getting what we want, and we explore by making choices ("moves") in the game. By modeling our endeavors as games, we can study simpler games and extrapolate learnings from them.
 
@@ -36,15 +36,15 @@ Tic Tac Toe is simpler than Chess because there are less possibilities (less pos
 
 We can observe inequality in these games in two ways:
 1. Inequality in choices
-2. Inequality in outcomes
+2. Inequality in ability
 
 Some choices are obviously better than others, meaning there's a notion of "value" such that the higher the value of a choice, the better it is: the more it corresponds with getting what you want.
 
 In a simple game like Tic Tac Toe, in a competition between two trained players, there are only two values for all choices that correspond to drawing or losing - because a draw can always be forced by trained players. In Chess, from any given position of the board, there is a much wider range of values for choices: some are terrible, some are bad, some are good, and some are excellent. In Go, there is an even wider range of values of choices than in Chess because it is a more complex game.
 
-As game complexity increases, the way we use our minds changes. For simpler games we can rely fully on our logical mind to calculate the best move. The more complex the game is, the more important intuition becomes because you can't calculate all possibilities, and intuition determines which branches you calculate for. Choosing which branch to calculate for becomes more important than raw calculation ability as game complexity increases.
+As game complexity increases, the way we use our minds changes. For simpler games we can rely fully on our logical mind to calculate the best move. The more complex the game is, the more you rely on intuition because you can't calculate all possibilities, and intuition determines which branches you calculate for. Choosing which branch to calculate for becomes more important than raw calculation speed as game complexity increases.
 
-The more a game relies on intuition, the more unequal the outcomes become no matter how much training the players have. We can observe this by seeing the ELO ratings of professionals for these games. "ELO rating" is a way to calculate relative skills of players:
+The more a game relies on intuition, the more unequal the abilities between players become no matter how much training the players have. We can observe this by seeing the ELO ratings of professionals for these games. "ELO rating" is a way to calculate relative skills of players:
 
 > The difference in the ratings between two players serves as a predictor of the outcome of a match. Two players with equal ratings who play against each other are expected to score an equal number of wins. A player whose rating is 100 points greater than their opponent's is expected to score 64%; if the difference is 200 points, then the expected score for the stronger player is 76%. ([https://en.wikipedia.org/wiki/Elo_rating_system](https://en.wikipedia.org/wiki/Elo_rating_system))
 
@@ -58,7 +58,7 @@ Inequality is not linear. The gap between the best player and the 2nd best playe
 
 ***The more complex the game, the more equal players are in ability, the further they are from the best.***
 
-This is inequality is independent how much training the players have. The players we've referenced above have dedicated their entire lives to becoming great at their game, and yet we see inequality because training intuition for complex games has greater variance in outcomes by nature.
+This is inequality is independent how much training the players have. The players we've referenced above have dedicated their entire lives to becoming great at their game, and yet we see inequality because training intuition for complex games leads to greater variance in abilities by nature. Luck is also taken into account: a player that relies on luck will not be able to sustain their high ELO rating for long.
 
 ---
 
@@ -79,9 +79,11 @@ As leverage increases, we stop doing simpler activities. Before we had computers
 
 Lastly, leverage has increased the complexity of the same activities. Our minds don't like to dream about things that it believes are impossible. Greater leverage creates more possibilities within the same game, making the game itself more complex. <FootnoteReference number={2} />
 
+In a highly leveraged world, our activities will be incredibly complex, we will make moves rapidly, and therefore we will find great inequality in ability: the best will be very far ahead of the pack in any activity.
+
 ---
 
-How can we be sure our activities are more complex than Chess & Go? The most complex human activities are the ones that involve people and how they feel.
+Why are our activities are more complex than Chess & Go? The most complex human activities are the ones that involve people and how they feel.
 
 Human feeling is more complex than Chess & Go because it is far more difficult to describe its state. A system that has a much more complicated state has more possibilities and is therefore more complex.
 
@@ -101,17 +103,27 @@ Artists for thousands of years have been solving for how to make people feel. Wh
 
 ---
 
-The real world is not like a board game. Life's not fair. Yet, fairness doesn't reduce inequality, it actually increases it.
+The real world is not like a board game. Life's not fair.
 
-Fairness means more accurately mapping ability to outcomes. In a fair world, someone who is more able than another will have better outcomes proportional to the difference in ability.
+There are two kinds of fairness: fairness at birth and fairness in our access to tools, education, freedoms, and opportunity.
 
-As leverage increases, we make more choices because it takes less time to implement ideas. Therefore, in a highly leveraged world, slight difference in ability leads to massive difference in outcomes because each choice compounds heavily. Compared to people from a few decades ago, we explore life more rapidly and feel the impact of each decision we make more strongly.
+It's silly to think that we're not born with different capabilities, different emotional reactions to the same stimuli, different personalities, different inclinations. The more complex a system, the more difficult it is to find two things that are equal: in Go, there are fewer equal board positions (in which both players have equal chance of winning) than in Chess or Tic Tac Toe. Nature is an incredibly complex system in which finding two things that are equal is almost impossible. No two trees are the same, no two rocks are the same. People are not created equal. 
 
-Not all explorations are equally valuable to the world. Someone who spends their entire life learning how to craft the best baskets to sell to their village will not have the same outcomes as someone who explored building software products for large audiences <FootnoteReference number={4} />.
+The greater the leverage, the more our differences are magnified and the more clear it will be that for some games, some just have an unfair nature given advantage. We cannot compete with them if they choose to cultivate their advantage. Life is unfair. 
 
-Therefore we will find great inequality in a fair, leveraged world in which everyone does their best.
+It's incredibly dangerous to make life completely fair at birth because that would mean wiping out our individual mutations that make us unique. We underestimate the impact of our biology on everything we do, including our personalities, perspectives, emotions. If we succeed at making birth fair, our species will fail because we will not have the diversity required to survive.
 
-We haven't even taken into account the difference in our abilities at birth. It's silly to think that we're not born with different capabilities, different strengths and weaknesses, different emotional reactions to the same stimuli. The more complex a system, the more difficult it is to find two things that are equal: in Go, there are fewer equal board positions (in which both players have equal chance of winning) than in Chess or Tic Tac Toe. Nature is an incredibly complex system in which finding two things that are equal is almost impossible. No two trees are the same, no two rocks are the same. People are not created equal. The greater the leverage, the more our differences are magnified.
+We need to have faith that nature is "running the right experiments" through its mutations. Our job is to find our unique, nature given strengths and double down on them, not eliminate our differences.
+
+Outside of birth we must aggressively fight for fairness. We've come a long way, but still have a lot of work to do. Today, even in many of the poorest communities around the world, many kids have the ability to create, and speak their minds in ways their grandparents couldn't dream of. They have access to knowledge through the internet that is barely any less than the richest kid in the world. Yet, the rich child who has access to better personalized feedback, more competent peers, a stronger safety net, and more supportive parents, has an unfair advantage. We must give all kids the rich kid's advantage and let them explore life how they want.
+
+In a highly leveraged world, we make many more choices in life because it takes less time to implement each choice. Slight difference in ability leads to massive difference in outcomes because each choice compounds heavily. And a more fair world means that ability more closely maps to outcomes. Since inequality in ability will be extreme, fairness will ensure outcomes will be as well.
+
+Not all explorations are equally valuable though. Someone who spends their entire life learning how to craft the best baskets to sell to their village will not have the same outcomes as someone who explored building software products for large audiences <FootnoteReference number={4} />.
+
+Therefore we will find great inequality in a fair, leveraged world in which everyone does their best, even if they find the right games to play, because some games themselves aren't that valuable.
+
+---
 
 Unfairness can also cause inequality. But the shape of outcomes in an unfair world looks like a step function, whereas the shape of outcomes in a fair world looks like a smooth [power law curve](https://en.wikipedia.org/wiki/Power_law).
 
@@ -121,21 +133,17 @@ Fair systems, such as a group of professional Chess players, will have unequal o
 
 Complete equality is possible in a fair world, but only when the activity is simple (like Tic Tac Toe). No complex activity, in a fair world, will have completely equal outcomes. If it seems that there are completely equal outcomes for a complex game, you won't have to look far to find the one asshole that sits above everyone else (who within themselves have equal outcomes).
 
-Upward mobility will become more difficult in a fair, leveraged world because our activities are more complex and more difficult to be good enough to contribute to the economy. Therefore you can't use difficulty of upward mobility to measure fairness in a system. That's like saying Chess is unfair because I can't be as good as Magnus Carlsen.
-
-Human progress makes the world more fair by increasing leverage and spreading it wider.
-
-Today, even in many of the poorest communities around the world, many kids have the ability to create, and speak their minds in ways their grandparents couldn't dream of. They have access to knowledge through the internet that is barely any less than the richest kid in the world. Yet, the rich child who has access to higher quality, personalized, feedback, more competent, ambitious peers, a stronger safety net, and more supportive parents, has an unfair advantage. ***We must democratize these advantages to all. As we do, we'll find the world becomes more unequal.***
+Upward mobility will become more difficult in a fair, leveraged world because winners take all, and those not the best in what they do won't be able to contribute to the economy. Therefore you can't use difficulty of upward mobility to measure fairness in a system. That's like saying Chess is unfair because I can't be as good as Magnus Carlsen. I probably wouldn't be as good as him no matter how much I train myself. Life is not fair, but the game is.
 
 ---
 
-Inequality is a function of complexity. The greater the complexity of a game, the more amplified the power law in values of moves and in the outcomes of the game.
+Inequality in ability is a function of complexity. The greater the complexity of a game, the more amplified the inequality in ability.
 
 The complexity of the games we play is a function of leverage. As leverage increases our activities become more complex.
 
-Leverage is a function of human progress. Every advancement: technology, human rights, medicine, policy, etc. pushes us towards a more leveraged and fair world.
+Leverage is a function of human progress. Every advancement: technology, human rights, medicine, policy, etc. pushes us towards a more leveraged and fair world in which leverage is distributed equally.
 
-Progress creates a world in which winners take all.
+Fairness more accurately maps ability to outcomes. Winners take all.
 
 ---
 
@@ -151,29 +159,31 @@ GDP is also a lagging indicator of leverage because it takes time to turn levera
 
 Global GDP is [growing exponentially fast](https://ourworldindata.org/grapher/global-gdp-over-the-long-run), therefore leverage is growing exponentially fast, and so will the complexity of our activities, and so will inequality - accelerating us towards a winners take all world exponentially fast.
 
+There is no longer any stagnation, only accelerated growth or accelerated death. We will feel the impact of each choice we make more strongly than ever before because the number of choices we make in our lives increases with leverage, and therefore each choice compounds more aggressively.
+
 ---
 
 In a hit driven world there is no middle class: those that aren't one of the best will no longer be able to contribute to the economy.
 
 In theory everyone can be the best at something unique to them that the world values, but in practice this is very difficult to achieve, and even if we do, it will take a very long time. Even then, there will be individuals who's unique strengths and explorations won't be valued by the world no matter how good they are.
 
-Therefore, we need a universal basic income - (we actually needed it yesterday!) - and it needs to grow in proportion to leverage. Like with other things that change exponentially, we're too slow to act, and we suck at cooperating until shit hits the fan.
+Therefore, we need a universal basic income that grows in proportion to leverage. Like with other things that change exponentially, we're too slow to act, and we suck at cooperating until shit hits the fan.
 
-A basic income will never "feel enough", or if it does, the feeling will be fleeting. The next breakthrough in medicine, technology, culture, anything will make you crave something that the basic income will not suffice to afford immediately, and such breakthroughs will happen more frequently than ever before. By relying on a basic income you will perpetually want things out of your reach that you will consider to be basic necessities.
+A basic income will never "feel enough", or if it does, the feeling will be fleeting. The next breakthrough in medicine, technology, culture, anything will make you crave something that the basic income will not afford. Such breakthroughs will happen more frequently than ever before. By relying on a basic income you will perpetually want things out of your reach that you will consider to be basic necessities.
 
 A basic income will never be so high that the outcomes of the best will be anywhere close the outcomes of most because such a distribution does not maximize GDP growth.
 
 "Winners take all" applies to the global economy as well. Countries that fail to compete on GDP will be subjected to a modern version of colonialism: they will require help from winners, and that help with come with conditions that will force them to be more like the winners. Their basic income will fall to what optimizes GDP growth, and their unique culture will be engulfed by the cultures of winners. Countries, in order to survive, will compete on GDP and won't raise basic income so high that it kills their ability to compete. Swimming against these incentives will become more difficult as leverage increases.
 
-Therefore, you shouldn't rely on a basic income to get what you want - it's only a launching pad to be the best at something.
+Don't rely on a basic income to get what you want, see it as a launching pad to be the best at something.
 
 ---
 
-The only way to get what you want and keep getting what you want is to be the best and stay the best. The way to do that looks very different than what we think: working anxiously till exhaustion hurts more than helps. Building the right intuition is a delicate art that effort alone does not guarantee.
+The only way to get what you want and keep getting what you want is to be the best and stay the best. The way to do that looks very different than what we think: working anxiously till exhaustion hurts more than helps. Building the right intuition is a delicate art that requires the right kind of effort, in the right way.
 
 - The path is counterintuitive. 
 - The path is difficult.
-- But, if you tread it well, you will be unstoppable.
+- If you tread it well you will be unstoppable.
 
 ---
 

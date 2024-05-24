@@ -26,7 +26,7 @@ We can't reverse or slow down this shift without slowing down progress. And we w
 
 ...
 
-Inequality is a function of complexity. In games, complexity corresponds to the number of possibilities within the game. A simpler game has fewer possibilities, while a more complex game has many more possibilities. The greater the complexity of the game, the greater the  inequality in ability.
+Inequality is a function of complexity. In games, complexity corresponds to the number of possibilities within the game. A simpler game has fewer possibilities, while a more complex game has many more possibilities. The greater the complexity of the game, the greater the  inequality in ability, no matter how much the players train.
 
 Most human endeavors can be modeled as a games: "success" is the satiation we feel from getting what we want, and we explore by making choices ("moves") in the game. By modeling our endeavors as games, we can study simpler games and extrapolate learnings from them.
 
@@ -58,13 +58,13 @@ Inequality is not linear. The gap between the best player and the 2nd best playe
 
 ***The more complex the game, the more equal players are in ability, the further they are from the best.***
 
-This is inequality is independent how much training the players have. The players we've referenced above have dedicated their entire lives to becoming great at their game, and yet we see inequality because training intuition for complex games leads to greater variance in abilities by nature. Luck is also taken into account: a player that relies on luck will not be able to sustain their high ELO rating for long.
+This is inequality is independent how much training the players have. The players we've referenced above have dedicated their entire lives to becoming great at their game, and yet we see inequality because training intuition for complex games leads to greater variance in abilities by nature.
 
 ---
 
-The most valued games we play are far more complex than Chess and Go, and therefore there is far greater inequality in ability.
+The most valued games we play are far more complex than Chess and Go, and therefore have far greater inequality in ability.
 
-But, if our activities are more complex, why haven't we seen great inequality in the past? And why is inequality increasing?
+If our activities are more complex why haven't we seen great inequality in ability in the past? And why is it increasing?
 
 The complexity of our activities is a function of leverage. Leverage = how little time it takes to implement an idea. The more leverage you have, the less time it takes to manifest your ideas.
 
@@ -105,23 +105,23 @@ Artists for thousands of years have been solving for how to make people feel. Wh
 
 The real world is not like a board game. Life's not fair.
 
-There are two kinds of fairness: fairness at birth and fairness in our access to tools, education, freedoms, and opportunity.
+There are two kinds of fairness: fairness at birth and fairness in access to tools, education, freedoms, and opportunity.
 
 It's silly to think that we're not born with different capabilities, different emotional reactions to the same stimuli, different personalities, different inclinations. The more complex a system, the more difficult it is to find two things that are equal: in Go, there are fewer equal board positions (in which both players have equal chance of winning) than in Chess or Tic Tac Toe. Nature is an incredibly complex system in which finding two things that are equal is almost impossible. No two trees are the same, no two rocks are the same. People are not created equal. 
 
 The greater the leverage, the more our differences are magnified and the more clear it will be that for some games, some just have an unfair nature given advantage. We cannot compete with them if they choose to cultivate their advantage. Life is unfair. 
 
-It's incredibly dangerous to make life completely fair at birth because that would mean wiping out our individual mutations that make us unique. We underestimate the impact of our biology on everything we do, including our personalities, perspectives, emotions. If we succeed at making birth fair, our species will fail because we will not have the diversity required to survive.
+It's dangerous to make life completely fair at birth because that would mean wiping out our individual mutations that make us unique. We underestimate the impact of our biology on everything we do, including our personalities, perspectives, emotions. If we succeed at making birth fair, our species will fail because we will not have the diversity required to survive.
 
 We need to have faith that nature is "running the right experiments" through its mutations. Our job is to find our unique, nature given strengths and double down on them, not eliminate our differences.
 
 Outside of birth we must aggressively fight for fairness. We've come a long way, but still have a lot of work to do. Today, even in many of the poorest communities around the world, many kids have the ability to create, and speak their minds in ways their grandparents couldn't dream of. They have access to knowledge through the internet that is barely any less than the richest kid in the world. Yet, the rich child who has access to better personalized feedback, more competent peers, a stronger safety net, and more supportive parents, has an unfair advantage. We must give all kids the rich kid's advantage and let them explore life how they want.
 
-In a highly leveraged world, we make many more choices in life because it takes less time to implement each choice. Slight difference in ability leads to massive difference in outcomes because each choice compounds heavily. And a more fair world means that ability more closely maps to outcomes. Since inequality in ability will be extreme, fairness will ensure outcomes will be as well.
+In a highly leveraged world, we make many more choices in life because it takes less time to implement each choice. Slight difference in ability leads to massive difference in outcomes because each choice compounds heavily. And a more fair world means that ability more closely maps to outcomes. Since there will be extreme inequality in ability, fairness will make outcomes extremely unequal.
 
 Not all explorations are equally valuable though. Someone who spends their entire life learning how to craft the best baskets to sell to their village will not have the same outcomes as someone who explored building software products for large audiences <FootnoteReference number={4} />.
 
-Therefore we will find great inequality in a fair, leveraged world in which everyone does their best, even if they find the right games to play, because some games themselves aren't that valuable.
+Therefore we will find great inequality in a fair, leveraged world in which even if everyone does their best and find the right games to play, some games themselves will be far more valuable than others.
 
 ---
 
@@ -133,7 +133,7 @@ Fair systems, such as a group of professional Chess players, will have unequal o
 
 Complete equality is possible in a fair world, but only when the activity is simple (like Tic Tac Toe). No complex activity, in a fair world, will have completely equal outcomes. If it seems that there are completely equal outcomes for a complex game, you won't have to look far to find the one asshole that sits above everyone else (who within themselves have equal outcomes).
 
-Upward mobility will become more difficult in a fair, leveraged world because winners take all, and those not the best in what they do won't be able to contribute to the economy. Therefore you can't use difficulty of upward mobility to measure fairness in a system. That's like saying Chess is unfair because I can't be as good as Magnus Carlsen. I probably wouldn't be as good as him no matter how much I train myself. Life is not fair, but the game is.
+Upward mobility will become more difficult in a fair, leveraged world because winners take all, and those not the best in what they do won't be able to contribute to the economy. Therefore you can't use difficulty of upward mobility to measure fairness in a system. That's like saying Chess is unfair because I can't be as good as Magnus Carlsen. I probably wouldn't be as good as him no matter how much I train myself. Life is not fair while the game can be.
 
 ---
 
@@ -175,15 +175,13 @@ A basic income will never be so high that the outcomes of the best will be anywh
 
 "Winners take all" applies to the global economy as well. Countries that fail to compete on GDP will be subjected to a modern version of colonialism: they will require help from winners, and that help with come with conditions that will force them to be more like the winners. Their basic income will fall to what optimizes GDP growth, and their unique culture will be engulfed by the cultures of winners. Countries, in order to survive, will compete on GDP and won't raise basic income so high that it kills their ability to compete. Swimming against these incentives will become more difficult as leverage increases.
 
-Don't rely on a basic income to get what you want, see it as a launching pad to be the best at something.
+Don't rely on a basic income to get what you want; only treat it as a launching pad to be the best at something.
 
 ---
 
 The only way to get what you want and keep getting what you want is to be the best and stay the best. The way to do that looks very different than what we think: working anxiously till exhaustion hurts more than helps. Building the right intuition is a delicate art that requires the right kind of effort, in the right way.
 
-- The path is counterintuitive. 
-- The path is difficult.
-- If you tread it well you will be unstoppable.
+The path is counterintuitive and difficult. If you tread it well you will be unstoppable.
 
 ---
 

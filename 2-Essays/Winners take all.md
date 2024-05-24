@@ -83,19 +83,21 @@ Lastly, leverage has increased the complexity of the same activities. Our minds 
 
 ---
 
-How can we be sure our activities are more complex than Chess & Go? There is a hierarchy of complexity for human endeavors. The most complex human activities are the ones that involve people and how they feel.
+How can we be sure our activities are more complex than Chess & Go? The most complex human activities are the ones that involve people and how they feel.
 
-The representational complexity of feeling is far greater than that of Chess or Go. By representational complexity I mean how easy it is to describe the state of the system at any moment in time. A game that has a much more complicated state, likely has many more possibilities for what moves you can take and is therefore more complex.
+Human feeling is more complex than Chess & Go because it is far more difficult to describe its state. A system that has a much more complicated state has more possibilities and is therefore more complex.
 
-To see why, recall when you had to communicate how you felt. You'll remember how difficult it is to do so, and importantly that no matter how many words you use, you weren't able to fully, completely, represent your feeling in words. A feeling has a much higher representational complexity than words. Translating it into words is difficult because we are trying to represent something of a higher complexity into a medium that cannot capture that complexity fully. Information is lost in translation.
+Recall when you had to communicate how you felt. You'll remember how difficult it is to do so, and importantly that no matter how many words you use, you weren't able to fully, completely, communicate what you felt. Translating a feeling into words is difficult because we are trying to represent something of a higher complexity into a medium that cannot capture that complexity fully. Information is lost in translation.
 
-This lost information is precisely what allows for the various interpretations of words. Every single person reading this essay will have different feelings as they read this. Even though my intention is to make you feel what I feel about this topic, there is absolutely no way for me to do so without any loss of information, no matter what medium I use: words, images, videos, symbols, etc. - even if I spend my entire life trying. I believe this gap between the complexity of human feeling and the mediums we use to communicate feeling is massive. <FootnoteReference number={3} />
+This lost information is precisely what allows for the various interpretations of words. Every single person reading this will feel different feelings. Even though my intention is to make you feel what I feel about this topic, there is absolutely no way for me to do so without any loss of information, no matter what medium I use: words, images, videos, symbols, etc. - even if I spend my entire life trying. I believe this gap between the complexity of human feeling and the mediums we use to communicate feeling is massive. <FootnoteReference number={3} />
 
-Chess and Go can easily be represented by symbols (text, pictures, etc.), and therefore are much simpler than games in which success is measured by how good you make people feel. As we gain leverage, we update our games to be closer to solving for people.
+Chess and Go can easily be represented by symbols (text, pictures, etc.), and therefore are much simpler than games in which success is measured by how good you make people feel. 
 
-A couple of centuries ago, most workers spent their time playing games that weren't directly related to people. They would assemble physical things in a factory and they wouldn't need to think too much about people. As the world gains leverage, more people are involved in building products, services and art which are games in which understanding people is more important to be good at.
+As we gain leverage, our activities move closer to directly solving for people.
 
-Programmers are being asked to become better at thinking about what to build and understanding users, [without just thinking about how to build something](https://x.com/ID_AA_Carmack/status/1637087219591659520). Animators are being asked to contribute something meaningful to the story instead of only translating a rough sketch into a completed animation. Pizza cooks, and ice cream store employees, are all being asked to tell engaging stories on social media to attract more customers. 
+A couple of centuries ago, most workers would assemble physical things in a factory and they wouldn't need to think too much about people. People are now more involved in building products, services and art that require them to understand people and their problems more directly.
+
+Programmers are being asked to become better at thinking about what to build and understanding users, [without just thinking about how to build something](https://x.com/ID_AA_Carmack/status/1637087219591659520). Animators are being asked to contribute something meaningful to the story instead of only translating a rough sketch into a completed animation. Pizza cooks, and ice cream store employees, are all being asked to tell engaging stories on social media to attract more customers.
 
 ***Everyone is moving towards solving for people.***
 
@@ -105,11 +107,9 @@ Artists for thousands of years have been solving for how to make people feel. Wh
 
 The real world is not like a board game. Life's not fair. Yet, fairness doesn't reduce inequality, it actually increases it.
 
-Imagine a world in which every child has loving, supportive parents, the best teachers, and the freedom to explore what they want. No one is concerned about how to make a living, and everyone has access to great leverage: any idea we have can be implemented quickly.
+A world in which every child has loving, supportive parents, the best teachers, freedom to explore what they want, no concern for how to make al living, with great leverage (takes little time to implement any idea) would be incredibly unequal: the richest person would be unfathomably rich.
 
-In this world, all people will care about is to create things for themselves and others, and the outcomes would be unfathomably unequal. The richest person in this imaginary world will be stupidly rich.
-
-In a highly leveraged world, slight differences between individuals are magnified. Slightly difference choices at the start would lead to drastic differences by death. The greater the leverage, the further apart explorations become.
+In a highly leveraged world, slight differences between individuals are magnified. Slight difference in choices lead to drastic differences by death. The greater the leverage, the greater the difference at death because the more varied the explorations are.
 
 Not all explorations are equally worthwhile. Someone who spends their entire life learning how to craft the best baskets to sell to their village will not have the same outcomes as someone who explored building software products for large audiences.<FootnoteReference number={4} />
 
@@ -117,9 +117,9 @@ Not all explorations are equally worthwhile. Someone who spends their entire lif
 
 We haven't even taken into account the difference in our abilities at birth. It's silly to think that we're not born with different capabilities, different strengths and weaknesses, different emotional reactions to the same stimuli. 
 
-The more complex a system, the more difficult it is to find two things that are equal, like how in Go, there are less "equal" board positions than in Tic Tac Toe. Nature is an incredibly complex system in which finding two things that are equal is almost impossible. No two trees are the same, no two rocks are the same, no two humans are the same. Humans are not created equal.
+The more complex a system, the more difficult it is to find two things that are equal: in Go, there are less "equal" board positions than in Chess or Tic Tac Toe. Nature is an incredibly complex system in which finding two things that are equal is almost impossible. No two trees are the same, no two rocks are the same. Humans are not created equal.
 
-In a fair, leveraged world of complex activities, winners take all.
+In a fair, highly leveraged world of complex activities, winners take all.
 
 ---
 
@@ -177,15 +177,25 @@ Global GDP is [growing exponentially fast](https://ourworldindata.org/grapher/gl
 
 In a hit driven world there is no middle class: those that aren't one of the best will no longer be able to contribute to the economy.
 
-In theory everyone can be the best at something unique to them that the world values, but in practice this is very difficult to achieve, and even if we do, it will take a very long time. Even then, there will be individuals who's unique strengths and tendencies won't be valued by the world and they will not be able to contribute to the economy.
+In theory everyone can be the best at something unique to them that the world values, but in practice this is very difficult to achieve, and even if we do, it will take a very long time. Even then, there will be individuals who's unique strengths and explorations won't be valued by the world no matter how good they are.
 
-We needed a universal basic income yesterday and it needs to grow in proportion to leverage. Like with other things that change exponentially, we're too slow to act, and we suck at cooperating until shit hits the fan.
+Therefore, we need a universal basic income - (we actually needed it yesterday!) - and it needs to grow in proportion to leverage. Like with other things that change exponentially, we're too slow to act, and we suck at cooperating until shit hits the fan.
 
-A basic income will never "feel enough", or if it does, the feeling is fleeting. The next breakthrough in medicine, technology, culture, anything will make you crave something that the basic income cannot enable you to have immediately, and such breakthroughs will happen more frequently than ever before. By relying on a basic income you will perpetually want things out of your reach that you will consider to be basic necessities.
+A basic income will never "feel enough", or if it does, the feeling will be fleeting. The next breakthrough in medicine, technology, culture, anything will make you crave something that the basic income will not suffice to afford immediately, and such breakthroughs will happen more frequently than ever before. By relying on a basic income you will perpetually want things out of your reach that you will consider to be basic necessities.
+
+A basic income will never be so high that the outcomes of the best will be anywhere close the outcomes of most because such a distribution does not maximize GDP growth.
+
+"Winners take all" applies to the global economy as well. Countries that fail to compete on GDP will be subjected to a modern version of colonialism: they will require help from winners, and that help with come with conditions that will force them to be more like the winners. Their basic income will fall to what optimizes GDP growth, and their unique culture will be engulfed by the cultures of winners. Countries, in order to survive, will compete on GDP and won't raise basic income so high that it kills their chances of winning.
+
+You shouldn't rely on a basic income to get what you want - it's only a launching pad to be the best at something.
 
 ---
 
-The only way to get what you want and keep getting what you want is to be the best and stay the best. The way to do that looks very different than what we think: working anxiously till exhaustion hurts more than helps. Building intuition well is a delicate art that effort alone does not guarantee. The path is counterintuitive and more difficult than ever before, but if you tread it well, you will be unstoppable.
+The only way to get what you want and keep getting what you want is to be the best and stay the best. The way to do that looks very different than what we think: working anxiously till exhaustion hurts more than helps. Building the right intuition is a delicate art that effort alone does not guarantee. 
+
+- The path is counterintuitive. 
+- The path is difficult.
+- If you tread it well, you will be unstoppable.
 
 ---
 

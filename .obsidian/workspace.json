@@ -13,6 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "0-Rough/2024-05-25.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "7082b6d09da2f0de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "2-Essays/Winners take all.md",
                 "mode": "source",
                 "source": true
@@ -20,19 +32,55 @@
             }
           },
           {
-            "id": "c31926450fd3ef23",
+            "id": "9ea975a1a2dd012f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Rough/To improve (winners take all).md",
+                "file": "0-Rough/Complexity and variability.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b5b58d10db5e73ea",
+            "id": "680fa61440580b15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-Rough/ELO rating theory (Winners take all).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6669286e0256a018",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-Rough/What I'm failing to communicate in Winners take all.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "002d0371821095a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-Rough/Craft the best essay you possibly can.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "77ce0ac8169e6b82",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,44 +90,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d7bc05b611cc961a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-Rough/Luck.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e7a9eacd48db536",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-Rough/Fairness (Winners take all).md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "8a6b9efd77d84c12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-Rough/2024-05-24.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -219,34 +232,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "38f81d944f27bf5b",
+  "active": "7082b6d09da2f0de",
   "lastOpenFiles": [
-    "0-Rough/To improve (winners take all).md",
-    "2-Essays/Winners take all.md",
+    "0-Rough/2024-05-25.md",
     "MAIN.md",
-    "0-Rough/Big picture thoughts.md",
-    "0-Rough/Being the best.md",
+    "2-Essays/Winners take all.md",
+    "0-Rough/Complexity and variability.md",
+    "0-Rough/ELO rating theory (Winners take all).md",
+    "0-Rough/What I'm failing to communicate in Winners take all.md",
+    "0-Rough/Craft the best essay you possibly can.md",
+    "0-Rough/To improve (winners take all).md",
     "2-Essays/Solve for people.md",
-    "0-Rough/Untitled 15.md",
-    "0-Rough/2024-05-24.md",
+    "1-Notes/Be more transparent.md",
+    "2-Essays/Why we suck at rapid change.md",
+    "1-Internal notes/Reasons to write.md",
     "0-Rough/Luck.md",
     "0-Rough/Fairness (Winners take all).md",
+    "0-Rough/2024-05-24.md",
+    "0-Rough/Complexity (Winners take all) - Old.md",
+    "0-Rough/Big picture thoughts.md",
+    "0-Rough/Being the best.md",
+    "0-Rough/Untitled 15.md",
     "1-Internal notes/Cut cut cut!.md",
     "0-Inputs/Dan Luu on writing.md",
-    "2-Essays/We suck at exponential change.md",
-    "1-Notes/Be more transparent.md",
     "1-Notes/Obsession.md",
     "0-Rough/Really struggling with positioning.md",
     "0-Rough/No room for average (from the ground up).md",
     "0-Rough/Winner takes all.md",
     "0-Rough/Woah.md",
-    "0-Rough/Untitled 14.md",
-    "0-Rough/Untitled 13.md",
-    "0-Rough/Joe (deleted).md",
-    "0-Rough/2024-05-22.md",
-    "2-Essays/No room for average.md",
-    "0-Rough/The foundation.md",
-    "0-Rough/Improving \"No room for average\".md",
     "0-Inputs/Screenshot 2024-05-16 at 9.00.30 AM.png",
     "2-Essays",
     "0-Rough/Untitled.canvas",

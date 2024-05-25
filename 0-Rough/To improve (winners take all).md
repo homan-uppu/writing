@@ -1,2 +1,3 @@
 - Explaining the game complexity thing needs to be improved. A lot. There may not even be a need to explain that intuition is the difference - that can go in the footnotes. Can explore that more deeply in another essay.
-- 
+- Things are getting too segmented.
+- More examples of consolidation.

@@ -4,19 +4,19 @@
 
 *Active*
 [[Winners take all]]
-[[We suck at exponential change]]
+[[Why we suck at rapid change]]
 [[Be more transparent]]
 [[Solve for people]]
 
 ---
 
-*How to be great:*
+*Path to greatness:*
+- Build intuition.
 - Be more ambitious (Ambition is required more than ever)
 - Fear similarity (to the degree of leverage, for the things that matter)
 - Think more before you do
 - Paying for education doesn't work.
 - Study yourself
-- Build intuition.
 - Go all in.
 - What we actually want
 - Obsession

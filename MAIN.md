@@ -1,9 +1,9 @@
 
 *Published*
+- [Winners take all](https://jisnu.org/winners)
 - [I'd appreciate your feedback](https://jisnu.org/feedback)
 
 *Active*
-[[Winners take all]]
 [[Why we suck at rapid change]]
 [[Be more transparent]]
 [[Solve for people]]

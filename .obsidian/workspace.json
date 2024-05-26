@@ -8,30 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bf2b2197264a9ddc",
+            "id": "125c186f2c24b91d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Essays/Winners take all.md",
+                "file": "0-Rough/2024-05-26.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
           {
-            "id": "be4a6dd6501b2602",
+            "id": "c9e202a1e9da2293",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAIN.md",
+                "file": "2-Essays/Develop a feel for something.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Essays/Winners take all.md",
+                "file": "2-Essays/Develop a feel for something.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Essays/Winners take all.md",
+                "file": "2-Essays/Develop a feel for something.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Essays/Winners take all.md"
+                "file": "2-Essays/Develop a feel for something.md"
               }
             }
           },
@@ -171,14 +172,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bf2b2197264a9ddc",
+  "active": "c9e202a1e9da2293",
   "lastOpenFiles": [
+    "0-Rough/2024-05-26.md",
+    "2-Essays/Develop a feel for something.md",
+    "0-Rough/Order of operations.md",
     "MAIN.md",
+    "1-Notes/Be more transparent.md",
+    "0-Rough/ELO rating theory (Winners take all).md",
     "2-Essays/Winners take all.md",
     "1-Notes/Universal incentives.md",
     "0-Rough/Craft the best essay you possibly can.md",
     "0-Rough/What I'm failing to communicate in Winners take all.md",
-    "0-Rough/ELO rating theory (Winners take all).md",
     "0-Rough/Complexity and variability.md",
     "0-Rough/2024-05-25.md",
     "0-Inputs/Hemmingway advice.md",
@@ -188,7 +193,6 @@
     "0-Inputs/Orwell - why writers write.md",
     "0-Rough/To improve (winners take all).md",
     "2-Essays/Solve for people.md",
-    "1-Notes/Be more transparent.md",
     "2-Essays/Why we suck at rapid change.md",
     "1-Internal notes/Reasons to write.md",
     "0-Rough/Luck.md",
@@ -196,9 +200,6 @@
     "0-Rough/2024-05-24.md",
     "0-Rough/Complexity (Winners take all) - Old.md",
     "0-Rough/Big picture thoughts.md",
-    "0-Rough/Being the best.md",
-    "0-Rough/Untitled 15.md",
-    "1-Internal notes/Cut cut cut!.md",
     "0-Inputs/Screenshot 2024-05-16 at 9.00.30 AM.png",
     "2-Essays",
     "0-Rough/Untitled.canvas",

@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f15685399fe18850",
+        "id": "bde9fb12fed23894",
         "type": "tabs",
         "children": [
           {
-            "id": "38f81d944f27bf5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-Rough/2024-05-25.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "7082b6d09da2f0de",
+            "id": "bf2b2197264a9ddc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,55 +20,7 @@
             }
           },
           {
-            "id": "9ea975a1a2dd012f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-Rough/Complexity and variability.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "680fa61440580b15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-Rough/ELO rating theory (Winners take all).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6669286e0256a018",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-Rough/What I'm failing to communicate in Winners take all.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "002d0371821095a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-Rough/Craft the best essay you possibly can.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "77ce0ac8169e6b82",
+            "id": "be4a6dd6501b2602",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -91,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -232,15 +171,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7082b6d09da2f0de",
+  "active": "bf2b2197264a9ddc",
   "lastOpenFiles": [
-    "0-Rough/2024-05-25.md",
     "MAIN.md",
     "2-Essays/Winners take all.md",
-    "0-Rough/Complexity and variability.md",
-    "0-Rough/ELO rating theory (Winners take all).md",
-    "0-Rough/What I'm failing to communicate in Winners take all.md",
+    "1-Notes/Universal incentives.md",
     "0-Rough/Craft the best essay you possibly can.md",
+    "0-Rough/What I'm failing to communicate in Winners take all.md",
+    "0-Rough/ELO rating theory (Winners take all).md",
+    "0-Rough/Complexity and variability.md",
+    "0-Rough/2024-05-25.md",
+    "0-Inputs/Hemmingway advice.md",
+    "0-Inputs/Advice on writing.md",
+    "0-Rough/Oglivy on writing.md",
+    "0-Inputs/EB White on essays.md",
+    "0-Inputs/Orwell - why writers write.md",
     "0-Rough/To improve (winners take all).md",
     "2-Essays/Solve for people.md",
     "1-Notes/Be more transparent.md",
@@ -254,12 +199,6 @@
     "0-Rough/Being the best.md",
     "0-Rough/Untitled 15.md",
     "1-Internal notes/Cut cut cut!.md",
-    "0-Inputs/Dan Luu on writing.md",
-    "1-Notes/Obsession.md",
-    "0-Rough/Really struggling with positioning.md",
-    "0-Rough/No room for average (from the ground up).md",
-    "0-Rough/Winner takes all.md",
-    "0-Rough/Woah.md",
     "0-Inputs/Screenshot 2024-05-16 at 9.00.30 AM.png",
     "2-Essays",
     "0-Rough/Untitled.canvas",

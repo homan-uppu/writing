@@ -7,6 +7,7 @@
 [[Why we suck at rapid change]]
 [[Be more transparent]]
 [[Solve for people]]
+[[Universal incentives]]
 
 ---
 

@@ -1,0 +1,1 @@
+https://www.themarginalian.org/2013/05/03/advice-on-writing/

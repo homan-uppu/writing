@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "bde9fb12fed23894",
+        "id": "2a7abec2946f87ce",
         "type": "tabs",
         "children": [
           {
-            "id": "125c186f2c24b91d",
+            "id": "bd10c14b1f06de84",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Rough/2024-05-26.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c9e202a1e9da2293",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-Essays/Develop a feel for something.md",
+                "file": "2-Essays/Develop a feel for things.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Essays/Develop a feel for something.md",
+                "file": "2-Essays/Develop a feel for things.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Essays/Develop a feel for something.md",
+                "file": "2-Essays/Develop a feel for things.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Essays/Develop a feel for something.md"
+                "file": "2-Essays/Develop a feel for things.md"
               }
             }
           },
@@ -172,35 +159,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c9e202a1e9da2293",
+  "active": "bd10c14b1f06de84",
   "lastOpenFiles": [
-    "0-Rough/2024-05-26.md",
-    "2-Essays/Develop a feel for something.md",
-    "0-Rough/Order of operations.md",
-    "MAIN.md",
-    "1-Notes/Be more transparent.md",
-    "0-Rough/ELO rating theory (Winners take all).md",
-    "2-Essays/Winners take all.md",
-    "1-Notes/Universal incentives.md",
-    "0-Rough/Craft the best essay you possibly can.md",
-    "0-Rough/What I'm failing to communicate in Winners take all.md",
-    "0-Rough/Complexity and variability.md",
-    "0-Rough/2024-05-25.md",
-    "0-Inputs/Hemmingway advice.md",
-    "0-Inputs/Advice on writing.md",
-    "0-Rough/Oglivy on writing.md",
-    "0-Inputs/EB White on essays.md",
-    "0-Inputs/Orwell - why writers write.md",
-    "0-Rough/To improve (winners take all).md",
-    "2-Essays/Solve for people.md",
-    "2-Essays/Why we suck at rapid change.md",
-    "1-Internal notes/Reasons to write.md",
-    "0-Rough/Luck.md",
-    "0-Rough/Fairness (Winners take all).md",
-    "0-Rough/2024-05-24.md",
-    "0-Rough/Complexity (Winners take all) - Old.md",
-    "0-Rough/Big picture thoughts.md",
+    "Intuition “kick” (old).md",
+    "0-Inputs/On Jisnu.md",
+    "2-Essays/Develop a feel for things.md",
+    "0-Rough/2024-05-28.md",
+    "Productive phone.md",
+    "0-Inputs/\"But the people are retarded\" - OSHO.md",
+    "0-Inputs/Overestimating risk to democracy (Tyler Cowen).md",
+    "2024-05-28.md",
+    "0-Rough/2024-05-27.md",
+    "2-Essays/No room for average.md",
+    "0-Rough/Think big.md",
+    "0-Inputs/Old Irish farmer recounts the past.md",
+    "0-Inputs/Marlon Brando on Acting to survive.md",
     "0-Inputs/Screenshot 2024-05-16 at 9.00.30 AM.png",
+    "0-Inputs/writing/Advice on writing.md",
+    "0-Inputs/writing/Hemmingway advice.md",
+    "0-Inputs/writing",
+    "0-Inputs/writing/Orwell - why writers write.md",
+    "0-Inputs/memos/jobs-top-100.pdf",
+    "0-Inputs/memos/jobs-ibooks.pdf",
+    "0-Inputs/memos/katzenberg-disney.pdf",
+    "0-Inputs/writing/EB White on essays.md",
+    "MAIN.md",
+    "0-Inputs/memos/Stephen elop - burning platforms.md",
+    "0-Inputs/memos/Systrom and Zuck re. buying Insta.md",
+    "0-Inputs/memos/Zuck on Messenger ecosystem.md",
+    "0-Inputs/memos/Ben Horowitz - Good PM - Bad PM.md",
+    "0-Inputs/memos/Brian Armstrong for new PM.md",
+    "0-Inputs/memos/Yegge on Amazon vs. Google culture.md",
+    "0-Inputs/memos/Brad Garlinghouse \"Peanut butter memo\".md",
+    "0-Inputs/memos/Internal memos.md",
+    "0-Inputs/memos",
     "2-Essays",
     "0-Rough/Untitled.canvas",
     "1-Internal notes",
@@ -209,11 +201,6 @@
     "Untitled.canvas",
     "Screenshot 2023-09-06 at 10.02.35 AM.png",
     "creative-fields.png",
-    "xnote/xnote.xcodeproj/xcuserdata/karthikuppuluri.xcuserdatad/xcschemes/xcschememanagement.plist",
-    "xnote/xnote.xcodeproj/xcuserdata/karthikuppuluri.xcuserdatad/xcschemes",
-    "xnote/xnote.xcodeproj/xcuserdata/karthikuppuluri.xcuserdatad",
-    "xnote/xnote.xcodeproj/xcuserdata",
-    "xnote/xnote.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist",
-    "xnote/xnote.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/configuration"
+    "xnote/xnote.xcodeproj/xcuserdata/karthikuppuluri.xcuserdatad/xcschemes/xcschememanagement.plist"
   ]
 }

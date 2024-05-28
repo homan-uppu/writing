@@ -4,6 +4,7 @@
 - [I'd appreciate your feedback](https://jisnu.org/feedback)
 
 *Active*
+[Intuition](https://jisnu.org/intuition)
 [[Why we suck at rapid change]]
 [[Be more transparent]]
 [[Solve for people]]
@@ -12,7 +13,6 @@
 ---
 
 *Path to greatness:*
-- Build intuition.
 - Be more ambitious (Ambition is required more than ever)
 - Fear similarity (to the degree of leverage, for the things that matter)
 - Think more before you do

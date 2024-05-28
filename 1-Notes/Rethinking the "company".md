@@ -1,0 +1,2 @@
+- 4 year vesting, etc. is not going to cut it for the most ambitious companies. Need a better way to create a movement that lasts.
+- 

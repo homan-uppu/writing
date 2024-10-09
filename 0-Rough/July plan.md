@@ -1,0 +1,8 @@
+- Essays:
+	- AI scales intuition
+	- (How I built the MVP - a case study on the design process / iterations to arrive at the feed).
+- Ship the MVP for "intuition scaled". (I'm OK if this bleeds into July as long as I'm iterating well).
+- Big picture thinking
+	- The kind of company I want to help build.
+	- Co-founder only companies.
+	- Utilizing cheap labor to help train models.

@@ -1,0 +1,1 @@
+I think it's that I already have Obsidian. And as of now, I don't see a significant advantage over this setup. I feel like I'm e

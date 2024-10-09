@@ -1,0 +1,1 @@
+Just a relentless grind of absolute concentration. Laser focused on working towards shipping. No breaks unless absolutely required.

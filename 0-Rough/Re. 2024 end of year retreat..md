@@ -1,0 +1,13 @@
+I'm taking a long retreat to close off the year.
+
+I want to train my mind to be much better than what it is right now. "Better" in absolutely every sense of the word. I want to evolve myself.
+
+- **Strengthening the mind**. My mind is weak. It's impatient. It wants results quickly, without putting in the work to deserve those results. It's unable to stick to one thing and see it through. It craves change and novelty far beyond what is ideal. I often feel like I'm a slave to its whims and desires, and feel unable to direct the mind. I want the ability to direct the mind to do something diligently, perfectly for a long period of time and simply have it do it without fuss and friction. I no longer want to be a slave of my mind... I want to become its boss.
+- **Overcoming fear.** I have deep seated fear and anxiety that manifests in various ways. One of my strongest emotions. My fears hold me back tremendously. I must overcome them. And the most powerful way to overcome fear is to attack it at its source: at the level of reacting with fear to particular sensations that arise in the mind/body phenomena. There is no better way to tackle fear.
+- **Uncovering my natural expression.** have a nagging internal feeling that I'm living life according to the beliefs and ideals of others, that I've allowed myself to adopt subconsciously through the process of engaging with the world. We're hardwired to strive for external validation, for social status. This craving pulls us towards the games that the world plays. I have a feeling that I'm on track to spending my life according to the games that others have created for me to play. I feel that I'm far from the form of expression that is most natural to me. 
+- **Realizing my potential**. I believe that I have a karmic heritage that allows me to be a great communicator of ideas and feelings. But, that potential is coated with heaps and layers of unskillful habits that are preventing me from realizing my potential.
+- **Minimize dopamine addiction**. The past decade of seeking and consuming information on the internet has created a sort of addiction. Of course, all of us are addicted and thus we don't see it / treat it as addiction, but the reality is that this mind is much more addicted than my pre-internet mind.
+
+This process is going to be literal hell because you're going against the most core, fundamental, habit patterns of your mind. It's not going to be fun or easy in any sense.
+
+I'm fearing the process. But, I don't see any other way.

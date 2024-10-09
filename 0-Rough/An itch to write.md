@@ -1,0 +1,1 @@
+I feel a strong itch to write. Amen. So many ideas lurking through my mind. They're banging on the doors. Itching for an escape.

@@ -1,0 +1,1 @@
+https://www.youtube.com/@AndrejKarpathy/videos -> I want to go through these videos and actually train a language model. This is a necessary understanding to have.

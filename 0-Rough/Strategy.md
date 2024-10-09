@@ -1,16 +1,10 @@
-1. Figure out Twitch streaming format and create your set up to start streaming.
 
-Remember. **Dispassion. Indifference.**
+Do not get distracted. There is a clear path in front of you. You must walk it. There is no other way.
 
-Just stream the crap out of everything. That's all you have to do. Just focus on it one day at a time. And that's it. Don't think of tomorrow. Don't think about your "image" that you want to build in the coming weeks. This is just a fucking experiment. It means nothing. The results don't matter. Just try it out. Amen.
+I want to optimize for when I can start outreach. This is the only way to get in front of the people that I care about - until I have greater leverage (when people will start to come to me). In other words, I need a "product" that is worth reaching out with. That is the crux.
 
-And then: just hire someone to create "bits" from the streams to publish on YT / socials.
+The product in this case is writing. I'm going to write something that is incredibly valuable, that paints a vision of the future and how we will get there. And then I'm going to execute on it.
 
-That's all there is to it. 
+Embrace the solitude for this phase. There is no way around it until you break through. You need a solid product in order to have a fruitful outreach. And you can craft such a product with time and effort. You must. Have no craving for the results. Focus on the quality of your thinking, and deliver.
 
-Drop your ego. Drop all your plans. Just move. Put yourself in the open. Be vulnerable. That's it.
-
-And use your name: koopuluri. Just get over the internal frictions. Amen.
-
-Everything is super straightforward.
-
+This will take serious effort and discipline. I'm not going to waver from this writing path until I feel that I've fleshed out my worldview, and it's time to act on it. I'm not going to budge. This is when stubbornness is required. The strong determination. Grasping power. Amen.

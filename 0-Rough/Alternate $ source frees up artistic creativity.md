@@ -1,0 +1,1 @@
+There's one reason I think making money elsewhere could be useful: it frees the mind to experiment exactly how it wants to since you're not depending on the financial success of your art for stability.

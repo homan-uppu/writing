@@ -1,0 +1,1 @@
+https://genius.com/Peter-thiel-zero-to-one-chapter-8-secrets-annotated

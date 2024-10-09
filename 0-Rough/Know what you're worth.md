@@ -1,0 +1,17 @@
+*Image: 3 vertical bars, one too short, one too long, one just right.*
+
+Having an inaccurate understanding of how much you're worth to the world means that you're likely going to be taken advantage of by someone else.
+
+Imposter syndrome is prevalent. I've felt it, and it seems that most people feel it at some point or the other. Since most of us feel imposter syndrome to some extent, most of us tend to underestimate how much we're worth to the world, meaning you're not compensated adequately for what we bring to the table.
+
+A founding engineer at a startup who's basically building the first version of a product is almost certainly worth more than the equity they're being given relative to the founding team. It's a terrible deal when they contribute nearly equally and yet their equity is a fraction of the founder's equity. They think they're in it for the "learning" without realizing that even the founding team is also just "learning". [1]
+
+Star performers on any team are being incredibly under-compensated because they're likely contributing an order of magnitude greater than their teammates, while maybe being compensated a fraction more than them.
+
+The organizations you're a part of are incentivized to hide your true value from you because if you found out, you'd demand much more, or leave someplace where you're compensated what you're worth. You're fed lies such as "there's no 10x engineer", or that the best product managers aren't orders of magnitude better than the average. And you likely haven't met enough people to know that there does in fact exist outliers. You also won't be able to clearly compare the quality of your output with your peers. You may feel that your output is better, but it's difficult to see by what factor. And this opaqueness benefits the organization at your cost since you can't make a strong, objective argument that you are worth more.
+
+Of course, it's not possible to perfectly assess your true worth because we lack sufficient information, and because it's constantly changing. Someone who is a master of a certain craft might be worth much more than they think because the world is rapidly changing in a way that makes their skill more valuable - and they might not realize it because it's difficult to accurately predict the future.
+
+But there's a better way to be inaccurate: to bias upwards. By always believing in yourself more than you think you should. By always over-indexing your ability, you will tend to take more swings. You will tend to ask for more than you think you're worth. You will challenge the market to show you what you're truly worth. By under-indexing your ability, you will never challenge the market to show you what you're worth, and you will almost certainly be under-compensated.
+
+Biasing upwards also becomes a self-fulfilling prophecy: you will take more swings, and it is in the act of swinging that you maximize learning. You will actually become better more quickly because you believe in yourself more. If you're not as good as you think you are don't worry, the world will humble you quickly. There will always be a downward pressure to force you to confront what you actually are, rather than what you think you are. But there is no upward pressure: if you under-estimate your ability, few, if any, are incentivized to show you that you're worth more. Thus, the only way to really understand what you're worth is to believe you're much better than you feel you are.

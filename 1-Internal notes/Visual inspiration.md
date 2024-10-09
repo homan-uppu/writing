@@ -1,0 +1,1 @@
+![[Screenshot 2024-07-21 at 11.16.38 AM.png]](From the series "Shogun").e

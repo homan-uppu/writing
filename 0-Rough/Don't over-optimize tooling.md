@@ -1,0 +1,1 @@
+When the time is right, and AFTER you have written, experiment with AI writing feedback. And get it right in code BEFORE you even think about an "interface". Starting with the interface is somewhat problematic before you even know what the AI can offer. Amen.

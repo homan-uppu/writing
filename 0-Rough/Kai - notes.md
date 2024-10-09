@@ -1,0 +1,6 @@
+*A place for all of my thinking about Kai.*
+
+- A wise man who is misunderstood. Kids throwing stones at him. People generally disregarding him at best, and making fun of him often, and abusing him at their worst. Only a lone individual, and that too with great difficulty, recognizes who this person is, and the power that they command (the ability to command the animals and spirits of the forest).
+	- Generally this is what happens. We often mistake the wise to be crazy or to be a heretic because we simply don't understand their ways. Their way of life seems so weird.
+- Kai - a young protagonist who fears violence. But later it's revealed that it's not necessarily violence he fears, he actually fears his lust for violence. Violence is in his nature. A fundamental programming that can overpower him depending on the circumstance - no matter how hard he fights himself to not fight. Kai's inner conflict is the inner conflict that plagues the story. Kai's growth to being a fearful young man who can't control his rage, towards a powerful man who is in control of himself. The power shifting from Kai to the blade, and then back to Kai. The power too great to wield.
+- Yash - Kai's friend in Agnikonda, from a different tribe as Kai. Jovial. Outgoing. Seemingly fearless.

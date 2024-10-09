@@ -1,11 +1,7 @@
-# PV health
+OK, I suspect I have more severe metabolic syndrome than I had imagined. I suspect hypothyroidism, high blood pressure, quite severe brain fog w/ inability to concentrate, subdued mood (I wouldn't call it depression but it's strikingly far away from what my average mood used to be).
 
-My goal is to design and perfectly execute a health plan for this.
+I want to systematically identify my issues, and overcome them with the right plan (all natural).
 
-1. Diet.
-2. Exercises.
-3. Supplements.
-4. Fasting done right (get the refeeding to work well).
 
 ---
 
@@ -28,7 +24,7 @@ Keep building. Keep creating. Amen.
 -
 
 ## Fasting
-- Why not just fast every Sunday? Like, the entire day. A 2 day fast every week. (Bec. Sat eve, and then next meal is Mon eve). This would be incredibly beneficial.o
+- Why not just fast every Sunday? Like, the entire day. A 2 day fast every week. (Bec. Sat eve, and then next meal is Mon eve). This would be incredibly beneficial.
 
 ## Notes
 - This is definitely a PV dysfunction of sorts.

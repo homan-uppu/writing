@@ -1,0 +1,1 @@
+A wandering mind doesn't just waste time, it depletes energy.

@@ -1,0 +1,1 @@
+There is so much missing health just as a result of misunderstanding. Lack of awareness. Lack of knowledge. Lack of studying the great pool of knowledge available.

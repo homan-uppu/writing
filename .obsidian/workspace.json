@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "2a7abec2946f87ce",
+        "id": "1856e4f857215c6a",
         "type": "tabs",
         "children": [
           {
-            "id": "bd10c14b1f06de84",
+            "id": "32cd9730165fb30c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Essays/Develop a feel for things.md",
+                "file": "1-Notes/my retreat.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d232957002799b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-Rough/On writing during this retreat..md",
                 "mode": "source",
                 "source": false
               }
@@ -64,12 +76,24 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "17d006612c44652c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-Rough/2024-06-24.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 222.5
   },
   "right": {
     "id": "ec038bdad1d66462",
@@ -85,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Essays/Develop a feel for things.md",
+                "file": "1-Notes/my retreat.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Essays/Develop a feel for things.md",
+                "file": "1-Notes/my retreat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Essays/Develop a feel for things.md"
+                "file": "1-Notes/my retreat.md"
               }
             }
           },
@@ -146,8 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,48 +182,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bd10c14b1f06de84",
+  "active": "32cd9730165fb30c",
   "lastOpenFiles": [
-    "Intuition “kick” (old).md",
-    "0-Inputs/On Jisnu.md",
-    "2-Essays/Develop a feel for things.md",
-    "0-Rough/2024-05-28.md",
-    "Productive phone.md",
-    "0-Inputs/\"But the people are retarded\" - OSHO.md",
-    "0-Inputs/Overestimating risk to democracy (Tyler Cowen).md",
-    "2024-05-28.md",
-    "0-Rough/2024-05-27.md",
-    "2-Essays/No room for average.md",
-    "0-Rough/Think big.md",
-    "0-Inputs/Old Irish farmer recounts the past.md",
-    "0-Inputs/Marlon Brando on Acting to survive.md",
-    "0-Inputs/Screenshot 2024-05-16 at 9.00.30 AM.png",
-    "0-Inputs/writing/Advice on writing.md",
-    "0-Inputs/writing/Hemmingway advice.md",
-    "0-Inputs/writing",
-    "0-Inputs/writing/Orwell - why writers write.md",
-    "0-Inputs/memos/jobs-top-100.pdf",
-    "0-Inputs/memos/jobs-ibooks.pdf",
-    "0-Inputs/memos/katzenberg-disney.pdf",
-    "0-Inputs/writing/EB White on essays.md",
-    "MAIN.md",
-    "0-Inputs/memos/Stephen elop - burning platforms.md",
-    "0-Inputs/memos/Systrom and Zuck re. buying Insta.md",
-    "0-Inputs/memos/Zuck on Messenger ecosystem.md",
-    "0-Inputs/memos/Ben Horowitz - Good PM - Bad PM.md",
+    "0-Rough/On writing during this retreat..md",
+    "1-Notes/my retreat.md",
+    "0-Rough/i don't want to be social AT ALL right now..md",
+    "0-Rough/either ruminate in regrets, or ignore them and get to work..md",
+    "0-Rough/stop complaining.md",
+    "0-Rough/i feel like i'm close to something..md",
+    "1-Notes/America will colonize the world..md",
+    "1-Notes/We can't even see our programming.md",
+    "1-Notes/Discovery vs. creation.md",
+    "1-Notes/On healthy envy.md",
+    "1-Notes/Approach the clouds.md",
+    "1-Notes/Addiction epidemic..md",
+    "1-Notes/A free market of ideas.md",
+    "1-Notes/Intellectual vs. experiential knowledge.md",
+    "1-Notes/Teams fall from grace..md",
+    "1-Notes/The space to understand.md",
+    "1-Notes/Protecting attention.md",
+    "0-Rough/2024-09-02.md",
+    "0-Rough/2024-09-01.md",
+    "0-Rough/2024-08-31.md",
+    "0-Rough/Eve brainstorm sesh.md",
+    "0-Rough/Be open, yet aggresive.md",
     "0-Inputs/memos/Brian Armstrong for new PM.md",
-    "0-Inputs/memos/Yegge on Amazon vs. Google culture.md",
-    "0-Inputs/memos/Brad Garlinghouse \"Peanut butter memo\".md",
-    "0-Inputs/memos/Internal memos.md",
-    "0-Inputs/memos",
-    "2-Essays",
+    "0-Inputs/memos/Ben Horowitz - Good PM - Bad PM.md",
+    "0-Inputs/memos/Zuck on Messenger ecosystem.md",
+    "0-Rough/2024-08-30.md",
+    "0-Inputs/Eric-Jorgenson_The-Almanack-of-Naval-Ravikant_Final.pdf",
+    "0-Inputs/Six Easy Pieces ( PDFDrive ).pdf",
+    "0-Inputs/Hojoki+translation.pdf",
+    "0-Inputs/DFWThisIsWater.pdf",
+    "0-Inputs/writing/paul-graham-essays.pdf",
+    "craft",
+    "1-Notes/published",
     "0-Rough/Untitled.canvas",
-    "1-Internal notes",
-    "0-Inputs",
-    "1-Notes",
+    "0-Inputs/on-the-shortness-of-life.pdf",
+    "0-Inputs/Alexander_Christopher_Notes_on_the_Synthesis_of_Form.pdf",
+    "0-Inputs/Phillip Lopate - The Art of the Personal Essay 2.epub",
+    "0-Inputs/Screenshot 2024-05-16 at 9.00.30 AM.png",
+    "Screenshot 2024-07-21 at 11.16.38 AM.png",
     "Untitled.canvas",
     "Screenshot 2023-09-06 at 10.02.35 AM.png",
-    "creative-fields.png",
-    "xnote/xnote.xcodeproj/xcuserdata/karthikuppuluri.xcuserdatad/xcschemes/xcschememanagement.plist"
+    "creative-fields.png"
   ]
 }

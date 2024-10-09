@@ -1,0 +1,1 @@
+I'm trying to get better at writing at this point. Not coding. Shiiii.

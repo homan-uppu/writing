@@ -1,0 +1,9 @@
+- The only skill is the skill to get what you want.
+- When you want something, you generally have to understand how something in the world works in order to act in a way that gets you what you want.
+- If we observe the pattern our mind follows to understand, we'll see that it operates as if it's running a tree search algorithm.
+	- At each point, multiple possibilities. You pick one and you go one level deeper to find more possibilities.
+	- When something doesn't work, you backtrack upwards in the tree.
+	- Eventually you understand what you need to in order to act and get what you want.
+- This is the same process anyone anywhere for anything follows in order to get what they want. A filmmaker explores the possible stories, scenes, characters, etc. A startup founder explores the possible solutions for the problem they're tackling. Once they believe they have enough information to act, they act on their understanding to get what they want.
+- We just happen to categorize and label efforts into different industries, activities, etc. But fundamentally, we're all doing the same thing. The subconscious, intuitive mind doesn't distinguish between being a doctor vs. lawyer vs. startup founder vs. painter in the way that our intellectual mind does.
+- It excites me to know that we follow the same process for any endeavor because that means we ought to have a way to improve everything we do, if we can improve our fundamental ability to seek truth.

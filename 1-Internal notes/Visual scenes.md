@@ -1,0 +1,1 @@
+- The scene from the 1917 movie - protagonist's best friend saves the enemy only to have the enemy stab him after having been saved. Compassion is rewarded with death. Is there room for love in a brutal world?

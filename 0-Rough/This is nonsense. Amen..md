@@ -1,0 +1,1 @@
+Cut it the hell out. Amen.

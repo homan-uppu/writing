@@ -1,0 +1,3 @@
+1. **Eliminate all content consumption**. Entirely. Pretend you are in space with no internet connection.
+2. Produce **completed** "scripts" for videos, products, whatever. Completed scripts. No half baked "ideas", but rather fully fleshed out thinking about the problem you're tackling is, the product vision, sketches, etc. Such that you can take that and implement it.
+3. No turning on the internet until you've decided what you're going to create, why, and you have a clear vision to bring to life.

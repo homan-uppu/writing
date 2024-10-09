@@ -1,0 +1,1 @@
+There is so much arbitrage in access to knowledge. Just getting the right information, from the right sources, cleaning up and presenting in ways that actually bridge valuable knowledge gaps.

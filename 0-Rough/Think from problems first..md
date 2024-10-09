@@ -1,0 +1,3 @@
+- Loneliness
+- On creating
+- Discovering worthwhile knowledge.

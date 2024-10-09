@@ -1,0 +1,7 @@
+Making friends online is one of the most important skills today. There are incredible people online from all corners of the world who are likely much better matches for the kind of person you are, than the people you have access to in person (unless you're in a special city at a special time, but even then, it's likely true that your "best tribe" will consist of many people outside of where you live).
+
+My first experience of making an online friend was during my Halo 2 days. I would log in and play with this kid from somewhere in Europe. We would play and chat so often. Collaborating on a shared mission (to win matches) brought us close together.
+
+That's what I feel has worked best for me to connect with others: **collaborating towards a shared mission**. Random conversations and chatting don't get me far because I actually don't prefer random conversations. I'd like them to be directed towards creating something new in the world. A unique type of conversation. Like, I would hate just sitting and talking about which team would win the NBA championship. I would prefer to have no conversation than to have that one.
+
+It's time for me to build my online tribe of friends intentionally, thoughtfully. 

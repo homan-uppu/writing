@@ -1,0 +1,11 @@
+> In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious "tapes" would load it into one's brain like a program being loaded into a computer. That sort of thing is unlikely to happen anytime soon. Not just because it would be hard to build a replacement for reading, but because even if one existed, it would be insufficient. 
+- Start with a commonly held belief. Most of us have either already internalized that vision of knowledge absorption that happens automatically (i.e. Matrix). Then attack it. 
+
+> Reading about x doesn't just teach you about x; it also teaches you how to write.
+- "it also teaches you how to write" - is a perfect ending to the intro because it tells you what this essay is *actually* about. As he later reveals: writing well => thinking well, and thinking well is required to solve important problems (while hinting that it is incredibly valuable to want to and attempt to solve big problem). Basically a perfect setup for what's to come.
+	- But why did he have to take such a roundabout way to getting to writing = thinking well and why you need to think well? Because then he wouldn't have been able to highlight the importance of reading well in order to think well. He's already made the point that writing well => thinking well in previous essays. The purpose of this particular essays seems to be to highlight reading in that process as well, and hence need to start with the reading.
+
+> Would that matter? If we replaced reading, would anyone need to be good at writing?
+> The reason it would matter is that writing is not just a way to convey ideas, but also a way to have them.
+- Asking the question first before answering feels good. It's more natural than saying, say (writing as I would have written it):
+	- Not requiring reading means we wouldn't need to write. But that's a problem because writing isn't just a way to communicate ideas, it's also a powerful tool to generate ideas.

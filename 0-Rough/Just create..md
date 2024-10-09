@@ -1,0 +1,2 @@
+Start with writing since it's the most efficient form of creation.
+Just keep writing. Don't think of the outcomes. Don't think of anything. Just keep writing. Essays, product ideas, everything. And just publish it all under "Ji's notes"

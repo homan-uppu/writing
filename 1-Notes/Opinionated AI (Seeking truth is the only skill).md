@@ -1,0 +1,16 @@
+This is a **powerful essay**. This encapsulates all of my thinking about what seeking truth means - why it’s important - why all of us do it - and how our tools will evolve to help us seek truth. This is the train of thought that underpins the opinionated AI for builders.
+- What is truth?
+- Every question we ask is a search for what is true.
+- We all try to comprehend what is true.
+- People, theories, ideas compete with each other when we aren’t sure what’s true. Seeking truth is competition. When we’ve found truth, competition disappears and there’s only a single explanation.
+- For every truth we are certain of, there was likely great competition that led to us arriving at this truth.
+- Current LLMs are pretty good at explaining truths that we are already sufficiently certain of, but not truths that we aren’t sure of. For the latter, current LLMs spit out a non-answer, one that reinforces the status quo - which is almost certainly far from the truth. Hypothetically, if an LLM was trained on all discourse during the time of Galileo, it too would say that the sun revolved around Earth with religious explanations for why. (Can show this with a ChatGPT UI image with that conversation lol - that would drive the point home).
+- To add to the difficulty of seeking truth, often what is true cannot be expressed in words because the complexity of the data representation of language doesn’t _grow fast enough_ to be able to represent the truth for most questions - especially in regards to messy concepts such as feeling, and what people want.
+	- You can express the truth about code or water molecules, but it’s much tougher to express what people want - say what kind of music a certain group of people like, etc. Some truths are more difficult to represent in words. Some of the most valuable truths are incredibly difficult to express - which is why most of the greats rely on intuition, not intellectual theories that can be represented in words.
+	- Some of the most valuable truths are the ones that cannot be expressed in language.
+- The AI systems that help us seek truth for the questions we don’t know the answers to, will come off as opinionated, and will seem not “correct” by many - in the same way people that speak truths have historically been criticized, vilified, and even killed. 
+- But that is precisely why we need competing, opinionated AIs.
+- Until AI can think for itself and actually seek truth (and put some thinking into what this means: where we are and how to actually evolve to this), we will require competing, opinionated AIs that amplify a “take” on what is actually true, that can offer sophisticated explanations for why it believes what it does, grounded in what it believes to be true that led it to that conclusion.
+
+More (not sure if this belongs here or not):
+- When we don’t know what the truth is, we’re tempted to think that there are multiple ways of doing things that are equally good. But when you look closer, you’ll notice that multiple ways often contradict at some fundamental level (capitalism vs. communism, etc.). It’s not possible for both to be equally good, and it’s almost certainly the case that one is much better than the other (for any measure of “better”).

@@ -1,0 +1,8 @@
+- Two kinds of founders (no intuition, too much intuition).
+	- Creating for yourself.
+- Introvert / extrovert.
+- Maximizing transactions is all we want.
+- We're still stupidly early.
+	- AI
+	- Economy
+- 

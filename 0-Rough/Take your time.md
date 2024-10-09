@@ -1,0 +1,1 @@
+It's going to take time. Accept that first. You have much better taste now, but that means that you have to wait for the opportunity that meets your high bar. Amen. That is going to take time.

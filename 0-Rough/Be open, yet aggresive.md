@@ -1,0 +1,2 @@
+The combination is quite important.
+Start with the problem, not the solution. The current approach sub-par. Re-orient the mind and focus on a problem that is worth tackling and approach it with fresh eyes.

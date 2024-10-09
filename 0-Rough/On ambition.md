@@ -1,0 +1,1 @@
+Ambition changes the magnitude, not necessarily the direction.

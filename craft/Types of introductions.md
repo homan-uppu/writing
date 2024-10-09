@@ -1,0 +1,3 @@
+- Attack a commonly held belief. (e.g. [[The need to read (PG)]]).
+- Something that surprised me (e.g. [[Heresy (PG)]])
+- 

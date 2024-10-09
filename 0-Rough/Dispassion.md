@@ -1,3 +1,8 @@
+Isak Dinesen once said, “I write a little every day, without hope and without despair.” I write my ten pages the same way. Cool and detached. “Without hope and without despair” says it perfectly. I wake early each morning, brew a fresh pot of coffee, and work for four or five hours straight. Ten pages a day means three hundred pages a month. That works out to eighteen hundred pages in six months.
+- Murakami on how he writes.
+
+---
+
 This is my motto from here on out.
 
 I'm not passionate about it, I'm dispassionate.

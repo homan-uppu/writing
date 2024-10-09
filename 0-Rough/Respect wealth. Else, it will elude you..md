@@ -1,0 +1,1 @@
+I haven't had the necessary respect towards wealth that is required to actually obtain it. Steady the mind, and 

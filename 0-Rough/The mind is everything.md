@@ -1,3 +1,8 @@
+
+The mind is far more productive with the practice. The productivity is reflected in the quality of thinking (more positive), in patience. 
+
+---
+
 Training the mind for peace is the highest purpose.
 Because it will take care of serving others.
 

@@ -1,0 +1,3 @@
+> Pick one sentence (or a part of a sentence) in the following paragraph that you believe represents the essence of it. (i.e. the most important sentence).
+- This prompt has been pretty damn useful. When you ask an LLM to summarize a paragraph, it turns into corporate speak garbage. When you ask it to pick the most important sentence, it does a pretty good job. Of course, haven't tried this on crappy writing, but for PG's essays it works partly because PG does a great job having one sentence in most paragraphs that encapsulates the essence of that paragraph.
+- Would be interesting to construct an outline with the most important sentence from each paragraph. That would be a good "summary" of the essay: collection of the most important sentence in each paragraph.

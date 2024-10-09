@@ -1,0 +1,2 @@
+- Let us learn about the world alongside Kai. No over the top narrator that lays the setting and gives us information that we assume Kai already knows. Let the reveal be a part of the story.
+- 

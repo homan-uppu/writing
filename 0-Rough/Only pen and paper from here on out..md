@@ -1,0 +1,1 @@
+That is all I'm going to use. Just eliminate information consumption entirely. Amen.

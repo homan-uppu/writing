@@ -1,0 +1,2 @@
+- **Controlled vs. uncontrolled investments is the difference between silicon valley and wall street**. The latter only makes sense after the company / individual scales and matures, but in the initial stages having open, uncontrolled speculation kills the artistic, creative effort required to get to scale.
+	- This is a great way to frame the cultural clash.

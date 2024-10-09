@@ -1,0 +1,3 @@
+Seriously. I think it's really important to have your own space and vibe. Don't fall into the vibe / routine of some other organization. Doesn't enable you to find your own way. Don't work out of others' offices / coworking spaces. Always have some sort of minimal space for yourself. That's the way to go about it.
+
+My current office space is absolutely perfect. This literally has everything I need. Couldn't have asked for anything more.

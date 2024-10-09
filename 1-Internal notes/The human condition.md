@@ -1,0 +1,17 @@
+- Man: "I am something". The universe: "You are nothing". This tension pervades our existence.
+- Our craving for fleeting status. Once we get it we don't have the satisfaction we thought it would give us. It is not in our control.
+- *The world doesn't care about you unless you serve the world*.
+- *Go hard. Or go home*.
+- Whoever keeps their sanity longer wins. It's a game of survival.
+- *Fickle mind*. Constantly changing what it wants. How it feels. A monkey mind. There's no such thing as sanity.
+- Hiding what we truly feel. On the one hand we want to express ourselves and be "authentic", on the other hand we have a deeply rooted programming to adhere to social norms - whatever that may be. Being ostracized in the past meant death. Our survival instinct prevents us from being truly original.
+	- We want to be seen as original without being crazy.
+	- The balance between our independence and being a member of a community.
+- *Hypocrisy*. 
+- *All of us are walking contradictions.* We say we want one thing, but do the exact opposite.
+- *Split personality*. We are all multiple people. In different moments, different parts of us come to the surface, and exhibit different personalities.
+- *We are not what we think we are.* Our real "selves" are incredibly messy. Inconsistent. Lying. Scheming. Virtue signaling.
+- *We are all inherently selfish.* We care about no one other than ourselves. Even when - especially when - you think you're being selfless. (I really like the Seinfeld episode with Babu Bhatt - when Jerry pokes fun at how he thinks he's great and special).
+- *We have incredible potential. We are nothing.* This dichotomy co-exists.
+- *We don't think for ourselves*. We simply regurgitate what we heard from others.
+- *We're all living in our own worlds.* In the same frame you have a couple screaming at each other, crying, and in the backdrop you could have a family laughing their hearts out over dinner, while in the opposite corner a sad boy and his mother are handing out flyers to ask for help finding their lost puppy, and in the bottom right there's an old Chinese grandpa squeezing a lottery ticket in his hands as he eagerly awaits the winning numbers unfolding on the TV in front of him. All different experiences. All different world. Different universes. With each individual the center of their own universe. In their universe, nothing is more important than themselves.

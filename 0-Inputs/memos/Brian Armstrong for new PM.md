@@ -1,13 +1,13 @@
 My goal is to set you up for success as a new product manager.
+
 First, you’re going to have to dedicate yourself to the art of product management. It is
-one of those things, like people management, that seems simple, but can take many years
-to really master. The only way to learn it is to actually do it.
+one of those things, like people management, that seems simple, but can take many years to really master. The only way to learn it is to actually do it.
+
 That being said, reading about it and learning from others does help. One suggestion
 would be to speak with 2–3 product managers (here or at other companies) to get their
-view. Become a knowledge sponge. Copy others before you try to find your own voice and
-do something unique (that can come after you’ve achieved mastery).
-The main parts of the job in my view are:
+view. Become a knowledge sponge. Copy others before you try to find your own voice and do something unique (that can come after you’ve achieved mastery).
 
+The main parts of the job in my view are:
 - Understand the customer deeply — this means user studies, you have to go talk to the users every week and spend a lot of time with them to hear their pain, get inside their head.
 - Be metrics driven , you should be using time series data to give you insight into what people are doing with the product and see if the changes you are making are improving things. If you haven’t instrumented the app and chosen a metric you want to improve, you are just guessing.
 - The product manager is responsible for prioritizing the product roadmap and communicating it to the team. Not as a top down dictator, but as a consensus builder amongst all the stakeholders, breaking a tie when necessary.

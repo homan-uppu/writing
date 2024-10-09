@@ -1,0 +1,1 @@
+I want to have a more free flowing writing voice, that's more infused with my personality.

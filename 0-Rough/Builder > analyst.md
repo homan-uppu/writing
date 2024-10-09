@@ -1,0 +1,2 @@
+Remember to be in the arena.
+Analysis is a temporary phase that I'm using to bring clarity to the building path. Do not identify with analysis. Only identify with actually building the future you want to see.

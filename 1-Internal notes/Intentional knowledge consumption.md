@@ -1,0 +1,1 @@
+From here on out, I want to eliminate frivolous content consumption. I want to learn in an organized way. I want to take notes. I want to keep track of what I've learned. I want to build depth.

@@ -1,0 +1,1 @@
+https://www.solarissociety.org/ -> seems like a great way to find roommates if needed - when the time is right.

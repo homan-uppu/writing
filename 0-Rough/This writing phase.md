@@ -1,0 +1,1 @@
+OK. Maybe keyboard is nice too :p. Lol. Fucking phases bro. Fucking phases. Just keep at it.

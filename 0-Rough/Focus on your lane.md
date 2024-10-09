@@ -1,0 +1,1 @@
+Looking sideways, backwards or anyplace other than forward isn't productive. Eliminate that.

@@ -1,0 +1,1 @@
+Put out many words this year. Just keep publishing your ideas no matter what. Just keep going at it.

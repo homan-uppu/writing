@@ -1,0 +1,1 @@
+“When everyone is trying to be something, be nothing. Range with emptiness. Human should be like a pot. As the pot is hold by its emptiness inside, human is hold by the awareness of his nothingness.”

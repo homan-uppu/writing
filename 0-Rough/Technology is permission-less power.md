@@ -1,0 +1,1 @@
+What has always attracted me towards technology, and especially building technology, is that it's the most powerful means to enact change in the world.

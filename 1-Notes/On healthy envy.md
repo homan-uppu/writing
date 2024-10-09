@@ -1,0 +1,1 @@
+- There's a positive sort of envy, and then it can turn negative when it holds us back.

@@ -1,0 +1,1 @@
+Today I'm going to be laser focused on the essay tokenized individual. any thought that isn't aligned with this topic, that i still find useful, i'm going to note separately, and quickly get back to this topic.

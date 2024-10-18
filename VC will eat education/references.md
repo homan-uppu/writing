@@ -1,0 +1,1 @@
+https://www.tampabay.com/opinion/thinking-too-highly-of-higher-education/2207911/ (Thinking too highly of higher education - Peter Thiel).

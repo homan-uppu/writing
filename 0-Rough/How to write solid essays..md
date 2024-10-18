@@ -1,0 +1,2 @@
+1. Spend a lot of time on the title and intro. - getting these right will lay the structure for the entire essay.
+2. try not to get too stuck in letting the words flow for the first draft. seeing where your mind naturally goes is a good way to sense what you find important for this topic.

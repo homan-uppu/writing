@@ -1,0 +1,1 @@
+bringing something new to the world that not many people have done, is one of the most challenging things. a new book, product, video, essay, whatever it is, there's just this interesting thing that is happening

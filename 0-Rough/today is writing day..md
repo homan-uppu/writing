@@ -1,0 +1,1 @@
+i'm going to focus on writing. later in the day will sit for a couple more hours. but besides that, from here on out, i'm just going to write. i feel the need to do this. a lot of thoughts rambling in the mind. want to give them structure.

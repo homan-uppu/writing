@@ -1,0 +1,3 @@
+- David Perrell.
+- Peter Thiel.
+- https://x.com/desaiashu: started MakeSchool - an accredited CS program to replace college, but eventually shut down.

@@ -1,0 +1,1 @@
+1. no regrets. what's happened has happened. you've made mistakes. work to not make them again.

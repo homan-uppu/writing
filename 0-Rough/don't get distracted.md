@@ -1,0 +1,3 @@
+i want you to write and publish "tokenized individual" essay before doing anything else. i need to see things through, not just jump from one thing to the next at random. once this is thought through and published, you will have the ability to think of the next thing.
+
+and, the publishing of the idea must be very high quality. appropriate diagrams, animations where it would help. the entire look and feel must be incredible.

@@ -1,0 +1,1 @@
+i'm going to improve my operating efficiency. no wasted thinking starts with no wasted words. don't talk to people about random stuff. stay focused.

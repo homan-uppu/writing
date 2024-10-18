@@ -1,0 +1,5 @@
+### Day 5
+- body finally settling into one meal a day, and no caffeine. still have withdrawal symptoms, but getting easier to manage.
+- i'm realizing that this is exactly what i need: the opportunity to face all of my addictions head on and deal with the withdrawal symptoms so that i can slowly tame my mind. this is an incredibly beneficial process and it's just getting started.
+- i think it will get easier from here on out. every day that i win over my mind, the mind becomes that much easier to tame. damn, this is such a necessary process for me. i can't imagine anything healthier that i could do. stay put brother. stay put until you have escape momentum. there's no need to do anything outside of that.
+- the mind is wavering. it sometimes shivers, and it sometimes jumps in delight. the serene balance is difficult to find, but find it i must.

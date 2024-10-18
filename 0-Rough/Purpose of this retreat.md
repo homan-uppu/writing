@@ -1,0 +1,4 @@
+1. **To build the muscle of seeing things through**. To be able to focus on one thing at a time, and say NO to everything else.
+2. **To establish my mind in the practice**: Sila, Samadhi, Panna, with a serious emphasis on Sila, and Samadhi - to build an exceptionally sharp mind by practicing Jhana. I want to train a mind that can pierce through unnecessary imaginations and ground me in my immediate surroundings, and the immediate task in front of me - i.e. that can ground me in reality, at will.
+
+That's it. I'm going to give this phase as long as it takes - until I sufficiently build these muscles (which are actually one and the same if you think about it).

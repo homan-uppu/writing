@@ -4,34 +4,61 @@
     "type": "split",
     "children": [
       {
-        "id": "1856e4f857215c6a",
+        "id": "d8cb38acf9acd87e",
         "type": "tabs",
         "children": [
           {
-            "id": "32cd9730165fb30c",
+            "id": "68a42e180a2e3c9c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-Rough/Obsess over perfection.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "82f0194fddf54b52",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Notes/my retreat.md",
+                "file": "VC will eat education/Draft 1 - Venture capital will eat education.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4d232957002799b3",
+            "id": "756b3c8fc0479723",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Rough/On writing during this retreat..md",
+                "file": "0-Rough/Purpose of this retreat.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bfb08f5af906a7b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-Rough/How to write solid essays..md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 300.5
   },
   "right": {
     "id": "ec038bdad1d66462",
@@ -109,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Notes/my retreat.md",
+                "file": "VC will eat education/Draft 1 - Venture capital will eat education.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Notes/my retreat.md",
+                "file": "VC will eat education/Draft 1 - Venture capital will eat education.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Notes/my retreat.md"
+                "file": "VC will eat education/Draft 1 - Venture capital will eat education.md"
               }
             }
           },
@@ -182,34 +209,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "32cd9730165fb30c",
+  "active": "82f0194fddf54b52",
   "lastOpenFiles": [
-    "0-Rough/On writing during this retreat..md",
-    "1-Notes/my retreat.md",
-    "0-Rough/i don't want to be social AT ALL right now..md",
-    "0-Rough/either ruminate in regrets, or ignore them and get to work..md",
-    "0-Rough/stop complaining.md",
-    "0-Rough/i feel like i'm close to something..md",
-    "1-Notes/America will colonize the world..md",
-    "1-Notes/We can't even see our programming.md",
-    "1-Notes/Discovery vs. creation.md",
-    "1-Notes/On healthy envy.md",
-    "1-Notes/Approach the clouds.md",
-    "1-Notes/Addiction epidemic..md",
-    "1-Notes/A free market of ideas.md",
-    "1-Notes/Intellectual vs. experiential knowledge.md",
-    "1-Notes/Teams fall from grace..md",
-    "1-Notes/The space to understand.md",
-    "1-Notes/Protecting attention.md",
-    "0-Rough/2024-09-02.md",
-    "0-Rough/2024-09-01.md",
-    "0-Rough/2024-08-31.md",
-    "0-Rough/Eve brainstorm sesh.md",
-    "0-Rough/Be open, yet aggresive.md",
-    "0-Inputs/memos/Brian Armstrong for new PM.md",
-    "0-Inputs/memos/Ben Horowitz - Good PM - Bad PM.md",
-    "0-Inputs/memos/Zuck on Messenger ecosystem.md",
-    "0-Rough/2024-08-30.md",
+    "0-Rough/Why venture capital will eat education.md",
+    "VC will eat education/Draft 1 - Venture capital will eat education.md",
+    "0-Rough/Obsess over perfection.md",
+    "0-Rough/serious anxiety within myself.md",
+    "0-Rough/Purpose of this retreat.md",
+    "0-Rough/I want to share my ideas with the world.md",
+    "0-Rough/Quite compounding in life.md",
+    "0-Rough/How to write solid essays..md",
+    "0-Rough/On committing to see things through..md",
+    "VC will eat education/draft (tokenized individual).md",
+    "0-Rough/daily schedule.md",
+    "0-Rough/Untitled 95.md",
+    "IDEAS.md",
+    "0-Rough/complete focus on one thing at a time..md",
+    "0-Rough/the road to recovery is long.md",
+    "VC will eat education/references.md",
+    "0-Rough/one thing at a time..md",
+    "0-Rough/on wandering mind.md",
+    "0-Rough/Untitled 94.md",
+    "VC will eat education/overview.md",
+    "0-Rough/what i'm going to focus on.md",
+    "0-Rough/calm vs. panicking mind..md",
+    "0-Rough/there is so much value in operating long-term..md",
+    "0-Rough/something every single day..md",
+    "MAIN.md",
+    "1-Internal notes/Retreat reflections.md",
+    "VC will eat education",
+    "Screenshot 2024-07-21 at 11.16.38 AM.png",
     "0-Inputs/Eric-Jorgenson_The-Almanack-of-Naval-Ravikant_Final.pdf",
     "0-Inputs/Six Easy Pieces ( PDFDrive ).pdf",
     "0-Inputs/Hojoki+translation.pdf",
@@ -220,9 +249,7 @@
     "0-Rough/Untitled.canvas",
     "0-Inputs/on-the-shortness-of-life.pdf",
     "0-Inputs/Alexander_Christopher_Notes_on_the_Synthesis_of_Form.pdf",
-    "0-Inputs/Phillip Lopate - The Art of the Personal Essay 2.epub",
     "0-Inputs/Screenshot 2024-05-16 at 9.00.30 AM.png",
-    "Screenshot 2024-07-21 at 11.16.38 AM.png",
     "Untitled.canvas",
     "Screenshot 2023-09-06 at 10.02.35 AM.png",
     "creative-fields.png"

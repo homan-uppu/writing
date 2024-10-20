@@ -1,0 +1,1 @@
+That's all that matters. Just keep chipping away at the same thing for a long enough time. That's all it takes. I'm committing. I'm going to do this.

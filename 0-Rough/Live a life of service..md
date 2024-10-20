@@ -1,0 +1,1 @@
+Make use of every morsel of food, every drop of water that flows through your body to train the mind to surrender and live selflessly. There is no peace when the self imposes itself in everything that you do.

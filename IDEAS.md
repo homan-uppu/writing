@@ -1,6 +1,17 @@
+
+## Pipeline
+- Why venture capital will eat education
+- Seeking truth is the only skill
+- Age of the individual brand
+	- Yeah, I want to commit to this as well. There is something here that I really want to unpack. Inspired by: https://cozyleigh.studio/ - Maisy Leigh. An incredible, multi-disciplinary creator with her on unique individual brand that simply cannot be copied. It's powerful.
+	- This may not become a full fledged essay... perhaps more of an aside. But, explore it nonetheless and decide how I should express my thoughts about this.
+
+---
 ## personal
 - on mastering the mind, and why this is my highest priority.
 ## product related
+- Publishing schedules prevent great work.
+- [[The pursuit of beauty.]]
 - utility wins at the end of the day
 	- why we will welcome AI with open arms even if there's a looming possibility of calamity on the horizon. short term utility > ambiguous long-term problem.
 - tokenized individual - (this is the start of a fractal exploration of topics)

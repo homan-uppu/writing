@@ -2,11 +2,13 @@ The traditional education system fails because it isn't the right business model
 
 As ROI for paying for education plummets as our work becomes more creative, less people will pay for education.
 
-I'm already starting to see a few sharp young high schoolers figure out this reality and are working incredibly hard to directly create value in the world through online businesses and startups. I'd bet we'll see a many younger startup / business founders in the coming years.
+I'm already seeing sharp young high schoolers figure out this reality who are working incredibly hard to directly create value in the world through online businesses and startups. I'd bet we'll see a many younger startup / business founders in the coming years.
 
-But, we still have a big problem. Building businesses / startups is one path out of many interesting, valuable paths that an individual can take. What about those that show signs of great potential, but aren't yet ready to start a company, or don't want to. Maybe they're interested in deep tech research (https://x.com/hud_zah/status/1827057785995141558) that will take them a much longer time to get good at compared to learning how to ship apps. Or maybe they want to become an economic author and want to be able to spend a year or two studying the world. Or maybe they're a budding podcaster who wants to explore their natural curiosities by talking to interesting people (https://meridian.mercury.com/dwarkesh-patel).
+But, we still have a big problem. Building businesses / startups is one path out of many interesting, valuable paths that an individual can take. What about those that show signs of great potential, but aren't yet ready to start a company, or don't want to. Maybe they're interested in deep tech research (https://x.com/hud_zah/status/1827057785995141558) that will take them a much longer time to get good at compared to learning how to build apps. Or maybe they want to become an economic author. Or maybe they're a budding podcaster who wants to explore their natural curiosities by talking to interesting people (https://meridian.mercury.com/dwarkesh-patel).
 
-Some valuable paths take longer to come to fruition. Yet, these individuals too will create generational companies, achieve scientific breakthroughs and artistic achievements, though they're not in a position to start a company today and raise money for it. As of today, such individuals have two options: rely on family wealth to fund their explorations, or rely on grants (such as the Thiel Fellowship and Emergent ventures). If they don't have access to capital to fund their learning, they're at a severe disadvantage because that means they can only follow their natural curiosities outside of the time they have to spend dealing with the traditional education system.
+Some valuable paths take longer to come to fruition and are less investable in the traditional startup investing sense. Yet, these individuals too will create generational companies, achieve scientific breakthroughs and artistic achievements, though they're not in a position to start a company today and raise money for it. 
+
+As of today, such individuals have two options: rely on family wealth to fund their explorations, or rely on grants (such as the Thiel Fellowship and Emergent ventures). If they don't have access to capital to fund their learning, they're at a severe disadvantage because that means they can only follow their natural curiosities outside of the time they have to spend dealing with the traditional education system.
 
 I see this as a massive problem for two reasons:
 1. There will be many talented young people who won't have the bandwidth for training and exploration.
@@ -16,7 +18,9 @@ We need a new technology. A new financial instrument that allows individuals to 
 
 A sharp, young writer, or builder, or scientist, or artist should be able to raise money today in exchange for equity in all (or some) of their future outcomes - which could be in the form of equity in the companies they will start or work for, equity in the public companies they invest in, or even equity in the other people this person will invest in down the line.
 
-Such a financial instrument is far more powerful than relying on grants because it takes advantage of human greed to make a profit, rather than on human benevolence. Greed scales. Greed is robust to economic downturns. Greed is reliable.
+Such a financial instrument is far more powerful than relying on grants because it takes advantage of human greed to make a profit, rather than on human compassion /  benevolence. 
+
+Greed scales. Greed is reliable. Greed is anti-fragile towards economic volatility
 
 We would see investors who, say, deeply understand software engineering, or building companies, or quantum mechanics, or content creation invest in people who show early promise in those domains, who have the potential to do incredible work down the line, in exchange for equity in their outcomes.
 

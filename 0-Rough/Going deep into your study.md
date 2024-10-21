@@ -1,0 +1,1 @@
+Going deep into anything boils down to a study of the mind and the self, because you constantly push up against the limits of the mind and self, and thus you have no choice but to train the primary tool with which you study anything: the mind.

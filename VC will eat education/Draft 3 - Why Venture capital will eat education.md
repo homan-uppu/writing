@@ -66,8 +66,4 @@ Studying startups is a great way to get a glimpse of the future because they are
 
 As this trend amplifies, the majority of graduates will struggle very hard to get a return on their investments on education. Any student considering taking out a loan to pay for an education should strongly reconsider.
 
-## Venture capital is the only business model that works
-
-Power law and venture capital are best friends. Having equity in the upside enables capital to flow into the hands of many players out of which most may not make it, as long as a few win big.
-
-Venture capital in education solves the problem of having to pay up front for education. Instead of taking out loans that will be impossible to pay off for most, aspiring builders, designers, marketers, etc. will "raise money" on their potential.
+## How I see it playing out

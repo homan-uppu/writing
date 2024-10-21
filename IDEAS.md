@@ -1,16 +1,14 @@
-
 ## Pipeline
 - Why venture capital will eat education
 - Seeking truth is the only skill
-- Age of the individual brand
-	- Yeah, I want to commit to this as well. There is something here that I really want to unpack. Inspired by: https://cozyleigh.studio/ - Maisy Leigh. An incredible, multi-disciplinary creator with her on unique individual brand that simply cannot be copied. It's powerful.
-	- This may not become a full fledged essay... perhaps more of an aside. But, explore it nonetheless and decide how I should express my thoughts about this.
+- [[age of the individual brand]]
 
 ---
 ## personal
 - on mastering the mind, and why this is my highest priority.
 ## product related
 - Publishing schedules prevent great work.
+- [[You cannot pick and choose what grows (everything deep connected).]]
 - [[The pursuit of beauty.]]
 - utility wins at the end of the day
 	- why we will welcome AI with open arms even if there's a looming possibility of calamity on the horizon. short term utility > ambiguous long-term problem.
@@ -31,5 +29,10 @@
 - an app in mac os (or a chrome plugin) that reads what's happening on screen and pops into picture whenever it thinks you're getting distracted. you have to then convince it that you're actually using it for positive purposes for it to leave you alone. UnhookedGPT. this actually makes sense - it allows for a much more granular way to prevent distractions without completely blocking sites that you may still need to visit in order to get your work done.
 - easy way to learn a new language / translation app to use when you're in a place where they speak a language you don't understand.
 #### big ideas.
+- **curated knowledge platform**. Curated by me. The best knowledge available on the internet for those trying to be 10^n. In the age of power laws, having the right mental models about how the world actually works is an invaluable aid.
+	- not just content, but also people. with my own (and AI) commentaries about why this knowledge is important / why the creator is someone worth trusting (i.e. what their background is, etc.).
+	- a focus on the timeless. the mental models that are relevant for at least a decade or so.
+	- this feels most resonant with my natural curiosities about the world. i could lean into this for life. dedicating my entire life towards such a worthwhile project.
+	- build slowly. allow the compounding to happen. be patient my friend.
 - tokenized individual: allow others to invest in you in exchange for equity in everything that you will own and create from that point onwards. - the economic infrastructure for the age of intelligence. the mechanism through which UBI will be offered to individuals.
 - a way for teams to create and manage knowledge bases to share with their users (or even internally). tools to add and manage what data the AI system is grounded on. and an absolutely stellar user experience. - there is a ton of value here. and this is the foundation to build more powerful AI systems, and experiences - down the line. there's something quite powerful here that is worth exploring. Vercel quality platform for building and managing AI agents. and perhaps also a place to have discussions. i would study how the Nextjs, and Midjourney ecosystems manage their communities. would be great learning.

@@ -5,7 +5,7 @@
 
 ---
 ## personal
-- on mastering the mind, and why this is my highest priority.
+- on **mastering the mind**, and why this is my highest priority.
 ## product related
 - Publishing schedules prevent great work.
 - [[You cannot pick and choose what grows (everything deep connected).]]
@@ -29,6 +29,7 @@
 - an app in mac os (or a chrome plugin) that reads what's happening on screen and pops into picture whenever it thinks you're getting distracted. you have to then convince it that you're actually using it for positive purposes for it to leave you alone. UnhookedGPT. this actually makes sense - it allows for a much more granular way to prevent distractions without completely blocking sites that you may still need to visit in order to get your work done.
 - easy way to learn a new language / translation app to use when you're in a place where they speak a language you don't understand.
 #### big ideas.
+- [[Power law productions, inc.]]
 - **curated knowledge platform**. Curated by me. The best knowledge available on the internet for those trying to be 10^n. In the age of power laws, having the right mental models about how the world actually works is an invaluable aid.
 	- not just content, but also people. with my own (and AI) commentaries about why this knowledge is important / why the creator is someone worth trusting (i.e. what their background is, etc.).
 	- a focus on the timeless. the mental models that are relevant for at least a decade or so.
@@ -36,3 +37,5 @@
 	- build slowly. allow the compounding to happen. be patient my friend.
 - tokenized individual: allow others to invest in you in exchange for equity in everything that you will own and create from that point onwards. - the economic infrastructure for the age of intelligence. the mechanism through which UBI will be offered to individuals.
 - a way for teams to create and manage knowledge bases to share with their users (or even internally). tools to add and manage what data the AI system is grounded on. and an absolutely stellar user experience. - there is a ton of value here. and this is the foundation to build more powerful AI systems, and experiences - down the line. there's something quite powerful here that is worth exploring. Vercel quality platform for building and managing AI agents. and perhaps also a place to have discussions. i would study how the Nextjs, and Midjourney ecosystems manage their communities. would be great learning.
+## stories i want to tell
+- the young drop out that finds his own path to success. that struggles to find the courage to follow his natural inclinations, his natural genius, his god given gifts, no matter what the world thinks of him. no matter how much the world shames him. a tribute to the the misfits, the rebels, the creatives, the crazy geniuses.

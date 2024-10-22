@@ -22,43 +22,43 @@
             }
           },
           {
-            "id": "2c86382a7e7888ed",
+            "id": "2216d77ddb877677",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VC will eat education/Draft 3 - Why Venture capital will eat education.md",
+                "file": "2-Essays/VC will eat education/Draft 5 - Why venture capital will eat education.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a28718d4b30bdfe1",
+            "id": "bbdc8ad4d251674c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VC will eat education/On presenting how VC will eat education.md",
+                "file": "2-Essays/VC will eat education/Draft 4 - Why venture capital will eat education.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bd7150fa13f838c7",
+            "id": "b0401b6a3950dae2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Rough/whatever brand should reflect power law.md",
+                "file": "2-Essays/VC will eat education/Draft 3 - Why Venture capital will eat education.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ec038bdad1d66462",
@@ -136,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VC will eat education/On presenting how VC will eat education.md",
+                "file": "2-Essays/VC will eat education/Draft 5 - Why venture capital will eat education.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VC will eat education/On presenting how VC will eat education.md",
+                "file": "2-Essays/VC will eat education/Draft 5 - Why venture capital will eat education.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VC will eat education/On presenting how VC will eat education.md"
+                "file": "2-Essays/VC will eat education/Draft 5 - Why venture capital will eat education.md"
               }
             }
           },
@@ -197,7 +198,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 342.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,36 +210,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a28718d4b30bdfe1",
+  "active": "2216d77ddb877677",
   "lastOpenFiles": [
-    "VC will eat education/Draft 3 - Why Venture capital will eat education.md",
-    "VC will eat education/On presenting how VC will eat education.md",
-    "0-Rough/whatever brand should reflect power law.md",
-    "0-Rough/on building my own personal brand.md",
+    "2-Essays/VC will eat education/Draft 4 - Why venture capital will eat education.md",
+    "2-Essays/VC will eat education/Draft 3 - Why Venture capital will eat education.md",
+    "2-Essays/VC will eat education/Draft 5 - Why venture capital will eat education.md",
+    "0-Rough/Don't worry about each section being too long..md",
+    "0-Rough/Untitled 98.md",
+    "0-Rough/Oh damn, this chai is bomb..md",
+    "0-Rough/pg - how to get startup ideas.md",
+    "0-Rough/Do not even think about the website or the presentation until the content is complete.md",
     "0-Rough/age of the individual brand.md",
-    "IDEAS.md",
-    "0-Rough/You cannot pick and choose what grows (everything deep connected)..md",
-    "0-Rough/personal brand approach.md",
+    "0-Rough/age of the individual..md",
+    "0-Rough/Stay on the DL until take-off..md",
+    "0-Rough/Get through the entire draft, come what may..md",
+    "0-Rough/the slow grind.md",
+    "0-Rough/focus and settle the mind..md",
     "0-Rough/Obsess over perfection.md",
-    "0-Rough/Going deep into your study.md",
+    "2-Essays/VC will eat education/asides.md",
+    "IDEAS.md",
+    "0-Rough/Power law productions, inc..md",
+    "0-Rough/nature is showing you the path. all you have to do is walk it..md",
+    "0-Rough/stilling of the mind..md",
+    "0-Rough/the stories i want to tell.md",
+    "0-Rough/The flow of the essay.md",
+    "2-Essays/VC will eat education/Intros iterations.md",
+    "2-Essays/VC will eat education/On presenting how VC will eat education.md",
+    "2-Essays/Seeking truth/references.md",
+    "0-Rough/be more secretive during this phase.md",
+    "2-Essays/Seeking truth",
     "Screenshot 2024-10-21 at 8.11.15 AM.png",
-    "0-Rough/On negative energy..md",
-    "0-Rough/where to conclude this essay?.md",
-    "0-Rough/Fancy desks, monitors, $1k chairs are overrated..md",
-    "0-Rough/jkfd.md",
-    "1-Notes/Personal site.md",
-    "0-Rough/this seating arrangement actually works well.md",
-    "0-Rough/Drink coffee, write and try not to meet a lot of people. - Bong joon ho..md",
-    "0-Rough/Keep iterating. Over and over again..md",
-    "0-Rough/Draft 2 - Venture capital will eat education.md",
-    "VC will eat education/Draft 1 - Venture capital will eat education.md",
-    "0-Rough/don't worry about how \"popular\" posts will be.md",
-    "0-Rough/one at a time.md",
-    "0-Rough/Live a life of service..md",
-    "0-Rough/I'm really settling into this place..md",
-    "0-Rough/Remember the muscle you're trying to build.md",
-    "0-Rough/On working on i.md",
-    "VC will eat education",
+    "2-Essays/VC will eat education",
     "Screenshot 2024-07-21 at 11.16.38 AM.png",
     "0-Inputs/Eric-Jorgenson_The-Almanack-of-Naval-Ravikant_Final.pdf",
     "0-Inputs/Six Easy Pieces ( PDFDrive ).pdf",
@@ -249,7 +251,6 @@
     "1-Notes/published",
     "0-Rough/Untitled.canvas",
     "0-Inputs/on-the-shortness-of-life.pdf",
-    "0-Inputs/Alexander_Christopher_Notes_on_the_Synthesis_of_Form.pdf",
     "0-Inputs/Screenshot 2024-05-16 at 9.00.30 AM.png",
     "Untitled.canvas",
     "Screenshot 2023-09-06 at 10.02.35 AM.png",

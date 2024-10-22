@@ -1,8 +1,8 @@
 {
   "accentColor": "#707070",
-  "theme": "system",
-  "baseFontSize": 16,
+  "theme": "moonstone",
+  "baseFontSize": 15,
   "cssTheme": "Minimal",
-  "textFontFamily": "",
+  "textFontFamily": "SF Pro",
   "interfaceFontFamily": "SF Pro"
 }

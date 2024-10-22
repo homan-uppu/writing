@@ -1,0 +1,1 @@
+I want to at least get all of the right thinking down. Can later focus on the ordering, what to cut, flow, etc. But, for now, get a single complete draft. That is the focus.

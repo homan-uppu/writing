@@ -2,11 +2,9 @@ Artificial intelligence is rapidly making knowledge work more creative by doing 
 
 Charging money in exchange for education only works when students have a reliable path to employment so that they can earn back their investment. But, as the creativity of our work increases, that reliability goes out the window **independent of the quality of the education program**. The fundamental nature of highly creative work doesn't allow for training people at scale reliably to be good enough at the skill, as I'll discuss below.
 
-Outcomes for creative work follow the power law distribution: most results will are captured by a small set of top performers. The more powerful AI becomes, the more extreme this power law becomes. This reduces the room for average performers to create value, and that most who pay up front to learn will struggle to earn back that investment.
+Outcomes for creative work follow the power law distribution: most results will are captured by a small set of top performers. The more powerful AI becomes, the more extreme this power law becomes. Therefore, the only viable business model for education will be venture capital: giving individuals capital to fund their learning, in exchange for equity in their outcomes.
 
-As all of our work becomes more creative, less reliable to train at scale, and has a power law distribution of outcomes: with the best orders of magnitudes better than the average, the only viable business model for education will be venture capital: giving individuals capital to fund their learning, in exchange for equity in their outcomes.
-
-In the age of intelligence, engineers, designers, analysts, product managers, researchers, and all the new roles that will be invented, will have to think like startup founders and raise money to fund their creative learning journeys, instead of paying to learn.
+In the age of intelligence, engineers, designers, analysts, product managers, researchers, and all the new roles that will be invented, will have to think like startup founders and raise money to fund their learning journeys, instead of paying to learn.
 
 ## No scalable, reliable way to train highly creative skills
 
@@ -52,6 +50,8 @@ We've seen this across the board in creative domains:
 - (mobile app downloads)
 - (companies - Peter Thiel quote).
 
+The more creative the skill is (i.e. the more complex the task is), the more extreme the power law distribution of outcomes: the top capture an even greater percentage of outcomes.
+
 As AI improves and makes knowledge work more creative, we will similarly find that the best are orders of magnitudes better than the average.
 
 We can already see this happening right now. After AI started helping us code, some software engineers that had a knack for picking it up and using it well, got insanely better than the rest of us. I don't think most people realize just how good the best engineers today are that are highly leveraged by the latest AI models (GPT-4 / Claude 3.5 Sonnet).
@@ -67,3 +67,5 @@ Studying startups is a great way to get a glimpse of the future because they are
 As this trend amplifies, the majority of graduates will struggle very hard to get a return on their investments on education. Any student considering taking out a loan to pay for an education should strongly reconsider.
 
 ## How I see it playing out
+
+The greatest "ed-tech" company won't even be seen as one. It'll be the one that can build and scale this way of investing in individuals.

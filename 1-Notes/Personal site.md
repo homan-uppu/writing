@@ -6,3 +6,5 @@
 
 I'm going to spend time thinking about how this site can best represent me. It will be my "calling card". It will be something that I share with others often. It will be a core part of my brand.
 
+## brand
+- 10^n: power law (capital). The 10^n is surrounded by all sides by the power law graph such that all the lines form to create a sort of square with a border radius. this feels right. the power law is what i'm basing all of my work for the world on. i'm betting the house on it.

@@ -1,0 +1,3 @@
+You can reuse it. You can build upon it. You can reference it and it will do its job over and over again: transmitting what you understand to others in the best possible way that you could have explained it (because you wrote it thoroughly).
+
+This is why it doesn't matter how long it takes for you to write this essay well. You have to endure until it is excellent. Until it makes abundant sense to you. Until you believe it is the best possible way to communicate the idea you're contemplating.

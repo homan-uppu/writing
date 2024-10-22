@@ -1,0 +1,1 @@
+But, no chai after noon bro. You have to stick to that. This is technically breaking the fast.

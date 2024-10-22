@@ -1,0 +1,3 @@
+I like it. One day at a time. Doing the same exact thing every day. Eating the same exact thing every day. This is how great work is done. In the mundane monotony lies the most profound achievements.
+
+I'm just going to keep at it. For as long as this takes for a breakthrough. Just keep at it. Could even be years. I'm OK with that because this feels like my natural expression. This is it though. Can't imagine exploring anything else :).

@@ -1,0 +1,5 @@
+This shift will invalidate the core business model for education: paying for it, because most people will be unable to recoup the investment in their education because they won't be compensated enough, if at all.
+
+It doesn't matter if it's the student paying for it, or the government or the educational institute (via income sharing agreements, or the like), because all of them depend on a sufficient number of graduates being good enough to recoup the money invested in their education. Most of the students who take out loans will be debt ridden. The governments that offer free education for students will incur a great deal of public debt without the returns, and the institutions that delay charging payments from students hoping to take a cut of their future compensations (capped) will go broke because most won't have meaningful future compensations.
+
+The only business model that works is to invest money into students, instead of asking it from them, in exchange for equity in their outcomes. For investors, those that become one of the best will more than compensate for the majority that won't.

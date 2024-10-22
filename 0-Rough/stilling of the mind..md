@@ -1,0 +1,2 @@
+the more still the mind becomes, the more it is able to follow its natural inclinations.
+the more it has the freedom to follow its natural inclinations, the more honest, and meaningful your self-expression becomes, and the more meaningful and worthwhile your work becomes.

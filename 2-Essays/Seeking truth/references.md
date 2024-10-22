@@ -1,0 +1,3 @@
+https://www.quantamagazine.org/srinivasa-ramanujan-was-a-genius-math-is-still-catching-up-20241021/ - Ramanujan is an excellent example of seeking truth through intuition. this is important to explore because there are no rules for seeking truth.
+
+https://www.asc.ohio-state.edu/kilcup.1/262/feynman.html - on following play to come to your own conclusions regardless of whether it's already been discovered before. those who seek truth through their natural inclinations will get much further than those who want to do so because they feel they should.

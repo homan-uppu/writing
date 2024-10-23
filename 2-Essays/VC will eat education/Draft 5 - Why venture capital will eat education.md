@@ -1,15 +1,17 @@
-As AI gets more powerful, most people won't be able to earn enough to recoup their investment in their education. AI attack's the core business model of education: paying for it.
+## Intro
+As AI gets more powerful, most people won't be able to earn enough to recoup their investment in their education because AI attacks the core business model of education: paying for it.
 
-This will happen because AI makes knowledge work (and eventually all work) more creative, by doing the less creative parts of it for us. The more creative our work becomes, the more its outcomes follow the power law distribution: the best capture the majority of the value created, and the median compensation becomes insufficient to live off of.
+This will happen because AI makes knowledge work (and eventually all work) more creative, by doing the less creative parts of it for us. The more creative our work becomes, the more its outcomes follow the power law distribution: the best capture the majority of the value created, and the median compensation becomes insufficient to live off of, let alone pay back education debt.
 
-In a world in which knowledge work is highly creative, the only business model for education that works is venture capital: putting money in the hands of students (instead of asking them to pay), in exchange for equity in their outcomes (the assets they will own in the future) because the few that strike big, will provide sufficient returns to compensate for the many that won't become good enough.
+In a world in which knowledge work is highly creative, the only business model for education that works is venture capital: putting money in the hands of students (instead of asking them to pay), in exchange for equity in their outcomes (i.e. some equity the assets they will own in the future) because the few that strike big, will provide sufficient returns to compensate for the many that won't become good enough.
 
-This essay is structured in 3 parts:
+This essay is structured in 4 parts:
 1. I start by establishing the relationship between creativity and the power law (and an insufficient median compensation), and why I believe they are impossible to disconnect from each other.
-2. Then, I explain how all knowledge work will become highly creative and hence will adopt the insufficient median come, which invalidates paying to learn as a viable business model for education. 
-3. Once it's abundantly clear that the current education system will collapse, I explore what the future of education will look like.
+2. Then, I explain how all knowledge work will become highly creative and hence will adopt the insufficient median compensation, which invalidates paying to learn as a viable business model for education.
+3. After establishing why I believe the above claims are true with a high degree of confidence, I explore why the education system is bound to collapse catastrophically.
+4. I explore what the future of education will look like.
 
-If you're already bought into 1, and 2, you might want to skim fast / skip it and go straight to 3.
+If you're already bought into 1, 2, 3, you might want to skim fast / skip it and go straight to 4.
 ## The power law dominates creative fields.
 
 We've already observed that the power law dominates all creative fields:
@@ -29,7 +31,7 @@ When I first came across this observation I was taken aback because it made it s
 Then I realized that the definition of what is considered sufficient changes rapidly in our modern world. As the rich create a market for more expensive cutting edge products and experiences, some of those innovations become so good that we all view them as necessities instead of luxuries, giving the rich unfair advantages. And while the median compensation may still afford the things that previous generations considered luxuries, it will never feel enough, increasingly so as we innovate more rapidly. In addition to this, there is still some element "taking from others". When a new product is created that is significantly better than what people already use, when people switch to it, the existing products do lose revenue. This also applies to content as well: when I find a new content creator covering the same topic as someone I already follow but in a way I find better, I'm more likely to switch over completely because I don't have time to watch both.
 
 There may be more reasons at play (which would be an interesting topic for an essay of its own), but regardless it's quite clear that as the skill becomes more creative, and the power law distribution of outcomes becomes more extreme, the median compensation falls.
-## Most won't make enough.
+## Why most won't make enough.
 
 Is it inevitable that most won't make enough in creative skills?
 
@@ -59,12 +61,12 @@ What's also important to notice that the median relative skill in Go is lower th
 
 I really like this example because the games have largely remained unchained for decades. Even with significantly better training by playing computers, and excellent coaching centers for the best players, we still find the power law distribution of outcomes. Even if we achieve AGI and give each player access to the greatest coach imaginable, we would still find a power law distribution proportional to the degree of creativity of the game.
 
-You cannot separate the power law distribution of productivity, and an insufficient median productivity (to live off of), for highly creative skills.
-
+The more creative a skill becomes, the more extreme the power law distribution of productivity, and a lower median productivity.
 ## All work will become highly creative.
 
-- Evidence: bootcamps, etc. The initial success and then failure is evidence of the shift.
-
+- Early signs of evidence:
+	- bootcamps, etc. The initial success and then failure is evidence of the shift.
+	- job hunting / evaluation will look like any artistic profession: what you've done, not based on any standardized assessment. (e.g. Why TripleByte failed).
 ## Collapse of our education system
 
 OK, so where are we? All knowledge work is going to become highly creative, and therefore the outcomes will follow the power law distribution, and the median compensation will be insufficient to be able to recoup their investment in education.
@@ -76,3 +78,7 @@ We will have a couple of things to explore that could still sustain the pay-to-l
 Only if these two approaches aren't viable that we can conclude that paying to learn (i.e. the core business model of the world's education system) will become invalid.
 
 ## Venture capital will eat education.
+## Concluding thoughts
+- These shifts have a much larger impact than education.
+- As I've been contemplating this topic for a while, I see the power law becoming more extreme everywhere and in every single thing that we do, directly proportional to how powerful AI becomes. It affects every aspect of our lives: how companies will be built, how companies hire talent, which cities and countries will quickly outpace the rest in their growth, how we make decisions: for any complex situation the gap between the best decision and the average decision is also growing, fundamentally changing the best strategy to work and get the things we want out of life.
+- Venture capital and the power law are best friends. Venture capital will eat the world.

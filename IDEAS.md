@@ -7,6 +7,7 @@
 ## personal
 - on **mastering the mind**, and why this is my highest priority.
 ## general
+- [[cultural conditioning]]
 - Optimizing for economic growth always wins.
 - Publishing schedules prevent great work.
 - [[You cannot pick and choose what grows (everything deep connected).]]

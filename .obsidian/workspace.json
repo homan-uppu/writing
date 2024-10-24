@@ -8,6 +8,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "6885db6d99135f7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-Inputs/mind/Ajahn Chah.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "68a42e180a2e3c9c",
             "type": "leaf",
             "pinned": true,
@@ -32,9 +44,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "511fa2f281ad963e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-Rough/Once you lay the foundation, the engine will start..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ab93e3bd26d133d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-Internal notes/There is no better place for the practice.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "26b011ae493f568c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IDEAS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,8 +144,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ec038bdad1d66462",
@@ -188,12 +235,23 @@
   },
   "active": "2216d77ddb877677",
   "lastOpenFiles": [
-    "0-Rough/the ideal environment for this phase..md",
-    "IDEAS.md",
+    "2-Essays/VC will eat education/Draft 4 - Why venture capital will eat education.md",
     "2-Essays/VC will eat education/Draft 5 - Why venture capital will eat education.md",
+    "0-Inputs/Dhyana.md",
+    "0-Inputs/Jensen Huang - leadership.md",
+    "0-Inputs/mind/Ajahn Chah.md",
+    "1-Internal notes/There is no better place for the practice.md",
+    "IDEAS.md",
+    "0-Rough/cultural conditioning.md",
+    "0-Inputs/mind/Bodhidharma - The Greatest Zen Master.pdf",
+    "0-Rough/Once you lay the foundation, the engine will start..md",
+    "1-Internal notes/Siror's chai wala - Jasveer's shop..md",
+    "0-Rough/There's also the question of delivery.md",
+    "0-Rough/There is nowhere else to go..md",
+    "0-Rough/Bring the mind back to here..md",
+    "0-Rough/the ideal environment for this phase..md",
     "0-Rough/Those who write well are the ones who just keep at it longer, and iterate.md",
     "0-Rough/It's OK. Some days are like this..md",
-    "2-Essays/VC will eat education/Draft 4 - Why venture capital will eat education.md",
     "2-Essays/VC will eat education/Draft 3 - Why Venture capital will eat education.md",
     "0-Rough/On the next steps.md",
     "0-Rough/this is the best position to use the laptop.md",
@@ -204,16 +262,6 @@
     "0-Rough/Untitled 98.md",
     "0-Rough/Oh damn, this chai is bomb..md",
     "0-Rough/pg - how to get startup ideas.md",
-    "0-Rough/Do not even think about the website or the presentation until the content is complete.md",
-    "0-Rough/age of the individual brand.md",
-    "0-Rough/age of the individual..md",
-    "0-Rough/Stay on the DL until take-off..md",
-    "0-Rough/Get through the entire draft, come what may..md",
-    "0-Rough/the slow grind.md",
-    "0-Rough/focus and settle the mind..md",
-    "0-Rough/Obsess over perfection.md",
-    "2-Essays/VC will eat education/asides.md",
-    "0-Rough/Power law productions, inc..md",
     "2-Essays/Seeking truth",
     "Screenshot 2024-10-21 at 8.11.15 AM.png",
     "2-Essays/VC will eat education",
@@ -226,7 +274,6 @@
     "craft",
     "1-Notes/published",
     "0-Rough/Untitled.canvas",
-    "0-Inputs/on-the-shortness-of-life.pdf",
     "0-Inputs/Screenshot 2024-05-16 at 9.00.30 AM.png",
     "Untitled.canvas",
     "Screenshot 2023-09-06 at 10.02.35 AM.png",

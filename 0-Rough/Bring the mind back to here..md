@@ -1,0 +1,1 @@
+There is nowhere you're moving anytime soon. Not until you've laid a strong enough foundation. So, stop thinking about the future and bring the mind back to the present moment - the only place where you can do work - the only refuge.

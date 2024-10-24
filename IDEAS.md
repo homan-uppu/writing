@@ -6,7 +6,8 @@
 ---
 ## personal
 - on **mastering the mind**, and why this is my highest priority.
-## product related
+## general
+- Optimizing for economic growth always wins.
 - Publishing schedules prevent great work.
 - [[You cannot pick and choose what grows (everything deep connected).]]
 - [[The pursuit of beauty.]]

@@ -1,0 +1,1 @@
+Your breakthroughs are not from location, they are from scrupulously following the guidelines of practice: Sila, Samadhi, Panna. 

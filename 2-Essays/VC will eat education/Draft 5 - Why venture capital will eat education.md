@@ -1,9 +1,10 @@
 ## Intro
-As AI gets more powerful, most people won't be able to earn enough to recoup their investment in their education because AI attacks the core business model of education: paying for it.
 
-This will happen because AI makes knowledge work (and eventually all work) more creative, by doing the less creative parts of it for us. The more creative our work becomes, the more its outcomes follow the power law distribution: the best capture the majority of the value created, and the median compensation becomes insufficient to live off of, let alone pay back education debt.
+As AI gets more powerful, most people won't make enough to be able to recoup their investment in their education.
 
-In a world in which knowledge work is highly creative, the only business model for education that works is venture capital: putting money in the hands of students (instead of asking them to pay), in exchange for equity in their outcomes (i.e. some equity the assets they will own in the future) because the few that strike big, will provide sufficient returns to compensate for the many that won't become good enough.
+This will happen because AI makes knowledge work (and eventually all work) more creative, by doing the less creative parts of it for us. The more creative our work becomes, the more its outcomes follow the power law distribution: the best capture the majority of the value created, and the median compensation becomes insufficient.
+
+In a world in which knowledge work is highly creative, the only business model for education that works is venture capital: putting money in the hands of students (instead of asking them to pay), in exchange for equity in their outcomes (i.e. a small equity in the assets they will own in the future). The few that strike big, will provide sufficient returns to compensate for the increasing many that won't become good enough.
 
 This essay is structured in 4 parts:
 1. I start by establishing the relationship between creativity and the power law (and an insufficient median compensation), and why I believe they are impossible to disconnect from each other.
@@ -11,7 +12,8 @@ This essay is structured in 4 parts:
 3. After establishing why I believe the above claims are true with a high degree of confidence, I explore why the education system is bound to collapse catastrophically.
 4. I explore what the future of education will look like.
 
-If you're already bought into 1, 2, 3, you might want to skim fast / skip it and go straight to 4.
+If you're already bought into the initial parts, you may want to skip straight to 4.
+
 ## The power law dominates creative fields.
 
 We've already observed that the power law dominates all creative fields:

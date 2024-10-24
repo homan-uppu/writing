@@ -83,13 +83,11 @@ What will happen when each engineer has access to models that are 10x more capab
 
 In other words, engineers, as AI becomes more capable, will operate like startup founders. And we know just how creative that is, and just how extreme the power law distribution of productivity is for that.
 
+There are early signs that this shift is well underway. As engineering is becoming more creative, coding bootcamps are going broke (https://x.com/gergelyorosz/status/1732876403626926300?s=46), more startups are hiring engineers the way you hire a creative: based on their portfolio, conversations and referrals alone without any kind of standardized exam (which is impossible for any creative skill). And junior engineers / new grads no longer have job opportunities because the baseline talent required is much higher than ever before. The less creative, work no longer exists.
+
 It's easy to see how a similar evolution will happen for all knowledge work. Designers who spend time tweaking layout properties in their design software will instead spend far more time on defining the brand, product, understanding users and crafting a compelling vision. Marketers instead of spending most of their time operating software, and doing the grunt work to implement marketing campaigns, will instead spend most of their time understanding and optimizing for the incredibly complex and changing human desire.
 
 The power law distribution of productivity will become un-imaginably steep. The right engineers, marketers, designers, or any role that we will invent, will be many, many orders more productive than the average.
-## Early signs of the rise in creativity.
-- Early signs of evidence:
-	- bootcamps, etc. The initial success and then failure is evidence of the shift.
-	- job hunting / evaluation will look like any artistic profession: what you've done, not based on any standardized assessment. (e.g. Why TripleByte failed).
 ## Collapse of our education system
 
 OK, so where are we? All knowledge work is going to become highly creative, and therefore the outcomes will follow the power law distribution, and the median compensation will be insufficient to be able to recoup their investment in education.

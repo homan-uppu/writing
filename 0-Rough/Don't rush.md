@@ -1,21 +1,20 @@
-I know you want to be throwing events for many people, etc. But don't rush it.
-Do it when the time is right. After you've built a bit of brand and put your voice into the world.
+As things start to click in my mind, I begin to feel this impatience: this desire to implement it as quickly as I possibly can. My mind becomes more rushed and anxious. And in that anxiety, my judgement suffers.
 
-Everything takes time and patience. Amen.
+I must train my ability to remain incredibly calm no matter the situation: in both failure and success. A calm mind sees clearly. And that clarity is invaluable. Especially as the power law becomes stronger because only the best execution will succeed.
 
-Earn your right to transition full time into content. Build good products first. This is your jam. Amen.
+With this direction, you have time. If you lay the foundation well, you will set yourself up to execute well for the foreseeable future. But, the foundation must be exceptionally strong.
 
-Do this really fucking well. Ship. A lot. Use this as the foundation.
+And yeah, laying this foundation is going to take weeks. Of course, I'm going to go as fast as I can, but I can't afford to sacrifice the balance of the mind. My calmness must not shake much, else judgement suffers and everything crashes.
 
-Build for yourself. And build really, really well (to the quality that you need it at in order to use it).
+1. **Lay the foundation** through writing and deep thinking.
+2. **Build an exceptional team.**
+3. **Gather support** from the best of the best. Raise fuel to tackle a long-term problem.
+4. **Execute relentlessly.**
 
-And master SwiftUI: get really fucking fast using it, coupled with a solid back-end in Nextjs. This combo, **combined with solid design chops is the way to go.**
+That's what the path looks like.
+The foundation is the most important. Take the time to get this right.
+And, the foundation is entirely writing. That's how you think things through well.
+There's really no other way.
 
-1. Build.
-2. Collaborate.
-3. Create content.
-4. Build community.
+You have the time to be calm. This is why you have to take a very long-term approach. It eases the mind. Yet, simultaneously, each week must be incredibly productive. But, first lay the foundation. And take all the time you want / need in order to do so. Any writing and exploration will not be wasted effort. Believe in yourself.
 
-These are the steps. Don't try rushing things. Build momentum (and your habits) slowly such that they will last. Amen.
-
-Can't think of anything else at the moment. Let's get to work! Amen.

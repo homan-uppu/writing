@@ -1,0 +1,6 @@
+I'm back on social media and it's def not helping in any meaningful way.
+Even when I'm consuming essays / articles that feel productive in the moment, I later realize that it's actually not that helpful.
+
+The most helpful thing that I can do right now is to write. There really is nothing more productive than to lay the foundation upon which I can build for the really long-term. That foundation is both the philosophical, ideas, and most importantly sufficiently training the mind to be able to build long-term and have the necessary concentration to be able to penetrate to the essence of things.
+
+Every consumption needs to be earned. Earn it by creating first, and then open yourself up to the internet in order to find the right distribution for the ideas. Else, all the internet does is attack your mind with all sorts of negativity. Not only does the internet have so much hate these days - esp given how polarized the world has become on politics, but it also triggers all the negativities inside of you: e.g. envy, anxiety, anger, sadness, etc. When you open yourself up to the content of the world, you also give a red carpet entry for the world's problems to just waltz right into your mind without any kind of guard at the front door!

@@ -1,10 +1,8 @@
-## Intro
-
 As AI gets more powerful, most people won't make enough to be able to recoup their investment in their education.
 
-This will happen because AI makes knowledge work (and eventually all work) more creative, by doing the less creative parts of it for us. The more creative our work becomes, the more its outcomes follow the power law distribution: the best capture the majority of the value created, and the median compensation becomes insufficient.
+This will happen because AI makes knowledge work (and eventually all work) more creative, by doing the less creative parts of it for us. The more creative our work becomes, the more outcomes follow the power law distribution: the best capture the majority of the value created, and the median compensation falls and eventually becomes insufficient.
 
-In a world in which knowledge work is highly creative, the only business model for education that works is venture capital: putting money in the hands of students (instead of asking them to pay), in exchange for equity in their outcomes (i.e. a small equity in the assets they will own in the future). The few that strike big, will provide sufficient returns to compensate for the increasing many that won't become good enough.
+In a world in which knowledge work becomes highly creative, the only business model for education that works is venture capital: putting money in the hands of students (instead of asking them to pay), in exchange for equity in their outcomes (i.e. a small equity in the assets they will own in the future). The few that strike big, will provide sufficient returns to compensate for the increasing many that won't become good enough.
 
 This essay is structured in 4 parts:
 1. I start by establishing the relationship between creativity and the power law (and an insufficient median compensation), and why I believe they are impossible to disconnect from each other.
@@ -14,7 +12,7 @@ This essay is structured in 4 parts:
 
 If you're already bought into the initial parts, you may want to skip straight to 4.
 
-## The power law dominates creative fields.
+---
 
 We've already observed that the power law dominates all creative fields:
 
@@ -33,7 +31,8 @@ When I first came across this observation I was taken aback because it made it s
 Then I realized that the definition of what is considered sufficient changes rapidly in our modern world. As the rich create a market for more expensive cutting edge products and experiences, some of those innovations become so good that we all view them as necessities instead of luxuries, giving the rich unfair advantages. And while the median compensation may still afford the things that previous generations considered luxuries, it will never feel enough, increasingly so as we innovate more rapidly. In addition to this, there is still some element "taking from others". When a new product is created that is significantly better than what people already use, when people switch to it, the existing products do lose revenue. This also applies to content as well: when I find a new content creator covering the same topic as someone I already follow but in a way I find better, I'm more likely to switch over completely because I don't have time to watch both.
 
 There may be more reasons at play (which would be an interesting topic for an essay of its own), but regardless it's quite clear that as the skill becomes more creative, and the power law distribution of outcomes becomes more extreme, the median compensation falls.
-## Why most won't make enough.
+
+---
 
 Is it inevitable that most won't make enough in creative skills?
 
@@ -66,7 +65,8 @@ I really like this example because the games have largely remained unchained for
 The more creative a skill becomes, the more extreme the power law distribution of productivity, and a lower median productivity.
 
 (todo: there's prob more to be said about the connection between productivity and outcomes).
-## All work will become highly creative.
+
+---
 
 So far we've only studied the behavior of highly creative skills. We've always had highly creative skills in the world, but only a small percentage of the world participated in them. Most did low creativity work, which is what enabled the middle class to rise: since the power law is minimal for low creativity work.
 
@@ -88,9 +88,5 @@ There are early signs that this shift is well underway. As engineering is becomi
 It's easy to see how a similar evolution will happen for all knowledge work. Designers who spend time tweaking layout properties in their design software will instead spend far more time on defining the brand, product, understanding users and crafting a compelling vision. Marketers instead of spending most of their time operating software, and doing the grunt work to implement marketing campaigns, will instead spend most of their time understanding and optimizing for the incredibly complex and changing human desire.
 
 The power law distribution of productivity will become un-imaginably steep. The right engineers, marketers, designers, or any role that we will invent, will be many, many orders more productive than the average.
-## Venture capital will eat education.
 
-## The power law is everywhere.
-- These shifts have a much larger impact than education.
-- As I've been contemplating this topic for a while, I see the power law becoming more extreme everywhere and in every single thing that we do, directly proportional to how powerful AI becomes. It affects every aspect of our lives: how companies will be built, how companies hire talent, which cities and countries will quickly outpace the rest in their growth, how we make decisions: for any complex situation the gap between the best decision and the average decision is also growing, fundamentally changing the best strategy to work and get the things we want out of life.
-- Venture capital and the power law are best friends. Venture capital will eat the world.
+---

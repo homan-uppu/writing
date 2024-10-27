@@ -1,0 +1,3 @@
+I need extremely high agency to be able to explore what I want when I feel that it's the right time for such an exploration. Without such agency, I feel that I'm disrespecting nature (/ god) because I'm not allowing nature's experiment to manifest. I have a certain set of mutations that makes me fundamentally unique - as are you. That uniqueness needs to have the space and opportunity to manifest.
+
+Doing something just to stand out is the same as copying. Your uniqueness shining is a natural expression. It would be the same even if a billion other people have the same expression. Or even if no one else has it. It comes when you're not conscious of how you'll be perceived, when you're not actively conscious about others' expressions and you only focus on yours.

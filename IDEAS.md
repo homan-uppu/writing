@@ -5,8 +5,13 @@
 
 ---
 ## personal
-- on **mastering the mind**, and why this is my highest priority.
+- on **mastering the mind**, and why this is my highest priority. Write this for yourself. No need to even share this with the world.
 ## general
+- [[A better way for creative teams to work]]
+- companies with only founders (founder-only-companies).
+	- building companies that stay relevant for decades.
+	- can't imagine starting a company without first thinking this through.
+- The era of American dominance. - this geopolitics is actually quite important to understand. And it's even more important to understand that America's "moat" isn't AI, or some other technology, but rather talent and its freedom to work on what they want. the free market is the moat.
 - [[cultural conditioning]]
 - Optimizing for economic growth always wins.
 - Publishing schedules prevent great work.
@@ -18,19 +23,19 @@
 - English driven programming. (a product exploration for what building apps ought to look like in the intelligence age). - just toying around with this idea.
 - praising Avi's ability to think big and why i feel we're missing more of this.
 - what i want in a co-founder.
-- companies with only founders (founder-only-companies).
-- building companies that stay relevant for decades.
 - it's a generalist's paradise.
 - in the long run product always wins.
-## product ideas
-#### small projects to get the juices flowing
+## small
+- [[Person DB - to grow relationships with the best.]]
+- Hire someone to chat with when you write: https://x.com/visakanv/status/1527658765058646021.
+- A simple person capture. with the same flow as saving to are.na / cosmos, but for individuals that I want to connect with.
 - xnote++ (revisit xnote and explore what this would look like today).
 - braindump.ai (the voice notes app) - build the best possible app to capture, sculpt, and share your thoughts. make it the best app in this category.
 - writing feedback copilot.
 - long-form writing platform (for things like Balaji's "Network state", or really any really long blogpost that deserves a great presentation).
 - an app in mac os (or a chrome plugin) that reads what's happening on screen and pops into picture whenever it thinks you're getting distracted. you have to then convince it that you're actually using it for positive purposes for it to leave you alone. UnhookedGPT. this actually makes sense - it allows for a much more granular way to prevent distractions without completely blocking sites that you may still need to visit in order to get your work done.
 - easy way to learn a new language / translation app to use when you're in a place where they speak a language you don't understand.
-#### big ideas.
+## big ideas
 - [[Power law productions, inc.]]
 - **curated knowledge platform**. Curated by me. The best knowledge available on the internet for those trying to be 10^n. In the age of power laws, having the right mental models about how the world actually works is an invaluable aid.
 	- not just content, but also people. with my own (and AI) commentaries about why this knowledge is important / why the creator is someone worth trusting (i.e. what their background is, etc.).

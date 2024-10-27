@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6885db6d99135f7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-Inputs/mind/Ajahn Chah.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "68a42e180a2e3c9c",
             "type": "leaf",
             "pinned": true,
@@ -30,59 +18,27 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Obsess over perfection"
             }
           },
           {
-            "id": "d397fd8114e2bfd3",
+            "id": "743078cf5fbc5843",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Essays/VC will eat education/Draft 5 - Why venture capital will eat education.md",
+                "file": "2-Essays/VC will eat education/Draft 6 (Why venture capital will eat education).md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "511fa2f281ad963e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-Rough/Once you lay the foundation, the engine will start..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3ab93e3bd26d133d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-Internal notes/There is no better place for the practice.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "26b011ae493f568c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IDEAS.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Draft 6 (Why venture capital will eat education)"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +58,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byModifiedTime"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -117,7 +75,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -125,7 +85,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
@@ -137,14 +99,17 @@
                 "file": "0-Rough/2024-06-24.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2024-06-24"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ec038bdad1d66462",
@@ -160,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Essays/VC will eat education/Draft 5 - Why venture capital will eat education.md",
+                "file": "2-Essays/VC will eat education/Draft 6 (Why venture capital will eat education).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +133,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Draft 6 (Why venture capital will eat education)"
             }
           },
           {
@@ -177,10 +144,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Essays/VC will eat education/Draft 5 - Why venture capital will eat education.md",
+                "file": "2-Essays/VC will eat education/Draft 6 (Why venture capital will eat education).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Draft 6 (Why venture capital will eat education)"
             }
           },
           {
@@ -191,7 +160,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -200,8 +171,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Essays/VC will eat education/Draft 5 - Why venture capital will eat education.md"
-              }
+                "file": "2-Essays/VC will eat education/Draft 6 (Why venture capital will eat education).md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Draft 6 (Why venture capital will eat education)"
             }
           },
           {
@@ -213,7 +186,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ],
@@ -233,37 +208,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d397fd8114e2bfd3",
+  "active": "743078cf5fbc5843",
   "lastOpenFiles": [
-    "0-Rough/Obsess over perfection.md",
-    "2-Essays/VC will eat education/Draft 5 - Why venture capital will eat education.md",
-    "2-Essays/VC will eat education/Draft 4 - Why venture capital will eat education.md",
-    "2-Essays/VC will eat education/Evidence.md",
-    "0-Inputs/Dhyana.md",
-    "0-Inputs/Jensen Huang - leadership.md",
-    "0-Inputs/mind/Ajahn Chah.md",
-    "1-Internal notes/There is no better place for the practice.md",
+    "0-Rough/Why I'll only work with, not for..md",
+    "2-Essays/VC will eat education/Draft 6 (Why venture capital will eat education).md",
+    "1-Notes/Personal site.md",
     "IDEAS.md",
-    "0-Rough/cultural conditioning.md",
-    "0-Inputs/mind/Bodhidharma - The Greatest Zen Master.pdf",
-    "0-Rough/Once you lay the foundation, the engine will start..md",
-    "1-Internal notes/Siror's chai wala - Jasveer's shop..md",
-    "0-Rough/There's also the question of delivery.md",
-    "0-Rough/There is nowhere else to go..md",
-    "0-Rough/Bring the mind back to here..md",
-    "0-Rough/the ideal environment for this phase..md",
-    "0-Rough/Those who write well are the ones who just keep at it longer, and iterate.md",
-    "0-Rough/It's OK. Some days are like this..md",
-    "2-Essays/VC will eat education/Draft 3 - Why Venture capital will eat education.md",
-    "0-Rough/On the next steps.md",
-    "0-Rough/this is the best position to use the laptop.md",
-    "0-Rough/Yeah, general political climate is kind of pessimistic and sad..md",
-    "0-Rough/Up the practice.md",
-    "0-Rough/alright. let's get it..md",
-    "0-Rough/Don't worry about each section being too long..md",
-    "0-Rough/Untitled 98.md",
-    "2-Essays/Seeking truth",
+    "0-Rough/A better way for creative teams to work.md",
+    "0-Rough/The worrying mind.md",
+    "0-Rough/Don't underestimate the written word..md",
+    "0-Rough/Untitled 103.md",
+    "0-Rough/Uttarkashi shopping.md",
+    "0-Rough/Obsess over perfection.md",
+    "2-Essays/VC will eat education/The punch (why VC will eat education).md",
+    "2-Essays/VC will eat education/Draft 5 - Why venture capital will eat education.md",
+    "2-Essays/VC will eat education/alternatives to VC for education.md",
+    "0-Rough/Finding a path to the conclusion.md",
+    "0-Rough/Untitled 102.md",
+    "0-Rough/writing agenda.md",
+    "0-Rough/Allow the mind to settle.md",
+    "0-Rough/Do you have any shopping in Uttarkashi?.md",
+    "0-Rough/Samadhi. Concentration. Absorption..md",
+    "0-Rough/Don't rush.md",
+    "0-Rough/Untitled 101.md",
+    "0-Rough/Honestly, there is no better angle to focus on than to work towards implementing the proposal in the essay.md",
+    "PHASE GOALS.md",
+    "0-Rough/Untitled 100.md",
+    "PEOPLE.md",
+    "MAIN.md",
     "Screenshot 2024-10-21 at 8.11.15 AM.png",
+    "0-Inputs/Summa_Technologiae_-_Zylinska,_Joanna,_Lem,_Stanislaw.pdf",
+    "0-Inputs/mind/Bodhidharma - The Greatest Zen Master.pdf",
+    "2-Essays/Seeking truth",
     "2-Essays/VC will eat education",
     "Screenshot 2024-07-21 at 11.16.38 AM.png",
     "0-Inputs/Eric-Jorgenson_The-Almanack-of-Naval-Ravikant_Final.pdf",
@@ -272,7 +248,6 @@
     "0-Inputs/DFWThisIsWater.pdf",
     "0-Inputs/writing/paul-graham-essays.pdf",
     "craft",
-    "1-Notes/published",
     "0-Rough/Untitled.canvas",
     "0-Inputs/Screenshot 2024-05-16 at 9.00.30 AM.png",
     "Untitled.canvas",

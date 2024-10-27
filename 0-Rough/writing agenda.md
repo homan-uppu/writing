@@ -1,0 +1,1 @@
+1. start with knocking out draft of final section: why venture capital will eat education.

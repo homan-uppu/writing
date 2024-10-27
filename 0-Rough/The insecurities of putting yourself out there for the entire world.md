@@ -1,0 +1,3 @@
+I'm beginning to understand why I'm so hesitant about making videos with me as the center. It's daunting because I know a part of my mind will start to obsess over how others will perceive me. I want that part to be weaker before I get started. But, here's the thing: the way you weaken that part is by starting and working with that feeling through the practice.
+
+You shouldn't let that prevent you from getting started if video truly is the right medium for you to express what you want to express.

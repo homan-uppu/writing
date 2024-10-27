@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "essays/VC will eat education/Draft 7 (Why venture capital will eat education).md",
+                "file": "essays/Why venture capital will eat education/Draft 7 (Why venture capital will eat education).md",
                 "mode": "source",
                 "source": false
               },
@@ -92,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 286.5
   },
   "right": {
     "id": "ec038bdad1d66462",
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "essays/VC will eat education/Draft 7 (Why venture capital will eat education).md",
+                "file": "essays/Why venture capital will eat education/Draft 7 (Why venture capital will eat education).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "essays/VC will eat education/Draft 7 (Why venture capital will eat education).md",
+                "file": "essays/Why venture capital will eat education/Draft 7 (Why venture capital will eat education).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "essays/VC will eat education/Draft 7 (Why venture capital will eat education).md"
+                "file": "essays/Why venture capital will eat education/Draft 7 (Why venture capital will eat education).md"
               },
               "icon": "lucide-list",
               "title": "Outline of Draft 7 (Why venture capital will eat education)"
@@ -191,7 +191,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e37392f3356ddef9",
+  "active": "8d50a295cda17f90",
   "lastOpenFiles": [
     "LEARN.md",
     "IDEAS.md",

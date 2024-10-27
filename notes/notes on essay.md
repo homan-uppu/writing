@@ -1,0 +1,1 @@
+- I don't think it makes sense to dive into the global rat race as part of this essay. Just jump straight into why the central redistribution isn't the best solution.

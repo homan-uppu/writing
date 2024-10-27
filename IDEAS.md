@@ -7,6 +7,7 @@
 ## personal
 - on **mastering the mind**, and why this is my highest priority. Write this for yourself. No need to even share this with the world.
 ## general
+- AI assisted writing.
 - [[A better way for creative teams to work]]
 - companies with only founders (founder-only-companies).
 	- building companies that stay relevant for decades.
@@ -46,3 +47,6 @@
 - a way for teams to create and manage knowledge bases to share with their users (or even internally). tools to add and manage what data the AI system is grounded on. and an absolutely stellar user experience. - there is a ton of value here. and this is the foundation to build more powerful AI systems, and experiences - down the line. there's something quite powerful here that is worth exploring. Vercel quality platform for building and managing AI agents. and perhaps also a place to have discussions. i would study how the Nextjs, and Midjourney ecosystems manage their communities. would be great learning.
 ## stories i want to tell
 - the young drop out that finds his own path to success. that struggles to find the courage to follow his natural inclinations, his natural genius, his god given gifts, no matter what the world thinks of him. no matter how much the world shames him. a tribute to the the misfits, the rebels, the creatives, the crazy geniuses.
+
+
+Old ideas: [[MAIN]].

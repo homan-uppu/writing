@@ -1,0 +1,1 @@
+need to crank brother. crank. think clearly, and grind it out. it's OK if it sucks, but it needs to first come out if i'm going to have a chance to sculpt it into its final form. push hard, and move faster on this.

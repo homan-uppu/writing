@@ -2,7 +2,7 @@
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "0-Rough",
+  "newFileFolderPath": "rough",
   "pdfExportSettings": {
     "includeName": true,
     "pageSize": "Letter",

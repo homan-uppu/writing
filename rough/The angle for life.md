@@ -1,0 +1,5 @@
+Whatever angle I double down on, I'm going to double down for life. There is no "other" company. This next venture will be my life's work. And hence, I'm going to take my sweet time to decide. Once I decide, compound I shall.
+
+This is why I'm open to being so patient with this phase. I don't care if it feels "slow", or whether I'll be judged for such lack of pace. I'm not "moving fast" by any means. Yet, I intuitively feel that such a slow study of the world is necessary for me to arrive at the angle that I will double down on for the next 30 years or so.
+
+I also need to ensure that I have the right habits to keep my body and mind healthy. I need to invest in the right exercise, the perfect diet, mental practices, and environment. I need to cut out all sorts of negativity from my environment. It's time to rebuild my network.

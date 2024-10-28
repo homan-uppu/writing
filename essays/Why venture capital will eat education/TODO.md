@@ -1,0 +1,2 @@
+- Need to maintain consistency b/w/ more creative / more complex. Also need to talk about their relationship: i.e. more complex MAKES the skill more creative. Right now I'm using both interchangeably without establishing their equality.
+- 

@@ -1,0 +1,3 @@
+I think the physical position really isn't that great. I need to come up with a better position to grind long hours in. On the bed seems to be the only way, so let's figure this out first. Amen.
+
+OK yeah, this is significantly better. And I can alternate between which leg I use to prop up the computer. Solid. Actually yeah, this should be a good position to continue for long durations. Let's test this out with a 2 hour sesh. Lock in brother. Let's get it.

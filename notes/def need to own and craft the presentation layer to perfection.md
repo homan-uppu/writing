@@ -1,0 +1,1 @@
+show the craft. it matters. everything you ship must be beautiful, and on brand. get into this habit.

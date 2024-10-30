@@ -5,7 +5,7 @@ general / to be categorized:
 - https://charlsyang.com/
 - https://www.benkuhn.net/ - eng at Anthropic. Great writer.
 - simonwillson
-- 
+- https://x.com/cpaik - an incredible student of the game. prob the best i've come across in a while. his "frameworks" essay is enlightening.
 
 writers (for editing help potentially)
 - https://www.anniegodfreylarmon.com/

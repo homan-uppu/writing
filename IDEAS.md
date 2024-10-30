@@ -8,7 +8,7 @@
 ## personal
 - on **mastering the mind**, and why this is my highest priority. Write this for yourself. No need to even share this with the world.
 ## general
-- [[Finding your calling]].
+- [[Robert Greene (Mastery) Finding your calling]].
 - AI assisted writing.
 - [[A better way for creative teams to work]]
 - companies with only founders (founder-only-companies).

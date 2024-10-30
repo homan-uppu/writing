@@ -113,4 +113,15 @@ Government support for legacy institutions like colleges doesn't enable experime
 
 ---
  
-There's a way to enable far more experimentation in education, as well as distribute access to opportunity more equally: by enabling investing in individuals in exchange for equity in their outcomes (the assets they will accumulate throughout their lives). While it sounds similar to how we invest in startups today, there are some fundamental differences that I'll go over. First, let's understand the power of such a model.
+There's a better way that enables both greater experimentation and wider distribution of access to opportunity: by enabling people to invest in individuals in exchange for some ownership of their future outcomes (assets they will own in the future).
+
+This sounds awfully similar to the way we invest in companies.
+
+
+
+
+
+
+
+
+

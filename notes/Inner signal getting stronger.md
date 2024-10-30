@@ -1,0 +1,5 @@
+When I see a product / company that I really like, even if i can see ways to improve it, i can also sense the tension inside that is telling me that that is not the path that takes advantage of my strengths.
+
+My strength is my emotional sensitivity. That lends itself really well towards brand, content, writing, sales, strategy, product design. It does not lend itself well towards hard engineering problems. Spending most of my time engineering wastes my potential. And yet, having a deep grasp of the technical side, at the right levels of abstractions, is critical. And you have the mind that can build that understanding.
+
+Your strength is at a very weird intersection of a bunch of different things. There is no "role" that can define your strengths. Follow your intuition. And actually ship things that are amplified by your strengths.

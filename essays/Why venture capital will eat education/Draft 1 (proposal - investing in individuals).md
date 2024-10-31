@@ -1,7 +1,17 @@
-- growing trend: crafting your own learning journey. more young people are forced to be more experimental because the safe path doesn't feel safe anymore (and they're right!).
-- younger startup founders.
-- it's still expensive to carve your own path.
+When paying for education no longer has a return on investment, and the quality of the average college education doesn't suffice to train you to create value in the world, what are the options available to a young person who's about to graduate high school in the US?
 
+1. Get a job
+2. Start their own business
+3. Start a startup & raise venture capital
+4. Learn by creating.
+
+challenges:
+- getting a job is tougher and the bar will be much higher - takes longer to become good enough.
+- starting own business or a startup makes sense, and more people are pursuing this opportunity, but how do you sustain yourself until you generate revenue / raise money? those with the wealth to lean on have a big advantage here.
+- Startups / business is one of many valuable forms of expression. What about content creators, those that want to do deep tech research, long-term science, etc.? Very difficult to finance such explorations on your own.
+- if time is split between honing craft and figuring out ways to sustain yourself, odds are really stacked against you because the bar is much higher. you can't become good enough by honing the craft part-time in ways that you historically could (*this is a good point, but i have a lot of work to do in order to support this point. it's not an obvious consequence of the essay leading up to this*).
+
+you either rely on family wealth or 
 
 
 

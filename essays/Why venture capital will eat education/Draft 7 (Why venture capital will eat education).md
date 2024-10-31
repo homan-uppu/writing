@@ -1,10 +1,8 @@
-As AI gets more powerful, most people won't make enough to be able to recoup their investment in their education.
+As AI gets better, college, and by extension, any institute that sells education will become terrible investments. Why will the value of college plummet, and what will replace it? How will future generations learn?
 
-This will happen because AI makes knowledge work (and eventually all work) more creative, by doing the less creative parts of it for us. The more creative our work becomes, the more outcomes follow the power law distribution: the best capture the majority of the value created, and the median compensation falls and eventually becomes insufficient.
+AI makes knowledge work (and eventually all work) more creative, by doing the less creative parts of it for us. The more creative our work becomes, the more outcomes follow the power law distribution: the best capture the majority of the value created, and the median compensation falls and eventually becomes insufficient.
 
 In a world in which knowledge work becomes highly creative, the best (and only viable) business model for education is venture capital: putting money in the hands of students (instead of asking them to pay), in exchange for equity in their outcomes (i.e. a small equity in the assets they will own in the future). The few that strike big, will provide sufficient returns to compensate for the increasing many that won't become good enough.
-
----
 
 We've already observed that the power law dominates all creative fields:
 
@@ -64,9 +62,9 @@ The power law distribution of productivity is inevitable.
 
 So far we've only studied the behavior of highly creative skills. We've always had highly creative skills in the world, but only a small percentage of the world participated in them. Most did low creativity work, which is what enabled the middle class to rise: because the power law isn't as pronounced for less creative work.
 
-But soon all knowledge work, and eventually all work, will become highly creative, and the power law distribution of productivity (and outcomes) will be become quite extreme. This will happen because each time our technology becomes more powerful, it increases the complexity of our work, and therefore the work requires a greater degree of creativity, which amplifies the power law distribution of productivity for the skill.
+Soon, knowledge work, and eventually all work, will become highly creative, and the power law distribution of productivity (and outcomes) will be become as extreme as it already is for creative skills. Each time our technology becomes more powerful, it increases the complexity of our work, and therefore the work requires a greater degree of creativity, which amplifies the power law distribution of productivity for the skill.
 
-To explain why, let's take the example of software engineering. I think it's a good case because it's the fastest growing college major, and because those who work with technology are usually the first to adopt new technologies into their workflows and lives. Seeing how AI has changed software engineering will give us a glimpse of the future for all knowledge work.
+To see why, let's take the example of software engineering. I think it's a good case because it's the fastest growing college major, and because those who work with technology are usually the first to adopt new technologies into their workflows and lives. Seeing how AI has changed software engineering will give us a glimpse of the future for all knowledge work.
 
 Before AI, the majority of actual software engineering work was only moderately creative. Anyone who's built software applications before large language models knows just how much grunt work there is to turn an idea into reality. The majority of code written was "glue code" (todo: get a good reference here): code used to connect together different software services to make it do what you want. A simple idea for an app would take weeks of grinding through predominantly not that creative grunt work in order to actually bring it to life.
 

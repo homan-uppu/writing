@@ -1,0 +1,2 @@
+1. Start a fresh draft of the essay, but start with the investing in individuals and then work towards the explanation. I have a feeling this ordering works better.
+2. Start working on the seeking truth is the only skill essay as well. That is also quite important if you ask me. 

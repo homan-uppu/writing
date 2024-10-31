@@ -1,0 +1,3 @@
+over-indexing on the workplace, location, setup, etc. is a means to distract yourself from the actual work. if you notice when the mind wanders to these topics, you'll find that it's when the work is most difficult: the words don't seem to flow, the idea seems to be stuck somewhere.
+
+notice when the mind wanders unproductively. sit, and concentrate the mind on the present moment. the only place you can really work is in the present moment. you must develop the ability to lose yourself in the work.

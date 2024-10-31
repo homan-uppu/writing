@@ -1,0 +1,1 @@
+"Finally, everybody agrees that no one pursuit can be successfully followed by a man who is preoccupied with many things—eloquence cannot, nor the liberal studies—since the mind, when distracted, takes in nothing very deeply" - Seneca (On the shortness of life).

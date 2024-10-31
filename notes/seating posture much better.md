@@ -1,0 +1,1 @@
+i'm confident i can sustain this posture for a long time without creating some sort of hunchback, etc. just continue like this. can sustain this for a long, long phase if you needed to. so do it. there are no excuses. you have to grind it out.

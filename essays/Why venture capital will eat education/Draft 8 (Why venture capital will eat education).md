@@ -105,7 +105,7 @@ No country wants to have to depend on the rich countries for their survival, yet
 
 Economic might translates into cultural might. I'm currently sitting in a remote village in the mountains of northern India as I'm writing this. Outside of my window are people wearing jeans and t-shirts as they plough their fields, with one of them playing what I think is some sort of electronic disco music. Most young people in the world feel the need to learn English in order to access the global economy. The top US song hit can be found playing in clubs in every single part of the world. The fight to remain economically relevant in the world is also a fight to preserve your identity.
 
-As a result of the rising power law, the nation that becomes number 1 this decade will dictate global world order in ways that we can't even fathom right now. There is a powerful incentive to compete, not out of greed, but out of fear for survival and preservation of identity.
+As a result of the rising power law, the nation that becomes number 1 this decade will dictate global world order in ways that we can't even fathom right now. There is a powerful incentive to compete, not out of greed, but out of fear for survival: both economically and culturally.
 
 The education system that replaces the current one will be one that optimizes for economic prosperity. Great, now that we have the optimization function, we can start to tackle the question of what this new education system could look like.
 
@@ -117,18 +117,19 @@ In a highly creative world with a steep power law distribution of productivity, 
 
 ---
 
+Venture capital is a popular way that startups today are funded. This model goes back many centuries: 
 
+...
 
+So, am I proposing that every young person needs to start a company and raise money in order to fund their learning? No. That's impractical because (the reasoning about how there are many valuable life paths to take that may have different timelines for returns, etc. but are still worth pursuing: long-term science, arts, etc.)
 
+---
 
+- But, if economic progress is the optimizing function, then why fund, say content creators, or individuals pursuing frivolous activities? Why not just pick the areas that will have the greatest economic impact and push everyone to do those things? Wouldn't that country win?
 
+- The country that implements this model first will win. And through their victory, they will force it onto the rest of the world. Your country's economy is collapsing, want aid? OK sure, here's $300B, but only if you allow us to directly invest it in your citizens and own a small percentage of their outcomes. You'll have much more capital flowing through your nation, and we're now incentivized to make sure your citizens succeed because their success actually makes us richer!
 
-
-
-
-
-
-
+- Eventually the venture capital model to fund learning will be the default. Not because of some ploy by the rich, or "genius" design of some individual, but because the incentives that govern the world push us towards this outcome.
 
 
 

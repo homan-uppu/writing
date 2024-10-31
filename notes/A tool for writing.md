@@ -1,0 +1,13 @@
+- Versioned via GIT (runs the commands for me).
+- Can "branch" the essay within the editor itself, and navigate the diff branches.
+- Cursor style edits.
+	- Completion with instructions
+	- Rewrite with instructions
+	- Tighten
+	- Create your own - create LLM "apps".
+	- English rules feedback (just feed it the )
+- LLM on the right hand pane whenever I want to chat about something. I shouldn't have to leave this environment and go Google or something - that takes me out of the flow.
+- Notion style insert image. (image is all I need for now). Everything is markdown under the hood.
+- Zoom in mode: make each paragraph take the entire screen so that I can hyper focus on one beat at a time during editing.
+- Beautiful table of contents and overall presentation.
+- Beautiful export functionality (can share a web link with someone / save as PDF / epub).

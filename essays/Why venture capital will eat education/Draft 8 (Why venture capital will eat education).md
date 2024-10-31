@@ -14,7 +14,7 @@ People claim that AI will create more jobs than it will take. After all, this ha
 
 But, there's a critical fact that's usually lost in claims like the one above: many of the new jobs are often more complex and more difficult to get good at than the ones that were invalidated. 
 
-"Complexity" is proportional to how many ways there are of doing something, or even more technically: how many possible states you can end up in. Assembling a chair on a factory line isn't that complex: there are only so many ways (often 1) of doing it. Creating a Youtube video is highly complex because there are nearly infinite possibilities.
+"Complexity" (https://en.wikipedia.org/wiki/Game_complexity) is proportional to how many ways there are of doing something, or even more technically: how many possible states you can end up in. Assembling a chair on a factory line isn't that complex: there are only so many ways (often 1) of doing it. Creating a Youtube video is highly complex because there are nearly infinite possibilities.
 
 The more complex a skill is, the more creative it becomes. The more creative a skill is, the less you're able to get good enough by following a prescribed set of rules or guidelines for how to do it. For example, you can reliably train a large number of people to get good enough to work on a factory assembly line, but you can't hope the same when trying to train entrepreneurs, content creators, or artists. Even at the best training programs for these highly creative skills, only a tiny percentage ever get good enough to make a living from it.
 
@@ -46,9 +46,50 @@ In addition to this constant recalibration, there is still some element "taking 
 
 Is it inevitable that most will never make enough in highly creative domains? Or is an insufficient median productivity a temporary phenomena, and if we created better training programs, it could be the case that eventually most people can make a living from their work?
 
-This is an important question because if it's a temporary phenomenon, then the collapse of paying for education too will be temporary. And once the median compensation is high enough, we'll all be back to paying college tuitions and taking on debt to fund our educations. And frankly, I can just conclude the essay here.
+This is an important question because if it's a temporary phenomenon, then the collapse of paying for education will also be temporary. And once the median compensation is high enough, we'll all be back to paying college tuitions and taking on debt to fund our educations. And frankly, I can just conclude the essay here.
 
-From what I can tell, 
+But, I can't because the power law distribution of productivity is an inevitable feature of creative work. There's absolutely no way around it.
+
+The first evidence is to look at highly creative crafts that have been around for a while: writing, filmmaking, building startups. The power law has not only been strong in these domains for decades, **it's increasing** as technology gets better and as more people participate. If there was a training program that could raise the minimum productivity such that more participants could make a living from these skills, we should have seen some progress already.
+
+There's also another interesting, albeit more technical, piece of evidence that shows that the power law is directly proportional to how creative the skill is, independent of the quality of training.
+
+Let's compare two popular board games: Chess & Go. Go is more creative than Chess according to our definition of creativity because there are many more actions you can take in Go from any given position, and you can end up in many more possible states. If we compare the relative skill of the players in these two board games, we'll find that the power law is more pronounced in Go than in Chess.  In other words, the best player in Go is much better than the average Go player than the best Chess player is compared to the average Chess player. And it's a smooth curve. I.e. the gap between 1 & 2 is greater in Go than in Chess, and so is the gap between 2 & 3, and so on.
+
+What's also important to notice that the median relative skill in Go is lower than in Chess. Correlating to the real world in which people are compensated according to their productivity, it would mean that the mean compensation falls as the skill becomes more creative.
+
+(todo: a neat diagram that shows the ELO ratings between the two).
+
+I really like this example because the games have largely remained unchained for decades, and most of the top players have the best possible training and resources, so you can't say that the power law only exists because the best had better training.  Even with significantly better training by playing computers, and excellent coaching centers for the best players, we still find the power law distribution of outcomes. Even if we achieve AGI and give each player access to the greatest coach imaginable, we would still find a power law distribution proportional to the degree of creativity of the game.
+
+**The power law distribution of productivity is inevitable and proportional to the degree of creativity (i.e. complexity) of the skill.**
+
+---
+
+Will all of our work really be as productive as highly creative skills like content creation, arts, building startups?
+
+I think work in the physical world will be safe for a while because it'll take longer for AI to penetrate into the world of atoms. It needs a body, and those things take much longer to build and scale than software. But, in the digital realm, i.e. in the realm of knowledge work, AI will push all of our work to be highly complex, and therefore will require a great degree of creativity.
+
+
+To see why, let's take the example of software engineering. I think it's a good case because it's the fastest growing college major, and because those who work with technology are usually the first to adopt new technologies into their workflows and lives. Seeing how AI has changed software engineering will give us a glimpse of the future for all knowledge work.
+
+Before AI, the majority of actual software engineering work was only moderately creative. Anyone who's built software applications before large language models knows just how much grunt work there is to turn an idea into reality. The majority of code written was "glue code" (todo: get a good reference here): code used to connect together different software services to make it do what you want. A simple idea for an app would take weeks of grinding through predominantly not that creative grunt work in order to actually bring it to life.
+
+Now, with the latest AI models (OpenAI's o1 / Anthropic's Claude Sonnet 3.5), AI can write the majority of the less creativity code that took most of our time in the pre-AI era. Now, more of an engineer's time is spent on more creative work: on the system architecture, deciding which external services to use and why, and on product decisions like figuring out what to build and why, and they only need to drop down into lower creativity work in the cases that AI fails. And working on higher level architecture and product decisions is far more creative than writing glue code because there are many, many more possibilities in how you can do it.
+> (note: this is in most cases, and this doesn't yet apply to those working on deep tech problems for which current models aren't good enough to help with that much yet), 
+
+What will happen when each engineer has access to models that are 10x more capable than the current ones? What happens when each engineer has access to a near infinite number of reasonably capable, always-on, fast, teammates they can instruct as if they were instructing junior teammates? What happens when you can give an AI a detailed spec of the software you want built, and some design inspirations to help guide its style and look and feel, and it does a great job at implementing it? An engineer's work becomes even more creative: they'll focus more on product and business decisions: figuring out what to build and why, and only jumping down into technical details only when the AI fails.
+
+In other words as AI becomes more capable, **engineers will require the same skillset as startup founders**. And we know just how creative that is, and just how extreme the power law distribution of productivity is for that: most aren't good enough.
+
+There are early signs that this shift is well underway. As engineering is becoming more creative, coding bootcamps are going broke (https://x.com/gergelyorosz/status/1732876403626926300?s=46), more startups are hiring engineers the way you hire a creative: based on their portfolio, conversations and referrals alone without any kind of standardized exam (which is impossible for any creative skill). And junior engineers / new grads no longer have job opportunities because the baseline talent required is much higher than ever before. The less creative, work no longer exists.
+
+It's easy to see how a similar evolution will happen for all knowledge work. Designers who spend time tweaking layout properties in their design software will instead spend far more time on defining the brand, product, understanding users and crafting a compelling vision. Marketers instead of spending most of their time operating software, and doing the grunt work to implement marketing campaigns, will instead spend most of their time understanding and optimizing for the incredibly complex and changing human desire.
+
+The power law distribution of productivity will become un-imaginably steep. The right engineers, marketers, designers, or any role that we will invent, will be many, many orders more productive than the average ones. And those who aren't one of the best, will struggle to make enough.
+
+---
+
 
 
 

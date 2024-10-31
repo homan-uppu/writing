@@ -31,9 +31,10 @@
 
 # Products
 ## small products
+- [[A tool for writing]] *(someone else should build this. This is far from the highest leverage thing you can do. You can build a great business out of this, but.... Be careful about what you commit to! And, the consumption product is more powerful than this creation one bec. AI is far more useful when aiding with consumption, than it is with creating).
 - [[Person DB - to grow relationships with the best.]]
 - Hire someone to chat with when you write: https://x.com/visakanv/status/1527658765058646021.
-- A simple person capture. with the same flow as saving to are.na / cosmos, but for individuals that I want to connect with.
+- A simple person capture. with the same flow as saving to are.na / cosmos, but for individuals that I want to connect with. - perhaps just use the are.na API to listen to items added to the "People" collection.
 - xnote++ (revisit xnote and explore what this would look like today).
 - braindump.ai (the voice notes app) - build the best possible app to capture, sculpt, and share your thoughts. make it the best app in this category.
 - writing feedback copilot.
@@ -47,7 +48,6 @@
 	- a focus on the timeless. the mental models that are relevant for at least a decade or so.
 	- this feels most resonant with my natural curiosities about the world. i could lean into this for life. dedicating my entire life towards such a worthwhile project.
 	- build slowly. allow the compounding to happen. be patient my friend.
-- tokenized individual: allow others to invest in you in exchange for equity in everything that you will own and create from that point onwards. - the economic infrastructure for the age of intelligence. the mechanism through which UBI will be offered to individuals.
 - a way for teams to create and manage knowledge bases to share with their users (or even internally). tools to add and manage what data the AI system is grounded on. and an absolutely stellar user experience. - there is a ton of value here. and this is the foundation to build more powerful AI systems, and experiences - down the line. there's something quite powerful here that is worth exploring. Vercel quality platform for building and managing AI agents. and perhaps also a place to have discussions. i would study how the Nextjs, and Midjourney ecosystems manage their communities. would be great learning.
 ## stories i want to tell
 - the young drop out that finds his own path to success. that struggles to find the courage to follow his natural inclinations, his natural genius, his god given gifts, no matter what the world thinks of him. no matter how much the world shames him. a tribute to the the misfits, the rebels, the creatives, the crazy geniuses.

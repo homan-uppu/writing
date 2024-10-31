@@ -68,8 +68,7 @@ I really like this example because the games have largely remained unchained for
 
 Will all of our work really be as productive as highly creative skills like content creation, arts, building startups?
 
-I think work in the physical world will be safe for a while because it'll take longer for AI to penetrate into the world of atoms. It needs a body, and those things take much longer to build and scale than software. But, in the digital realm, i.e. in the realm of knowledge work, AI will push all of our work to be highly complex, and therefore will require a great degree of creativity.
-
+I think work in the physical world will be safe for a while because it'll take longer for AI to penetrate into the world of atoms. It needs a body (i.e. a robot), and those things take much longer to build and scale than software. But, in the digital realm (knowledge work), AI will rapidly make our work highly complex, and therefore highly creative.
 
 To see why, let's take the example of software engineering. I think it's a good case because it's the fastest growing college major, and because those who work with technology are usually the first to adopt new technologies into their workflows and lives. Seeing how AI has changed software engineering will give us a glimpse of the future for all knowledge work.
 
@@ -89,6 +88,45 @@ It's easy to see how a similar evolution will happen for all knowledge work. Des
 The power law distribution of productivity will become un-imaginably steep. The right engineers, marketers, designers, or any role that we will invent, will be many, many orders more productive than the average ones. And those who aren't one of the best, will struggle to make enough.
 
 ---
+
+*Incredibly important point that the growing inequality in the world may not entirely be due to an unfair access to opportunity. As we've seen above, the creativity required for the skill itself will create sharp inequalities in outcomes, EVEN if all the participants have exceptional resources at their disposal.* - and yes, this point is relevant in this essay, because you are moving towards a more big picture analysis of the world (which is necessary to make the points I feel I need to make).
+
+Determining which factor (unfairness / inevitable power law) contributes to our global inequality is really difficult to determine. My hunch is that most of us severely underestimate the impact of the inevitable power law distribution that arises due to the inherent creativity required for the skill itself.
+
+---
+
+In such a world, paying for education will become a privilege for the rich and NOT the default path for the majority of the world. As the power law distribution becomes more extreme, those who can afford to pay up front for the best education will shrink rapidly.
+
+If most people won't be able to recoup their investment in education, what's does the future of education look like? This question is a bit intimidating at first glance because who the hell am I, or you, to be able to imagine / determine this? How would we even begin to break this problem down?
+
+Fortunately (or unfortunately depending on how you look at it), our hands are more tied than it may seem. The economic incentives that dictates how the world evolves allows for only an narrow set of possibilities to work out in the long-run. As AI rapidly makes the power law distribution of productivity more extreme, the power law distribution of the global economy too will rapidly become more extreme: the gap between the most powerful country and the rest of the world will skyrocket, and the median nation will become poorer. I wouldn't be surprised if the most powerful nation in 10 years is at least 10x - 100x more wealthy than the 2nd most wealthy nation. In fact, I'd bet on it.
+
+No country wants to have to depend on the rich countries for their survival, yet that is precisely what will happen to the majority of the countries that remain average.
+
+Economic might translates into cultural might. I'm currently sitting in a remote village in the mountains of northern India as I'm writing this. Outside of my window are people wearing jeans and t-shirts as they plough their fields, with one of them playing what I think is some sort of electronic disco music. Most young people in the world feel the need to learn English in order to access the global economy. The top US song hit can be found playing in clubs in every single part of the world. The fight to remain economically relevant in the world is also a fight to preserve your identity.
+
+As a result of the rising power law, the nation that becomes number 1 this decade will dictate global world order in ways that we can't even fathom right now. There is a powerful incentive to compete, not out of greed, but out of fear for survival and preservation of identity.
+
+The education system that replaces the current one will be one that optimizes for economic prosperity. Great, now that we have the optimization function, we can start to tackle the question of what this new education system could look like.
+
+The new education system need to be one that enables the best talent in any domain, no matter the financial background of the talent. Equality of opportunity regardless of background IS the system that optimizes for economic growth. A highly creative world is a hit-driven world (power law), and therefore the nation that has the greatest talent that can produce the greatest hits will be the one that wins.
+
+While wealth isn't distributed equally, but from what I can tell, talent does seem to be. What this tells us is that the majority of the greatest talent in the world, those on the level of the Einstein, Musk, Curie are wasting away doing work that doesn't optimize on their talent. For a nation, the cost of letting such talent waste away is much higher than ever before in human history because it will be the difference in whether you define the new world order, or are forced into an order determined by someone else.
+
+In a highly creative world with a steep power law distribution of productivity, the best education system that optimizes for economic growth by discovering and enabling the best talent will be one that's driven by the business model of venture capital: people will be able to put capital in the hands of an individual in exchange for some ownership of their future outcomes (i.e. wealth they create, companies they will own, etc.).
+
+---
+
+
+
+
+
+
+
+
+
+
+
 
 
 

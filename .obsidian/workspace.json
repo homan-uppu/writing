@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d8cb38acf9acd87e",
+        "id": "136d93c3f5bebd9f",
         "type": "tabs",
         "children": [
           {
-            "id": "e3df5ce57dee203c",
+            "id": "9ccc5780ccfbf1cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -177,10 +177,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e3df5ce57dee203c",
+  "active": "9ccc5780ccfbf1cb",
   "lastOpenFiles": [
-    "essays/All we want is economic growth/notes.md",
+    "essays/Why venture capital will eat education/Government blunders analysis.md",
     "essays/Why venture capital will eat education/Draft 8 (Why venture capital will eat education).md",
+    "essays/All we want is economic growth/notes.md",
     "essays/All we want is economic growth",
     "essays/Why venture capital will eat education/Draft 7 (Why venture capital will eat education).md",
     "IDEAS.md",
@@ -209,7 +210,6 @@
     "notes/Concentration is everything.md",
     "notes/Message to P.md",
     "inputs/writing/The-elements-of-style.pdf",
-    "essays/Why venture capital will eat education/Draft 2 (proposal - investing in individuals).md",
     "essays/Age of the individual",
     "inputs/writing/The-elements-of-style.pdf.crdownload",
     "inputs/Mastery by Robert Greene.pdf",

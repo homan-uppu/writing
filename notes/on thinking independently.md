@@ -1,0 +1,1 @@
+seeking truth is independent thinking. the conclusions you reach may be the same as everyone else's in some cases, but the process by which you reach them determines your skill.

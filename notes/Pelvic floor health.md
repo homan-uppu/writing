@@ -1,1 +1,3 @@
-- Incorporate pudendal flossing and kegels for a week and see how it goes.
+- start with Kegels. 20 sets of 10s hold, 10s relax. Once a day. once you get used to this, ramp it up to twice a day / up to 30 sets. it seems like these are normal numbers, so not overdoing it by any means.
+- ashtanga yogasanas.
+- core and glute strength - hikes + planks, pushups, deep squats.

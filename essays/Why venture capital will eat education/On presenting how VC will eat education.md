@@ -1,7 +1,3 @@
-The traditional education system fails because it isn't the right business model for teaching highly creative skills. And because most education doesn't train well for highly creative skills.
-
-As ROI for paying for education plummets as our work becomes more creative, less people will pay for education.
-
 I'm already seeing sharp young high schoolers figure out this reality who are working incredibly hard to directly create value in the world through online businesses and startups. I'd bet we'll see a many younger startup / business founders in the coming years.
 
 But, we still have a big problem. Building businesses / startups is one path out of many interesting, valuable paths that an individual can take. What about those that show signs of great potential, but aren't yet ready to start a company, or don't want to. Maybe they're interested in deep tech research (https://x.com/hud_zah/status/1827057785995141558) that will take them a much longer time to get good at compared to learning how to build apps. Or maybe they want to become an economic author. Or maybe they're a budding podcaster who wants to explore their natural curiosities by talking to interesting people (https://meridian.mercury.com/dwarkesh-patel).

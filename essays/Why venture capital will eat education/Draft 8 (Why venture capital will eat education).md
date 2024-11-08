@@ -1,18 +1,18 @@
-It's popular to claim that our education system is "broken". I've been hearing this for at least a decade now, yet not much has changed. Most young people still aspire to go to college, get a degree, and get a great job.
+It's popular to claim that our education system is "broken". I've been hearing this for at least a decade now, yet not much has changed: most young people still aspire to go to college, get a degree, and get a great job.
 
 But, something IS different this time around. Artificial intelligence is causing the world to change rapidly in a way that invalidates our current education system, and more broadly, invalidates the business model of paying for education itself.
 
-Our education system is on the verge of complete collapse.
+Our education system is on the verge of collapse.
 
 Why? How? And importantly, what's going to replace it?
 
 ---
 
-People claim that AI will create more jobs than it will take. After all, this has been the trend for as long as humans have invented better tools: every major technological breakthrough first invalidates certain professions, and in the long-run creates far more jobs than it took. E.g. The printing press invalidated the need for most scribes, yet in the long-run created many jobs by creating a much larger market for books. Many people were eventually employed in the manufacturing, transportation, and distribution of books at a scale that was previously impossible. Enabled by a technological leap.
+People claim that AI will create more jobs than it will take. After all, this has been the trend for as long as humans have invented better tools: every major technological breakthrough at first removes the need for certain professions, yet in the long-run creates far more jobs than it took. E.g. The printing press invalidated the need for most scribes, yet in the long-run created many jobs by creating a much larger market for books. Many people were eventually employed in the manufacturing, transportation, and distribution of books at a scale that was previously impossible. Enabled by a technological leap.
 
 > (*todo: expand with this: https://claude.ai/chat/a30a488f-b8ee-44f1-b873-96c2dacdf27e* - it has some good examples of actual roles to use).
 
-But, there's a critical fact that's usually lost in claims like the one above: many of the new jobs are often more complex and more difficult to get good at than the ones that were invalidated. 
+But, there's a critical fact that's usually lost in claims like the one above: many of the new jobs are often more complex and more difficult to get good at than the ones that were made unnecessary. 
 
 "Complexity" (https://en.wikipedia.org/wiki/Game_complexity) is proportional to how many ways there are of doing something, or even more technically: how many possible states you can end up in. Assembling a chair on a factory line isn't that complex: there are only so many ways (often 1) of doing it. Creating a Youtube video is highly complex because there are nearly infinite possibilities.
 
@@ -32,11 +32,11 @@ The power law dominates all creative fields:
 
 There is no "middle class" for creative skills. If you make it, you make it big, else you struggle to get by.
 
-The "struggling to get by" is incredibly important for us to study because the power law itself doesn't invalidate our education system, it's the lower median productivity that makes it difficult for most who train for a creative skill to become good enough to make a living from it. If most can't get good enough to make a living at any kind of work in the world, then paying for any kind of education will become a luxury that only the rich can afford, because most won't be able to recoup their investment in education.
+The "struggling to get by" is important for us to study because the power law itself doesn't invalidate our education system, it's the lower median productivity that makes it difficult for most who train for a creative skill to become good enough to make a living from it. If most can't get good enough to make a living at any kind of work in the world, then paying for any kind of education will become a luxury that only the rich can afford, because most won't be able to recoup their investment in education.
 
 The power law distribution seems to be inextricably linked to an insufficient median compensation. The more stark the power law (i.e. more unequal the distribution of productivity becomes), the lower the median productivity falls. And in a world in which people generate wealth according to their economic productivity, the median compensation also falls.
 
-When I first came across this observation I was taken aback because it made it seem that the world was zero-sum: someone creating more value meant that they took it from someone else. But I also knew that these creative fields were positive sum: their overall markets have been growing rapidly. The pie is undeniably getting bigger. (note: insert relevant statistic). So everyone should be making more right? And in fact, more creators make more money overall.
+When I first observed that the median compensation feels less sufficient, I was taken aback because it made it seem that the world was zero-sum: someone creating more value meant that they took it from someone else. But I also knew that these creative fields were positive sum: their overall markets have been growing rapidly. The pie is undeniably getting bigger. (note: insert relevant statistic). So everyone should be making more right? And in fact, more creators make more money overall.
 
 Then I realized that the definition of what we consider "sufficient" changes rapidly in our modern world. As the rich create a market for more expensive cutting edge products and experiences, some of those innovations become so good that we all view them as necessities instead of luxuries, giving the rich unfair advantages. And while the median compensation may still afford the things that previous generations considered luxuries, it will never feel enough because we recalibrate what we consider to be sufficient -  increasingly so as we innovate more rapidly. 
 
@@ -111,15 +111,17 @@ The education system that replaces the current one will be one that optimizes fo
 
 The new education system need to be one that enables the best talent in any domain, no matter the financial background of the talent. Equality of opportunity regardless of background IS the system that optimizes for economic growth. A highly creative world is a hit-driven world (power law), and therefore the nation that has the greatest talent that can produce the greatest hits will be the one that wins.
 
-While wealth isn't distributed equally, but from what I can tell, talent does seem to be. What this tells us is that the majority of the greatest talent in the world, those on the level of the Einstein, Musk, Curie are wasting away doing work that doesn't optimize on their talent. For a nation, the cost of letting such talent waste away is much higher than ever before in human history because it will be the difference in whether you define the new world order, or are forced into an order determined by someone else.
+While wealth isn't distributed equally, talent does seem to be. What this tells us is that the majority of the greatest talent in the world, those on the level of the Einstein, Musk, Curie are wasting away doing work that doesn't allow their talent to manifest. For a nation, the cost of letting such talent waste away is much higher than ever before in human history because it will be the difference in whether you define the new world order, or are forced into an order determined by someone else.
 
-In a highly creative world with a steep power law distribution of productivity, the best education system that optimizes for economic growth by discovering and enabling the best talent will be one that's driven by the business model of venture capital: people will be able to put capital in the hands of an individual in exchange for some ownership of their future outcomes (i.e. wealth they create, companies they will own, etc.).
+In a highly creative world with a steep power law distribution of productivity, the best education system that optimizes for economic growth by discovering and enabling the best talent will be driven by the business model of venture capital: people will be able to put capital in the hands of an individual in exchange for some ownership of their future outcomes (i.e. wealth they create, companies they will own, etc.).
 
 ---
 
-Venture capital is a popular way that startups today are funded. This model goes back many centuries: 
+Venture capital is a popular way that startups today are funded. This model goes back many centuries: *(todo: i want some history about the model of a "company". this is a necessary narrative foundation. it is in many ways one of the most important innovations after money).*
 
-...
+- aligning incentives. - need to double down on this point. it is what makes this model special.
+
+Are we seeing this today? We are. Many young people are rightly disillusioned with education, and are taking their destinies in their own hands by starting their own companies. Some of them raise money to fund their learning paths, while others find other ways to make ends meet as they hone their craft of building and selling products that the world wants.
 
 So, am I proposing that every young person needs to start a company and raise money in order to fund their learning? No. That's impractical because (the reasoning about how there are many valuable life paths to take that may have different timelines for returns, etc. but are still worth pursuing: long-term science, arts, etc.)
 

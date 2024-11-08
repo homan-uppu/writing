@@ -9,9 +9,14 @@ general / to be categorized:
 - https://pketh.org/ - fan of his work as well as his writing.
 - https://ericaxu.com/Start+here - one of the cofounders of Obsidian. 
 	- "Like many others, I believe the current education system is fundamentally flawed, because its original purpose doesn't make sense any more. Schools were formed to produce obedient factory workers, and that tradition stuck." - would be great to pick her brains about this.
+- https://tinabmai.com/ - great young mind with tremendous potential. thoughtful writer. get her feedback on my thinking. would be valuable.
 
 writers (for editing help potentially)
 - https://www.anniegodfreylarmon.com/
 
+upcoming talent to bet on:
+- https://www.nexxel.dev/
+- https://tinabmai.com/
+	- https://tinabmai.com/writing/chaos-theory - to read. presented excellently.
 
 ---

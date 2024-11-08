@@ -1,0 +1,1 @@
+I think there's something about eating AFTER strenuous exercise that soothes the body. And it would make the climb easier to do so not stuffed to the brim.

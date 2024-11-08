@@ -1,0 +1,5 @@
+This path is possible because the progress can happen all of a sudden. Timelines for the kind of research you're doing are very difficult to predict.
+
+Just have to keep grinding with a very open mind re. the timeline. But, with sufficient quality in output, you should be able to get a grant, or even raise a round of capital to help fund this research. That is actually VERY do-able. I'm quite confident in it tbh. But, I'm apprehensive about taking any outside money until I'm absolutely sure that this is the problem I'm going to dive into. Bec. external money does come with a subconscious obligation to carry out the research that I said I would do. The mind becomes less open to other explorations because it feels that it would break trust / is low integrity to do so.
+
+Hence, let Thatha bankroll this research and continue to approach it frugally from where you are.

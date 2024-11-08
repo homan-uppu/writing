@@ -1,0 +1,3 @@
+- https://www.richiinteriors.com/gallery - solid for HM chairs.
+- steelcase has a showroom.
+- https://www.reddit.com/r/hyderabad/comments/1fxb253/where_can_i_get_used_herman_miller_or_steelcase/

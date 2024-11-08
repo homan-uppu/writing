@@ -1,13 +1,30 @@
-## Pipeline
-- Why venture capital will eat education
-- Seeking truth is the only skill
-- [[age of the individual brand]]
+## Pipeline that I've committed to.
+
+[Why venture capital will eat education](https://docs.google.com/document/d/1-IQlKJAzfnPrP92gq3F7eiVkda4ml6E-NTB9kxH-unU)
+[Truth seeking is the only skill](https://docs.google.com/document/d/10T0IW4C95z-Uu6D7OB0rfHeb1FfWG2S_wSWUaWxobko)
+[Age of the individual](https://docs.google.com/document/d/1cnAcFlNCVCvyChpTRKG2Ozj0RnPqCfR_i8P7l2Q4KD0)
+[I’m going to follow my natural curiosity no matter what](https://docs.google.com/document/d/1UXY4IxrxcA0C3QbdN_UCmeHW-qTa3-Vs4k4vHR-WdNs)
 
 ---
 # Writing
 ## personal
 - on **mastering the mind**, and why this is my highest priority. Write this for yourself. No need to even share this with the world.
 ## general
+
+- Something about Nature unfolding, and surrendering to the process. [[Nature]]. Let go. Surrender. Trust in the forces beyond yourself.
+- [[History was brutal]]
+- Intellectual rigor / writing culture: https://docs.google.com/document/d/1sV8YuM6WMcGWHpMCUMG8gnm2rf8hqeB6ob6VpDnOhdA/edit?tab=t.0. Perhaps this ought to go in a larger essay re. building the best team.
+- moving towards fair compensation for the value you create in the world
+	- monetization of true value.
+	- everything will have a price tag... maybe even love.
+	- capitalization of everything.
+- I'm going to follow my natural curiosity no matter what.
+	- This is more a vow of commitment to myself. I'm not going to sacrifice my natural exploration no matter what. I believe it is my duty to, and that by doing so I am best respecting what Nature has given me.
+- Taking money always comes with obligations. If not explicit, then at least subconsciously.
+	- Why startups take too long to scrap their idea / pivot.
+	- Why individuals spend too long in a career that isn't their natural strength.
+	- Why any raising money will come with the caveat that seeking truth is the most important thing. Nothing else matters.
+	*! this should actually be a part of Seeking truth essay. A part of that essay should also be about cleverly designing your life so that you can effectively seek truth. That's probably a massive section, and may even end up being a separate essay. Fascinating.*
 - [[Robert Greene (Mastery) Finding your calling]].
 - AI assisted writing.
 - [[A better way for creative teams to work]]
@@ -28,7 +45,6 @@
 - what i want in a co-founder.
 - it's a generalist's paradise.
 - in the long run product always wins.
-
 # Products
 ## small products
 - [[A tool for writing]] *(someone else should build this. This is far from the highest leverage thing you can do. You can build a great business out of this, but.... Be careful about what you commit to! And, the consumption product is more powerful than this creation one bec. AI is far more useful when aiding with consumption, than it is with creating).

@@ -1,0 +1,1 @@
+and if you need the internet for research / etc. just go to the Homestay for a session. amen.

@@ -1,0 +1,5 @@
+- Identity
+- Invest in other individuals. Tracked onchain, with real-world legalities.
+- Vetted entry into the network. (need to join in order to be invested in)
+- Protection against fraud. Penalize those deemed to be fraudulent: kick out of network and attack them legally.
+- 

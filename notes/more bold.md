@@ -1,0 +1,1 @@
+after fleshing out this idea, aim for the bold pitch: raise a lot of capital to bring this to life...  or to invest in others who will bring this to life... not sure. lol.

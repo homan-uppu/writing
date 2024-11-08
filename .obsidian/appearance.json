@@ -3,6 +3,6 @@
   "theme": "moonstone",
   "baseFontSize": 16,
   "cssTheme": "Minimal",
-  "textFontFamily": "SF Pro",
+  "textFontFamily": "",
   "interfaceFontFamily": "SF Pro"
 }

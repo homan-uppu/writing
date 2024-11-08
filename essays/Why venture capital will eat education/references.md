@@ -1,1 +1,3 @@
-https://www.tampabay.com/opinion/thinking-too-highly-of-higher-education/2207911/ (Thinking too highly of higher education - Peter Thiel).
+- https://www.tampabay.com/opinion/thinking-too-highly-of-higher-education/2207911/ (Thinking too highly of higher education - Peter Thiel).
+- https://manhattan.institute/article/the-future-of-income-share-agreements
+- [[friedman_role_of_gov_in_education.pdf]]

@@ -1,0 +1,1 @@
+It really does take time to flesh out an idea that seems so simple in my mind, and yet becomes so convoluted when I try to put it into words. Incredible. I can see and feel why this is such an important, necessary, process for anyone who wants to think anything through.

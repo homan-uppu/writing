@@ -26,22 +26,26 @@ But as AI is better at teaching something, the market will value something beyon
 
 As the power law distribution for a skill grows, so does the power law distribution for teachers of that skill. The more creative, the fewer good teachers there are, and the worse off the average teacher becomes. Therefore, in a highly creative world with an extreme power law distribution of outcomes, those who are capable of actually increasing an individual's chance of becoming one of the best at their skill will be invaluable and everyone will flock to them.
 
-Making education free through the government paying institutions to keep them running only props up mediocre institutions with mediocre education. Nearly useless in a highly creative world because such institutions will never be able to afford those who are good enough at the skill to teach because their market value is far too high. And propping up such institutions may do students more harm than good because it will delude many into learning something that they'll find out in a few years that the market doesn't care for. These students will painfully realize that they've lost something far more valuable than money: their precious time.
+Making education free through the government paying institutions to keep them running only props up mediocre institutions with mediocre education. Nearly useless in a highly creative world because such institutions will never be able to afford those who are good enough at the skill to teach because their market value is far too high. And propping up such institutions may do students more harm than good because it will encourage many into learning in a way that they'll find out in a few years that the market doesn't care for. These students will painfully realize that they've lost something far more valuable than money: their time.
 
 **Learn on their own**
+I'm starting to see some high schoolers correctly determine that paying for college isn't worth it (and that college itself is likely a waste of time), and are following their own curiosities to directly create value in the world through content, businesses, startups, etc. They explore and build with friends, cold message mentors for guidance, and are incredibly competent and resourceful. I expect many young, talented, individuals take this path in the coming years. They will build massive companies at incredibly young ages.
+
+But, there's still the problem of how to sustain yourself as you create your own learning journey. For those who have access to some money (perhaps through family), this path works well. For those who have to find ways to make ends meet will need to get some sort of side hustle. While side hustles can be helpful to an extent, they quickly become quite harmful after a because they eat away at the time you can spend honing your craft. How much time you spend on your craft correlates to how good you can get at it. A rich kid with the freedom to create and build all of the time will likely do much better than someone who can only spend a few hours a day and weekends to hone their craft, even if the rich kid isn't as talented.
 
 **Grants**
-- Thiel fellowship
-- Emergent ventures
-- These make a lot of sense. 
+There are some grants available to enable individuals to explore and create on their own terms without the distraction of needing to sustain themselves. E.g. the Thiel fellowship (https://thielfellowship.org/), and Emergent ventures (https://www.mercatus.org/emergent-ventures).
 
-Students from most other places in the world have even fewer options: if you don't get into the top colleges in your country, the next tier colleges are often incredibly mediocre.
+This is an incredible opportunity for those who receive it, but grants are too scarce and don't scale to be able to serve all those who would make great use of such money.
 
-(And most likely some combination of these approaches).
+---
 
-As a result, as our work becomes more creative, existing approaches to learning concentrate access to opportunity in the hands of those with sufficient wealth to finance their learning.
+As a result, as our work becomes more creative, and given the paths available to young people, access to opportunity will become concentrated towards those who have the wealth to enable individuals to explore, create, and hone their creative skills.
 
-**this lack of access to opportunity IS the perfect segue into VC as the best way to finance!!!**
+While wealth is concentrated, talent is widely distributed. Therefore, most of the world's most talented individuals, with the potential to solve our most pressing problems, will be born into families without much wealth, if any. Without a better way to allocate resources to those with the potential, we significantly slow down human progress.
 
-** disclaimer: this is for knowledge work. Non-knowledge work domains change far more slowly.
+We need a way to finance education that doesn't burden individuals with debt that they most likely won't be able to repay, and also democratizes opportunity such that anyone with the potential to do great work will gain access to all the resources they need - regardless of the wealth they come from.
+
+
+
 

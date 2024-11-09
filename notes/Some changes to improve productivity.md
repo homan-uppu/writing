@@ -1,0 +1,4 @@
+- Get up an hour earlier and either meditate or write, so that you have an hour extra.
+- More meditation sessions through the day.
+	- 6:30 - 8.
+	- 3:30 - 5 (this is a critical sit. post trek sit to ease the mind into a productive evening of work).

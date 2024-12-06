@@ -1,0 +1,1 @@
+https://www.nobroker.in/property/1-bhk-apartment-for-rent-in-shah--hyderabad-for-rs-20000/8a9f8bc3912b390f01912b847d1f23ed/detail

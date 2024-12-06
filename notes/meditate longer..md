@@ -1,0 +1,1 @@
+the key to having a sufficiently sharp, collected mind for the work I'm trying to do is meditating for long periods of time.

@@ -1,0 +1,2 @@
+- plot top 1000 players' ELO on a graph. y-axis is ELO, and x-axis is the 1000 player's bar graphs. - start with 100 because that's easier to obtain, and then expand to 1000 later.
+- 

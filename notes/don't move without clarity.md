@@ -1,0 +1,1 @@
+when you lack clarity, you'll be forced to hyper analyze the financials and all of the details. when you have clarity, your decisions will be more forceful and you will more ruthlessly optimize for productivity. that's the version of me i want making decisions. being here in a sort of retreat / hibernation until i achieve clarity feels like the right move.

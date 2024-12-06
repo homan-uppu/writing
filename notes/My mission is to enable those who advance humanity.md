@@ -1,2 +1,6 @@
-This will be the essay I write to announce my next steps.
-This is the true "launching pad". Amen.
+- what do you mean by "advance humanity"?
+- what are ways to enable?
+	- enable investing in individuals.
+	- discover and enable talent.
+	- curated knowledge.
+

@@ -1,0 +1,5 @@
+- bring clarity to this phase: goals, duration estimation, location, etc.
+- knock out draft
+- outreach DB doc - define purpose, and explore great ways to set this up so that i can be great at growing my circle of "work friends". 
+	- a single source of truth for your network. think through how this can be best done. this will be the most important, compounding, force multiplier for all of my efforts. it will get easier over time as you build your network, but you need to have a good system that will enable this.
+- 

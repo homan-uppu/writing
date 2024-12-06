@@ -1,0 +1,3 @@
+- get through the essay draft.
+- iterate on: https://docs.google.com/document/d/178jw_IUbspd60r7DeIptOCc-voeKAJDN3a-ZqS9ZYjQ/edit?tab=t.0.
+- finalize when and where you're leaving to, and book your tickets. have a plan and objectives that you want to achieve there. only then go.

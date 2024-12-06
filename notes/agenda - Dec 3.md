@@ -1,0 +1,1 @@
+bring clarity to what you're going to present via the whitepaper. this is your singular focus from here on out. make it count.

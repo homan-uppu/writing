@@ -4,7 +4,6 @@ I was shocked to say the least. This is the best time in our world's history to 
 
 Some notes on just how brutal the world was that I contemplate during challenging times to instill a sense of gratefulness for being born in modern times.
 
-- 
 - Mass rape
 	- Harems
 - Slavery

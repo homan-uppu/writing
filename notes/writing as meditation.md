@@ -1,0 +1,2 @@
+writing is a process that uncovers the truth about what you actually believe about the world.
+writing well requires you to dig deep beneath all of the surface level understandings you have about what you're writing about.

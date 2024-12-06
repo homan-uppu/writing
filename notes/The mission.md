@@ -1,4 +1,5 @@
 To create a **human-like AI** that we can interact with to help us learn and create.
+
 ### The future
 We will live in a world with many, many AI agents that we interact with as we interact with other humans. These agents, in many ways, will be more capable than we are. They'll do things for us. They'll help us create. And eventually, they'll be so essential to our daily lives that we can't imagine life without them. They'll be a part of us. We'll feel as lost as Master Chief did when he didn't have access to Cortana anymore. Many of us would feel as if we had lost a loved one when our AI companion leaves us / is taken from us.
 

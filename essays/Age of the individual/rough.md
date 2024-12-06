@@ -5,7 +5,7 @@
 		- steve jobs death impact on Apple product line.
 		- but, now this will seep into everyone: (e.g. evilrabbit impact on Vercel), the filmmaker dude employed at buildspace?
 - **no one will be replaceable**. any replacement impacts the product.
-	- e.g. studio Ghibli when  Miyazaki leaves will be similar to when a founder leaves.
+	- e.g. studio Ghibli when Miyazaki leaves will be similar to when a founder leaves.
 - billion dollar individuals.
 - **individualistic cultures will fare much better than collectivist** - from an economic standpoint, because the range of their expressions and experiments will be much broader.
 

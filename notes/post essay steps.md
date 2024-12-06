@@ -1,0 +1,4 @@
+- flesh out the **PersonalToken idea**. - go straight to what i want to see unconstrained by the realities of the world at this moment in time.
+- determine how you will reach out: what will you reach out to people with? i'm leaning towards:
+	- reach out with the current essay to get feedback on the underlying philosophy AS you develop the personal token angle.
+- get the visual presentation right - play with fonts, etc. i'm really digging the serif... it adds a sort of "ancient" / "classical" feel to it that fits the theme well. be careful, this might be a short-lived feeling. pick the font that works well over the long run.

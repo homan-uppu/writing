@@ -1,0 +1,1 @@
+nothing that i can think of. get dropped off at Uttarkashi, find a bus / cab and book it to Doon.

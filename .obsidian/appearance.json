@@ -1,8 +1,8 @@
 {
   "accentColor": "#707070",
   "theme": "moonstone",
-  "baseFontSize": 16,
+  "baseFontSize": 15,
   "cssTheme": "Minimal",
-  "textFontFamily": "Geist",
+  "textFontFamily": "Geist Mono",
   "interfaceFontFamily": "SF Pro"
 }

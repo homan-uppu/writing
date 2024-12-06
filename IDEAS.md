@@ -6,11 +6,30 @@
 [I’m going to follow my natural curiosity no matter what](https://docs.google.com/document/d/1UXY4IxrxcA0C3QbdN_UCmeHW-qTa3-Vs4k4vHR-WdNs)
 
 ---
-# Writing
-## personal
-- on **mastering the mind**, and why this is my highest priority. Write this for yourself. No need to even share this with the world.
-## general
+# brand
+- [[brand]]
 
+# writing
+- on **mastering the mind**, and why this is my highest priority. Write this for yourself. No need to even share this with the world.
+- [[My mission is to enable those who advance humanity]]
+- what i'm most excited about w/ decentralize social platforms
+	- e.g. https://www.perplexity.ai/search/friend-tech-analysis-x-com-hdWjknbiRqGzD4_uyI734w - i literally want to search through X, and yet it's not indexed. it kills my access to the treasure trove of knowledge on X.
+	- this is a good, short, post to distill my excitement. good to get this out of my system.
+- [[What 0 -> 1 ideas actually are]].
+- [[fear caused by more information]]
+- Why four year vesting is terrible for ambitious startups.
+- complete decentralization does not work. (sufficient decentralization).
+	- this will be important to think through when thinking about building a personal token system that scales. complete decentralization = fraud. perhaps there is a way to prevent such fraud without centralization.
+	- also a study of how and why the SEC operates the way it does. - also EXTREMELY necessary to think through for the personal token work.
+- What is great product design?
+	- Not the flashy "jazz". Can you make the design disappear? What is delight?
+	- There is such a thing as "over" delight in which product makers cater more towards Design social media circles than towards actual users.
+- The optimal always seems extreme.
+- Ego is a circle.
+	- Aiming for high ego better than aiming for low ego.
+	- (this is a good one).
+- Alpha for attention, patience, and depth is skyrocketing.
+	- The more distracted and imbalanced the world becomes, the greater the rewards for those who can tame their minds.
 - Something about Nature unfolding, and surrendering to the process. [[Nature]]. Let go. Surrender. Trust in the forces beyond yourself.
 - [[History was brutal]]
 - Intellectual rigor / writing culture: https://docs.google.com/document/d/1sV8YuM6WMcGWHpMCUMG8gnm2rf8hqeB6ob6VpDnOhdA/edit?tab=t.0. Perhaps this ought to go in a larger essay re. building the best team.
@@ -33,7 +52,7 @@
 	- can't imagine starting a company without first thinking this through.
 - The era of American dominance. - this geopolitics is actually quite important to understand. And it's even more important to understand that America's "moat" isn't AI, or some other technology, but rather talent and its freedom to work on what they want. the free market is the moat.
 - [[cultural conditioning]]
-- Optimizing for economic growth always wins.
+- Ride the wave of economic growth.
 - Publishing schedules prevent great work.
 - [[You cannot pick and choose what grows (everything deep connected).]]
 - [[The pursuit of beauty.]]
@@ -44,8 +63,8 @@
 - praising Avi's ability to think big and why i feel we're missing more of this.
 - what i want in a co-founder.
 - it's a generalist's paradise.
-- in the long run product always wins.
-# Products
+- in the long run product always wins. (probably wrong / not entirely true).
+# products
 ## small products
 - [[A tool for writing]] *(someone else should build this. This is far from the highest leverage thing you can do. You can build a great business out of this, but.... Be careful about what you commit to! And, the consumption product is more powerful than this creation one bec. AI is far more useful when aiding with consumption, than it is with creating).
 - [[Person DB - to grow relationships with the best.]]

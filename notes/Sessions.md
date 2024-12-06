@@ -1,3 +1,3 @@
-1. Knowledge is hidden draft.
-2. College is outdated - analyze the feedback and recent developments in my own understanding of this problem, and come up with the right approach to tackling it.
-3. A vulnerable, open heart essay on mistakes I've made in the past, and what I'm going to do to overcome them moving forward - as a way to clarify my own thinking about myself, and also hoping that it could help someone somewhere.
+- reading pass of the essay. take notes (no editing right now).
+- implement changes from notes.
+- thoughts on personal tokens - how to implement them.

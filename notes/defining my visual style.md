@@ -1,0 +1,1 @@
+https://x.com/fafa818969/status/1854446615962198032 - this is quite nice. i'm a huge fan of the "visual text" approaches.

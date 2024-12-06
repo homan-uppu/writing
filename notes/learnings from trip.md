@@ -1,0 +1,1 @@
+- building strength of mind is independent of where you are.

@@ -1,0 +1,3 @@
+nope. it makes a lot of sense to have that. it's a much lower friction way to engage with reader than making them go and DM me. It's RIGHT after they're done reading, when it's fresh in their minds. capture their mind right then and there.
+
+BUT: this is something I should develop AFTER getting some feedback from my editor and it's ready to be socialized more widely. Focus on the "product" first, not on executing features for distribution.

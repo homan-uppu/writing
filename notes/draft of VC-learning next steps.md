@@ -1,0 +1,7 @@
+- thorough review of how the personal token is presented.
+- try to sharpen the "when, not if" and craft a strong conclusion that hints at what's coming next (the personal token spec).
+- footnotes
+- iterations by reading end to end.
+- read out loud.
+- socialize.
+- find an editor for feedback.

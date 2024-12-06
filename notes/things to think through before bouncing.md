@@ -1,0 +1,1 @@
+- plan for BLR - going to do monthly / going to get a place? i would recommend doing monthly to start with. can get place later.

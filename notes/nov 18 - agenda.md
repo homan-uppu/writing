@@ -1,0 +1,1 @@
+- see the essay through. that's it. see it the fuck through. ignore the environment. sharpen the mind. flex strength. make it happen.

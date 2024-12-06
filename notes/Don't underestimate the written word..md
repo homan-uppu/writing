@@ -1,4 +1,4 @@
-I know that you have this feeling that essays "don't cut it", and that you have to make videos in order to stand out or some shit.
+I know that you have this feeling that essays "don't cut it", and that you have to make videos in order to stand out or some other shit.
 
 You're severely underestimating the power and reach of the written word.
 

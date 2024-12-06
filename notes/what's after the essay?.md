@@ -1,0 +1,4 @@
+- send draft out for feedback
+- think through the need for an editor... someone to help me improve my writing, and give solid feedback on the ideas i'm going to communicate in my essays.
+- implement the "last updated" and put all the writing in its own repo.
+- start putting together the spec for the personal token.

@@ -1,0 +1,1 @@
+the act of sharing ideas with people you respect will accelerate your thinking and work in general through a subtle form of external pressure. the right amount of external pressure can be immensely helpful.

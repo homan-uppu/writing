@@ -1,0 +1,3 @@
+this environment is more than enough - provided you maintain a strong meditation, physical exercise discipline, as well as you go on regular walks to absorb the sun on the rooftop. you can certainly make this work.
+
+might feel a bit lonely, but you cannot afford to leave the room and keep socializing with fam because that's quickly pulling you down towards low productivity. you can't afford that at this stage. keep the mind focused on creating. no matter what.

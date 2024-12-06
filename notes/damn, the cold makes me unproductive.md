@@ -1,0 +1,1 @@
+when the sun comes out, and i have chai in my body, my mind is in a far better position to grind.

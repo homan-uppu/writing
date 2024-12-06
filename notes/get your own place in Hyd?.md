@@ -1,0 +1,2 @@
+- https://www.nobroker.in/property/1-rk-apartment-for-rent-in-the-studio-apartments---hyderabad-hyderabad-for-rs-25000/8a9f8e0392ccc9ef0192cced69910b79/detail?nbFr=list-rent
+- 

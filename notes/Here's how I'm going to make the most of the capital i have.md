@@ -1,0 +1,3 @@
+1. Put **$500 USD into Mercury account** - for the day to day software services expenses.
+2. Hire an editor in Hyderabad who I can meet in person once or twice a week. ($300 / month max - paying on a per essay basis - start with a one day feedback / iteration session on the current essay).
+3. patiently write scripts for the videos i want to make re. personal tokens, etc. - and likely a video for each essay i write from here on out. the visual expression is important. it will take time to achieve the level of quality that i'd be satisfied with. and i will settle for nothing less, and will persevere until i achieve that quality.

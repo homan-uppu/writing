@@ -1,0 +1,5 @@
+- detergent
+- dishwashing soap
+- groundnut oil
+- rice
+- coffee powder

@@ -1,0 +1,2 @@
+1. when the mind is fresh and can work well, focus on fleshing out the actual idea.
+2. when the mind is less capable of raw creativity, focus on the outreachDB - implementation, and adding people to it. this is the grind that is required to create the necessary opportunity.

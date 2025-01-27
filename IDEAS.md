@@ -10,6 +10,23 @@
 - [[brand]]
 
 # writing
+
+almost guaranteed hit pieces:
+- Why income share agreements (ISAs) won't work - this is a good one to dive into.
+- There's no room for "junior" roles.
+- 
+---
+- [[On solitude]] - this is important for me to think through.
+- [[unequal opportunity]]
+- On risk taking
+	- https://www.alexmurrell.co.uk/articles/the-age-of-average
+	- Surprisingly: wider distribution, ease of creating = more pressure to be average.
+- Pain is a useful signal
+	- insulating from pain also removes a critical signal that's required to learn.
+	- e.g. barefoot shoes and running form. - one of the best examples.
+	- what are good examples in the context of building products / companies?
+- https://archive.is/vt7sY - (power law distribution of countries) evidence of the power law distribution at the level of countries. this is a separate essay (that bit that used to be in the earlier drafts of vc-learning - which you can still find in the /writing vault).
+- [[Don't underestimate the written word.]]
 - on **mastering the mind**, and why this is my highest priority. Write this for yourself. No need to even share this with the world.
 - [[My mission is to enable those who advance humanity]]
 - what i'm most excited about w/ decentralize social platforms

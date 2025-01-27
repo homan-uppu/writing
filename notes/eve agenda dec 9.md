@@ -1,0 +1,4 @@
+- outreach messaging
+- build up the DB
+- get a good email client to use. (just go use Superhuman) - https://superhuman.com/
+- 

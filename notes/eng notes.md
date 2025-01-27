@@ -1,0 +1,1 @@
+1. side menu perfected. only after this is done, and you've figured out the right placement, style and functionality, can you move onto the next stuff.

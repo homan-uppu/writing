@@ -1,0 +1,1 @@
+- just keep at it. the momentum is building. focus on bringing a solid shape to this white paper. make sure to get through all the necessary details... there are a TON.

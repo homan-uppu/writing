@@ -1,1 +1,0 @@
-Results take time. Don't rush things.

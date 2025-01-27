@@ -1,20 +1,18 @@
-## main
-1. [white paper v0.1](https://karthikuppu.com/personal-token)
-2. essay: "VC will be the best way to finance learning". - review thoroughly with feedback from a few others and get to a stage at which it can be socialized widely.
-3. (karthikuppu.com)
-	1. great feedback giving experience + good way to process the feedback. (and comments ought to be tied to a particular version of the essay).
-		1. an AI style streaming message at the top mentioning that this is a draft, and that I'd greatly appreciate your feedback (directed to the reader).
-	2. last updated timestamp + link to the public repo that holds all of the writing to be able to see previous versions.
-	3. fix the image overflow issue on mobile.
-	4. beautiful presentation: ascii art for essay "cover"s. that would be absolutely dope if executed correctly.
-4. **PeopleDB** sufficiently populated with people to reach out to for feedback. ideally have around 100 people to reach out to + the outreach messaging.
-5. [[Looking for a writing editor]].
-	1. [[personal mission statement]]
+1. **A renewed commitment to the practice**. starting today. it's time to get v. v. serious about this. make the practice the foundation. - take the time to write about this. pin it. read it every single day. think this through well. you need to keep reminding yourself about just how valuable this practice is - because it's so darn difficult, making it the first thing that your mind wants to drop. You must resist that temptation. if you get the foundation right, everything else takes care of itself. absolutely.
+2. **white paper**. a complete pass through with edits.
+3. **set up outreach system and hit today's quota**. it's a numbers game.
+4. **videos**. 
+	1. transcribe my thinking process from Sat. about why create content, and what the theme of creation will be. if you still think this holds, then write a quick draft for the first video.
+
 
 ---
 
-## other
-- running low on $ in Mercury. consider setting up an LLC, and putting $5k in it - your budget for this. - hold off on this until Jan 1 so that you don't have to deal with taxes next year.
+- [[personaltoken.vc execution]]
+- personal token trademark thoughts - chat with Claude about how to protect this name "PersonalToken" - which i think is killer. (NOT YET)
 
-## more writing
-- https://archive.is/vt7sY - evidence of the power law distribution at the level of countries. this is a separate essay (that bit that used to be in the earlier drafts of vc-learning - which you can still find in the /writing vault).
+---
+
+[[ashtanga practice]]
+[[the right place to be (from first principles)]]
+[[Personal token outreach]].
+[[remembering my "why"]]

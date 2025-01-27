@@ -1,0 +1,1 @@
+-  Create a component called <Annotation></Annotation>. The text inside of it is rendered on the margin (in desktop), and rendered below it (in mobile - on toggle).

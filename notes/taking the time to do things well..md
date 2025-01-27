@@ -1,0 +1,2 @@
+- if /teammate takes some time to get right, so be it, you have no choice but to put in that effort because this is the most important piece of the puzzle.
+- 

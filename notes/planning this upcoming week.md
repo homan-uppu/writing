@@ -1,0 +1,2 @@
+- give your mind the space to wander where it wants to: either between personal tokens, or another essay. but, whatever it is, must be an act of creation. no more senseless consumption.
+- 

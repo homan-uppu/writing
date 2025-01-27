@@ -1,0 +1,3 @@
+- should the white paper live at homanuppu.com / through the domain of the actual platform? - ideally on the platform. i don't want it to be tied to just me. i want people to feel like it's a project that they can be a part of and contribute. that "feeling" is reduced when a reader consumes the white paper on my domain. presenting on the platform's domain also positions the idea as something larger than any single individual - which is very helpful.
+
+done. present on its own domain. done.

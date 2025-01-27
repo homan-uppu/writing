@@ -1,0 +1,1 @@
+follow the consequences of the power law deeply. dig deep. study. understand. give space to the great ideas to enter the mind.

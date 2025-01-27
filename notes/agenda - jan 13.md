@@ -1,0 +1,1 @@
+1. let's get through the paper. there is no greater priority at the moment. grind it out brother. grind it out. this is the path.

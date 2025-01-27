@@ -1,0 +1,2 @@
+the self poisons your efforts.
+be so absorbed in your work, in the present moment, that you don't give the self the space to show itself and control your actions. this is the practice. this is Karma yoga.

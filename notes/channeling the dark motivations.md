@@ -1,0 +1,2 @@
+e.g. the desire to bounce back, to prove the world wrong, etc.
+that's a powerful energy source if you choose to access it, but remember: it can destroy you if you're not careful. over-tapping into this energy also makes you a more spiteful, negative person in general. it has to be controlled.

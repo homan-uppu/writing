@@ -1,0 +1,1 @@
+1. **main focus is the white paper**. don't get distracted by things that don't matter right now (visual presentation, brand, site, etc.). just focus on clarifying this concept you want to bring to life: the seed of everything.

@@ -1,0 +1,1 @@
+a Network of personal tokens that enable efficient capital allocation - those who have the best ideas, the more able, will have access to the resources they need to do great work.

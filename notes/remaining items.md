@@ -1,0 +1,2 @@
+- knock out the implementation and the "notes" chapters really quickly. don't over-linger on these for now, it's best to iterate on them with feedback from great minds.
+- get to the editing ASAP. Feb 1 is my deadline to complete editing and ship it to close folks for feedback. in order to meet deadline, everything needs to "feel" done by the end this upcoming weekend (Jan 26th). the few days buffer is critical - bec. i also want to add some features to the white paper (such as "handwritten" annotations).

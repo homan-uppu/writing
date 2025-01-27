@@ -1,0 +1,1 @@
+the intro for vc-learning is incredibly weak. i need to make it much, much simpler. the key point i'm making needs to be abundantly simple and up front. from then on, add the layers of complexity that are required to sufficiently approximate the truth.

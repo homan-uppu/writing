@@ -15,4 +15,4 @@ Write.
 
 Don't stop writing. Even when you move to the visual medium, the initial step will always be to write. Don't forget that.
 
-This is also why it's so important to make your website an excellent representation of what essays can be in the age of video. Make them powerful. Flex your taste. Tell stories.
+This is also why it's so important to make your website an excellent representation of what essays can be in the age of video. Make them powerful. Flex your taste. Tell great stories.

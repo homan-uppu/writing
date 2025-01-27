@@ -1,0 +1,3 @@
+
+(can probably remove the following - it isn't the core point).
+The world is also becoming much better at financially rewarding people according to how much value they create. Throughout history, many great artists, scientists, etc. failed to generate wealth for themselves despite doing great work for the world (that was greatly valued by others). It's much rarer to find such examples today. As it becomes easier for anyone to monetize the value they create in the world, it will become easier for anyone to raise venture capital to fund their work. VC won't be restricted to mostly technology startups, but will be found in any human endeavor that can be monetized (which will be many more things than we think).

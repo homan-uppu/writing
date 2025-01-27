@@ -1,0 +1,3 @@
+my natural inclination is to just keep writing and publishing **to an audience**. i want to be able to connect with people similarly inclined as i am. i want that sense of community and belonging that i see writing as a faster path to achieve than building some product.
+
+that being said, i can't think of anything more worthwhile than bringing to life personal tokens. i want to help bring this to life. amen. but, for some reason, i'm drawn towards writing in this moment. perhaps this is because writing is my greatest strength... by far. my intuition is telling me to just write. continue to distill your feelings by writing.

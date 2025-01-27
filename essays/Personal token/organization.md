@@ -1,0 +1,11 @@
+- **What** (Intro - a short, high level overview of how personal tokens work)
+- **Why** (compelling argument for why personal tokens are required in an AI driven world)
+- **How it works** (from the perspective of a user who is both someone raising capital, as well as investing in others. think of this as the landing page copy).
+- **Preventing fraud**
+- **Implementation**
+	- Overview - one paragraph overview of all the "pieces" of the implementation (certainly far more than just the technical side of things).
+	- Sufficient decentralization is pob
+	- Legal
+	- Synchronization
+	- Technical
+- **Notes**

@@ -1,0 +1,2 @@
+- actually get through the white paper - including the visual assets.
+- do the rebrand.

@@ -1,0 +1,1 @@
+because you start to optimize for external validation. this is such a primitive, primal mechanism that's activated as soon as you start interacting with someone (online too - but more impactful when it's in person).

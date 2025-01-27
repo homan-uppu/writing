@@ -1,0 +1,5 @@
+- my mission + personal brand + daily momentum thoughts. i'm going to start publishing every single day... something small, in addition to focusing on the deeper work. this will also help with the outreach system. it's important to keep the creative juices flowing.
+- teammate (this is an incredibly important topic to think through. perhaps the most important of them all. spend today fleshing this out and publishing on my site).
+- change local GIT user name and profile and redo the repo.
+- outreach system + reach out to 50 people... this is partly a volume game. you have to hit a certain number every single day. the grind is on.
+- back to the research to actually implement personal tokens. attack this more aggressively. i want to see more substantial daily progress. create a system to build daily momentum.

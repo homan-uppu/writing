@@ -1,0 +1,5 @@
+https://en.wikipedia.org/wiki/Parker_51#/media/File:Parker51_ad_1948.jpg - old school ads were just a different beast. Love how this ad focuses on individual expression: to make your handwriting as unique as your fingerprint - that is an incredible line.
+
+https://www.fountainpennetwork.com/forum/topic/335689-vintage-lamy-2000-ads-from-1969/ - such a dope ad.
+
+i really dig the aesthetic of the L2K. the minimalism, the understated design, it looks incredible. it's kind of saying: "my flash is in my work, not in my looks"... and i vibe with that message. nothing shiny, flashy, overstated. humble, minimal, simple. designed to create and do nothing more. not a status symbol, not something that elicits envy when looked at by the average person. like a well functioning, bland colored, Tesla rather than a Lambo / Ferrari.

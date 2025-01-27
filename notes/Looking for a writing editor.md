@@ -1,3 +1,9 @@
+I'm looking to work with someone to help me improve the quality of my writing. Specifically, I'd like their help on:
+1. Feedback
+
+I'm NOT looking for basic spelling, grammar, or even sentence structure feedback, but rather higher order critical feedback on whether my words are communicating what I want them to, and my ideas are reaching my audience.
+
+### Qualifications
 - purpose
 - job description.
 - location.

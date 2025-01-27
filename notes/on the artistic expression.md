@@ -1,0 +1,1 @@
+Been watching Miyazaki's Boy and the Heron making film on Netflix, and Miya-san's process to create art is brutal. it requires "opening up the brain".

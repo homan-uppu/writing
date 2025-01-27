@@ -1,0 +1,2 @@
+- traditional approach: Google docs to get feedback from anyone.
+- custom approach: enable giving feedback on the doc without 

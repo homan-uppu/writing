@@ -1,0 +1,1 @@
+each word must vibrate with purpose.

@@ -1,0 +1,2 @@
+i'm leaning towards "building" these in code rather than via images. it becomes much easier to keep things consistent across the board and allows for far greater manipulation (e.g. replication with dummy data that AI generates, animations, etc.). overall, it's just far more powerful, so let's generate everything in code. amen.
+- and the visuals can be perfectly responsive to screen size. - this is actually a solid win. amen.

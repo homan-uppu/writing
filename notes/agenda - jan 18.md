@@ -1,0 +1,1 @@
+Work through the white paper. the completed first draft is within my reach today. grasp it with both hands. don't let it go.

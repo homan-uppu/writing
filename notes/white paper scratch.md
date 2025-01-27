@@ -1,0 +1,1 @@
+- start from the top. do a full pass through and then determine priorities.

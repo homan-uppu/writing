@@ -1,18 +1,36 @@
-1. **A renewed commitment to the practice**. starting today. it's time to get v. v. serious about this. make the practice the foundation. - take the time to write about this. pin it. read it every single day. think this through well. you need to keep reminding yourself about just how valuable this practice is - because it's so darn difficult, making it the first thing that your mind wants to drop. You must resist that temptation. if you get the foundation right, everything else takes care of itself. absolutely.
-2. **white paper**. a complete pass through with edits.
-3. **set up outreach system and hit today's quota**. it's a numbers game.
-4. **videos**. 
-	1. transcribe my thinking process from Sat. about why create content, and what the theme of creation will be. if you still think this holds, then write a quick draft for the first video.
+write a doc outlining the North Star.
 
+**socials (X, Farcaster):**
+- get an X profile for PersonalToken.
+- think deeply about the socials for homan and personal token (whether they are same at the start, etc.).
+
+outreach.
+
+### Website
+- i want a better landing page. 
+- a more banger one. 
+- one with some jazz.
+there's a lot of possibilities here, and i think it's definitely worth pursuing.
+show the hint of artistry.
+
+### Socials
+X:
+- update profile pic, bio, and banner.
+- write a concise pinned post describing personal tokens and why we will need them.
+- link to the website.
+(and in general - need to think of the brand).
+
+### Outreach infrastructure
+- chrome plugin to "save" people.
+- easy, fast, way to search and update a record.
+
+### Content
+- **Feeling is the final frontier** - on the path that AI is taking, and what the most valuable skills will be in the age of intelligence.
+	- this is actually quite important for me to think through.
+- **Why income share agreements won't work** (a good piece for pt.vc/blog - but yeah, think about the blog first before jumping into writing for it).
 
 ---
 
-- [[personaltoken.vc execution]]
-- personal token trademark thoughts - chat with Claude about how to protect this name "PersonalToken" - which i think is killer. (NOT YET)
-
----
-
-[[ashtanga practice]]
-[[the right place to be (from first principles)]]
-[[Personal token outreach]].
-[[remembering my "why"]]
+[[a renewed emphasis on the practice]]
+[[on sangha (tribe)]]
+[[how to do great work]]

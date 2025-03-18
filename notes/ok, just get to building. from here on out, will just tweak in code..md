@@ -1,0 +1,1 @@
+bec. implementing these effects is easier in code (with AI) than it is in Figma. lol.

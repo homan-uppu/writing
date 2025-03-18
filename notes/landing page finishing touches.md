@@ -1,0 +1,1 @@
+- everything looks good. just need to get it working on mobile and desktop modes (acc. to the screenwidth - which is a bit of a problem right now).

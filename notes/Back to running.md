@@ -1,7 +1,3 @@
-You live in a great city for running - especially along the Embarcadero.
-Just hit it in a sustained, repeatable way, and slowly build back up a healthy body composition.
+just stick to this exercise that comes most naturally to you. no need to mix this up / introduce something new at this stage and then do nothing. just do this, it's far better than just doing a few pushups here and there at home.
 
-( Running / weights / sprinting ) + Ashtanga.
-
-Don't skip Ashtanga.
-
+and i'm realizing that i really want to open up my lungs with all of that air. feels good.

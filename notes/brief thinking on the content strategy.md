@@ -1,0 +1,2 @@
+- there's still so much i need to think through and communicate re. how AI is changing the world. there's a lot of value i can offer through this, and i think it really fits into the "research direction" of personal tokens. everything goes hand in hand, and it's especially important to study AI and its consequences - which directly feeds into the new economic system we must create. first see what thoughts naturally arise, and then constrain it in a particular, specific direction. see the breadth and then craft the depth.
+

@@ -1,0 +1,1 @@
+stay on the computer to knock this out. but don't touch the internet whatsoever. the internet will not help you during core creative work.

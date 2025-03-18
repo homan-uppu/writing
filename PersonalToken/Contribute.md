@@ -1,0 +1,4 @@
+- a strongly worded message about the kind of team that we're going to build, and the kind of people that i'm looking to work with.
+- co-founder only team (positioning ourselves to take full advantage of rapid advancements in AI).
+- brief description of the magnitude of the problems we'll face.
+- why this will be one of the most important pieces of infrastructure in the age of AI. personal tokens are required. whether we are the ones who will end up building and scaling this infrastructure for the world remains to be seen.

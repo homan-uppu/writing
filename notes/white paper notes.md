@@ -1,0 +1,2 @@
+- trust is in reliability, predictability.
+- talk about the decentralized implementation notes in the "implementation" chapter. make it crystal clear to a technically minded person how this will be implemented, and explanations for design decisions.

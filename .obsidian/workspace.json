@@ -4,53 +4,66 @@
     "type": "split",
     "children": [
       {
-        "id": "099722c3ff356814",
+        "id": "2cffef93d75cc59f",
         "type": "tabs",
         "children": [
           {
-            "id": "30db37b57f42071f",
+            "id": "9e71ada2f989f33e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/renewed commitment to the practice.md",
+                "file": "manifesto/draft v0.1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "renewed commitment to the practice"
+              "title": "draft v0.1"
             }
           },
           {
-            "id": "f1d8ac956ee1f016",
+            "id": "063059068afc3815",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/it's an uphill battle.md",
+                "file": "manifesto/notes v0.1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "it's an uphill battle"
+              "title": "notes v0.1"
             }
           },
           {
-            "id": "f7d6cbb001526ec2",
+            "id": "81e2723518312061",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/the overarching mission.md",
+                "file": "notes/the system that will produce the work.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "the overarching mission"
+              "title": "the system that will produce the work"
+            }
+          },
+          {
+            "id": "c1640ff94e9e396e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "manifesto/notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "notes"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -168,10 +182,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Personal token outreach.md"
+                "file": "manifesto/draft v0.1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Personal token outreach"
+              "title": "Outline of draft v0.1"
             }
           },
           {
@@ -193,8 +210,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5,
-    "collapsed": true
+    "width": 278.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,44 +222,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f1d8ac956ee1f016",
+  "active": "9e71ada2f989f33e",
   "lastOpenFiles": [
-    "notes/renewed commitment to the practice.md",
-    "notes/it's an uphill battle.md",
-    "notes/the overarching mission.md",
-    "notes/agenda - jan 27.md",
-    "PHASE GOALS.md",
+    "manifesto/notes v0.1.md",
+    "manifesto/draft v0.1.md",
+    "notes/the system that will produce the work.md",
+    "manifesto/notes.md",
+    "notes/seek truth. brutal honesty. don't hold back. no timeline..md",
+    "notes/do the first draft in a very guarded way.md",
+    "manifesto/on GTM.md",
+    "manifesto/themes.md",
+    "notes/i need to be alone to write this..md",
+    "notes/that fear you feel about whether this makes sense or will work is an incredibly positive signal. treat it as such..md",
+    "notes/agenda - march 18.md",
+    "manifesto",
+    "notes/agenda - march 17.md",
+    "notes/how to do great work.md",
+    "notes/elevate your game.md",
+    "notes/straight-shot approach.md",
+    "notes/don't overdo getting feedback. trust your instincts as well..md",
+    "notes/don't over-game things.md",
     "ACTIVE.md",
-    "IDEAS.md",
-    "PEOPLE.md",
-    "RESEARCH.md",
-    "notes/Untitled 146.md",
-    "notes/Personal token outreach.md",
-    "notes/messaging.md",
-    "notes/agenda - jan 25.md",
-    "notes/Getting ready to ship.md",
-    "notes/agenda - jan 24.md",
-    "notes/notes on review.md",
-    "notes/white paper annotations.md",
-    "notes/Don't compare. Life is a single player game..md",
-    "notes/fountain pen love.md",
-    "notes/damn, falling deep into the rabbit hole..md",
-    "notes/Untitled 145.md",
-    "essays/Personal token/intro.md",
-    "notes/Untitled 144.md",
-    "notes/privacy.md",
-    "notes/fountain pen.md",
-    "notes/where to talk about privacy?.md",
-    "reading",
+    "notes/creating the system to produce the straight-shot manifesto + film..md",
+    "notes/timeline to SFO.md",
+    "notes/push meeting with Saathwik (maybe)... or, actually go for a quick meeting..md",
+    "PersonalToken/outreach/PEOPLE.md",
+    "notes/the plan mtfkrs.md",
+    "notes/agenda - march 16.md",
+    "notes/Untitled 174.md",
+    "PersonalToken/outreach/X message template.md",
+    "videos",
+    "brand",
+    "PersonalToken/research",
+    "PersonalToken/outreach",
+    "PersonalToken",
+    "essays/video",
+    "inputs/reading",
     "inputs/writing/paul-graham-essays.pdf",
     "notes/Untitled",
-    "essays/Untitled",
-    "essays/teammate",
-    "essays/Personal token/Untitled",
-    "essays/Personal token",
-    "inputs/yoga/Gregor-Maehle-Ashtanga-Yoga-Practice-and-Philosophy-.pdf",
-    "inputs/yoga/Ashtanga-Yoga.pdf",
-    "inputs/yoga",
     "inputs/Screenshot 2024-05-16 at 9.00.30 AM.png",
     "notes/Untitled.canvas",
     "Screenshot 2024-10-21 at 8.11.15 AM.png",

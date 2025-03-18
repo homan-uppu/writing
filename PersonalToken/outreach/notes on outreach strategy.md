@@ -1,0 +1,1 @@
+- only very ambitious, forward thinking, individuals will even be open to considering investing through personal tokens. you must find them.

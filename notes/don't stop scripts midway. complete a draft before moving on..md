@@ -1,0 +1,1 @@
+as Kurosawa-san emphasized: the discipline to see scripts though (and anything in general) is very important.

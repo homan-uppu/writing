@@ -1,0 +1,1 @@
+build the content momentum. hone the storytelling craft. be patient. you need your own voice, your own platform, before you can take this idea to the world. be patient. build this muscle rn. amen.

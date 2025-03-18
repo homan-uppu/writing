@@ -7,7 +7,7 @@
 
 ---
 # brand
-- [[brand]]
+- [[notes/brand]]
 
 # writing
 

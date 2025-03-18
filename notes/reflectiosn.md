@@ -1,0 +1,2 @@
+1. the practice isn't a "nice-to-have", it's a necessity - as important as training is for a Samurai on the battlefield. must achieve the 6 hours a day. that is the absolute bare minimum you must strike from here on out.
+2. the busiest people still have time to reply. reach out to them! the time is right: you have a good enough foundation.

@@ -1,0 +1,12 @@
+- We are Nature's experiments.
+- the goal: eliminate oppression. define oppression clearly, succinctly.
+- spectrum of oppression: external -> internal.
+	- show what these look like at both ends of the spectrum and in between as well.
+- ways to detect oppression:
+	- any semblance of equal outcomes (the middle class). any step function in outcomes signals oppression.
+	- any group of individuals doing similar kinds of work signals oppression.
+	- collectivism is oppressive.
+- on AI:
+	- makes each individual more powerful than ever before.
+	- AI & Ambition go hand in hand. AI enables more natural ambition.
+- 

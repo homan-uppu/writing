@@ -1,0 +1,1 @@
+get through the story beats. that's all that matters right now. there's no need to even sleep lol. just knock this out. and yes - just stick to the laptop and get it done. amen.

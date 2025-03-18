@@ -1,0 +1,4 @@
+- sit more.
+- craft a GTM that will work.
+- keep outreaching
+- 

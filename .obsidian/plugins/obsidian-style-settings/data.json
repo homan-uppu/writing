@@ -2,7 +2,6 @@
   "Editor@@line-height-customize": 1.8,
   "Editor@@border-focus-mode": false,
   "minimal-style@@h3-size": "1.25rem",
-  "minimal-style@@italic-color@@light": "#A8A8BB",
   "minimal-style@@h3-color@@light": "#000000",
   "minimal-style@@h2-l": false,
   "minimal-style@@h3-l": false,
@@ -18,5 +17,6 @@
   "minimal-style@@h1-l": true,
   "minimal-style@@h1-color@@light": "#000000",
   "minimal-style@@h4-size": "1em",
-  "minimal-style@@h4-weight": 600
+  "minimal-style@@h4-weight": 600,
+  "minimal-style@@italic-color@@light": "#F33434"
 }

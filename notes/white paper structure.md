@@ -1,0 +1,19 @@
+
+- intro
+- how it works
+- implementation
+	- goal
+	- sufficient decentralization
+	- reputation
+	- admission
+	- synchronization
+	- access
+	- legal
+	- culture
+- governance
+	- network token (aligning incentives)
+	- core team
+	- promoting competition
+- notes
+	- Q&A
+	- 

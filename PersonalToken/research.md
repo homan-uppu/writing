@@ -1,0 +1,1 @@
+https://www.philosophicaleconomics.com/ - feels like a valuable read to get into some more classical economics stuff that will likely be relevant for personal tokens.

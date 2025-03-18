@@ -1,0 +1,1 @@
+- write your focus for the work. the personal token direction, and all of your creative endeavors are in unison. they are attempting to strike at the same thing. write that thing down so that you have greater clarity.

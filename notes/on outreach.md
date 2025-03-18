@@ -1,0 +1,4 @@
+- first and foremost, i want a PeopleDB. i want a single place where i can keep track of:
+	- people to reach out to for personal tokens.
+	- talent to work with to bring ideas to life (any kind of ideas).
+	- 

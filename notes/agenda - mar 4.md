@@ -1,0 +1,2 @@
+- keep exploring the landing page. there's a simple, yet powerful, representation of this concept. find it.
+- implement the landing page.

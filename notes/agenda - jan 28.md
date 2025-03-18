@@ -1,0 +1,1 @@
+- condensed, efficient version of the white paper. knock this out quickly while the mind is sharp.

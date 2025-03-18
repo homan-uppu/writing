@@ -1,0 +1,6 @@
+- these videos are <= 1min long, that will exclusively be posted on X (@homanafterall).
+- focus on your **own dialogue delivery** (speaking while looking into the camera) without over-relying on special effects / clips, etc. this is important training for your future speeches in which you must move large groups of people. that is a hidden talent that i must hone from now onwards.
+	- rely on rhythm, modulation, eye contact, facial expressions, and music to move people without relying on special effects, etc. focus on the timeless, not on trends that will look dated in a few years (if not sooner).
+- give yourself as much time and space to make your first couple of videos great. don't compromise on quality. one excellent video >>> dozens of mediocre ones.
+- don't stop scripts midway. complete a draft before moving on. as Kurosawa-san emphasized: the discipline to see scripts though (and anything in general) is very important.
+	- it's OK if the script is average and you don't want to turn it into a video!!! that's perfectly fine. but, still, complete it to the best of your abilities. and don't move on to the next script until one is complete.

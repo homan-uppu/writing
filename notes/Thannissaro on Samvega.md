@@ -1,0 +1,1 @@
+https://www.accesstoinsight.org/lib/authors/thanissaro/affirming.html - this is an incredible essay. shows how threatening the path can be to the mainstream who will do all they can to squash the motivation right out of a person's mind. damn.

@@ -1,0 +1,16 @@
+As AI becomes more powerful, and the world becomes more extreme, with less room for the average, legacy education institutions (and by extension ANY program that charges students money to teach) will fail because:
+
+1. They can’t attract / retain teachers who are competent enough to meaningfully impact a student’s outcomes - as the value of such a teaching skill will become astronomically high.
+2. They will not adapt to changing needs quickly enough because they don’t have direct skin in the game: they continue to generate revenue from students even if they fail to create value.
+
+Eventually, the power of their credentials will deteriorate as reality catches up and the world sees that their credential is no longer a valuable signal that signals competence.
+
+(a personal rant - figure out where and how to include):
+
+It pains me as I've come to the realization that the world will be slow to adapt to these changes. Everywhere around me I see young people falling into traps that will be hard to climb out of. A family selling their home to pay for their child's college tuition that I know will be near-useless. Many young people persuaded to learn skills in ways that will be useless - by those who thrived in a pre-AI world in which such skills may have been useful, but are now worthless. It fucking hurts. They're going to feel a world of pain. And it hurts me more that there are people with incredible potentials that will wither away - broken down by an education system that simply no longer works in today's world.
+
+Colleges routinely pass up great talents due to an admissions team that has absolutely no skin in the game, who care more about optics than actual potential that can change the world, completely insulated from the market such that they've formed irrational, incomprehensibly outrageous admissions criteria. There are so [many](https://x.com/allgarbled/status/1907430185827471858) [cases](https://x.com/deedydas/status/1906898551273337209) that make my blood boil where gems of individuals are passed up for the dumbest of reasons.
+
+If such individuals could raise capital through personal tokens, they would have some of the greatest minds backing them, yet they are unfortunately optimizing to be recognized by outdated, legacy institutions that can no longer train them to thrive in the world.
+
+In my eyes, not watering a seed that has the potential to grow into a tree that provides shade and nourishment to many is as much of a sin as chopping one down. Legacy education is incredibly oppressive - especially for those with the greatest potential to change the world for the better.

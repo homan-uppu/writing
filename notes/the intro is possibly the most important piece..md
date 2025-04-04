@@ -1,0 +1,1 @@
+it sets the foundation. it sets the expectation. it helps you understand what the stakes are.

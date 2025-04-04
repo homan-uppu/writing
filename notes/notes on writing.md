@@ -1,0 +1,2 @@
+- the intro section is the most important. it sets the foundation. it sets the expectation. it helps the reader understand what the stakes are - i.e. why this is the most important thing to think about, and why there will be a catastrophe if we don't get this right (whatever "this" you're talking about).
+- 

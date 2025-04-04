@@ -1,0 +1,1 @@
+in this first session getting back to the essay, just give yourself space to allow whatever it is to naturally come to the surface. after this, start to bring some focus to the expression.

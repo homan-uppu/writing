@@ -1,0 +1,5 @@
+https://x.com/StartupArchive_/status/1903840913333661848
+
+Sam Altman on the Paul Graham advice that not enough founders take to heart “One of the things that Paul Graham used to say that I think never became venerated advice to the degree it should have is this idea that you should try to be relentlessly resourceful. Surprisingly often, if you just keep looking for new attack vectors on a problem in front of you, you can figure it out. And I think this is one of the most important skills in life… it works in almost all scenarios.” Sam recalls trying to get a deal done with a mobile operator that risked killing his first startup when he was 19 years old: “They didn’t really work with startups or technology companies in general, and we probably tried 30 different paths into this company…. [Then] the key decision maker said, I’m finally going to meet with you because I want you to stop bothering us.” He continues: “You can just keep doing that until something works. And I think most people — at the first ignored email or at least the second — would just stop.”
+
+https://x.com/StartupArchive_/status/1903840913333661848 - a powerful lesson.

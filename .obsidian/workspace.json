@@ -4,63 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2cffef93d75cc59f",
+        "id": "0012a71e24ff7008",
         "type": "tabs",
         "children": [
           {
-            "id": "9e71ada2f989f33e",
+            "id": "85f4ce68c2c00e5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "manifesto/draft v0.1.md",
+                "file": "writing/education-agi/draft.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "draft v0.1"
-            }
-          },
-          {
-            "id": "063059068afc3815",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "manifesto/notes v0.1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "notes v0.1"
-            }
-          },
-          {
-            "id": "81e2723518312061",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/the system that will produce the work.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "the system that will produce the work"
-            }
-          },
-          {
-            "id": "c1640ff94e9e396e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "manifesto/notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "notes"
+              "title": "draft"
             }
           }
         ]
@@ -182,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "manifesto/draft v0.1.md",
+                "file": "notes/how to actually get this idea to the world?.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of draft v0.1"
+              "title": "Outline of how to actually get this idea to the world?"
             }
           },
           {
@@ -210,7 +168,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 278.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,44 +181,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9e71ada2f989f33e",
+  "active": "85f4ce68c2c00e5b",
   "lastOpenFiles": [
-    "manifesto/notes v0.1.md",
-    "manifesto/draft v0.1.md",
-    "notes/the system that will produce the work.md",
-    "manifesto/notes.md",
-    "notes/seek truth. brutal honesty. don't hold back. no timeline..md",
-    "notes/do the first draft in a very guarded way.md",
-    "manifesto/on GTM.md",
-    "manifesto/themes.md",
-    "notes/i need to be alone to write this..md",
-    "notes/that fear you feel about whether this makes sense or will work is an incredibly positive signal. treat it as such..md",
-    "notes/agenda - march 18.md",
-    "manifesto",
-    "notes/agenda - march 17.md",
-    "notes/how to do great work.md",
-    "notes/elevate your game.md",
-    "notes/straight-shot approach.md",
-    "notes/don't overdo getting feedback. trust your instincts as well..md",
-    "notes/don't over-game things.md",
-    "ACTIVE.md",
-    "notes/creating the system to produce the straight-shot manifesto + film..md",
-    "notes/timeline to SFO.md",
-    "notes/push meeting with Saathwik (maybe)... or, actually go for a quick meeting..md",
-    "PersonalToken/outreach/PEOPLE.md",
-    "notes/the plan mtfkrs.md",
-    "notes/agenda - march 16.md",
-    "notes/Untitled 174.md",
-    "PersonalToken/outreach/X message template.md",
+    "writing/education-agi/outreach messaging.md",
+    "writing/education-agi/draft.md",
+    "writing/education-agi/dump.md",
+    "writing/education-agi/outline.md",
+    "writing/education-agi/draft 1 (education in a post-AGI world).md",
+    "writing/education-agi/How AI changes our economy.md",
+    "writing/education-agi/draft.md",
+    "writing/education-agi/draft 1.md",
+    "notes/a draft.md",
+    "notes/temp (education in post-AI world).md",
+    "notes/The fall of traditional education.md",
+    "notes/fall of traditional education - final.md",
+    "writing/education-agi/Education's business model is destroyed.md",
+    "notes/guilt.md",
+    "notes/A new education system.md",
+    "notes/There's an important para to add in differentiation.md",
+    "notes/Untitled 177.md",
+    "notes/cost of education will skyrocket - final.md",
+    "notes/what the economy wants.md",
+    "notes/cost of education will skyrocket.md",
+    "notes/a missing piece in describing what the economy wants.md",
+    "notes/outlining the essay.md",
+    "notes/Education outcomes for a post-AI world.md",
+    "notes/sense of drama.md",
+    "notes/a slow, steady, grind.md",
+    "writing/education-agi/Intro.md",
+    "writing/education-agi",
+    "writing/manifesto/companions",
+    "writing/manifesto/draft",
+    "writing/manifesto",
     "videos",
     "brand",
     "PersonalToken/research",
     "PersonalToken/outreach",
     "PersonalToken",
-    "essays/video",
-    "inputs/reading",
-    "inputs/writing/paul-graham-essays.pdf",
-    "notes/Untitled",
+    "writing/video",
     "inputs/Screenshot 2024-05-16 at 9.00.30 AM.png",
     "notes/Untitled.canvas",
     "Screenshot 2024-10-21 at 8.11.15 AM.png",

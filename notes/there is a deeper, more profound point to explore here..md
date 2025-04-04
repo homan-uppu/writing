@@ -1,0 +1,1 @@
+absolutely. a more fundamental take on the purpose of life itself: a fight against oppression. to get out of Nature's way, to allow it to run the experiments that it wants.

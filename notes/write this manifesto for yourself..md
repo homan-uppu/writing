@@ -1,0 +1,1 @@
+- remember, if you follow the truth (Dharma), you can rest assured that this will be a timeless piece. there is nothing to worry about at all. amen.

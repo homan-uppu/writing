@@ -1,0 +1,41 @@
+- intro: what this is about.
+- natural expression
+	- what is natural expression?
+	- two components: direction and intensity.
+	- natural expression is a function of the individual and external factors.a
+- oppression
+	- what is oppression
+	- external oppression
+		- extreme cases: slavery, poverty, debt traps.
+	- internal oppression
+		- (the line between external and internal can be blurry).
+	- our mission is to eliminate oppression.
+- how to eliminate oppression
+	- to eliminate external oppression:
+		- technology (leverage)
+		- human rights
+		- free markets
+		- economic growth
+		- artistic expression
+		- these factors go hand in hand: they are actually one and the same.
+			- e.g. many people believe slavery ended because of some kind of moral evolution. that evolution would not have happened without sufficient economic growth. this is why slavery ended at different periods around the world - proportional to the degree of economic growth in that region.
+			- individual freedoms improve as economy grows because the system wants to have more players who can create value. oppression is bad for economic growth.
+		- anyone contributing to any of these is helping tackle oppression.
+	- to eliminate internal oppression:
+		- this is each individual's battle that no one else can fight for them. each of us must overcome our outdated conditioning, and take responsibility for our failures.
+		- if we succeed in helping eliminate external oppression, then the only kind of oppression that will remain is internal oppression. and that is the best we can do.
+- AI
+	- AI is a powerful forcing function for natural expression
+	- but, on our existing economic system, AI will be oppressive.
+	- the power law
+	- people without wealth are royally screwed.
+- a new economic system
+	- personal tokens
+	- the problem with education isn't the curriculum, but the business model itself.
+	- universal basic income. - this is required, for those who won't be able to raise capital in time. personal tokens are the right vehicle for UBI.
+- the organization
+	- designing the right organization is just as important as understanding the problem and having the right approach to tackling it.
+	- incentives:
+		- 4 year vesting + 1 year cliff is laughably unambitious.
+	- work in person in San Francisco
+- concluding thoughts

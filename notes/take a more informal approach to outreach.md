@@ -1,4 +1,4 @@
-- just manage a list in markdown ([[PersonalToken/outreach/PEOPLE|PEOPLE]]).
+- just manage a list in markdown ([[OUTREACH|OUTREACH]]).
 - add to it in bullet points.
 - move from todo -> done. and that's it.
 

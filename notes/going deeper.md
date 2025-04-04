@@ -1,0 +1,2 @@
+- personal tokens do make sense. the world will adopt them. the unknown is simply in the path this idea will take to penetrate the world, and its timeline. all i can do is listen and allow the idea to flow through me.
+- the mind must be well collected & concentrated to be able to see the path. this essay is to help illuminate an important milestone on the path. clarity is necessary to manifest it.

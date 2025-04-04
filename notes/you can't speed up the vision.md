@@ -1,0 +1,3 @@
+take the time to craft this exceptionally well. quality above everything. one incredible essay will open all of the doors that you need to open. amen.
+
+take the time to craf thtis well. don't feel pressured into prematurely shipping a mediocre essay. it must be absolutley incredible. and giv eit t e time and space it needs. the thing is, the slow and right method is faster than the hurried method for things like this. once you have the vision in place, that's when it's time to go absolutely ham .Like, more HAM than you think you should. amen.

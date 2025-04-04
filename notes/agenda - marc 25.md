@@ -1,0 +1,3 @@
+ok, i don't feel the greatest. analyze why, and attack it.
+make the call on whether it makes sense to continue here, as you're doing. i don't see much progress tbh to somehow justify this system as working. hmm...
+

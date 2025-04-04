@@ -1,0 +1,3 @@
+this must be the best essay you have ever written and it must articulate your vision of the future exceptionally well - such that it should even inspire competition. this is the quality of writing that you must aim for. tell the best story you have ever told.
+
+don't even think beyond this... that's like moving your hands to run out before you've even gathered the ball. have the patience to first gather the ball. amen.

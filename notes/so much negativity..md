@@ -1,0 +1,1 @@
+she oozes so much negativity. so much hatred towards certain people. it's incredibly off putting. not just off putting, but i just don't want that kind of energy in my life. i mean it.

@@ -1,0 +1,1 @@
+focus intensely on fleshing out the thinking. once you have the thinking, THEN focus on the presentation angle.

@@ -1,0 +1,1 @@
+Because the mechanism of free markets is the most direct mimicking of Nature's process. It's the fire in which everything else is an offering.

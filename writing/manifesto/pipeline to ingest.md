@@ -1,0 +1,12 @@
+*just put down thoughts as they come that is anyway related to this manifesto. will decide later whether it should be included and if so, how to incorporate them. don't hold back.*
+
+- having faith in nature. having faith in our collective natural expressions. faith is such an important factor.
+- progress comes from growth. we must innovate our way through our challenges. going the opposite way is degression through oppression.
+- the incentives show the way. it's still up to the individual to walk the path, through all the trials and tribulations, enduring all the pain and sacrifices required to bring something great into the world.
+- we can think of the collective as just another individual: in the same way our various thoughts, tendencies, conditionings, fears oppress us, the same happens at the collective level. we are our worst enemies. we hold ourselves back far more than the universe does. we've been given an abundance of everything we need: energy and resources are abundant in the universe. we simply lack the ability to extract what we need. that skill comes from unleashing our collective natural expression.
+- every human expression is inter-connected.
+- for those who can tap into their natural expressions, AI is the friend that pushes you to take on more responsibility, to aim bigger, to do more with your Nature given talents. For those who cannot find their natural expressions, AI will almost certainly make it difficult for them to contribute anything meaningful to the larger collective. (get rid of the "for those who cannot" - focus on the positive side of things).
+- you must have a thick skin. you must be prepared to be hated by many. our allegiance is to those centuries from now. they ought to be grateful for the work that we do. that is all that matters.
+	- i'm confident that our mission, and our path, is aligned with the truth about what the world actually wants, whether they realize it or not.
+- frame the "intensity" component of natural expression as ambition. that's the right word to use. there's definitely a discussion here about ambition that i think is worthwhile to get into sufficiently well - because it's one of the major sources of oppression.
+- the greatest truths lie at the fringes of our collective consciousness. democracy / majority opinion dictating what we do is the worst strategy.

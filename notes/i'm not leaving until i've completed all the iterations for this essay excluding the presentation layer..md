@@ -1,0 +1,1 @@
+the final presentation layer i'm ok doing that once i get back? but why? why can't you just do that from here as well? you have all the tools you need. the internet is moret than fast enough.

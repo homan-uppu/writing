@@ -1,0 +1,1 @@
+have the patience to work through the essay till it's complete! there's no other way to handle it. there are no "shortcuts". grind it out brother. grind it the fuck out.
